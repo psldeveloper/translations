@@ -258,7 +258,7 @@ msgstr "Kes"
 
 #: .\options\mainoption.cpp
 msgid "[UserOption]Dark Mode"
-msgstr ""
+msgstr "Karanlık Mod"
 
 #: .\documents\documentversions.cpp
 msgid "[Documents]Date"
@@ -398,7 +398,7 @@ msgstr "Yedeği açmak istiyormusunuz?"
 
 #: .\presets\presetmanager.cpp
 msgid "[Presets]Do you want to remove all plug-in settings and perform a full rescan next time you start $APPNAME?"
-msgstr ""
+msgstr "Tüm plug-in ayarlarını kaldırıp $APPNAME'i tekrar çalıştırdığınızta tam bir yeniden tarama başlatılsınmı ?"
 
 #: .\documents\documentmanager.cpp
 msgid "[Documents]Do you want to remove the reference to it from the Recent list?"
@@ -651,7 +651,7 @@ msgstr "$APPNAME i tekrar çalıştırdığınızda dil seçiminiz güncellenece
 
 #: .\options\mainoption.cpp
 msgid "[UserOption]Light Mode"
-msgstr ""
+msgstr "Aydınlık Mod"
 
 #: .\options\mainoption.cpp
 msgid "[KnobMode]Linear"
@@ -956,7 +956,7 @@ msgstr "Çıkartılabilir sürücü"
 
 #: .\presets\presetmanager.cpp
 msgid "[Command]Remove Plug-In Settings"
-msgstr ""
+msgstr "Plıg-In ayarlarını kaldır"
 
 #: .\datastore\tagstorecomponent.cpp
 msgid "[TagStore]Remove Tag"

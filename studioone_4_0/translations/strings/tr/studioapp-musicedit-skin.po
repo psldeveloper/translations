@@ -217,14 +217,11 @@ msgid "[StretchDialog]Double Tempo"
 msgstr "Çift Kat Tempo"
 
 #: .\skin.xml
-msgid ""
-"[LengthDialog]Enlarge event length until it overlaps with the next event"
+msgid "[LengthDialog]Enlarge event length until it overlaps with the next event"
 msgstr "Kliplerin uzunluğunu bir sonraki klip ile çakışana dek uzat"
 
 #: .\skin.xml
-msgid ""
-"[LengthDialog]Enlarge or reduce event length until it aligns with the next "
-"event"
+msgid "[LengthDialog]Enlarge or reduce event length until it aligns with the next event"
 msgstr "Kliplerin uzunluğunu bir sonraki klipe dek uzat veya kısalt"
 
 #: .\skin.xml
@@ -449,7 +446,7 @@ msgstr "Eşleşen notaları seç"
 
 #: .\skin.xml
 msgid "[SelectDialog]Select muted notes"
-msgstr ""
+msgstr "Sessize alınmış notaları seç"
 
 #: .\skin.xml
 msgid "[SelectDialog]Select range..."
@@ -622,3 +619,4 @@ msgstr "Hız"
 #: .\skin.xml
 msgid "[FillWithNotesDialog]Velocity"
 msgstr "Hız"
+

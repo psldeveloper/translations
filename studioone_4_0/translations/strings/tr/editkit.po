@@ -796,11 +796,11 @@ msgstr "Hassas Yaklaştırma (Zoom In)"
 
 #: .\timeedit\timelinecomponent.cpp
 msgid "[Command]Zoom In Vertical"
-msgstr "Dikey yaklaştır"
+msgstr "Yatay Yaklaştırma"
 
 #: .\timeedit\timelinecomponent.cpp
 msgid "[Command]Zoom In Vertical Fine"
-msgstr ""
+msgstr "Hassas Yatay Yaklaştırma"
 
 #: .\timeedit\timelinecomponent.cpp
 msgid "[Command]Zoom Out"
@@ -816,7 +816,7 @@ msgstr "Dikey uzaklaştır"
 
 #: .\timeedit\timelinecomponent.cpp
 msgid "[Command]Zoom Out Vertical Fine"
-msgstr ""
+msgstr "Hassas Yatay Uzaklaştırma"
 
 #: .\timeedit\timelinecomponent.cpp
 msgid "[Command]Zoom to Loop"
@@ -847,3 +847,4 @@ msgstr "Seçimi yatay olarak Zoom'la"
 
 #~ msgid "[Quantize]Septole"
 #~ msgstr "Septole"
+

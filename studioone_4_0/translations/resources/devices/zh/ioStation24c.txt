@@ -1,0 +1,1 @@
+在使用Studio One之前请将ioStation 24c调整至原始模式。

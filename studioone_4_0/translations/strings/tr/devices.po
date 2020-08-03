@@ -226,7 +226,7 @@ msgstr "%(3) ün üzerinde \"%(1)\" i %(2) ye ata"
 
 #: .\surfaces\editor\mappinghandler.cpp
 msgid "[MappingHandler]Assign \"%(1)\" to %(2) on %(3) page %(4)"
-msgstr ""
+msgstr "%(4). sayfadaki  %(3) ün üzerinde \"%(1)\" i %(2) ye ata"
 
 #: .\macrocontrol\macrocontrolsetup.cpp
 msgid "[MacroControlSetup]Assign %(1) to %(2)"
@@ -557,7 +557,7 @@ msgstr "Açıklama"
 
 #: .\audiomixer\cuemix\cuemixfolder.cpp
 msgid "[CueMixSlot]Destination"
-msgstr ""
+msgstr "Hedef"
 
 #: .\music\musicdevicemanager.cpp
 msgid "[MusicDevices]Detected Device %(1)"

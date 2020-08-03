@@ -1,1 +1,2 @@
-请将您的VirusTI设置为遥控模式 (SHIFT + CONFIG)，而后使用默认的模板设置.
+请将您的VirusTI设置为遥控模式 (SHIFT + CONFIG)，而后使用默认的模板设置。
+

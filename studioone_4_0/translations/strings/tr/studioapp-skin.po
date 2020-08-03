@@ -10,7 +10,7 @@ msgstr "#9"
 
 #: .\ccl\browser.xml
 msgid "[BrowserHomeContent]$APPCOMPANY Exchange and other services"
-msgstr ""
+msgstr "$APPCOMPANY Exchange ve diğer servisler"
 
 #: .\app\licenser.xml
 msgid "[UserLicenseExpired]$APPCOMPANY Forum"
@@ -862,7 +862,7 @@ msgstr "3 veya daha fazla enstrüman için note klip bölücü eklenebilir"
 
 #: .\app\windowclasses.xml
 msgid "[PackageManager]$APPNAME Packages"
-msgstr ""
+msgstr "$APPNAME Paketleri"
 
 #: .\app\homepage.xml
 msgid "[Command]About"
@@ -3174,7 +3174,7 @@ msgstr "Tür"
 
 #: .\ccl\browser.xml
 msgid "[BrowserHomeContent]Get add-ons from $APPCOMPANY Shop"
-msgstr ""
+msgstr "$APPCOMPANY Mağazasından eklent al"
 
 #: .\engine\song.xml
 msgid "[TrackList]Global Mute @cmd[Console|Global Mute]"
@@ -3890,7 +3890,7 @@ msgstr "Yükle"
 
 #: .\engine\editor.xml
 msgid "[PatternInspector]Load Pattern Preset"
-msgstr ""
+msgstr "Kalıp preseti yükle"
 
 #: .\ccl\common.xml
 msgid "[ColorSchemePresetOption]Load Preset"
@@ -5450,11 +5450,11 @@ msgstr "Katmanı Kaldır"
 
 #: .\ccl\pluginmanager.xml
 msgid "[PlugInManager]Remove Plug-In Settings"
-msgstr ""
+msgstr "Plug-In Ayarlarını Kaldır"
 
 #: .\ccl\pluginmanager.xml
 msgid "[Command]Remove Plug-In Settings"
-msgstr ""
+msgstr "Plug-In Ayarlarını Kaldır"
 
 #: .\devices\devices.xml
 msgid "[MacroControlSetup]Remove Targets"
@@ -5958,7 +5958,7 @@ msgstr "Meta Bilgi Kurulumu"
 
 #: .\ccl\extensionmanager.xml
 msgid "[ExtensionManager.FilterTabs]Shared Extensions"
-msgstr ""
+msgstr "Paylaşılan Genişletmeler"
 
 #: .\engine\editor.xml
 msgid "[Command]Shift Lane"
@@ -5966,11 +5966,11 @@ msgstr "Şeridi Değiştir"
 
 #: .\app\windowclasses.xml
 msgid "[Command]Shop"
-msgstr ""
+msgstr "Mağaza"
 
 #: .\ccl\browser.xml
 msgid "[BrowserHomeContent]Shop"
-msgstr ""
+msgstr "Mağaza"
 
 #: .\project\analyser.xml
 msgid "[EBUDetailValues]Short-Term"
@@ -6018,7 +6018,7 @@ msgstr "Dosyaları Göster"
 
 #: .\ccl\browser.xml
 msgid "[BrowserListView]Show Gallery"
-msgstr ""
+msgstr "Galeriyi Göster"
 
 #: .\app\windowclasses.xml
 msgid "[Command]Show Groups (Channel List)"
@@ -6046,7 +6046,7 @@ msgstr "Enstrümanları ve Nota FX'leri göster"
 
 #: .\ccl\browser.xml
 msgid "[BrowserListView]Show List"
-msgstr ""
+msgstr "Listeyi Göster"
 
 #: .\ccl\browser.xml
 msgid "[Command]Show Loops"
@@ -6098,7 +6098,7 @@ msgstr "RMS'i K-System 20 ölçeğinde Göster"
 
 #: .\ccl\browser.xml
 msgid "[Command]Show Shop"
-msgstr ""
+msgstr "Mağazayı Göster"
 
 #: .\app\toolbar.xml
 msgid "[Command]Show Song"
@@ -6514,11 +6514,11 @@ msgstr "İşarette Dur"
 
 #: .\engine\editor.xml
 msgid "[PatternInspector]Store"
-msgstr ""
+msgstr "Mağaza"
 
 #: .\engine\editor.xml
 msgid "[PatternInspector]Store Pattern Preset"
-msgstr ""
+msgstr "Mağaza Kalıp Preset"
 
 #: .\ccl\common.xml
 msgid "[ColorSchemePresetOption]Store Preset"
@@ -6886,7 +6886,7 @@ msgstr "İz Yüksekliğini Değiştir"
 
 #: .\ccl\browser.xml
 msgid "[BrowserViewModeButtons]Toggle Tree Mode"
-msgstr ""
+msgstr "Ağaç Modunu Aç/Kapa"
 
 #: .\devices\transport.xml
 msgid "[PerformanceMonitor.Cache]Total"

@@ -346,7 +346,7 @@ msgstr "Notion'a Yolla"
 
 #: .\sidebar.cpp
 msgid "[Sidebar]Shop"
-msgstr ""
+msgstr "Mağaza"
 
 #: .\automationhandler.cpp
 msgid "[AutomationHandler]Show Automation"
@@ -386,7 +386,7 @@ msgstr "Projeyi Göster"
 
 #: .\sidebar.cpp
 msgid "[Command]Show Shop"
-msgstr ""
+msgstr "Mağazayı Göster"
 
 #: .\documenthandler.cpp
 msgid "[Command]Show Song"
@@ -486,7 +486,7 @@ msgstr "Bu Bilgisayar"
 
 #: .\appoptions.cpp
 msgid "[Command]Toggle Range Tool in upper event area"
-msgstr ""
+msgstr "Alan aracını üst olay alanında geçiştir"
 
 #: .\appoptions.cpp
 msgid "[Command]Toolbar"

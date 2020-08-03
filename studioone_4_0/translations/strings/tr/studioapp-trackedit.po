@@ -106,7 +106,7 @@ msgstr "Enstrüman"
 
 #: .\translation.js
 msgid "[TrackEdit]Invert Track Selection"
-msgstr ""
+msgstr "İz seçimini tersine çevir"
 
 #: .\translation.js
 msgid "[TrackEdit]Merge Events"
@@ -170,7 +170,7 @@ msgstr "Sessize alınmış klipleri seç"
 
 #: .\translation.js
 msgid "[TrackEdit]Select Muted Tracks"
-msgstr ""
+msgstr "Sessize alınmış izleri seç"
 
 #: .\translation.js
 msgid "[TrackEdit]Send to Back"
@@ -223,3 +223,4 @@ msgstr "Enstrüman İzlerini Transpoze Et"
 #: .\translation.js
 msgid "[TrackEdit]Unmute Events"
 msgstr "Klipleri Sessizlikten çıkar"
+

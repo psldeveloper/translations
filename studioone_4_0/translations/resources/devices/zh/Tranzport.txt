@@ -1,1 +1,2 @@
-Shift Wheel是轨道音量。In / Out缩放（shift是垂直操作的）。Shift Record 是保存歌曲。Shift Mute是全部静音。Shift Solo是全部独奏。Shift Add 是删除标记。
+Shift Wheel是轨道音量。In / Out缩放（Shift是垂直操作的）。Shift Record是保存歌曲。Shift Mute是全部静音。Shift Solo是全部独奏。Shift Add是删除标记。
+

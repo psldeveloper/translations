@@ -160,11 +160,11 @@ msgstr "Ekle..."
 
 #: .\musicediting\patterneditviews.cpp
 msgid "[MusicPatternPartEditor]Adjust Chord Length"
-msgstr ""
+msgstr "Akor uzunluğunu düzenle"
 
 #: .\musicediting\patterneditviews.cpp
 msgid "[MusicPatternPartEditor]Adjust Length"
-msgstr ""
+msgstr "Uzunluğu düzemle"
 
 #: .\musicediting\patterneditcomponent.cpp
 msgid "[MusicPatternPartEditor]All Patterns on Track"
@@ -431,7 +431,7 @@ msgstr "Dosyaları Dönüştür..."
 
 #: .\application\musicedit\musicpatternconverttask.cpp
 msgid "[MusicPartEdit]Convert Part to Pattern"
-msgstr ""
+msgstr "Bölümü Kalıba dönüştür"
 
 #: .\application\musicedit\musicpatternconverttask.cpp
 msgid "[MusicPartEdit]Convert Pattern to Part"
@@ -1407,7 +1407,7 @@ msgstr "Enstrüman preseti yükle"
 
 #: .\musicediting\musicpatterneditor.cpp
 msgid "[PatternEditor]Load Pattern Preset"
-msgstr ""
+msgstr "Kalıp preseti yükle"
 
 #: .\music\musicpatternclip.cpp
 msgid "[MusicPatternClip]Loading Pattern: %(1)"
@@ -2138,7 +2138,7 @@ msgstr "Havuzdan Klip'i Kaldır"
 
 #: .\application\audioedit\audiocrossfadetask.cpp
 msgid "[AudioEdit]Remove Crossfades"
-msgstr ""
+msgstr "Crossfadeleri kaldır"
 
 #: .\application\eventedit\removegapstask.cpp
 msgid "[Edit]Remove Gaps"

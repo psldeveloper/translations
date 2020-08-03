@@ -30,7 +30,7 @@ msgstr "Satın Alınan Ürünleri Aktive Et"
 
 #: .\application\purchasedpackages.cpp
 msgid "[PackageActions]Activated"
-msgstr ""
+msgstr "Aktifleştirildi"
 
 #: .\web\licenseserver.cpp
 msgid "[WebAPI]Activating product"

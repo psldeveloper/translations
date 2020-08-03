@@ -2805,7 +2805,7 @@ msgstr "El formato de este archivo no es soportado."
 
 #: .\base\rootsetup.cpp
 msgid "[RootSetup]The sample rate does not match your audio device configuration.\n\nThe rate you set: %(1)\nThe rate the device has: %(2)"
-msgstr "La frecuencia de muestreo no coincide con la configuración de su dispositivo de audio.\n\nLa frecuencia establecida: %(1)\nLa frecuencia del dsipositivo: %(2)"
+msgstr "La frecuencia de muestreo no coincide con la configuración de su dispositivo de audio.\n\nLa frecuencia establecida: %(1)\nLa frecuencia del dispositivo: %(2)"
 
 #: .\music\musictrackinfo.cpp
 msgid "[Engine]The track \"%(1)\" is not connected to a software instrument."

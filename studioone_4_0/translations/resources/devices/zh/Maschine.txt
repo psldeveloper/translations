@@ -1,1 +1,2 @@
-将Studio One.ncm文件加载至NI控制编辑器。按住Mashine硬件上的shift-control键，选择Studio One Template。链接： http://download.presonussoftware.com/Machine.zip
+将“Studio One.ncm”文件加载至NI控制编辑器。按住Mashine硬件上的“shift-control”键，选择“Studio One Template”。链接： http://download.presonussoftware.com/Machine.zip
+

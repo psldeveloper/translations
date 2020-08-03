@@ -26,7 +26,7 @@ msgstr "$APPNAME Kurulumu"
 
 #: .\menubar.xml
 msgid "[Menu]$APPNAME Packages"
-msgstr ""
+msgstr "$APPNAME Paketleri"
 
 #: .\menubar.xml
 msgid "[Menu]$APPNAME Reference Manual"
@@ -670,7 +670,7 @@ msgstr "Havuzu Göster"
 
 #: .\menubar.xml
 msgid "[Menu]Show Shop"
-msgstr ""
+msgstr "Mağazayı Göster"
 
 #: .\menubar.xml
 msgid "[Menu]Show in Console"
