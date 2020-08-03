@@ -1,0 +1,1 @@
+﻿A roda Shift é o volume do canal. Zoom (Shift verticalmente). Shift + Record salva o Song. Shift + Mute é o Mute Global. Shift + Solo é o Solo Global. Shift + Add exclui marcador.

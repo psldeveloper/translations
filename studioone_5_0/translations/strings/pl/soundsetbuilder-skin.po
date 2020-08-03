@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]+"
+msgstr "+"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]-"
+msgstr "-"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Copyright"
+msgstr "Prawa autorskie"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Description"
+msgstr "Opis"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Edit Identifier..."
+msgstr "Edytuj identyfikator..."
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Enable Content Protection"
+msgstr "Włącz ochronę zawartości"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Icon"
+msgstr "Ikona"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Identifier"
+msgstr "Identyfikator"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Name of subfolder inside Sound Set to be scanned for presets (optional)"
+msgstr "Nazwa podfolderu w Sound Secie skanowanego w poszukiwaniu zestawów (opcjonalne)"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Presets"
+msgstr "Zestawy"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Remove Image"
+msgstr "Usuń obraz"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Select Image"
+msgstr "Wybierz obraz"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Sound Set Properties"
+msgstr "Właściwości Sound Setu"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Title"
+msgstr "Nazwa"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Vendor"
+msgstr "Dostawca"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Version"
+msgstr "Wersja"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Website"
+msgstr "Strona internetowa"
+

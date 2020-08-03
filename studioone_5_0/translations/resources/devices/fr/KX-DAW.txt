@@ -1,0 +1,2 @@
+Veuillez utiliser les réglages d'usine et sélectionner le port 2 d'entrée MIDI du KX dans le sélecteur "Reçoit de" pour la télécommande de la DAW.
+Assign 1 est Quantifier, Assign 2 est Supprimer. A ouvre l'éditeur et B la console.

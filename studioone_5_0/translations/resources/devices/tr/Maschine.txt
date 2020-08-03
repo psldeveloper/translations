@@ -1,0 +1,1 @@
+Ekteki Studio One.ncm dosyasını NI Control Editor'a yükleyin. Maschine donanımında Shift-Control tuşlarına basılı tutup Studio One şablonunu seçin.

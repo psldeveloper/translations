@@ -1,0 +1,1 @@
+Standart bilgisayar klavyeniz ile MIDI girişi simüle etmek için bu cihazı kullanın.

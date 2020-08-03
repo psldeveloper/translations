@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\sampler\storage\presethandler.cpp
+msgid "[Sampler]%(1) programs"
+msgstr "%(1) プログラム"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler](Press 'Shift' to insert slices)"
+msgstr "(Shift を押してスライスを挿入)"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Add Sample"
+msgstr "サンプルを追加"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Add Samples"
+msgstr "サンプルを追加"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Add Slices"
+msgstr "スライスを追加"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Chromatic"
+msgstr "クロマチック"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[FileType]EXS24 File"
+msgstr "EXS24ファイル"
+
+#: .\sampler\gui\wavedisplay.cpp
+msgid "[WaveDisplay]File not found"
+msgstr "ファイルが見つかりませんでした"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Full Range"
+msgstr "フルレンジ"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[FileType]Giga File"
+msgstr "Gigaファイル"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[Sampler]Importing..."
+msgstr "インポートしています..."
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Insert Sample"
+msgstr "サンプルを挿入"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Insert Samples"
+msgstr "サンプルを挿入"
+
+#: .\sampler\impact\impactviews.cpp
+msgid "[DrumPadInsertHandler]Insert to next free pad"
+msgstr "次の空のパッドにインサート"
+
+#: .\sampler\storage\settings.cpp
+msgid "[SamplerUserOption]Instrument Library"
+msgstr "インストゥルメントライブラリ"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[FileType]Kontakt File"
+msgstr "Kontaktファイル"
+
+#: .\sampler\storage\bitwigcodec.cpp
+msgid "[FileType]Multisample File"
+msgstr "マルチサンプルファイル"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[Sampler]Not supported %(1)"
+msgstr "%(1) に対応していません"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Octave Mode"
+msgstr "オクターブモード"
+
+#: .\sampler\gui\keyswitchcomponent.cpp
+msgid "[KeySwitchList]Pitch"
+msgstr "ピッチ"
+
+#: .\sampler\storage\presethandler.cpp
+msgid "[Sampler]Preset in %(1)"
+msgstr "%(1) 内のプリセット"
+
+#: .\sampler\samplerutils.cpp
+msgid "[SamplerUtitlities]Render Slices"
+msgstr "スライスをレンダー"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Replace Sample"
+msgstr "サンプルを置換"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Replace Samples"
+msgstr "サンプルを置換"
+
+#: .\sampler\storage\presonuscodec.cpp .\sampler\storage\soundfontcodec.cpp
+msgid "[FileType]Sampler File"
+msgstr "Samplerファイル"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[Sampler]Searching Samples"
+msgstr "サンプルを検索しています"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Set Root/Hi/Low Key to %(1)"
+msgstr "ルート/ハイ/ローのキーを %(1) に設定"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Slice"
+msgstr "スライス"
+
+#: .\sampler\impact\impactviews.cpp
+msgid "[DrumPadInsertHandler]Slice and spread across multiple pads"
+msgstr "複数のパッドをスライスおよびスプレッド"
+
+#: .\sampler\samplerutils.cpp
+msgid "[SamplerUtitlities]Slice detection"
+msgstr "スライス検出"
+
+#: .\sampler\storage\soundfontcodec.cpp .\sampler\storage\usfcodec.cpp
+msgid "[FileType]SoundFont"
+msgstr "SoundFont"
+
+#: .\sampler\impact\impactviews.cpp
+msgid "[DrumPadInsertHandler]Spread samples across multiple pads"
+msgstr "複数のパッドにわたってサンプルをスプレッド"
+
+#: .\sampler\gui\keyswitchcomponent.cpp
+msgid "[KeySwitchList]Title"
+msgstr "タイトル"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]White Keys"
+msgstr "白鍵"
+

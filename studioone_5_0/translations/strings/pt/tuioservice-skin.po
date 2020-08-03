@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\option.xml
+msgid "[TUIOUserOption]Connect multi-touch device with monitor number"
+msgstr "Vincular dispositivo multi-toque ao número de monitor"
+
+#: .\option.xml
+msgid "[TUIOUserOption]Enable TUIO multi-touch devices on UDP port"
+msgstr "Ativar dispositivos multi-toque TUIO na porta UDP"
+
+#: .\option.xml
+msgid "[TUIOUserOption]Number of attached multi-touch devices"
+msgstr "Número de dispositivos multi-toque conectados"
+
+#: .\option.xml
+msgid "[TUIOUserOption]This"
+msgstr "Este"
+

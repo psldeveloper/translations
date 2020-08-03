@@ -1,0 +1,1 @@
+﻿Utilize as configurações de fábrica no nanoKONTROL. O Fader 9 é o fader Master.

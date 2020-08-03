@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]$APPCOMPANY Account"
+msgstr "$APPCOMPANY-Account"
+
+#: .\application\purchasehandler.cpp
+msgid "[Licenser]$APPNAME is authorized for a different user. Do you want to reauthorize $APPNAME?"
+msgstr "$APPNAME ist für einen anderen Benutzer autorisiert. Möchten Sie $APPNAME neu autorisieren?"
+
+#: .\application\eulacomponent.cpp
+msgid "[Licenser]%(1) End User License Agreement"
+msgstr "%(1) Endnutzer-Lizenzvereinbarung"
+
+#: .\application\eulacomponent.cpp
+msgid "[Licenser]%(1) Terms of Service"
+msgstr "%(1) Nutzungsbedingungen"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Accessing remote storage"
+msgstr "Zugriff auf Cloudspeicher"
+
+#: .\application\purchasedpackages.cpp
+msgid "[PackageActions]Activate"
+msgstr "Aktivieren"
+
+#: .\application\purchasedpackages.cpp
+msgid "[PackageActions]Activate All"
+msgstr "Alle einschalten"
+
+#: .\application\purchasehandler.cpp
+msgid "[Command]Activate Purchased Items"
+msgstr "Gekaufte Artikel aktivieren"
+
+#: .\application\purchasedpackages.cpp
+msgid "[PackageActions]Activated"
+msgstr "Aktiviert"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Activating product"
+msgstr "Produkt wird aktiviert"
+
+#: .\application\usercomponent.cpp
+msgid "[Command]Activation"
+msgstr "Aktivierung"
+
+#: .\application\usercomponent.cpp
+msgid "[Licenser]Additional License Information:\n"
+msgstr "Zusätzliche Lizenzinformationen:\n"
+
+#: .\application\purchasehandler.cpp
+msgid "[Licenser]All installed items are activated."
+msgstr "Alle installierten Artikel sind aktiviert."
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]An error occurred at the server (Status %(1))."
+msgstr "Auf dem Server ist ein Fehler aufgetreten (Status %(1))."
+
+#: .\application\loginhandler.cpp .\application\purchasehandler.cpp
+#: .\application\usercomponent.cpp
+msgid "[Command]Application"
+msgstr "Anwendung"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Authorization"
+msgstr "Autorisierung"
+
+#: .\application\usercomponent.cpp
+msgid "[Licenser]Copy to Clipboard"
+msgstr "In Zwischenablage kopieren"
+
+#: .\application\loginhandler.cpp
+msgid "[Credentials]Credential Manager"
+msgstr "Anmeldeinformationsverwaltung"
+
+#: .\application\purchasehandler.cpp
+msgid "[Licenser]Do you want to download new purchases from your $APPCOMPANY Account now?"
+msgstr "Möchten Sie neue Einkäufe jetzt von Ihrem $APPCOMPANY-Account herunterladen?"
+
+#: .\application\purchasehandler.cpp
+msgid "[Licenser]Download"
+msgstr "Download"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Failed to connect to the server.\nPlease check your Internet connection and try again."
+msgstr "Verbindung zum Server fehlgeschlagen.\nBitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut."
+
+#: .\application\userlicense.cpp
+msgid "[FileType]Invalid License File!"
+msgstr "Die Lizenzdatei ist ungültig!"
+
+#: .\application\loginhandler.cpp
+msgid "[Credentials]Keychain Access"
+msgstr "Schlüsselbundverwaltung"
+
+#: .\application\userlicense.cpp
+msgid "[FileType]License File"
+msgstr "Lizenzdatei"
+
+#: .\application\userlicense.cpp
+msgid "[FileType]License too old. Please activate $APPNAME again."
+msgstr "Die Lizenz ist zu alt. Bitte aktivieren Sie $APPNAME erneut."
+
+#: .\application\loginhandler.cpp
+msgid "[Command]Login"
+msgstr "Anmeldung"
+
+#: .\application\licensehandler.cpp
+msgid "[Licenser]Manage Activations"
+msgstr "Aktivierungen verwalten"
+
+#: .\application\loginhandler.cpp
+msgid "[Credentials]No permissions to change application passwords."
+msgstr "Fehlende Zugriffsberechtigung zum Ändern der Anwendungspasswörter."
+
+#: .\application\purchasehandler.cpp
+msgid "[Licenser]No purchased items installed."
+msgstr "Keine gekauften Artikel installiert."
+
+#: .\schemes\splice\splicelease.cpp
+msgid "[Licenser]Please check your Rent-to-Own status in the Splice App."
+msgstr "Bitte überprüfen Sie Ihren Rent-to-Own-Status in der Splice App."
+
+#: .\application\activationhandler.cpp
+msgid "[Licenser]Please enter the Product Key of the $APPNAME version you have purchased."
+msgstr "Geben Sie bitte den Produktschlüssel der von Ihnen erworbenen $APPNAME-Version ein."
+
+#: .\application\loginhandler.cpp
+msgid "[Licenser]Please fill in the form completely."
+msgstr "Bitte füllen Sie das Formular vollständig aus."
+
+#: .\application\loginhandler.cpp
+msgid "[Credentials]Please use %(1) to delete passwords."
+msgstr "Bitte verwenden Sie die %(1) um Passwörter zu löschen."
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Registering product"
+msgstr "Registriere Produkt"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Registration"
+msgstr "Registrierung"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Retrieving product list"
+msgstr "Produktliste abrufen"
+
+#: .\application\loginhandler.cpp
+msgid "[Licenser]Select Country"
+msgstr "Land auswählen"
+
+#: .\application\activationhandler.cpp
+msgid "[Licenser]Show my existing Product Keys"
+msgstr "Meine vorhandenen Produktschlüssel anzeigen"
+
+#: .\application\loginhandler.cpp
+msgid "[Licenser]Sign in"
+msgstr "Anmelden"
+
+#: .\application\loginhandler.cpp
+msgid "[Licenser]Sign out"
+msgstr "Abmelden"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Signing in"
+msgstr "Anmeldung"
+
+#: .\application\purchasehandler.cpp
+msgid "[Licenser]Some items failed to activate."
+msgstr "Einige Artikel konnten nicht aktiviert werden."
+
+#: .\application\licensehandler.cpp
+msgid "[Licenser]Thank You! $APPNAME has been activated on this computer."
+msgstr "Vielen Dank! $APPNAME wurde auf diesem Computer freigeschaltet."
+
+#: .\application\loginhandler.cpp
+msgid "[Licenser]Thank You! An e-mail has been sent to you with a link to activate your account."
+msgstr "Vielen Dank! Sie erhalten eine E-Mail mit einem Link, um Ihren Account zu aktivieren."
+
+#: .\application\userlicense.cpp
+msgid "[FileType]The License has expired!"
+msgstr "Die Lizenz ist abgelaufen!"
+
+#: .\application\userlicense.cpp
+msgid "[FileType]The License has not been issued for this computer!"
+msgstr "Die Lizenz wurde nicht für diesen Computer freigeschaltet!"
+
+#: .\application\userlicense.cpp
+msgid "[FileType]The License has not been issued for this user!"
+msgstr "Die Lizenz wurde nicht für diesen Benutzer freigeschaltet!"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]The request failed (%(1))."
+msgstr "Die Anfrage ist fehlgeschlagen (%(1))."
+
+#: .\application\licensehandler.cpp
+msgid "[Licenser]This computer has been de-activated for use with $APPNAME."
+msgstr "Der Betrieb von $APPNAME auf diesem Computer wurde deaktiviert."
+
+#: .\application\usercomponent.cpp
+msgid "[Licenser]This copy is licensed to %(1)"
+msgstr "Diese Kopie ist lizenziert für %(1)"
+
+#: .\application\userlicense.cpp
+msgid "[FileType]This product key requires an additional license that could not be found on this computer."
+msgstr "Dieser Produktschlüssel erfordert eine zusätzliche Lizenz, die auf diesem Computer nicht gefunden wurde."
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Updating subscription"
+msgstr "Abonnement aktualisieren"
+
+#: .\application\usercomponent.cpp
+msgid "[Licenser]User License not found! Please select a new License File."
+msgstr "Die Benutzerlizenz wurde nicht gefunden! Bitte wählen Sie eine neue Lizenzdatei."
+
+#: .\application\usercomponent.cpp
+msgid "[Licenser]Verifying User License..."
+msgstr "Überprüfe Benutzerlizenz..."
+
+#: .\application\licensehandler.cpp
+msgid "[Licenser]You can manage activations in your $APPCOMPANY Account."
+msgstr "Sie können die Aktivierungen in Ihrem $APPCOMPANY-Account verwalten."
+
+#: .\schemes\splice\splicelease.cpp
+msgid "[Licenser]Your Splice license for $APPNAME is invalid."
+msgstr "Ihre Splice-Lizenz für $APPNAME ist ungültig."
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Your authorization has expired. Please log in again."
+msgstr "Ihre Autorisierung ist abgelaufen. Bitte melden Sie sich erneut an."
+
+#: .\application\purchasehandler.cpp
+msgid "[Licenser]Your purchased items have been activated."
+msgstr "Ihre gekauften Artikel wurden aktiviert."
+
+#~ msgid "[Licenser]$APPCOMPANY Account"
+#~ msgstr "$APPCOMPANY-Account"
+
+#~ msgid "[WebAPI]An error occured at the server (Status %(1))."
+#~ msgstr "Ein Fehler ist auf dem Server aufgetreten (Status %(1))."
+
+#~ msgid "[Licenser]Please fill out the form completely."
+#~ msgstr "Bitte füllen Sie das Formular vollständig aus."
+
+#~ msgid "[Licenser]Invalid License File!"
+#~ msgstr "Die Lizenzdatei ist ungültig!"
+
+#~ msgid "[Licenser]License too old. Please activate $APPNAME again."
+#~ msgstr "Die Lizenz ist zu alt. Bitte aktivieren Sie $APPNAME erneut."
+
+#~ msgid "[Licenser]Please restart $APPNAME for the changes to take effect."
+#~ msgstr "Bitte starten Sie $APPNAME neu, damit die Veränderungen wirksam werden."
+
+#~ msgid "[Licenser]Thank You! $APPNAME has been activated to run on this computer."
+#~ msgstr "Vielen Dank! $APPNAME wurde auf diesem Computer freigeschaltet."
+
+#~ msgid "[Licenser]The License has expired!"
+#~ msgstr "Die Lizenz ist abgelaufen!"
+
+#~ msgid "[Licenser]The License has not been issued for this computer!"
+#~ msgstr "Die Lizenz wurde nicht für diesen Computer freigeschaltet!"
+
+#~ msgid "[Licenser]The License has not been issued for this user!"
+#~ msgstr "Die Lizenz wurde nicht für diesen Benutzer freigeschaltet!"
+
+#~ msgid "[Licenser]This computer has been de-activated for use with $APPNAME. You can manage activations in your $APPCOMPANY Account."
+#~ msgstr "Der Betrieb von $APPNAME auf diesem Computer wurde deaktiviert. Sie können die Aktivierungen in Ihrem $APPCOMPANY-Account verwalten."
+
+#~ msgid "[Licenser]This product key requires an additional license that could not be found on this computer."
+#~ msgstr "Dieser Produktschlüssel erfordert eine zusätzliche Lizenz, die auf diesem Computer nicht gefunden wurde."
+
+#~ msgid "[Licenser]Activation failed."
+#~ msgstr "Aktivierung fehlgeschlagen."
+

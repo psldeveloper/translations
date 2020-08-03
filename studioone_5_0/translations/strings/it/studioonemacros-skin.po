@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\skin.xml
+msgid "[CommandBarItem]$title"
+msgstr "$title"
+
+#: .\skin.xml
+msgid "[MacroEditor]&lt;&lt; Remove"
+msgstr "&lt;&lt; Rimuovi"
+
+#: .\skin.xml
+msgid "[CommandBarItem]@cmd.title[]"
+msgstr "@cmd.title[]"
+
+#: .\skin.xml
+msgid "[MacroEditor]Add &gt;&gt;"
+msgstr "Aggiungi &gt;&gt;"
+
+#: .\skin.xml
+msgid "[MacroEditor]Commands"
+msgstr "Comandi"
+
+#: .\skin.xml
+msgid "[MacroOrganizer]Delete"
+msgstr "Elimina"
+
+#: .\skin.xml
+msgid "[MacroEditor]Description"
+msgstr "Descrizione"
+
+#: .\skin.xml
+msgid "[MacroEditor]Down"
+msgstr "Giù"
+
+#: .\skin.xml
+msgid "[MacroEditor]Edit"
+msgstr "Modifica"
+
+#: .\skin.xml
+msgid "[MacroEditor]Edit Macro"
+msgstr "Modifica Macro"
+
+#: .\skin.xml
+msgid "[EventNameEditor]Edit Names"
+msgstr "Modifica Nomi"
+
+#: .\skin.xml
+msgid "[MacroOrganizer]Edit..."
+msgstr "Modifica..."
+
+#: .\skin.xml
+msgid "[MacroEditor]Group"
+msgstr "Gruppo"
+
+#: .\skin.xml
+msgid "[MacroEditor]Macro"
+msgstr "Macro"
+
+#: .\skin.xml
+msgid "[MacroOrganizer]Macro Organizer"
+msgstr "Macro Organizer"
+
+#: .\skin.xml
+msgid "[MacroPanel]Macros"
+msgstr "Macro"
+
+#: .\skin.xml
+msgid "[MacroOrganizer]New..."
+msgstr "Nuovo..."
+
+#: .\skin.xml
+msgid "[MacroOrganizer]Refresh"
+msgstr "Aggiorna"
+
+#: .\skin.xml
+msgid "[MacroEditor]Search:"
+msgstr "Cerca:"
+
+#: .\skin.xml
+msgid "[MacroOrganizer]Show Macros Folder in Explorer/Finder"
+msgstr "Mostra cartella Macro in Esplora risorse/Finder"
+
+#: .\skin.xml
+msgid "[MacroEditor]Title"
+msgstr "Titolo"
+
+#: .\skin.xml
+msgid "[MacroEditor]Up"
+msgstr "Su"
+
+#~ msgid "[CommandBarContextMenu]Compact"
+#~ msgstr "Compatta"
+

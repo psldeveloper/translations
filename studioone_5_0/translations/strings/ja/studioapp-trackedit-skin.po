@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Add Tracks"
+msgstr "トラックを追加"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.AudioOptions]Ascending"
+msgstr "昇順"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.InstrumentOptions]Ascending"
+msgstr "昇順"
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Auto-Color"
+msgstr "自動配色"
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Color"
+msgstr "色"
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Count"
+msgstr "数"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.InstrumentOptions]Existing Instrument"
+msgstr "既存のインストゥルメント"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.AudioOptions]Format"
+msgstr "フォーマット"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.AudioOptions]Input"
+msgstr "入力"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.InstrumentOptions]Input"
+msgstr "入力"
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Name"
+msgstr "名前"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.InstrumentOptions]New Instrument"
+msgstr "新規インストゥルメント"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.AudioOptions]Output"
+msgstr "出力"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.InstrumentOptions]Output"
+msgstr "出力"
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Pack Folder"
+msgstr "フォルダーにパック"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.AudioOptions]Preset"
+msgstr "プリセット"
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Type"
+msgstr "タイプ"

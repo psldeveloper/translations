@@ -1,0 +1,1 @@
+Studio One ile kullanmak için FaderPort 16'yı native mode'a geçirin.

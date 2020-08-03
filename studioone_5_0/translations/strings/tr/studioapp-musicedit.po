@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\translation.js
+msgid "[MusicEdit]Delete Double Notes"
+msgstr "Çift Notaları Sil"
+
+#: .\translation.js
+msgid "[MusicEdit]Delete Short Notes"
+msgstr "Kısa Notaları Sil"
+
+#: .\translation.js
+msgid "[MusicEdit]Explode Pitches to Tracks"
+msgstr "Pitch'leri İzlere Patlat"
+
+#: .\translation.js
+msgid "[MusicEdit]Extend to Part End"
+msgstr "Bölüm sonuna dek uzat"
+
+#: .\translation.js
+msgid "[MusicEdit]Freeze Pitch"
+msgstr "Perdeyi Dondur"
+
+#: .\translation.js
+msgid "[MusicEdit]Freeze Quantize"
+msgstr "Quantizeyi Dondur"
+
+#: .\translation.js
+msgid "[MusicEdit]Freeze Velocity"
+msgstr "Hızı Dondur"
+
+#: .\translation.js
+msgid "[MusicEdit]Humanize"
+msgstr "İnsanlaştır"
+
+#: .\translation.js
+msgid "[MusicEdit]Humanize Less"
+msgstr "Daha az insanlaştır"
+
+#: .\translation.js
+msgid "[MusicEdit]Length"
+msgstr "Uzunluk"
+
+#: .\translation.js
+msgid "[MusicEdit]Merge Events"
+msgstr "Klipleri Birleştir"
+
+#: .\translation.js
+msgid "[MusicEdit]Quantize"
+msgstr "Quantize"
+
+#: .\translation.js
+msgid "[MusicEdit]Quantize 50%"
+msgstr "%50 Quantize"
+
+#: .\translation.js
+msgid "[MusicEdit]Quantize End"
+msgstr "Quantize Sonu"
+
+#: .\translation.js
+msgid "[MusicEdit]Repeat Notes to Part End"
+msgstr "Bölüm Sonuna Notaları Tekrar Et"
+
+#: .\translation.js
+msgid "[MusicEdit]Restore Timing"
+msgstr "Ölçüyü Eski Haline Getir"
+
+#: .\translation.js
+msgid "[MusicEdit]Restore Velocity"
+msgstr "Hızı Eski Haline Getir"
+
+#: .\translation.js
+msgid "[MusicEdit]Select Notes"
+msgstr "Notaları seç"
+
+#: .\translation.js
+msgid "[MusicEdit]Split at Grid"
+msgstr "Izgaradan Böl"
+
+#: .\translation.js
+msgid "[MusicEdit]Stretch"
+msgstr "Uzat"
+
+#: .\Split.js
+msgid "This would create too many notes and will be cancelled."
+msgstr "Bu çok fazla nota yaratacağından iptal edilecek."
+
+#: .\translation.js
+msgid "[MusicEdit]Transpose"
+msgstr "Transpoze"
+
+#: .\translation.js
+msgid "[MusicEdit]Velocity"
+msgstr "Hız"

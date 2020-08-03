@@ -1,0 +1,1 @@
+﻿Si prega di utilizzare l'assegnazione controller di default stampato sul UMX e impostare i tasti B5-8 a CC 80-83. Utilizzate la memoria utente per memorizzare.

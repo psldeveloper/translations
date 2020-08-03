@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]$APPCOMPANY Login"
+msgstr "$APPCOMPANY ログイン"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]$APPCOMPANY Terms of Use"
+msgstr "$APPCOMPANY使用条件"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]$APPNAME requires access to your $APPCOMPANY Account. Please login with your e-mail/username and password below."
+msgstr "$APPNAME は $APPCOMPANY アカウントにアクセスする必要があります。メールアドレス/ユーザー名とパスワードを使用してログインしてください。"
+
+#: .\subscription.xml
+msgid "[SubscriptionStatus]$CLOUDNAME has been activated on this computer."
+msgstr "$CLOUDNAME はこのコンピューター上でアクティベートされています。"
+
+#: .\backup.xml
+msgid "[BackupManager]$CLOUDNAME has not been activated on this computer."
+msgstr "$CLOUDNAME はこのコンピューター上でアクティベートされていません。"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorInplaceView]-"
+msgstr "-"
+
+#: .\purchase.xml
+msgid "[PurchaseHandler]Activate"
+msgstr "アクティベート"
+
+#: .\purchase.xml
+msgid "[PurchaseHandler]Activate Purchased Items"
+msgstr "購入済みアイテムをアクティベート"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorConflictPopup]Assign"
+msgstr "アサイン"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorOption]Assign"
+msgstr "アサイン"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorConflictPopup]Assign and go to Conflict"
+msgstr "アサインしてコンフリクトを開く"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Back to Log in"
+msgstr "ログインに戻る"
+
+#: .\backup.xml
+msgid "[BackupManager]Backup"
+msgstr "バックアップ"
+
+#: .\backup.xml
+msgid "[BackupManager]Backup Now"
+msgstr "今すぐバックアップ"
+
+#: .\backup.xml
+msgid "[BackupManager]Backup and Restore"
+msgstr "バックアップと復元"
+
+#: .\backup.xml
+msgid "[BackupManager]Backup settings to $CLOUDNAME"
+msgstr "設定を $CLOUDNAME にバックアップ"
+
+#: .\backup.xml
+msgid "[BackupManager]Backup will be restored next time you start $APPNAME."
+msgstr "バックアップは $APPNAME の次回起動時に復元されます。"
+
+#: .\backup.xml
+msgid "[BackupManager]Cancel"
+msgstr "キャンセル"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorConflictPopup]Cancel"
+msgstr "キャンセル"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Country/Region"
+msgstr "国/地域"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Create $APPCOMPANY Account"
+msgstr "$APPCOMPANY アカウントを作成"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Don&apos;t have a $APPCOMPANY Account yet?"
+msgstr "$APPCOMPANY アカウントをお持ちでない場合"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Email"
+msgstr "メールアドレス"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Email or username"
+msgstr "メールまたはユーザー名"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorOption]Enter key:"
+msgstr "キーを入力:"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]First Name"
+msgstr "名"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Forgot your password?"
+msgstr "パスワードをお忘れですか？"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]I have read and agree to the latest Terms of Use."
+msgstr "使用条件を読み同意します"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]I would like to receive occasional updates from $APPCOMPANY via e-mail."
+msgstr "$APPCOMPANYからメールで送信されるアップデートを受信します"
+
+#: .\purchase.xml
+msgid "[PurchaseHandler]If your computer is not connected to the Internet, please download the License File from your $APPCOMPANY Account separately and select it here or drag it onto this window."
+msgstr "ご使用のコンピューターがインターネットに接続していない場合、別途 $APPCOMPANY アカウントからライセンスファイルをダウンロードし、ここで選択するか、このウィンドウにドラッグします。"
+
+#: .\cclcommon.xml
+msgid "[CommandSchemeOption]Keyboard mapping scheme"
+msgstr "キーボードマッピングスキーム"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorOption]Keyboard mapping scheme"
+msgstr "キーボードマッピングスキーム"
+
+#: .\cclcommon.xml
+msgid "[LocaleOption]Language"
+msgstr "言語"
+
+#: .\uux.xml
+msgid "[LanguageSelection]Language"
+msgstr "言語"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Last Name"
+msgstr "姓"
+
+#: .\backup.xml
+msgid "[BackupManager]Last backup:"
+msgstr "前回のバックアップ:"
+
+#: .\backup.xml
+msgid "[BackupManager]Learn more about $CLOUDNAME"
+msgstr "$CLOUDNAME について学ぶ"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Login"
+msgstr "ログイン"
+
+#: .\backup.xml
+msgid "[BackupManager]Manage Backups"
+msgstr "バックアップを管理"
+
+#: .\subscription.xml
+msgid "[SubscriptionStatus]Next license update:"
+msgstr "次のライセンスアップデート:"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Password"
+msgstr "パスワード"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Please enter your contact data to sign up now. An e-mail will be sent to you with a link to activate your account."
+msgstr "連絡先情報を入力し、登録してください。アカウントのアクティベート用リンクを記載したメールが送信されます。"
+
+#: .\backup.xml
+msgid "[BackupManager]Refresh"
+msgstr "再読み込み"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Remember my credentials"
+msgstr "認証情報を保存"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorOption]Remove"
+msgstr "削除"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Repeat Password"
+msgstr "パスワードを再入力"
+
+#: .\backup.xml
+msgid "[BackupManager]Restore"
+msgstr "復元"
+
+#: .\backup.xml
+msgid "[BackupManager]Restore Options"
+msgstr "復元オプション"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorOption]Search:"
+msgstr "検索:"
+
+#: .\backup.xml
+msgid "[BackupManager]Select Backup"
+msgstr "バックアップを選択"
+
+#: .\purchase.xml
+msgid "[PurchaseHandler]Select License File..."
+msgstr "ライセンスファイルを選択..."
+
+#: .\cclcommon.xml
+msgid "[CommandEditorConflictPopup]Show"
+msgstr "表示"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorOption]Show"
+msgstr "表示"
+
+#: .\transfers.xml
+msgid "[TransferManager]Show when new transfer starts"
+msgstr "新規転送開始時に表示"
+
+#: .\purchase.xml
+msgid "[PurchaseHandler]Thank you for your purchase. Your purchased items are ready to be activated on this computer."
+msgstr "ご購入いただきありがとうございました。購入済みアイテムをこのコンピューターでアクティベートできます。"
+
+#: .\transfers.xml
+msgid "[TransferManager]Transfers"
+msgstr "転送"
+
+#: .\subscription.xml
+msgid "[SubscriptionStatus]Update Now"
+msgstr "今すぐアップデート"
+
+#: .\uux.xml
+msgid "[UserSelection]User Account"
+msgstr "ユーザーアカウント"
+
+#~ msgid "[LicenseServerLogin]Country"
+#~ msgstr "国"
+

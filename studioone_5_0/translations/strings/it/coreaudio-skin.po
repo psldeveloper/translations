@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\skin.xml
+msgid "[CoreAudioControlPanel]CoreAudio Device Options"
+msgstr "Opzioni Dispositivo CoreAudio"
+
+#: .\skin.xml
+msgid "[CoreAudioControlPanel]Exclusive Mode"
+msgstr "Modalità Esclusiva"
+
+#: .\skin.xml
+msgid "[CoreAudioControlPanel]Options"
+msgstr "Opzioni"
+

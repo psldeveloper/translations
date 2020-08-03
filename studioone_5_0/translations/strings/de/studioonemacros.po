@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\panel.js
+msgid "Action"
+msgstr "Aktion"
+
+#: .\panel.js
+msgid "Are you sure you want to revert all changes?"
+msgstr "Möchten Sie wirklich alle Änderungen rückgängig machen?"
+
+#: .\editor.js
+msgid "Arguments"
+msgstr "Argumente"
+
+#: .\main.js
+msgid "Arrangement"
+msgstr "Arrangement"
+
+#: .\main.js
+msgid "Audio Editor"
+msgstr "Audioeditor"
+
+#: .\editor.js
+msgid "Command"
+msgstr "Befehl"
+
+#: .\editor.js
+msgid "Command Arguments"
+msgstr "Befehlsargumente"
+
+#: .\organizer.js
+msgid "Description"
+msgstr "Beschreibung"
+
+#: .\organizer.js
+msgid "Do you want to delete the selected macros?"
+msgstr "Wollen Sie die ausgewählten Makros löschen?"
+
+#: .\organizer.js
+msgid "Do you want to rename the macro file as well?"
+msgstr "Möchten Sie die Makrodatei ebenfalls umbenennen?"
+
+#: .\panel.js
+msgid "Duplicate Macro"
+msgstr "Makro duplizieren"
+
+#: .\panel.js
+msgid "Edit Macro..."
+msgstr "Makro bearbeiten..."
+
+#: .\panel.js .\renamer.js
+msgid "Edit Names"
+msgstr "Namen bearbeiten"
+
+#: .\panel.js
+msgid "Export Macro Page"
+msgstr "Makroseite exportieren"
+
+#: .\panel.js
+msgid "Export..."
+msgstr "Exportieren..."
+
+#: .\organizer.js
+msgid "Group"
+msgstr "Gruppe"
+
+#: .\panel.js
+msgid "Help"
+msgstr "Hilfe"
+
+#: .\panel.js
+msgid "Import Macro Page"
+msgstr "Makroseite importieren"
+
+#: .\panel.js
+msgid "Import..."
+msgstr "Importieren..."
+
+#: .\gadget.js .\panel.js
+msgid "Macro Organizer"
+msgstr "Makroverwaltung"
+
+#: .\gadget.js
+msgid "Macro Toolbar inspired by the Studio One beta testers"
+msgstr "Makro-Toolbar inspiriert von den Studio One Betatestern"
+
+#: .\panel.js
+msgid "Macro not found:"
+msgstr "Makro nicht gefunden:"
+
+#: .\editor.js .\gadget.js .\manager.js .\panel.js
+msgid "Macros"
+msgstr "Makros"
+
+#: .\translation.js
+msgid "[Macros]Macros (Arrangement)"
+msgstr "Makros (Arrangement)"
+
+#: .\translation.js
+msgid "[Macros]Macros (Audio Editor)"
+msgstr "Makros (Audioeditor)"
+
+#: .\translation.js
+msgid "[Macros]Macros (Note Editor)"
+msgstr "Macros (Noteneditor)"
+
+#: .\organizer.js .\panel.js
+msgid "Name"
+msgstr "Name"
+
+#: .\panel.js
+msgid "New Macro..."
+msgstr "Neues Makro..."
+
+#: .\main.js
+msgid "Note Editor"
+msgstr "Noteneditor"
+
+#: .\panel.js
+msgid "Pages"
+msgstr "Seiten"
+
+#: .\panel.js .\renamer.js
+msgid "Reload Names"
+msgstr "Namen neu laden"
+
+#: .\panel.js
+msgid "Reset Toolbar"
+msgstr "Werkzeugleiste zurücksetzen"
+
+#: .\panel.js
+msgid "Setup"
+msgstr "Einstellungen"
+
+#: .\elements.js
+msgid "Studio One Macro"
+msgstr "Studio One Makro"
+
+#: .\elements.js
+msgid "Studio One Macro Page"
+msgstr "Studio One Makroseite"
+
+#: .\gadget.js
+msgid "Studio One Macro Toolbar"
+msgstr "Studio One Makro-Toolbar"
+
+#: .\panel.js
+msgid "The file is empty or corrupt and could not be imported."
+msgstr "Die Datei ist leer oder beschädigt und konnte nicht importiert werden."
+
+#: .\editor.js
+msgid "This command does not have any arguments."
+msgstr "Dieser Befehl hat keine Argumente."
+
+#: .\organizer.js
+msgid "User Macro"
+msgstr "Benutzermakro"
+
+#~ msgid "[Macros]Macros (Music Editor)"
+#~ msgstr "Makros (Musikeditor)"
+
+#~ msgid "Music Editor"
+#~ msgstr "Musikeditor"
+
+#~ msgid "Loading Macro failed:"
+#~ msgstr "Makro konnte nicht geladen werden:"
+

@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: smartCAT.ai\n"
+
+#: .\skin.xml
+msgid "[LameEncoderResolution]Bitrate:"
+msgstr "比特率:"
+
+#: .\skin.xml
+msgid "[LameEncoderResolution]Constant bitrate"
+msgstr "固定比特率"
+
+#: .\skin.xml
+msgid "[LameEncoderResolution]Quality:"
+msgstr "质量:"
+
+#: .\skin.xml
+msgid "[LameEncoderOption]Sample Rate:"
+msgstr "采样率:"
+
+#: .\skin.xml
+msgid "[LameEncoderResolution]Variable bitrate"
+msgstr "可变比特率"
+
+#~ msgid "[LameEncoderOption]Bitrate:"
+#~ msgstr "位率:"
+

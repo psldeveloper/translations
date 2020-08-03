@@ -1,0 +1,12 @@
+#: .\skin.xml
+msgid "[CoreAudioControlPanel]CoreAudio Device Options"
+msgstr ""
+
+#: .\skin.xml
+msgid "[CoreAudioControlPanel]Exclusive Mode"
+msgstr ""
+
+#: .\skin.xml
+msgid "[CoreAudioControlPanel]Options"
+msgstr ""
+

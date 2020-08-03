@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\midifile.cpp
+msgid "[MidiFile]Do you want to load General MIDI sounds for this file?"
+msgstr "Bu dosya için General MIDI sesleri yüklemek istiyormusunuz?"
+
+#: .\midifile.cpp
+msgid "[MidiFile]Importing Track %(1)..."
+msgstr "%(1) numaralı iz içeri aktarılıyor..."
+

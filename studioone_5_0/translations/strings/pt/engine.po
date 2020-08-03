@@ -1,0 +1,3623 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\automationediting\paramdraghandler.cpp
+msgid "[Automation]\"%(1)\" is already automated"
+msgstr "\"%(1)\" já possui automação"
+
+#: .\music\musicclip.cpp
+msgid "[MusicClip]%(1) beats"
+msgstr "%(1) batidas"
+
+#: .\audioediting\audioedithandler.cpp
+msgid "[AudioEditHandler]%(1) dB (Diff: %(2) dB)"
+msgstr "%(1) dB (Dif: %(2) dB)"
+
+#: .\pool\locatefilescomponent.cpp
+msgid "[LocateFiles]%(1) files are missing."
+msgstr "%(1) arquivos não encontrados."
+
+#: .\music\musicclip.cpp
+msgid "[MusicClip]%(1) notes"
+msgstr "%(1) notas"
+
+#: .\music\musicpatternclip.cpp
+msgid "[MusicPatternClip]%(1) steps (%(2))"
+msgstr "%(1) passos (%(2))"
+
+#: .\music\musicpatternclip.cpp
+msgid "[MusicPatternClip]%(1) variations"
+msgstr "%(1) variações"
+
+#: .\pool\locatefilescomponent.cpp
+msgid "[LocateFiles]%(2) files were found in %(1)"
+msgstr "%(2) arquivos foram encontrados em %(1)"
+
+#: .\editing\eventdraghandler.cpp
+msgid "[Edit](Enter Part)"
+msgstr "(Entrar em Parte)"
+
+#: .\editing\eventdraghandler.cpp
+msgid "[Edit](Leave Part)"
+msgstr "(Deixar Parte)"
+
+#: .\editing\eventdraghandler.cpp
+msgid "[Edit](Shared Copy)"
+msgstr "(Cópia Compartilhada)"
+
+#: .\pool\locatefilescomponent.cpp
+msgid "[LocateFiles](not used)"
+msgstr "(não utilizado)"
+
+#: .\pool\mediapoolnodes.cpp
+msgid "[PoolNodes](not used)"
+msgstr "(não utilizado)"
+
+#: .\pool\locatefilescomponent.cpp
+msgid "[LocateFiles]1 file is missing."
+msgstr "1 arquivo está perdido"
+
+#: .\pool\locatefilescomponent.cpp
+msgid "[LocateFiles]1 file was found in %(1)"
+msgstr "1 arquivo não foi encontrado em %(1)"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Activate Layer"
+msgstr "Ativar Camada"
+
+#: .\editing\tracklayercomponent.cpp
+msgid "[TrackLayers]Activate Layer"
+msgstr "Ativar Camada"
+
+#: .\editing\tracklayercomponent.cpp
+msgid "[Command]Activate Layer"
+msgstr "Ativar Camada"
+
+#: .\editing\tracklayercomponent.cpp
+msgid "[Command]Activate Next Layer"
+msgstr "Ativar Próxima Camada"
+
+#: .\music\musicpartactions.cpp
+msgid "[Engine:MusicActions]Activate Pattern"
+msgstr "Ativar Padrão"
+
+#: .\editing\tracklayercomponent.cpp
+msgid "[Command]Activate Previous Layer"
+msgstr "Ativar Camada Anterior"
+
+#: .\musicediting\synthdraghandler.cpp
+msgid "[SynthDrag]Add"
+msgstr "Adicionar"
+
+#: .\automationediting\automationtrackcomponent.cpp
+#: .\musicediting\musiccontrollane.cpp
+msgid "[Automation]Add / Remove..."
+msgstr "Adicionar / Remover..."
+
+#: .\automation\automationfunctions.cpp
+msgid "[Engine:AutomationFunctions]Add Automation"
+msgstr "Adicionar Automação"
+
+#: .\musicediting\musiccontrollane.cpp .\musicediting\patterncontrollane.cpp
+msgid "[Command]Add Automation Lane"
+msgstr "Adicionar Linha de Automação"
+
+#: .\audioediting\foldertrackaudiobus.cpp
+msgid "[Engine]Add Bus Channel"
+msgstr "Adicionar Canal Bus"
+
+#: .\audioediting\audiofxdraghandler.cpp
+msgid "[AudioFX]Add Event FX"
+msgstr "Adicionar FX ao Evento"
+
+#: .\audioediting\audiofxdraghandler.cpp
+msgid "[AudioFX]Add FX on %(1):"
+msgstr "Adicionar FX em %(1):"
+
+#: .\musicediting\musicfxdraghandler.cpp
+msgid "[MusicFX]Add FX on %(1):"
+msgstr "Adicionar FX em %(1):"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Add Layer"
+msgstr "Adicionar Camada"
+
+#: .\editing\tracklayercomponent.cpp
+msgid "[TrackLayers]Add Layer"
+msgstr "Adicionar Camada"
+
+#: .\editing\tracklayercomponent.cpp
+msgid "[Command]Add Layer"
+msgstr "Adicionar Camada"
+
+#: .\musicediting\patternbankcomponent.cpp
+msgid "[PatternSequence]Add Pattern Variation"
+msgstr "Adicionar Variação de Padrão"
+
+#: .\editing\scratchpadcomponent.cpp
+msgid "[Command]Add Scratch Pad"
+msgstr "Adicionar Scratch Pad"
+
+#: .\editing\scratchpadfunctions.cpp
+msgid "[ScratchPad]Add Scratch Pad"
+msgstr "Adicionar Scratch Pad"
+
+#: .\audioediting\audiofxdraghandler.cpp
+msgid "[AudioFX]Add Send:"
+msgstr "Adicionar Envio (Send):"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Add Track"
+msgstr "Adicionar Pista"
+
+#: .\audioediting\foldertrackaudiobus.cpp
+msgid "[Engine]Add VCA Channel"
+msgstr "Adicionar Canal VCA"
+
+#: .\musicediting\musiccontrollane.cpp
+msgid "[Automation]Add..."
+msgstr "Adicionar..."
+
+#: .\musicediting\patterneditviews.cpp
+msgid "[MusicPatternPartEditor]Adjust Chord Length"
+msgstr "Ajustar Duração do Acorde"
+
+#: .\musicediting\patterneditviews.cpp
+msgid "[MusicPatternPartEditor]Adjust Length"
+msgstr "Ajustar Duração"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]All Patterns on Track"
+msgstr "Todos os Padrões na Pista"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Already in Pool:"
+msgstr "Já no Pool:"
+
+#: .\application\audioedit\audiobouncetask.cpp
+msgid "[AudioEdit]An error occurred during bounce."
+msgstr "Ocorreu um erro durante a consolidação."
+
+#: .\audio\audioeventtheme.cpp
+msgid "[Engine]Analyzing..."
+msgstr "Analisando..."
+
+#: .\application\audioedit\audiobendaddin.cpp
+msgid "[Engine]Apply Audio Bend"
+msgstr "Aplicar Audio Bend"
+
+#: .\application\audioedit\audiochordtasks.cpp
+msgid "[AudioEdit]Apply Chords from Chord Track"
+msgstr "Aplicar Acordes da Pista de Acordes"
+
+#: .\pool\mediapoolnodes.cpp
+msgid "[PoolNodes]Are you sure you want to delete all attachments of this clip?\n\nThis action can not be undone."
+msgstr "Tem certeza que deseja excluir todos os anexos deste clip?\n\nEsta ação não poderá ser desfeita."
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Arm"
+msgstr "Armar"
+
+#: .\editing\arrangereditlayer.cpp
+msgid "[Command]Arranger"
+msgstr "Arranjador"
+
+#: .\base\model\arrangertrack.cpp
+msgid "[Engine]Arranger Track"
+msgstr "Pista de Arranjador"
+
+#: .\audioediting\foldertrackaudiobus.cpp
+msgid "[Engine]Assign Channel To Folder"
+msgstr "Atribuir Canal à Pasta"
+
+#: .\musicediting\synthdraghandler.cpp
+msgid "[SynthDrag]Assign Instrument to %(1):"
+msgstr "Atribuir Instrumento a %(1):"
+
+#: .\base\media\mediaattachment.cpp
+msgid "[MediaPool]Attachment"
+msgstr "Anexo"
+
+#: .\base\media\mediaattachment.cpp
+msgid "[MediaPool]Attachments"
+msgstr "Anexos"
+
+#: .\audioediting\audioedittask.cpp
+msgid "[AudioEdit]Audio"
+msgstr "Áudio"
+
+#: .\application\audioedit\audiobendaddin.cpp
+msgid "[EditAddIn]Audio Bend"
+msgstr "Audio Bend"
+
+#: .\audioediting\audioedittask.cpp
+msgid "[AudioEdit]Audio Bend"
+msgstr "Audio Bend"
+
+#: .\editing\monitorfollower.cpp
+msgid "[Command]Audio Input follows Selection"
+msgstr "Entrada de Áudio Segue Seleção"
+
+#: .\audioediting\audioedittask.cpp
+msgid "[AudioEdit]Audio Parts"
+msgstr "Partes de Áudio"
+
+#: .\audioediting\audioedittask.cpp
+msgid "[AudioEdit]Audio Processing"
+msgstr "Processamento de Áudio"
+
+#: .\pool\mediapreviewcomponent.cpp
+msgid "[MediaPreview]Audition"
+msgstr "Audição"
+
+#: .\automation\automationfunctions.cpp
+msgid "[Engine:AutomationFunctions]Automation"
+msgstr "Automação"
+
+#: .\automationediting\automationtrackcomponent.cpp
+#: .\automationediting\automationtracklistcomponent.cpp
+#: .\musicediting\musiccontrollane.cpp .\musicediting\musiceditor.cpp
+#: .\musicediting\patterncontrollane.cpp
+msgid "[Command]Automation"
+msgstr "Automação"
+
+#: .\musicediting\musicsteprecorder.cpp
+msgid "[Command]Back"
+msgstr "Voltar"
+
+#: .\editing\mediatrackcontroller.cpp
+msgid "[MediaTrack]Bass"
+msgstr "Baixo"
+
+#: .\audioediting\audioinspector.cpp
+msgid "[TempoFormatter]Beats"
+msgstr "Batidas"
+
+#: .\editing\trackcontroller.cpp
+msgid "[Track]Beats"
+msgstr "Batidas"
+
+#: .\application\musicedit\musicbouncedialog.cpp
+msgid "[MusicBounceDialog]Bounce Instrument Parts"
+msgstr "Consolidar Partes de Instrumento"
+
+#: .\application\audioedit\audiobouncetask.cpp
+msgid "[AudioEdit]Bounce Selection"
+msgstr "Consolidar Seleção"
+
+#: .\application\musicedit\musicbouncetask.cpp
+msgid "[MusicPartEdit]Bounce Selection"
+msgstr "Consolidar Seleção"
+
+#: .\application\audioedit\audiobouncetask.cpp
+msgid "[AudioEdit]Bounce To New Track"
+msgstr "Consolidar Para Nova Pista"
+
+#: .\base\model\arrangertrack.cpp
+msgid "[ArrangerSections]Bridge"
+msgstr "Passagem"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[Command]Browser"
+msgstr "Navegador (Browser)"
+
+#: .\audio\audioeventtheme.cpp
+msgid "[Engine]Building Preview..."
+msgstr "Previsão da Construção..."
+
+#: .\audio\audiobouncer.cpp
+msgid "[AudioBouncer]Cannot bounce protected content."
+msgstr "Não permitido consolidar conteúdo protegido."
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Change Event Order"
+msgstr "Alterar Ordem do Evento"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Change Event Time Format"
+msgstr "Alterar Formato de Tempo do Evento"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Change Follow Chord Track"
+msgstr "Mudança Segue Pista de Acordes"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Change Layers Follow"
+msgstr "Mudança de Sequencia de Camadas"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Change Play Mode"
+msgstr "Alterar Modo de Reprodução"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Change Play Overlaps"
+msgstr "Alterar Sobreposições de Reprodução"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Change Timestretch/Pitchshift Method"
+msgstr "Alterar Método de Timestretch/Pitchshift"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Change Track Time Format"
+msgstr "Alterar Formato de Tempo da Pista"
+
+#: .\editing\tracklistinspector.cpp
+msgid "[Engine]Channel"
+msgstr "Canal"
+
+#: .\audioediting\audiofxdraghandler.cpp
+msgid "[AudioFX]Channel \"%(1)\""
+msgstr "Canal \"%(1)\""
+
+#: .\editing\chordinspector.cpp
+msgid "[EditAddIn]Chord Selector"
+msgstr "Seletor de Acorde"
+
+#: .\base\model\chordtrack.cpp
+msgid "[Engine]Chord Track"
+msgstr "Pista de Acordes"
+
+#: .\audioediting\audioedittask.cpp
+msgid "[AudioEdit]Chords"
+msgstr "Acordes"
+
+#: .\base\model\arrangertrack.cpp
+msgid "[ArrangerSections]Chorus"
+msgstr "Refrão"
+
+#: .\musicediting\patterncontrollane.cpp
+msgid "[MusicPatternPartEditor]Clear \"%(1)\" Automation"
+msgstr "Limpar Automação \"%(1)\""
+
+#: .\base\model\chordfunctions.cpp
+msgid "[Edit]Clear Chord Track"
+msgstr "Limpar Pista de Acordes"
+
+#: .\editing\chordeditlayer.cpp
+msgid "[Command]Clear Chord Track"
+msgstr "Limpar Pista de Acordes"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Clear Lane"
+msgstr "Limpar Linha"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Clear Lane"
+msgstr "Limpar Linha"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Clear Pattern"
+msgstr "Limpar Modelo"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Clear Pattern"
+msgstr "Limpar Modelo"
+
+#: .\automationediting\automationtrackcomponent.cpp
+msgid "[Automation]Click+Drag Parameter"
+msgstr "Clicar+Arrastar Parâmetro"
+
+#: .\video\videoclip.cpp
+msgid "[VideoClip]Codec not supported!"
+msgstr "Codec não suportado!"
+
+#: .\automation\automationfunctions.cpp
+msgid "[Engine:AutomationFunctions]Colorize Automation"
+msgstr "Colorizar Automação"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Colorize Event"
+msgstr "Colorizar Evento"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Colorize Events"
+msgstr "Colorizar Eventos"
+
+#: .\musicediting\synthdraghandler.cpp
+msgid "[SynthDrag]Combine"
+msgstr "Combinar"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Console"
+msgstr "Console"
+
+#: .\pool\mediapoolnodes.cpp
+msgid "[Command]Convert Files"
+msgstr "Converter Arquivos"
+
+#: .\pool\mediapoolnodes.cpp
+msgid "[PoolNodes]Convert Files..."
+msgstr "Converter Arquivos..."
+
+#: .\application\musicedit\musicpatternconverttask.cpp
+msgid "[MusicPartEdit]Convert Part to Pattern"
+msgstr "Converter Parte em Padrão"
+
+#: .\application\musicedit\musicpatternconverttask.cpp
+msgid "[MusicPartEdit]Convert Pattern to Part"
+msgstr "Converter Padrão em Parte"
+
+#: .\application\musicloop\loopextension.cpp
+msgid "[Browser]Convert to Audioloop"
+msgstr "Converter para Audioloop"
+
+#: .\application\musicloop\loopextension.cpp
+msgid "[Browser]Convert to Wave File"
+msgstr "Converter para Arquivo Wave"
+
+#: .\pool\mediapoolnodes.cpp
+msgid "[PoolNodes]Converting Files"
+msgstr "Convertendo Arquivos"
+
+#: .\musicediting\drumpitchscaleview.cpp
+msgid "[PitchEdit]Copy"
+msgstr "Copiar"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Copy"
+msgstr "Copiar"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Copy"
+msgstr "Copiar"
+
+#: .\musicediting\drumpitchscaleview.cpp
+msgid "[PitchEdit]Copy '%(1)' to '%(2)'"
+msgstr "Copiar '%(1)' para '%(2)'"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Copy Event"
+msgstr "Copiar Evento"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Copy Event Shared"
+msgstr "Copiar Evento Compartilhado"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Copy Events"
+msgstr "Copiar Eventos"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Copy Events Shared"
+msgstr "Copiar Eventos Compartilhados"
+
+#: .\pool\mediapoolcomponent.cpp
+msgid "[Command]Copy External Files"
+msgstr "Copiar Arquivos Externos"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Copy External Files..."
+msgstr "Copiar Arquivos Externos..."
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Copy Lane"
+msgstr "Copiar Linha"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Copy Lane"
+msgstr "Copiar Linha"
+
+#: .\editing\scratchpadcomponent.cpp
+msgid "[Command]Copy Loop Range to Scratch Pad"
+msgstr "Copiar Faixa do Loop ao Scratch Pad"
+
+#: .\editing\arrangerfunctions.cpp
+msgid "[Edit]Copy Loop Range to new Scratch Pad"
+msgstr "Copiar Faixa do Loop a um novo Scratch Pad"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Copy Pattern"
+msgstr "Copiar Padrão"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Copy Pattern"
+msgstr "Copiar Padrão"
+
+#: .\editing\arrangereditlayer.cpp
+msgid "[Command]Copy to new Scratch Pad"
+msgstr "Copiar para novo Scratch Pad"
+
+#: .\editing\arrangerfunctions.cpp
+msgid "[Edit]Copy to new Scratch Pad"
+msgstr "Copiar para novo Scratch Pad"
+
+#: .\pool\mediapoolfunctions.cpp
+msgid "[MediaPoolFunctions]Copying external files"
+msgstr "Copiando arquivos externos"
+
+#: .\base\documentrenamer.cpp
+msgid "[Documents]Could not rename %(1)!\n\nThe file is in use."
+msgstr "Não pode renomear %(1)!\n\nO arquivo está em uso."
+
+#: .\base\documentrenamer.cpp
+msgid "[Documents]Could not rename the folder %(1)!\n\nA file in this folder is in use."
+msgstr "Não pode renomear a pasta %(1)!\n\nUm arquivo da pasta está em uso."
+
+#: .\musicediting\patterncontrollane.cpp
+msgid "[MusicPatternPartEditor]Create \"%(1)\" Automation"
+msgstr "Criar Automação \"%(1)\""
+
+#: .\automationediting\paramdraghandler.cpp
+msgid "[Automation]Create \"%(1)\" Automation\non %(2)"
+msgstr "Criar \"%(1)\" Automação\nem %(2)"
+
+#: .\musicediting\partautomationdraghandler.cpp
+msgid "[Automation]Create \"%(1)\" Part Automation"
+msgstr "Criar \"%(1)\" Automação de Parte"
+
+#: .\editing\arrangerfunctions.cpp
+msgid "[Edit]Create Arranger Sections from Markers"
+msgstr "Criar Seções no Arranjador a partir dos Marcadores"
+
+#: .\application\audioedit\audiocrossfadetask.cpp
+msgid "[AudioEdit]Create Autofades"
+msgstr "Criar Autofades"
+
+#: .\automationediting\paramdraghandler.cpp
+msgid "[Automation]Create Automation"
+msgstr "Criar Automação"
+
+#: .\application\audioedit\audiocrossfadetask.cpp
+msgid "[AudioEdit]Create Crossfades"
+msgstr "Criar Crossfades"
+
+#: .\editing\arrangerfunctions.cpp
+msgid "[Edit]Create Markers from Arranger Sections"
+msgstr "Criar Marcadores a partir de Seções do Arranjador"
+
+#: .\editing\arrangereditlayer.cpp
+msgid "[Command]Create Markers from Sections"
+msgstr "Criar Marcadores a partir de Seções"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Create Ranges"
+msgstr "Criar Regiões"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Create Ranges on Tracks"
+msgstr "Criar Regiões nas Pistas"
+
+#: .\editing\arrangereditlayer.cpp
+msgid "[Command]Create Sections from Markers"
+msgstr "Criar Seções a partir de Marcadores"
+
+#: .\application\eventedit\croptask.cpp
+msgid "[Edit]Crop to Content"
+msgstr "Ajustar ao Conteúdo"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Date"
+msgstr "Data"
+
+#: .\musicediting\patterncontrollane.cpp
+msgid "[MusicPatternPartEditor]Delay"
+msgstr "Delay"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Delete"
+msgstr "Excluir"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Delete"
+msgstr "Excluir"
+
+#: .\pool\mediapoolnodes.cpp
+msgid "[PoolNodes]Delete Attachments"
+msgstr "Excluir Anexos"
+
+#: .\audio\audiobend\audiobendfunctions.cpp
+msgid "[Engine:AudioBendActions]Delete Bend Marker"
+msgstr "Excluir Marcador de Bend"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Delete Event"
+msgstr "Excluir Evento"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Delete Events"
+msgstr "Excluir Eventos"
+
+#: .\pool\mediapoolnodes.cpp
+msgid "[PoolNodes]Delete File permanently"
+msgstr "Excluir Arquivo permanentemente"
+
+#: .\editing\arrangereditlayer.cpp
+msgid "[Edit]Delete Range"
+msgstr "Excluir Faixa"
+
+#: .\editing\arrangereditlayer.cpp
+msgid "[Command]Delete Range"
+msgstr "Excluir Faixa"
+
+#: .\editing\scratchpadcomponent.cpp
+msgid "[Command]Delete Scratch Pad"
+msgstr "Excluir Scratch Pad"
+
+#: .\editing\scratchpadfunctions.cpp
+msgid "[ScratchPad]Delete Scratch Pad"
+msgstr "Excluir Scratch Pad"
+
+#: .\editing\insertsilencetask.cpp .\editing\tracklistcomponent.cpp
+msgid "[Edit]Delete Time"
+msgstr "Excluir Tempo"
+
+#: .\editing\insertsilencetask.cpp .\editing\tracklistcomponent.cpp
+msgid "[Edit]Delete Time in Loop"
+msgstr "Excluir Tempo no Loop"
+
+#: .\musicediting\patternbankcomponent.cpp
+msgid "[Command]Delete Variation"
+msgstr "Apagar Variação"
+
+#: .\pool\mediapoolfunctions.cpp
+msgid "[MediaPoolFunctions]Deleting recorded files"
+msgstr "Excluindo arquivos gravados"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Deselect All on Tracks"
+msgstr "Remover a Seleção de Tudo nas Pistas"
+
+#: .\application\audioedit\audiochordtasks.cpp
+msgid "[AudioEdit]Detect Chords"
+msgstr "Detectar Acordes"
+
+#: .\application\musicedit\musicchordtasks.cpp
+msgid "[MusicPartEdit]Detect Key Signature"
+msgstr "Detectar Clave"
+
+#: .\application\audioedit\audiobendtasks.cpp
+msgid "[AudioEdit]Detect Transients"
+msgstr "Detecção de Transientes"
+
+#: .\automationediting\automationdialog.cpp
+msgid "[Automation]Device"
+msgstr "Dispositivo"
+
+#: .\editing\trackcontroller.cpp
+msgid "[Command]Disable"
+msgstr "Desativar"
+
+#: .\audio\eventeffects\audiofxfunctions.cpp
+msgid "[Engine]Disable Event FX"
+msgstr "Desligar FX de Evento"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Disable Selected Tracks"
+msgstr "Desabilitar Pistas Selecionadas"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Disable Track"
+msgstr "Desativar Pista"
+
+#: .\automationediting\automationtrackcomponent.cpp
+msgid "[Automation]Display: Off"
+msgstr "Exibir: Desl."
+
+#: .\application\audioedit\audioparttasks.cpp
+msgid "[AudioEdit]Dissolve Audio Part"
+msgstr "Dissolver Parte de Áudio"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Dissolve Group"
+msgstr "Dissolver Grupo"
+
+#: .\editing\editgroupscomponent.cpp
+msgid "[Command]Dissolve Group"
+msgstr "Dissolver Grupo"
+
+#: .\musicediting\synthdraghandler.cpp
+msgid "[SynthDrag]Do you want to add a new instrument, load the preset or combine the instrument %(1)?"
+msgstr "Você deseja adicionar um novo instrumento, carregar o preset ou combinar o instrumento %(1)?"
+
+#: .\musicediting\synthdraghandler.cpp
+msgid "[SynthDrag]Do you want to combine the instrument %(1)?"
+msgstr "Você deseja combinar o instrumento %(1)?"
+
+#: .\pool\mediapoolfunctions.cpp
+msgid "[MediaPoolFunctions]Do you want to copy these external files to the Media Folder?"
+msgstr "Você deseja copiar estes arquivos externos para a pasta de mídia?"
+
+#: .\audio\audiocache.cpp
+msgid "[AudioCache]Do you want to delete all unused temporary audio files in cache folder?"
+msgstr "Deseja excluir os arquivos temporários de áudio não utilizados da pasta de cache?"
+
+#: .\pool\mediapoolfunctions.cpp
+msgid "[MediaPoolFunctions]Do you want to delete the files that were recorded or created since the last time you saved?"
+msgstr "Deseja excluir os arquivos gravados ou criados desde o último salvamento?"
+
+#: .\musicediting\synthdraghandler.cpp
+msgid "[SynthDrag]Do you want to load the preset or combine the instrument %(1)?"
+msgstr "Você deseja carregar o preset ou combinar o instrumento %(1)?"
+
+#: .\pool\mediapoolnodes.cpp
+msgid "[PoolNodes]Do you want to remove all occurrences of these clips?"
+msgstr "Deseja remover todas as ocorrências desses clipes?"
+
+#: .\pool\mediapoolnodes.cpp
+msgid "[PoolNodes]Do you want to remove all occurrences of this clip?"
+msgstr "Deseja remover todas as ocorrências deste clipe?"
+
+#: .\musicediting\musicenvelopedialog.cpp
+msgid "[Automation]Do you want to remove these parameters from all parts?"
+msgstr "Deseja remover estes parâmetros de todas as partes?"
+
+#: .\musicediting\patterneditviews.cpp
+msgid "[MusicPatternPartEditor]Do you want to remove these parameters?"
+msgstr "Você deseja remover estes parâmetros?"
+
+#: .\pool\mediapoolfunctions.cpp
+msgid "[MediaPoolFunctions]Do you want to remove these unused files?"
+msgstr "Deseja remover estes arquivos não utilizados?"
+
+#: .\musicediting\musicenvelopedialog.cpp
+msgid "[Automation]Do you want to remove this parameter from all parts?"
+msgstr "Deseja remover este parâmetro de todas as partes?"
+
+#: .\musicediting\patterneditviews.cpp
+msgid "[MusicPatternPartEditor]Do you want to remove this parameter?"
+msgstr "Você deseja remover este parâmetro?"
+
+#: .\musicediting\synthdraghandler.cpp
+msgid "[SynthDrag]Do you want to replace or combine the instrument %(1)?"
+msgstr "Você deseja repor ou combinar o instrumento %(1)?"
+
+#: .\musicediting\synthdraghandler.cpp
+msgid "[SynthDrag]Do you want to replace the instrument %(1)?"
+msgstr "Deseja substituir o instrumento %(1)?"
+
+#: .\editing\mediatrackcontroller.cpp
+msgid "[MediaTrack]Don't follow"
+msgstr "Não seguir"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Double Lane Resolution"
+msgstr "Dupla Resolução de Linha"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Double Lane Resolution"
+msgstr "Dupla Resolução de Linha"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Double Pattern Resolution"
+msgstr "Dupla Resolução de Padrão"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Double Resolution"
+msgstr "Dupla Resolução"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Double Resolution"
+msgstr "Dupla Resolução"
+
+#: .\web\webeventpainter.cpp
+msgid "[Engine]Download finished"
+msgstr "Download finalizado"
+
+#: .\web\webeventpainter.cpp
+msgid "[Engine]Downloading..."
+msgstr "Efetuando Download..."
+
+#: .\musicediting\drumpitchscaleview.cpp
+msgid "[PitchEdit]Drag to Move / Copy"
+msgstr "Arraste para Mover / Copiar"
+
+#: .\audio\recorddiskspaceobserver.cpp
+msgid "[RecordDiskSpaceObserver]Drive full"
+msgstr "Disco cheio"
+
+#: .\audio\audiotrackrecorder.cpp
+msgid "[Record]Dropouts occurred during record. The drive used for recording might not be fast enough."
+msgstr "Ocorreram falhas na gravação. O drive usado para a gravação pode não ser rápido o suficiente."
+
+#: .\music\musicpatternclip.cpp
+msgid "[MusicPatternClip]Drum Pattern"
+msgstr "Padrão de Bateria"
+
+#: .\musicediting\musiceditor.cpp
+msgid "[Command]Drum View"
+msgstr "Vista da Bateria"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Duplicate"
+msgstr "Duplicar"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Duplicate"
+msgstr "Duplicar"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Duplicate Layer"
+msgstr "Duplicar Camada"
+
+#: .\editing\tracklayercomponent.cpp
+msgid "[TrackLayers]Duplicate Layer"
+msgstr "Duplicar Camada"
+
+#: .\editing\tracklayercomponent.cpp
+msgid "[Command]Duplicate Layer"
+msgstr "Duplicar Camada"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Duplicate Layers"
+msgstr "Duplicar Camadas"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Duplicate Pattern"
+msgstr "Duplicar Padrão"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Duplicate Pattern"
+msgstr "Duplicar Padrão"
+
+#: .\musicediting\patternbankcomponent.cpp
+msgid "[PatternSequence]Duplicate Pattern Variation"
+msgstr "Duplicar Variação de Padrão"
+
+#: .\editing\scratchpadcomponent.cpp
+msgid "[Command]Duplicate Scratch Pad"
+msgstr "Duplicar Scratch Pad"
+
+#: .\editing\scratchpadfunctions.cpp
+msgid "[ScratchPad]Duplicate Scratch Pad"
+msgstr "Duplicar Scratch Pad"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Duplicate Steps"
+msgstr "Duplicar Passos"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Duplicate Steps"
+msgstr "Duplicar Passos"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Duplicate Track"
+msgstr "Duplicação de Pista"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Edit]Duplicate Track"
+msgstr "Duplicação de Pista"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Duplicate Track (complete)"
+msgstr "Duplicar Pista (completo)"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Duplicate Tracks"
+msgstr "Duplicação de Pistas"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Edit]Duplicate Tracks"
+msgstr "Duplicação de Pistas"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Duplicate Tracks (complete)"
+msgstr "Duplicar Pistas (completo)"
+
+#: .\musicediting\patternbankcomponent.cpp
+msgid "[Command]Duplicate Variation"
+msgstr "Duplicar Variação"
+
+#: .\audioediting\audiobendeditlayer.cpp .\editing\chordeditlayer.cpp
+#: .\editing\eventsnapper.cpp .\editing\tracklistcomponent.cpp
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Edit"
+msgstr "Edição"
+
+#: .\audioediting\audioedithandler.cpp
+msgid "[AudioEditHandler]Edit Fade Length"
+msgstr "Editar Duração do Fade"
+
+#: .\audioediting\audioedithandler.cpp
+msgid "[AudioEditHandler]Edit Fade Length & Type"
+msgstr "Editar Tipo e Duração do Fade"
+
+#: .\audioediting\audioedithandler.cpp
+msgid "[AudioEditHandler]Edit Fade Type"
+msgstr "Editar Tipo de Fade"
+
+#: .\audioediting\audioedithandler.cpp
+msgid "[AudioEditHandler]Edit Level"
+msgstr "Editar Nível"
+
+#: .\editing\markereditlayer.cpp
+msgid "[Edit]Edit Name"
+msgstr "Editar Nome"
+
+#: .\musicediting\musiceditextension.cpp
+msgid "[Command]Edit Next Pattern"
+msgstr "Editar o Próximo Padrão"
+
+#: .\musicediting\patterncontrollane.cpp
+msgid "[MusicPatternPartEditor]Edit Pattern Automation \"%(1)\""
+msgstr "Editar a Automação de Padrão \"%(1)\""
+
+#: .\musicediting\patterneditcomponent.cpp .\musicediting\patterneditviews.cpp
+msgid "[MusicPatternPartEditor]Edit Pattern Step"
+msgstr "Editar Passo do Padrão"
+
+#: .\musicediting\musiceditextension.cpp
+msgid "[Command]Edit Previous Pattern"
+msgstr "Editar Padrão Anterior"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Edit Step Accent"
+msgstr "Editar Acentuação do Step"
+
+#: .\editing\trackcontroller.cpp
+msgid "[Track]Edit Track"
+msgstr "Editar Pista"
+
+#: .\automationediting\automationtracklistcomponent.cpp
+msgid "[Automation]Edit Value"
+msgstr "Editar Valor"
+
+#: .\editing\trackeditor.cpp
+msgid "[Command]Editor"
+msgstr "Editor"
+
+#: .\editing\tracklist.cpp
+msgid "[TrackInfo]Empty Track"
+msgstr "Pista Vazia"
+
+#: .\musicediting\musicsteprecorder.cpp
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Enable"
+msgstr "Ativar"
+
+#: .\audio\eventeffects\audiofxfunctions.cpp
+msgid "[Engine]Enable Event FX"
+msgstr "Ativar FX de Evento"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Enable Selected Tracks"
+msgstr "Habilitar Pistas Selecionadas"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Enable Track"
+msgstr "Ativar Pista"
+
+#: .\base\model\markertrack.cpp
+msgid "[Marker]End"
+msgstr "Fim"
+
+#: .\base\envelopes\enveloperegion.cpp
+msgid "[Engine]Envelopes"
+msgstr "Envelopes"
+
+#: .\editing\tracklist.cpp
+msgid "[TrackInfo]Envelopes: %(1)"
+msgstr "Envelopes: %(1)"
+
+#: .\musicediting\patterneditviews.cpp
+msgid "[MusicPatternPartEditor]Erase"
+msgstr "Apagar"
+
+#: .\editing\eventeditmodel.cpp
+msgid "[Events]Event"
+msgstr "Evento"
+
+#: .\editing\eventinspector.cpp
+msgid "[EventInspector]Event Color"
+msgstr "Cor do Evento"
+
+#: .\audioediting\audioeditextension.cpp
+msgid "[Engine]Event FX"
+msgstr "FX Evento"
+
+#: .\editing\tracklist.cpp
+msgid "[TrackInfo]Events: %(1)"
+msgstr "Eventos: %(1)"
+
+#: .\musicediting\drumpitchscaleview.cpp
+msgid "[PitchEdit]Exchange"
+msgstr "Trocar"
+
+#: .\musicediting\drumpitchscaleview.cpp
+msgid "[PitchEdit]Exchange '%(1)' and '%(2)'"
+msgstr "Trocar '%(1)' e '%(2)'"
+
+#: .\editing\trackcontroller.cpp
+msgid "[Track]Expand Envelopes"
+msgstr "Expandir Envelopes"
+
+#: .\editing\trackcontroller.cpp
+msgid "[Command]Expand Envelopes"
+msgstr "Expandir Envelopes"
+
+#: .\editing\foldertrackcomponent.cpp
+msgid "[Track]Expand Folder Track"
+msgstr "Expandir Pasta de Pistas"
+
+#: .\editing\foldertrackcomponent.cpp
+msgid "[Command]Expand Folder Track"
+msgstr "Expandir Pasta de Pistas"
+
+#: .\editing\trackcontroller.cpp
+msgid "[Track]Expand Layers"
+msgstr "Expandir Camadas"
+
+#: .\editing\trackcontroller.cpp
+msgid "[Command]Expand Layers"
+msgstr "Expandir Camadas"
+
+#: .\audioediting\audioedithandler.cpp
+msgid "[AudioEditHandler]Exponential"
+msgstr "Exponencial"
+
+#: .\application\musicloop\loopedittasks.cpp
+msgid "[Engine]Export Audioloop"
+msgstr "Exportar Loop de Áudio"
+
+#: .\application\musicloop\loopedittasks.cpp
+msgid "[Engine]Export Musicloop"
+msgstr "Exportar Loop Musical"
+
+#: .\application\musicedit\musicexporttask.cpp
+msgid "[MusicPartEdit]Export Parts to MIDI File"
+msgstr "Exportar Partes para Arquivo MIDI"
+
+#: .\application\eventedit\exporttask.cpp
+msgid "[Edit]Export Selection"
+msgstr "Exportar Seleção"
+
+#: .\videoediting\videodraghandler.cpp
+msgid "[VideoEdit]Extract Audio to %(1):"
+msgstr "Extrair Áudio para %(1):"
+
+#: .\application\audioedit\audiochordtasks.cpp
+msgid "[AudioEdit]Extract to Chord Track"
+msgstr "Extrair para Pista de Acordes"
+
+#: .\application\musicedit\musicchordtasks.cpp
+msgid "[MusicPartEdit]Extract to Chord Track"
+msgstr "Extrair para Pista de Acordes"
+
+#: .\videoediting\audioextractor.cpp
+msgid "[Video]Extracting Audio"
+msgstr "Extraindo Áudio"
+
+#: .\application\audioedit\audiocrossfadetask.cpp
+msgid "[AudioEdit]Fade In to Cursor"
+msgstr "Fade In para o Cursor"
+
+#: .\application\audioedit\audiocrossfadetask.cpp
+msgid "[AudioEdit]Fade Out from Cursor"
+msgstr "Fade Out a partir do Cursor"
+
+#: .\audioediting\audioedithandler.cpp
+msgid "[AudioEditHandler]Fade-in"
+msgstr "Fade-in"
+
+#: .\audioediting\audioedithandler.cpp
+msgid "[AudioEditHandler]Fade-out"
+msgstr "Fade-out"
+
+#: .\audio\audioeventtheme.cpp
+msgid "[Engine]File not found!"
+msgstr "Arquivo não encontrado!"
+
+#: .\application\audioedit\audiocrossfadetask.cpp
+msgid "[AudioEdit]Fill Gaps"
+msgstr "Preencher Lacunas"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Fill Lane"
+msgstr "Preencher Linha"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Fill Lane"
+msgstr "Preencher Linha"
+
+#: .\audioediting\audioedithandler.cpp
+msgid "[AudioEditHandler]Fine"
+msgstr "Preciso"
+
+#: .\application\audioedit\audiobendaddin.cpp
+msgid "[Engine]Finishing"
+msgstr "Finalizando"
+
+#: .\editing\eventeditmodel.cpp
+msgid "[Command]First Event"
+msgstr "Primeiro Evento"
+
+#: .\editing\eventeditmodel.cpp
+msgid "[Command]First Event Extend"
+msgstr "Extensão do Primeiro Evento"
+
+#: .\editing\eventeditmodel.cpp
+msgid "[Command]First Track"
+msgstr "Primeira Pista"
+
+#: .\editing\eventeditmodel.cpp
+msgid "[Command]First Track Extend"
+msgstr "Extensão da Primeira Pista"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Fit Timeline to Contents"
+msgstr "Ajustar Linha do Tempo ao Conteúdo"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Fit Timeline to Contents"
+msgstr "Ajustar Linha do Tempo ao Conteúdo"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Flat"
+msgstr "A-Z"
+
+#: .\editing\mediatrackcontroller.cpp
+msgid "[MediaTrack]Follow"
+msgstr "Seguir"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Format"
+msgstr "Formato"
+
+#: .\audio\audiogainenvelope.cpp
+msgid "[Engine:AudioEnvelopeActions]Gain"
+msgstr "Ganho"
+
+#: .\editing\eventeditmodel.cpp
+msgid "[Events]General operations for events"
+msgstr "Operações gerais para eventos"
+
+#: .\editing\arrangereditlayer.cpp
+msgid "[Command]Goto Next Section"
+msgstr "Ir à Próxima Seção"
+
+#: .\editing\arrangereditlayer.cpp
+msgid "[Command]Goto Previous Section"
+msgstr "Ir à Seção Anterior"
+
+#: .\editing\tracklistinspector.cpp
+msgid "[Engine]Group"
+msgstr "Grupo"
+
+#: .\editing\editgroupscomponent.cpp
+msgid "[EditGroups]Group Assignment"
+msgstr "Atribuição de Grupo"
+
+#: .\editing\editgroupscomponent.cpp
+msgid "[EditGroups]Group Selected Tracks"
+msgstr "Agrupar Pistas Selecionadas"
+
+#: .\editing\editgroupscomponent.cpp
+msgid "[Command]Group Selected Tracks"
+msgstr "Agrupar Pistas Selecionadas"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Group Tracks"
+msgstr "Agrupar Pistas"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Half Lane Resolution"
+msgstr "Meia Resolução de Linha"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Half Lane Resolution"
+msgstr "Meia Resolução de Linha"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Half Pattern Resolution"
+msgstr "Meia Resolução de Padrão"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Half Resolution"
+msgstr "Meia Resolução"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Half Resolution"
+msgstr "Meia Resolução"
+
+#: .\editing\trackcontroller.cpp
+msgid "[Command]Hide"
+msgstr "Esconder"
+
+#: .\automationediting\automationtrackcomponent.cpp
+msgid "[Automation]Hide \"%(1)\""
+msgstr "Ewsconder \"%(1)\""
+
+#: .\editing\tracklayercomponent.cpp
+msgid "[TrackLayers]Hide Layer"
+msgstr "Esconder Camada"
+
+#: .\editing\trackcontroller.cpp
+msgid "[Track]Hide Track"
+msgstr "Esconder Pista"
+
+#: .\musicediting\drumpitchlistmanager.cpp
+msgid "[DrumPitchNameSetup]Hide Unused"
+msgstr "Esconder Não Utilizados"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Image"
+msgstr "Imagem"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Import File"
+msgstr "Importar Arquivo"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Import Files"
+msgstr "Importar Arquivos"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Import Files into Pool:"
+msgstr "Importar Arquivos ao Pool:"
+
+#: .\editing\eventdraghandler.cpp
+msgid "[Edit]Import Tempo"
+msgstr "Importar Andamento"
+
+#: .\video\videofunctions.cpp
+msgid "[Video]Import Video"
+msgstr "Importar Vídeo"
+
+#: .\videoediting\videodraghandler.cpp
+msgid "[VideoEdit]Import Video"
+msgstr "Importar Vídeo"
+
+#: .\videoediting\videodraghandler.cpp
+msgid "[VideoEdit]Import Video and extract Audio"
+msgstr "Importar Vídeo e extrair Áudio"
+
+#: .\videoediting\videodraghandler.cpp
+msgid "[VideoEdit]Import Video and extract Audio to %(1):"
+msgstr "Importar Vídeo e extrair Áudio para %(1):"
+
+#: .\videoediting\videodraghandler.cpp
+msgid "[VideoEdit]Import Video:"
+msgstr "Importar Vídeo:"
+
+#: .\audio\audiocliphandler.cpp
+msgid "[AudioClipImporter]Importing..."
+msgstr "Importando..."
+
+#: .\musicediting\musicrecordcomponent.cpp
+msgid "[Command]Input Quantize"
+msgstr "Quantização de Entrada"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Insert"
+msgstr "Inserir"
+
+#: .\musicediting\patterneditviews.cpp
+msgid "[MusicPatternPartEditor]Insert"
+msgstr "Inserção"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Insert Arranger Section"
+msgstr "Inserir Seção do Arranjador"
+
+#: .\audio\audiobend\audiobendfunctions.cpp
+msgid "[Engine:AudioBendActions]Insert Bend Marker"
+msgstr "Inserir Marcador de Bend"
+
+#: .\audioediting\audiobendeditlayer.cpp
+msgid "[Command]Insert Bend Marker"
+msgstr "Inserir Marcador de Bend"
+
+#: .\base\model\chordfunctions.cpp
+msgid "[Edit]Insert Chord"
+msgstr "Inserir Acorde"
+
+#: .\musicediting\musiceditextension.cpp
+msgid "[Edit]Insert Instrument"
+msgstr "Inserir Instrumento"
+
+#: .\musicediting\synthdraghandler.cpp
+msgid "[SynthDrag]Insert Instrument"
+msgstr "Inserir Instrumento"
+
+#: .\musicediting\synthdraghandler.cpp
+msgid "[SynthDrag]Insert Instrument on %(1):"
+msgstr "Inserir Instrumento em %(1):"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Insert Marker"
+msgstr "Inserir Marcador"
+
+#: .\editing\markercomponent.cpp
+msgid "[Marker]Insert Marker"
+msgstr "Inserir Marcador"
+
+#: .\editing\tracklisteditmodel2.cpp
+msgid "[Events]Insert Points"
+msgstr "Inserir Pontos"
+
+#: .\musicediting\musicsteprecorder.cpp
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Insert Rest"
+msgstr "Inserir Intervalo/Pausa"
+
+#: .\editing\insertsilencetask.cpp .\editing\tracklistcomponent.cpp
+msgid "[Edit]Insert Silence"
+msgstr "Inserir Silêncio"
+
+#: .\editing\insertsilencetask.cpp .\editing\tracklistcomponent.cpp
+msgid "[Edit]Insert Silence in Loop"
+msgstr "Inserir Silêncio no Loop"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Edit]Insert Track"
+msgstr "Inserir Pista"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Edit]Insert Tracks"
+msgstr "Inserir Pistas"
+
+#: .\editing\eventdraghandler.cpp
+msgid "[Edit]Insert on Same Track"
+msgstr "Inserir na mesma pista"
+
+#: .\musicediting\patterneditviews.cpp
+msgid "[MusicPatternPartEditor]Insert with Accent"
+msgstr "Inserir com Acentuação"
+
+#: .\editing\monitorfollower.cpp
+msgid "[Command]Instrument Input follows Selection"
+msgstr "Entrada de Instrumento segue Seleção"
+
+#: .\musicediting\musicparttask.cpp
+msgid "[MusicPartEdit]Instrument Parts"
+msgstr "Partes de Instrumento"
+
+#: .\application\musicloop\musicloopdraghandler.cpp
+msgid "[MusicLoopDragHandler]Instrument: %(1)"
+msgstr "Instrumento: %(1)"
+
+#: .\base\model\arrangertrack.cpp
+msgid "[ArrangerSections]Intro"
+msgstr "Introdução"
+
+#: .\musicediting\synthdraghandler.cpp
+msgid "[SynthDrag]Keep"
+msgstr "Manter"
+
+#: .\musicediting\musiccontrollane.cpp
+msgid "[Automation]Key Switches"
+msgstr "Mudanças de Tom"
+
+#: .\editing\tracklist.cpp
+msgid "[TrackHeights]Large"
+msgstr "Grande"
+
+#: .\editing\eventeditmodel.cpp
+msgid "[Command]Last Event"
+msgstr "Último Evento"
+
+#: .\editing\eventeditmodel.cpp
+msgid "[Command]Last Event Extend"
+msgstr "Extensão do Último Evento"
+
+#: .\editing\eventeditmodel.cpp
+msgid "[Command]Last Track"
+msgstr "Última Pista"
+
+#: .\editing\eventeditmodel.cpp
+msgid "[Command]Last Track Extend"
+msgstr "Extensão da Última Pista"
+
+#: .\automationediting\automationtracklistcomponent.cpp
+msgid "[Command]Latch"
+msgstr "Fixa"
+
+#: .\base\model\eventlayer.cpp
+msgid "[Engine]Layer"
+msgstr "Camada"
+
+#: .\base\model\eventlayer.cpp
+msgid "[Engine]Layers"
+msgstr "Camadas"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Length"
+msgstr "Duração"
+
+#: .\editing\eventedithandler.cpp
+msgid "[EventEditHandler]Length: %(1)"
+msgstr "Duração: %(1)"
+
+#: .\editing\eventedithandler.cpp
+msgid "[EventEditHandler]Length: %(1)  Speedup: %(2)"
+msgstr "Duração: %(1)  Aumento: %(2)"
+
+#: .\audioediting\audioedithandler.cpp
+msgid "[AudioEditHandler]Linear"
+msgstr "Linear"
+
+#: .\musicediting\synthdraghandler.cpp
+msgid "[SynthDrag]Load"
+msgstr "Carregar"
+
+#: .\musicediting\synthdraghandler.cpp
+msgid "[SynthDrag]Load Instrument Preset"
+msgstr "Carregar Preset de Instrumento"
+
+#: .\musicediting\musicpatterneditor.cpp
+msgid "[PatternEditor]Load Pattern Preset"
+msgstr "Carregar Preset do Padrão"
+
+#: .\music\musicpatternclip.cpp
+msgid "[MusicPatternClip]Loading Pattern: %(1)"
+msgstr "Carregando Padrão: %(1)"
+
+#: .\music\musicclip.cpp
+msgid "[MusicClip]Loading Performance: %(1)"
+msgstr "Carregando Performance: %(1)"
+
+#: .\musicediting\patterneditviews.cpp
+msgid "[MusicPatternPartEditor]Locate"
+msgstr "Localizar"
+
+#: .\pool\mediapoolnodes.cpp
+msgid "[Command]Locate File"
+msgstr "Localizar Arquivo"
+
+#: .\pool\locatefilescomponent.cpp
+msgid "[LocateFiles]Locate File..."
+msgstr "Localizar Arquivo..."
+
+#: .\pool\mediapoolnodes.cpp
+msgid "[PoolNodes]Locate File..."
+msgstr "Localizar Arquivo..."
+
+#: .\pool\locatefilescomponent.cpp
+msgid "[LocateFiles]Locate Missing Files"
+msgstr "Localizar Arquivos Perdidos"
+
+#: .\pool\mediapoolcomponent.cpp
+msgid "[Command]Locate Missing Files"
+msgstr "Localizar Arquivos Perdidos"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Locate Missing Files..."
+msgstr "Localizar Arquivos Perdidos..."
+
+#: .\pool\mediapoolnodes.cpp
+msgid "[PoolNodes]Locate file \"%(1)\""
+msgstr "Localizar arquivo \"%(1)\""
+
+#: .\pool\locatefilescomponent.cpp
+msgid "[LocateFiles]Located %(1) files"
+msgstr "%(1) arquivos localizados"
+
+#: .\pool\locatefilescomponent.cpp
+msgid "[LocateFiles]Located file: %(1)"
+msgstr "Arquivo localizado: %(1)"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Location"
+msgstr "Local"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Lock Event"
+msgstr "Bloquear Evento"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Lock Events"
+msgstr "Bloquear Eventos"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Lock Track"
+msgstr "Bloquear Pista"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Lock Tracks"
+msgstr "Bloquear Pistas"
+
+#: .\editing\eventdraghandler.cpp
+msgid "[Edit]Locked: can't drag to this track"
+msgstr "Bloqueado: Não é possível arrastar para essa pista"
+
+#: .\editing\eventdraghandler.cpp
+msgid "[Edit]Locked: can't move this event"
+msgstr "Bloqueado: Não é possível arrastar para esse evento"
+
+#: .\audioediting\audioedithandler.cpp
+msgid "[AudioEditHandler]Logarithmic"
+msgstr "Logaritmico"
+
+#: .\pool\mediapreviewcomponent.cpp
+msgid "[MediaPreview]Loop"
+msgstr "Loop"
+
+#: .\musicediting\musicrecordcomponent.cpp
+msgid "[RecordMode]Loop Record Mix"
+msgstr "Gravação em Loop - Mixagem"
+
+#: .\musicediting\musicrecordcomponent.cpp
+msgid "[Command]Loop Record Mix"
+msgstr "Gravação em Loop - Mixagem"
+
+#: .\musicediting\musicrecordcomponent.cpp
+msgid "[RecordMode]Loop Record Takes"
+msgstr "Gravação em Loop - Takes"
+
+#: .\musicediting\musicrecordcomponent.cpp
+msgid "[Command]Loop Record Takes"
+msgstr "Gravação em Loop - Takes"
+
+#: .\automationediting\automationtrackcomponent.cpp
+#: .\automationediting\automationtracklistcomponent.cpp
+#: .\musicediting\musiccontrollane.cpp .\musicediting\patterncontrollane.cpp
+msgid "[Command]Manage Parameters"
+msgstr "Administrar Parâmetros"
+
+#: .\audioediting\audioinspector.cpp
+msgid "[TempoFormatter]Map"
+msgstr "Mapa"
+
+#: .\base\media\mediamarker.cpp
+msgid "[Engine:MediaMarker]Marker"
+msgstr "Marcador"
+
+#: .\editing\markercomponent.cpp
+msgid "[Command]Marker"
+msgstr "Marcador"
+
+#: .\editing\markercomponent.cpp
+msgid "[Marker]Marker %(1)"
+msgstr "Marcador %(1)"
+
+#: .\base\model\markertrack.cpp
+msgid "[Engine]Marker Track"
+msgstr "Pista de Marcadores"
+
+#: .\pool\mediapoolcomponent.cpp .\pool\mediapoolnodes.cpp
+msgid "[Command]Media"
+msgstr "Mídia"
+
+#: .\editing\tracklist.cpp
+msgid "[TrackHeights]Medium"
+msgstr "Médio"
+
+#: .\music\musicpatternclip.cpp
+msgid "[MusicPatternClip]Melodic Pattern"
+msgstr "Padrão Melódico"
+
+#: .\application\musicedit\musicmergetask.cpp
+msgid "[MusicPartEdit]Merge Events"
+msgstr "Unificar Eventos"
+
+#: .\automationediting\automationtrackcomponent.cpp
+msgid "[Automation]Merge VCA Automation"
+msgstr "Unificar Automação VCA"
+
+#: .\automationediting\automationtrackcomponent.cpp
+msgid "[TrackEdit]Merge VCA Automation"
+msgstr "Unificar Automação VCA"
+
+#: .\application\audioedit\audioparttasks.cpp
+msgid "[AudioEdit]Merge to Audio Part"
+msgstr "Fundir em Parte de Áudio"
+
+#: .\application\musicloop\loopextension.cpp
+msgid "[Browser]Merge to Stereo File"
+msgstr "Fundir em Arquivo Estéreo"
+
+#: .\editing\tracklist.cpp
+msgid "[TrackHeights]Minimal"
+msgstr "Mínimo"
+
+#: .\pool\locatefilescomponent.cpp
+msgid "[LocateFiles]Missing Clips"
+msgstr "Clips Perdidos"
+
+#: .\application\musicloop\musicloopdraghandler.cpp
+msgid "[MusicLoopDragHandler]Missing Instrument: %(1)"
+msgstr "Instrumento Perdido: %(1)"
+
+#: .\pool\locatefilescomponent.cpp
+msgid "[LocateFiles]Missing Packages"
+msgstr "Pacotes Perdidos"
+
+#: .\pool\locatefilescomponent.cpp
+msgid "[LocateFiles]Missing in Plug-Ins"
+msgstr "Perdidos em Plug-Ins"
+
+#: .\automationediting\automationdialog.cpp
+msgid "[Automation]Mode"
+msgstr "Modo"
+
+#: .\musicediting\patterncontrollane.cpp
+msgid "[MusicPatternPartEditor]Modify Automation"
+msgstr "Modificar Automação"
+
+#: .\base\model\chordfunctions.cpp
+msgid "[Edit]Modify Chord"
+msgstr "Modifica Acorde"
+
+#: .\audio\audiobend\audiobendfunctions.cpp
+msgid "[Engine:AudioBendActions]Modify Marker Threshold"
+msgstr "Modificar Threshold do Marcador"
+
+#: .\audio\audioactions.cpp
+msgid "[Engine:AudioActions]Modify Speed"
+msgstr "Modificar Velocidade"
+
+#: .\audio\audioactions.cpp
+msgid "[Engine:AudioActions]Modify Tempo"
+msgstr "Modificar Tempo"
+
+#: .\audio\audioactions.cpp
+msgid "[Engine:AudioActions]Modify Tune"
+msgstr "Modificar Afinação"
+
+#: .\audioediting\audioretunecomponent.cpp
+msgid "[Tune Mode]Modify Tune Mode"
+msgstr "Modificar Modo de Afinação"
+
+#: .\music\musicpartactions.cpp
+msgid "[Engine:MusicActions]Modify Velocity"
+msgstr "Modificar Intensidade"
+
+#: .\video\videofunctions.cpp
+msgid "[Video]Modify Video Offset"
+msgstr "Modificar Deslocamento do Vídeo"
+
+#: .\audio\audioactions.cpp
+msgid "[Engine:AudioActions]Modify Volume Curve"
+msgstr "Modificar Curva de Volume"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Monitor"
+msgstr "Monitor"
+
+#: .\musicediting\drumpitchscaleview.cpp
+msgid "[PitchEdit]Move"
+msgstr "Mover"
+
+#: .\automationediting\paramdraghandler.cpp
+msgid "[Automation]Move \"%(1)\" Automation"
+msgstr "Mover \"%(1)\" Automação"
+
+#: .\automationediting\paramdraghandler.cpp
+msgid "[Automation]Move \"%(1)\" Automation\nfrom %(3) to %(2)"
+msgstr "Mover \"%(1)\" Automação\nde %(3) para %(2)"
+
+#: .\automationediting\paramdraghandler.cpp
+msgid "[Automation]Move \"%(1)\" Automation\nto %(2)"
+msgstr "Mover \"%(1)\" Automação\nde %(2)"
+
+#: .\musicediting\drumpitchscaleview.cpp
+msgid "[PitchEdit]Move '%(1)' to '%(2)'"
+msgstr "Mover '%(1)' para '%(2)'"
+
+#: .\editing\arrangerfunctions.cpp
+msgid "[Edit]Move Arranger Section only"
+msgstr "Mover Somente Seção do Arranjador"
+
+#: .\automation\automationfunctions.cpp
+msgid "[Engine:AutomationFunctions]Move Automation"
+msgstr "Mover Automação"
+
+#: .\automationediting\automationeditextension.cpp
+msgid "[Automation]Move Automation to \"%(1)\""
+msgstr "Mover Automação para \"%(1)\""
+
+#: .\audio\audiobend\audiobendfunctions.cpp
+msgid "[Engine:AudioBendActions]Move Bend Marker"
+msgstr "Mover Marcador de Bend"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Move Event"
+msgstr "Mover Evento"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Move Events"
+msgstr "Mover Eventos"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Move Layer"
+msgstr "Mover Camada"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Move Layers"
+msgstr "Mover Camadas"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Move Track"
+msgstr "Mover Pista"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Move Track into Folder"
+msgstr "Mover Pista para Pasta"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Move Track into Folder %(1)"
+msgstr "Mover Pista para Pasta %(1)"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Move Track out of Folder"
+msgstr "Mover Pista para fora da Pasta"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Move Tracks"
+msgstr "Mover Pistas"
+
+#: .\editing\trackdraghandler.cpp
+msgid "[TrackDragHandler]Move not possible"
+msgstr "Não é possível mover"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Move to Origin"
+msgstr "Mover para a Origem"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Edit]Move to Origin"
+msgstr "Mover para a Origem"
+
+#: .\editing\arrangereditlayer.cpp
+msgid "[Command]Move to new Scratch Pad"
+msgstr "Mover para novo Scratch Pad"
+
+#: .\editing\arrangerfunctions.cpp
+msgid "[Edit]Move to new Scratch Pad"
+msgstr "Mover para novo Scratch Pad"
+
+#: .\pool\mediaclipoperations.cpp
+msgid "[MediaClipOperations]Moving to Trash Bin..."
+msgstr "Movendo para a lixeira..."
+
+#: .\musicediting\musiccontrollane.cpp
+msgid "[Automation]Musical Symbols"
+msgstr "Símbolos Musicais"
+
+#: .\application\musicloop\musicloop.cpp
+msgid "[FileType]Musicloop"
+msgstr "Musicloop"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Mute"
+msgstr "Silenciar (Mute)"
+
+#: .\musicediting\patterneditviews.cpp
+msgid "[MusicPatternPartEditor]Mute"
+msgstr "Silenciar"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Mute Event"
+msgstr "Silenciar Evento"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Mute Events"
+msgstr "Silenciar Eventos"
+
+#: .\editing\markercomponent.cpp
+msgid "[Marker]Name"
+msgstr "Nome"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Name"
+msgstr "Nome"
+
+#: .\editing\mediatrackcontroller.cpp
+msgid "[MediaTrack]Narrow"
+msgstr "Estreito"
+
+#: .\editing\chordinspector.cpp .\editing\eventeditmodel.cpp
+msgid "[Command]Navigation"
+msgstr "Navegação"
+
+#: .\editing\tracklistfilter.cpp
+msgid "[TrackList]New Scene"
+msgstr "Nova Cena"
+
+#: .\musicediting\patternbankcomponent.cpp
+msgid "[Command]New Variation"
+msgstr "Nova Variação"
+
+#: .\editing\eventeditmodel.cpp
+msgid "[Command]Next Event"
+msgstr "Próximo Evento"
+
+#: .\editing\eventeditmodel.cpp
+msgid "[Command]Next Event Extend"
+msgstr "Extensão do Próximo Evento"
+
+#: .\automationediting\automationtracklistcomponent.cpp
+msgid "[Command]Next Mode"
+msgstr "Próximo Modo"
+
+#: .\automationediting\automationtracklistcomponent.cpp
+msgid "[Command]Next Parameter"
+msgstr "Próximo Parâmetro"
+
+#: .\editing\eventeditmodel.cpp
+msgid "[Command]Next Track"
+msgstr "Próxima Pista"
+
+#: .\editing\eventeditmodel.cpp
+msgid "[Command]Next Track Extend"
+msgstr "Próxima Extensão de Pista"
+
+#: .\musicediting\patternbankcomponent.cpp
+msgid "[Command]Next Variation"
+msgstr "Próxima Variação"
+
+#: .\application\musicloop\loopextension.cpp
+msgid "[Browser]No audio files with a name that ends in .L or .R found."
+msgstr "Não foram encontrados arquívos de áudio cujo nome termine com .L ou .R."
+
+#: .\pool\locatefilescomponent.cpp
+msgid "[LocateFiles]No files are missing."
+msgstr "Não há arquivos perdidos."
+
+#: .\pool\mediapoolfunctions.cpp
+msgid "[MediaPoolFunctions]No files are unused."
+msgstr "Não há arquivos não utilizados."
+
+#: .\pool\mediapoolnodes.cpp
+msgid "[PoolNodes]No files to convert."
+msgstr "Não há arquivos para converter."
+
+#: .\pool\locatefilescomponent.cpp
+msgid "[LocateFiles]No matching files were found in %(1)"
+msgstr "Não foram encontrados arquivos correspondentes em %(1)"
+
+#: .\editing\chordtrackcomponent.cpp
+msgid "[Chords]No tracks are set to follow"
+msgstr "Sem pistas selecionadas para seguir"
+
+#: .\automationediting\automationtrackcomponent.cpp
+msgid "[Automation]None"
+msgstr "Nada"
+
+#: .\audioediting\audioinspector.cpp
+msgid "[AudioPlayMode]Normal"
+msgstr "Normal"
+
+#: .\base\model\markertrack.cpp
+msgid "[Marker]Normal"
+msgstr "Normal"
+
+#: .\editing\tracklist.cpp
+msgid "[TrackHeights]Normal"
+msgstr "Normal"
+
+#: .\audio\audioactions.cpp
+msgid "[Engine:AudioActions]Normalize"
+msgstr "Normalizar"
+
+#: .\application\audioedit\audionormalizetask.cpp
+msgid "[AudioEdit]Normalize Audio"
+msgstr "Normalizar Áudio"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Not Recorded"
+msgstr "Não Gravado"
+
+#: .\audioediting\audioinspector.cpp
+msgid "[TempoFormatter]Not Set"
+msgstr "Não Ajustado"
+
+#: .\musicediting\musicrecordcomponent.cpp
+msgid "[Command]Note Erase"
+msgstr "Apagar Nota"
+
+#: .\editing\eventeditmodel.cpp
+msgid "[Events]Nudge"
+msgstr "Deslocamento (Nudge)"
+
+#: .\automationediting\automationtracklistcomponent.cpp
+msgid "[Command]Off"
+msgstr "Desl."
+
+#: .\editing\mediatrackcontroller.cpp
+msgid "[MediaTrack]Off"
+msgstr "Desl."
+
+#: .\audioediting\audioedithandler.cpp
+msgid "[AudioEditHandler]Only clicked event"
+msgstr "Apenas eventos clicados"
+
+#: .\videoediting\videodraghandler.cpp
+msgid "[VideoEdit]Only extract Audio"
+msgstr "Apenas extração do Áudio"
+
+#: .\editing\arrangereditlayer.cpp
+msgid "[Command]Open Arranger Track"
+msgstr "Abrir Pista do Arranjador"
+
+#: .\editing\chordeditlayer.cpp
+msgid "[Command]Open Chord Track"
+msgstr "Abrir Pista de Acordes"
+
+#: .\application\audioedit\audioeventfxtasks.cpp
+msgid "[AudioEdit]Open Event FX Editor"
+msgstr "Abrir Editor de FX de Evento"
+
+#: .\audioediting\audioedittask.cpp
+msgid "[AudioEdit]Operations specific to audio events"
+msgstr "Operações específicas de eventos de áudio"
+
+#: .\musicediting\musicparttask.cpp
+msgid "[MusicPartEdit]Operations specific to instrument parts"
+msgstr "Operações específicas de partes de instrumento"
+
+#: .\base\model\arrangertrack.cpp
+msgid "[ArrangerSections]Outro"
+msgstr "Outro"
+
+#: .\audioediting\audioinspector.cpp
+msgid "[AudioPlayMode]Overlaps"
+msgstr "Sobreposições"
+
+#: .\editing\tracklist.cpp
+msgid "[TrackHeights]Overview"
+msgstr "Visão Geral"
+
+#: .\editing\mediatrackcontroller.cpp
+msgid "[MediaTrack]Parallel"
+msgstr "Paralelo"
+
+#: .\automationediting\automationdialog.cpp
+msgid "[Automation]Parameter"
+msgstr "Parâmetro"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Paste"
+msgstr "Colar"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Paste"
+msgstr "Colar"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Paste Lane"
+msgstr "Colar Linha"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Paste Pattern"
+msgstr "Colar Padrão"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Path"
+msgstr "Caminho"
+
+#: .\musicediting\musiceditextension.cpp
+#: .\musicediting\patternbankcomponent.cpp
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Pattern"
+msgstr "Padrão"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Pattern"
+msgstr "Padrão"
+
+#: .\musicediting\patterncontrollane.cpp
+msgid "[MusicPatternPartEditor]Pattern Automation"
+msgstr "Automação do Padrão"
+
+#: .\audioediting\audioeditor.cpp .\audioediting\audioscaleview.cpp
+msgid "[AudioScale]Percent"
+msgstr "Percentual"
+
+#: .\musicediting\musiceditor.cpp
+msgid "[Command]Piano View"
+msgstr "Vista do Piano"
+
+#: .\editing\trackeditor.cpp
+msgid "[Command]Pin Editor"
+msgstr "Editor de Pinos"
+
+#: .\musicediting\patterneditviews.cpp
+msgid "[MusicPatternPartEditor]Pitch"
+msgstr "Nota"
+
+#: .\pool\mediapreviewcomponent.cpp
+msgid "[MediaPreview]Play"
+msgstr "Reproduzir"
+
+#: .\editing\rangeplayer.cpp
+msgid "[Command]Play Selected Range"
+msgstr "Reproduzir Faixa Selecionada"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Pool"
+msgstr "Pool"
+
+#: .\audio\audioeventtheme.cpp
+msgid "[Engine]Preview creation failed!"
+msgstr "Criação de previsão falhou!"
+
+#: .\editing\eventeditmodel.cpp
+msgid "[Command]Previous Event"
+msgstr "Evento Anterior"
+
+#: .\editing\eventeditmodel.cpp
+msgid "[Command]Previous Event Extend"
+msgstr "Extensão do Evento Anterior"
+
+#: .\automationediting\automationtracklistcomponent.cpp
+msgid "[Command]Previous Mode"
+msgstr "Modo Anterior"
+
+#: .\automationediting\automationtracklistcomponent.cpp
+msgid "[Command]Previous Parameter"
+msgstr "Parâmetro Anterior"
+
+#: .\editing\eventeditmodel.cpp
+msgid "[Command]Previous Track"
+msgstr "Pista Anterior"
+
+#: .\editing\eventeditmodel.cpp
+msgid "[Command]Previous Track Extend"
+msgstr "Extensão da Pista Anterior"
+
+#: .\musicediting\patternbankcomponent.cpp
+msgid "[Command]Previous Variation"
+msgstr "Variação Anterior"
+
+#: .\musicediting\patterncontrollane.cpp
+msgid "[MusicPatternPartEditor]Probability"
+msgstr "Probabilidade"
+
+#: .\application\audioedit\audiobendaddin.cpp
+msgid "[Engine]Quantize"
+msgstr "Quantização"
+
+#: .\application\audioedit\audiobendtasks.cpp
+msgid "[AudioEdit]Quantize"
+msgstr "Quantização"
+
+#: .\editing\eventeditmodel.cpp
+msgid "[Events]Quantize"
+msgstr "Quantização"
+
+#: .\editing\quantizepanel.h
+msgid "[EditAddIn]Quantize"
+msgstr "Quantização"
+
+#: .\editing\quantizepanel.cpp
+msgid "[EditAddIn]Quantize (Arrangement)"
+msgstr "Quantizar (Arranjo)"
+
+#: .\audioediting\audioeditor.cpp
+msgid "[EditAddIn]Quantize (Audio Editor)"
+msgstr "Quantizar (Editor de Áudio)"
+
+#: .\musicediting\musiceditor.cpp
+msgid "[EditAddIn]Quantize (Note Editor)"
+msgstr "Quantização (Editor de Nota)"
+
+#: .\application\audioedit\audiobendtasks.cpp
+msgid "[AudioEdit]Quantize 50%"
+msgstr "Quantização 50%"
+
+#: .\automationediting\automationtracklistcomponent.cpp
+msgid "[Command]Read"
+msgstr "Leitura"
+
+#: .\editing\markercomponent.cpp
+msgid "[Command]Recall Marker"
+msgstr "Restaurar Marcador"
+
+#: .\editing\markercomponent.cpp
+msgid "[Command]Recall Marker 1"
+msgstr "Restaurar Marcador 1"
+
+#: .\editing\markercomponent.cpp
+msgid "[Command]Recall Marker 10"
+msgstr "Restaurar Marcador 10"
+
+#: .\editing\markercomponent.cpp
+msgid "[Command]Recall Marker 11"
+msgstr "Restaurar Marcador 11"
+
+#: .\editing\markercomponent.cpp
+msgid "[Command]Recall Marker 12"
+msgstr "Restaurar Marcador 12"
+
+#: .\editing\markercomponent.cpp
+msgid "[Command]Recall Marker 13"
+msgstr "Restaurar Marcador 13"
+
+#: .\editing\markercomponent.cpp
+msgid "[Command]Recall Marker 14"
+msgstr "Restaurar Marcador 14"
+
+#: .\editing\markercomponent.cpp
+msgid "[Command]Recall Marker 15"
+msgstr "Restaurar Marcador 15"
+
+#: .\editing\markercomponent.cpp
+msgid "[Command]Recall Marker 16"
+msgstr "Restaurar Marcador 16"
+
+#: .\editing\markercomponent.cpp
+msgid "[Command]Recall Marker 17"
+msgstr "Restaurar Marcador 17"
+
+#: .\editing\markercomponent.cpp
+msgid "[Command]Recall Marker 18"
+msgstr "Restaurar Marcador 18"
+
+#: .\editing\markercomponent.cpp
+msgid "[Command]Recall Marker 19"
+msgstr "Restaurar Marcador 19"
+
+#: .\editing\markercomponent.cpp
+msgid "[Command]Recall Marker 2"
+msgstr "Restaurar Marcador 2"
+
+#: .\editing\markercomponent.cpp
+msgid "[Command]Recall Marker 20"
+msgstr "Restaurar Marcador 20"
+
+#: .\editing\markercomponent.cpp
+msgid "[Command]Recall Marker 3"
+msgstr "Restaurar Marcador 3"
+
+#: .\editing\markercomponent.cpp
+msgid "[Command]Recall Marker 4"
+msgstr "Restaurar Marcador 4"
+
+#: .\editing\markercomponent.cpp
+msgid "[Command]Recall Marker 5"
+msgstr "Restaurar Marcador 5"
+
+#: .\editing\markercomponent.cpp
+msgid "[Command]Recall Marker 6"
+msgstr "Restaurar Marcador 6"
+
+#: .\editing\markercomponent.cpp
+msgid "[Command]Recall Marker 7"
+msgstr "Restaurar Marcador 7"
+
+#: .\editing\markercomponent.cpp
+msgid "[Command]Recall Marker 8"
+msgstr "Restaurar Marcador 8"
+
+#: .\editing\markercomponent.cpp
+msgid "[Command]Recall Marker 9"
+msgstr "Restaurar Marcador 9"
+
+#: .\automation\automationfunctions.cpp
+msgid "[Engine:AutomationFunctions]Reconnect Automation"
+msgstr "Reconectar Automação"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Record"
+msgstr "Gravação"
+
+#: .\musicediting\patterncontrollane.cpp
+msgid "[MusicPatternPartEditor]Record Automation"
+msgstr "Gravar Automação"
+
+#: .\musicediting\musicrecordcomponent.cpp
+msgid "[Command]Record Functions"
+msgstr "Funções de Gravação"
+
+#: .\musicediting\musicrecordcomponent.cpp
+msgid "[Command]Record Mode"
+msgstr "Modo de Gravação"
+
+#: .\musicediting\musicrecordcomponent.cpp
+msgid "[RecordMode]Record Mode Overdub"
+msgstr "Modo de Gravação Overdub (Sobrepor)"
+
+#: .\musicediting\musicrecordcomponent.cpp
+msgid "[RecordMode]Record Mode Replace"
+msgstr "Modo de Gravação Substituir"
+
+#: .\musicediting\musicrecordcomponent.cpp
+msgid "[Command]Record Mode Replace"
+msgstr "Modo de Gravação Substituir"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Record Pattern Step"
+msgstr "Gravar Passo de Automação"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Record Take"
+msgstr "Grav. Take"
+
+#: .\musicediting\musicrecordcomponent.cpp
+msgid "[Command]Record Takes to Layers"
+msgstr "Gravar Takes em Camadas"
+
+#: .\automationediting\automationtrackcomponent.cpp
+#: .\automationediting\automationtracklistcomponent.cpp
+msgid "[Command]Remove"
+msgstr "Remover"
+
+#: .\musicediting\musiccontrollane.cpp
+msgid "[Automation]Remove"
+msgstr "Remover"
+
+#: .\automationediting\automationtrackcomponent.cpp
+msgid "[Automation]Remove \"%(1)\""
+msgstr "Remover \"%(1)\""
+
+#: .\musicediting\patterneditviews.cpp
+msgid "[MusicPatternPartEditor]Remove Accent"
+msgstr "Remover Acentuação"
+
+#: .\musicediting\drumpitchlistmanager.cpp
+msgid "[DrumPitchNameSetup]Remove All"
+msgstr "Remover Tudo"
+
+#: .\editing\arrangereditlayer.cpp
+msgid "[Edit]Remove Arranger Section"
+msgstr "Remover Seção do Arranjador"
+
+#: .\editing\arrangereditlayer.cpp
+msgid "[Command]Remove Arranger Section"
+msgstr "Remover Seção do Arranjador"
+
+#: .\automation\automationfunctions.cpp
+msgid "[Engine:AutomationFunctions]Remove Automation"
+msgstr "Remover Automação"
+
+#: .\musicediting\musiccontrollane.cpp .\musicediting\patterncontrollane.cpp
+msgid "[Command]Remove Automation Lane"
+msgstr "Remover Linha de Automação"
+
+#: .\application\audioedit\audiobendtasks.cpp
+msgid "[AudioEdit]Remove Bend Markers"
+msgstr "Remover Marcadores de Bend"
+
+#: .\base\model\chordfunctions.cpp
+msgid "[Edit]Remove Chord"
+msgstr "Remover Acorde"
+
+#: .\application\audioedit\audiochordtasks.cpp
+msgid "[AudioEdit]Remove Chords"
+msgstr "Remover Acordes"
+
+#: .\base\model\chordfunctions.cpp
+msgid "[Edit]Remove Chords"
+msgstr "Remover Acordes"
+
+#: .\pool\locatefilescomponent.cpp
+msgid "[LocateFiles]Remove Clip from Pool"
+msgstr "Remover Clipe do Pool"
+
+#: .\application\audioedit\audiocrossfadetask.cpp
+msgid "[AudioEdit]Remove Crossfades"
+msgstr "Remover Crossfades"
+
+#: .\application\eventedit\removegapstask.cpp
+msgid "[Edit]Remove Gaps"
+msgstr "Remover Lacunas"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Remove Layer"
+msgstr "Remover Camada"
+
+#: .\editing\tracklayercomponent.cpp
+msgid "[TrackLayers]Remove Layer"
+msgstr "Remover Camada"
+
+#: .\editing\tracklayercomponent.cpp
+msgid "[Command]Remove Layer"
+msgstr "Remover Camada"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Remove Marker"
+msgstr "Remover Marcador"
+
+#: .\musicediting\musiccontrollane.cpp
+msgid "[Command]Remove Parameter"
+msgstr "Remover Parâmetro"
+
+#: .\musicediting\patterncontrollane.cpp
+msgid "[MusicPatternPartEditor]Remove Parameter \"%(1)\""
+msgstr "Remover Parâmetro \"%(1)\""
+
+#: .\musicediting\patterncontrollane.cpp
+msgid "[MusicPatternPartEditor]Remove Pattern Automation \"%(1)\""
+msgstr "Remover Padrão da Automação \"%(1)\""
+
+#: .\musicediting\patternbankcomponent.cpp
+msgid "[PatternSequence]Remove Pattern Variation"
+msgstr "Remover Variação de Padrão"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Remove Selected Tracks"
+msgstr "Remover Pistas Selecionadas"
+
+#: .\application\musicedit\musictrackcomponent.cpp
+msgid "[TrackEdit]Remove Selected Tracks and Instruments"
+msgstr "Remover Pistas e Instrumentos Selecionados"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Remove Track"
+msgstr "Remover Pista"
+
+#: .\application\musicedit\musictrackcomponent.cpp
+msgid "[TrackEdit]Remove Track and Instrument"
+msgstr "Remover Pista e Instrumento"
+
+#: .\application\musicedit\musictrackcomponent.cpp
+msgid "[Command]Remove Track and Instrument"
+msgstr "Remover Pista e Instrumento"
+
+#: .\pool\mediapoolcomponent.cpp
+msgid "[Command]Remove Unused Files"
+msgstr "Remover Arquivos não Utilizados"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Remove Unused Files..."
+msgstr "Remover Arquivos não Utilizados..."
+
+#: .\video\videofunctions.cpp
+msgid "[Video]Remove Video"
+msgstr "Remover Vídeo"
+
+#: .\pool\mediapoolnodes.cpp
+msgid "[PoolNodes]Remove from Pool"
+msgstr "Remover do Pool"
+
+#: .\automation\automationfunctions.cpp
+msgid "[Engine:AutomationFunctions]Rename Automation"
+msgstr "Renomear Automação"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Rename Event"
+msgstr "Renomear Evento"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Rename Events"
+msgstr "Renomear Eventos"
+
+#: .\pool\mediaclipoperations.cpp
+msgid "[MediaClipOperations]Rename Events"
+msgstr "Renomear Eventos"
+
+#: .\editing\editgroupscomponent.cpp
+msgid "[Command]Rename Group"
+msgstr "Renomear Grupo"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Rename Layer"
+msgstr "Renomear Camada"
+
+#: .\editing\tracklayercomponent.cpp
+msgid "[Command]Rename Layer"
+msgstr "Renomear Camada"
+
+#: .\editing\tracklayercomponent.cpp
+msgid "[TrackLayers]Rename Layer..."
+msgstr "Renomear Camada..."
+
+#: .\musicediting\patternbankcomponent.cpp
+msgid "[PatternSequence]Rename Pattern Variation"
+msgstr "Renomear Variação de Padrão"
+
+#: .\editing\scratchpadcomponent.cpp
+msgid "[Command]Rename Scratch Pad"
+msgstr "Renomear Scratch Pad"
+
+#: .\editing\scratchpadfunctions.cpp
+msgid "[ScratchPad]Rename Scratch Pad"
+msgstr "Renomear Scratch Pad"
+
+#: .\application\audioedit\audioeventfxtasks.cpp
+msgid "[AudioEdit]Render Event FX"
+msgstr "Renderizar Efeitos do Evento"
+
+#: .\audio\eventeffects\audiofxfunctions.cpp
+msgid "[Engine]Render Event FX"
+msgstr "Renderizar Efeitos do Evento"
+
+#: .\application\musicedit\musicfxrendertask.cpp
+msgid "[TrackEdit]Render Instrument Tracks"
+msgstr "Renderizar Pistas de Instrumento"
+
+#: .\music\musicrender.cpp
+msgid "[MusicRenderer]Rendering Envelope: %(1)"
+msgstr "Renderizando Envelope: %(1)"
+
+#: .\base\model\mediabouncer.cpp
+msgid "[Engine]Rendering Files"
+msgstr "Renderizando Arquivos"
+
+#: .\music\musicrender.cpp
+msgid "[MusicRenderer]Rendering Note Events"
+msgstr "Renderizando Eventos de Nota"
+
+#: .\musicediting\patternbankcomponent.cpp
+msgid "[PatternSequence]Reorder %(1)"
+msgstr "Reordenar %(1)"
+
+#: .\musicediting\patternbankcomponent.cpp
+msgid "[PatternSequence]Reorder Pattern Variation"
+msgstr "Reordenar Variação de Padrão"
+
+#: .\musicediting\patterncontrollane.cpp
+msgid "[MusicPatternPartEditor]Repeat"
+msgstr "Repetição"
+
+#: .\editing\arrangerfunctions.cpp
+msgid "[Edit]Replace"
+msgstr "Substituir"
+
+#: .\musicediting\synthdraghandler.cpp
+msgid "[SynthDrag]Replace"
+msgstr "Substituir"
+
+#: .\editing\dragoneventhandler.cpp .\editing\eventdraghandler.cpp
+msgid "[Edit]Replace Event"
+msgstr "Substitução de Evento"
+
+#: .\audioediting\audiofxdraghandler.cpp
+msgid "[AudioFX]Replace FX preset on %(1):"
+msgstr "Substituir preset FX em %(1):"
+
+#: .\editing\arrangerfunctions.cpp
+msgid "[Edit]Replace Partially"
+msgstr "Repor Parcialmente"
+
+#: .\application\audioinit.cpp
+msgid "[Audio]Resampler"
+msgstr "Reamostra"
+
+#: .\musicediting\patterncontrollane.cpp
+msgid "[MusicPatternPartEditor]Reset"
+msgstr "Reiniciar"
+
+#: .\audioediting\audioedithandler.cpp
+msgid "[AudioEditHandler]Reset All"
+msgstr "Reiniciar Tudo"
+
+#: .\audio\audiobend\audiobendfunctions.cpp
+msgid "[Engine:AudioBendActions]Reset Bend Marker"
+msgstr "Reiniciar Marcador de Bend"
+
+#: .\audioediting\audiobendeditlayer.cpp
+msgid "[Command]Reset Bend Marker"
+msgstr "Reiniciar Marcador de Bend"
+
+#: .\audioediting\audioedithandler.cpp
+msgid "[AudioEditHandler]Reset Fade Length"
+msgstr "Reiniciar Duração do Fade"
+
+#: .\application\audioedit\audioenvelopetasks.cpp
+msgid "[AudioEdit]Reset Gain Envelope"
+msgstr "Restaurar Envelope de Ganho"
+
+#: .\audioediting\audioedithandler.cpp
+msgid "[AudioEditHandler]Reset Level"
+msgstr "Reiniciar Nível"
+
+#: .\musicediting\drumpitchlistmanager.cpp
+msgid "[DrumPitchNameSetup]Reset Order"
+msgstr "Reiniciar Ordem"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Resize Event"
+msgstr "Ajustar Tamanho do Evento"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Resize Events"
+msgstr "Ajustar Tamanho dos Eventos"
+
+#: .\musicediting\patternbankcomponent.cpp
+msgid "[PatternSequence]Resolution"
+msgstr "Resolução"
+
+#: .\musicediting\patterneditviews.cpp
+msgid "[MusicPatternPartEditor]Resolution"
+msgstr "Resolução"
+
+#: .\application\audioedit\audioeventfxtasks.cpp
+msgid "[AudioEdit]Restore Event FX"
+msgstr "Restaurar Efeitos de Evento"
+
+#: .\audio\eventeffects\audiofxfunctions.cpp
+msgid "[Engine]Restore Event FX"
+msgstr "Restaurar Efeitos de Evento"
+
+#: .\application\audioedit\audiobendtasks.cpp
+msgid "[AudioEdit]Restore Timing"
+msgstr "Restaurar Andamento"
+
+#: .\application\audioedit\audioreversetask.cpp
+msgid "[AudioEdit]Reverse Audio"
+msgstr "Inverter Áudio"
+
+#: .\audio\audioclip.cpp
+msgid "[AudioClip]Root %(1)"
+msgstr "Raíz %(1)"
+
+#: .\application\musicloop\loopedittasks.cpp
+msgid "[Engine]Root Key"
+msgstr "Afinação Raíz"
+
+#: .\pool\locatefilescomponent.cpp
+msgid "[LocateFiles]Scanning folder: "
+msgstr "Pasta de Escaneamento:"
+
+#: .\musicediting\musiceditor.cpp
+msgid "[Command]Score View"
+msgstr "Exibição da Partitura"
+
+#: .\editing\scratchpadcomponent.cpp
+msgid "[ScratchPad]Scratch Pad"
+msgstr "Scratch Pad"
+
+#: .\editing\scratchpadcomponent.cpp
+msgid "[Command]Scratch Pad"
+msgstr "Scratch Pad"
+
+#: .\editing\arrangertrackcomponent.cpp
+msgid "[ArrangerTrack]Scratch Pads"
+msgstr "Scratch Pads"
+
+#: .\pool\locatefilescomponent.cpp
+msgid "[LocateFiles]Search was canceled. "
+msgstr "A procura foi cancelada."
+
+#: .\audioediting\audioinspector.cpp
+msgid "[TempoFormatter]Seconds"
+msgstr "Segundos"
+
+#: .\editing\trackcontroller.cpp
+msgid "[Track]Seconds"
+msgstr "Segundos"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Select All on Tracks"
+msgstr "Selecionar Tudo nas Pistas"
+
+#: .\editing\chordsoundmanager.cpp
+msgid "[ChordSounds]Select Chord Sound"
+msgstr "Selecione Som do Acorde"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Select Events in Range"
+msgstr "Selecionar Eventos na Região"
+
+#: .\editing\arrangereditlayer.cpp
+msgid "[Edit]Select Events in Section"
+msgstr "Selecionar Eventos na Seção"
+
+#: .\editing\arrangereditlayer.cpp
+msgid "[Command]Select Events in Section"
+msgstr "Selecionar Eventos na Seção"
+
+#: .\editing\layereditlayer.cpp
+msgid "[Layer]Select Layer Content"
+msgstr "Selecionar Conteúdo da Camada"
+
+#: .\musicediting\musiceditor.cpp
+msgid "[Command]Select Part Automation with Notes"
+msgstr "Selecionar Automação de Parte com Notas"
+
+#: .\editing\takelist.cpp
+msgid "[Edit]Select Take"
+msgstr "Selecionar Take"
+
+#: .\musicediting\musiceditextension.cpp
+msgid "[Edit]Select Variation"
+msgstr "Selecionar Variação"
+
+#: .\pool\locatefilescomponent.cpp
+msgid "[LocateFiles]Select a search folder."
+msgstr "Selecionar uma pasta de pesquisa."
+
+#: .\base\model\chordfunctions.cpp
+msgid "[Edit]Select all \"%(1)\" Chords"
+msgstr "Selecionar todos os Acordes \"%(1)\""
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Select from Event to End"
+msgstr "Selecionar do Evento ao Fim"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Select from Start to Event"
+msgstr "Selecionar do Início ao Evento"
+
+#: .\pool\locatefilescomponent.cpp
+msgid "[LocateFiles]Select on Track"
+msgstr "Selecionar na Pista"
+
+#: .\pool\mediapoolnodes.cpp
+msgid "[PoolNodes]Select on Track"
+msgstr "Selecionar na Pista"
+
+#: .\pool\mediapoolnodes.cpp
+msgid "[Command]Select on Track"
+msgstr "Selecionar na Pista"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Selected Lane"
+msgstr "Linha Selecionada"
+
+#: .\musicediting\patterneditviews.cpp
+msgid "[MusicPatternPartEditor]Set Accent"
+msgstr "Definir Acentuação"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Set Edit Group"
+msgstr "Configurar Grupo de Edição"
+
+#: .\audio\eventeffects\audiofxfunctions.cpp
+msgid "[Engine]Set Event FX Tail"
+msgstr "Configurar Cauda do FX de Evento"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Set Every 2nd Step"
+msgstr "Ajustar Cada 2º Passo"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Set Every 2nd Step"
+msgstr "Ajustar Cada 2º Passo"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Set Every 4th Step"
+msgstr "Definir Cada 4º Passo"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Set Every 4th Step"
+msgstr "Definir Cada 4º Passo"
+
+#: .\base\model\chordfunctions.cpp
+msgid "[Edit]Set Key Signature"
+msgstr "Definir Armadura"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Set Marker Type"
+msgstr "Configurar Tipo de Marcador"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Set Track Delay"
+msgstr "Configurar Delay da Pista"
+
+#: .\audio\eventeffects\audiofxfunctions.cpp
+msgid "[Engine]Set Volume after Event FX"
+msgstr "Configurar Volume após FX de Evento"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]Shift Lane"
+msgstr "Alternar Linha"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Shift Lane"
+msgstr "Alternar Linha"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Shift Lane Back"
+msgstr "Retomar Mudança de Faixa"
+
+#: .\automationediting\automationtrackcomponent.cpp
+msgid "[Automation]Show \"%(1)\""
+msgstr "Mostrar \"%(1)\""
+
+#: .\audio\audioenvelopefunctions.cpp
+msgid "[Engine:AudioEnvelopeActions]Show %(1) Envelope"
+msgstr "Exibir Envelope %(1)"
+
+#: .\automationediting\automationtrackcomponent.cpp
+#: .\automationediting\automationtracklistcomponent.cpp
+msgid "[Command]Show / Hide"
+msgstr "Mostrar / Esconder"
+
+#: .\automationediting\automationtrackcomponent.cpp
+msgid "[Automation]Show / Hide Automation"
+msgstr "Mostrar / Esconder Automação"
+
+#: .\musicediting\drumpitchlistmanager.cpp
+msgid "[DrumPitchNameSetup]Show All"
+msgstr "Mostrar Tudo"
+
+#: .\musicediting\musiccontrollane.cpp
+msgid "[Command]Show Automation Lanes"
+msgstr "Exibir Linhas de Automação"
+
+#: .\audio\audiobend\audiobendfunctions.cpp
+msgid "[Engine:AudioBendActions]Show Bend Marker"
+msgstr "Mostrar Marcador de Bend"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Show Channel Editor"
+msgstr "Exibir Editor de Canal"
+
+#: .\base\model\chordfunctions.cpp
+msgid "[Edit]Show Chords"
+msgstr "Exibir Acordes"
+
+#: .\musicediting\drumpitchlistmanager.cpp
+msgid "[DrumPitchNameSetup]Show Default"
+msgstr "Exibir Padrão"
+
+#: .\automationediting\automationtrackcomponent.cpp
+#: .\automationediting\automationtracklistcomponent.cpp
+msgid "[Command]Show Device"
+msgstr "Mostrar Dispositivo"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Show Envelopes"
+msgstr "Mostrar Envelopes"
+
+#: .\pool\mediapoolcomponent.cpp
+msgid "[Command]Show Folder in Explorer/Finder"
+msgstr "Exibir Pasta no Explorer/Finder"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Show Instrument Editor"
+msgstr "Exibir Editor de Instrumento"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Show Media Folder in Explorer"
+msgstr "Exibir Pasta de Mídia no Explorer"
+
+#: .\pool\mediapoolcomponent.cpp
+msgid "[Command]Show Media Folder in Explorer/Finder"
+msgstr "Mostrar Pasta de Mídia no Explorer/Finder"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Show Media Folder in Finder"
+msgstr "Exibir Pasta de Mídia no Finder"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Show Note FX Editor"
+msgstr "Exibir Editor FX de Nota"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Show Routing Editor"
+msgstr "Exibir Editor de Roteamento"
+
+#: .\editing\trackcontroller.cpp
+msgid "[Track]Show in Console"
+msgstr "Exibir no Console"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Show in Console"
+msgstr "Exibir no Console"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[Command]Show in Explorer/Finder"
+msgstr "Mostrar no Explorer/Finder"
+
+#: .\musicediting\patterncontrollane.cpp
+msgid "[MusicPatternPartEditor]Show the \"%(1)\" Automation"
+msgstr "Exibir a Automação \"%(1)\""
+
+#: .\automationediting\paramdraghandler.cpp
+msgid "[Automation]Show the \"%(1)\" Automation on this track"
+msgstr "Mostrar a Automação \"%(1)\" nesta pista"
+
+#: .\musicediting\partautomationdraghandler.cpp
+msgid "[Automation]Show the \"%(1)\" Part Automation"
+msgstr "Mostrar a Automação de Parte \"%(1)\""
+
+#: .\application\audioedit\audiobendaddin.cpp
+msgid "[Engine]Slice"
+msgstr "Divisão"
+
+#: .\pool\mediafilenodes.cpp
+msgid "[MediaFileNode]Slice %(1)"
+msgstr "Divisão %(1)"
+
+#: .\audioediting\audioinspector.cpp
+msgid "[AudioPlayMode]Slices"
+msgstr "Divisões"
+
+#: .\editing\tracklist.cpp
+msgid "[TrackHeights]Small"
+msgstr "Pequeno"
+
+#: .\editing\eventsnapper.cpp
+msgid "[TimeSnapper]Snap To Event Hotspots"
+msgstr "Imã para Pontos chave de Eventos"
+
+#: .\editing\eventsnapper.cpp
+msgid "[Command]Snap To Event Hotspots"
+msgstr "Imã para Pontos chave de Eventos"
+
+#: .\editing\eventsnapper.cpp
+msgid "[TimeSnapper]Snap To Events"
+msgstr "Snap (imã) nos Eventos"
+
+#: .\editing\eventsnapper.cpp
+msgid "[Command]Snap To Events"
+msgstr "Snap (imã) nos Eventos"
+
+#: .\editing\eventsnapper.cpp
+msgid "[TimeSnapper]Snap To Zero Crossings"
+msgstr "Imã (Snap) nos Cruzamentos Zero"
+
+#: .\editing\eventsnapper.cpp
+msgid "[Command]Snap To Zero Crossings"
+msgstr "Imã (Snap) nos Cruzamentos Zero"
+
+#: .\editing\tracklayercomponent.cpp .\editing\tracklistcomponent.cpp
+msgid "[Command]Solo"
+msgstr "Solo"
+
+#: .\musicediting\patterneditviews.cpp
+msgid "[MusicPatternPartEditor]Solo"
+msgstr "Solo"
+
+#: .\editing\tracklayercomponent.cpp
+msgid "[TrackLayers]Solo Layer"
+msgstr "Camada Solo"
+
+#: .\editing\tracklayercomponent.cpp
+msgid "[Command]Solo Layer"
+msgstr "Camada Solo"
+
+#: .\editing\monitorfollower.cpp
+msgid "[Command]Solo follows Selection"
+msgstr "Solo segue Seleção"
+
+#: .\application\musicloop\loopedittasks.cpp
+msgid "[Engine]Some files could not be exported."
+msgstr "AlgÚns arquivos não podem ser esportados."
+
+#: .\application\musicedit\musictrackcomponent.cpp
+msgid "[Command]Song"
+msgstr "Song"
+
+#: .\editing\scratchpadcomponent.cpp
+msgid "[ScratchPad]Song"
+msgstr "Song"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Split Event"
+msgstr "Dividir Evento"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Split Events"
+msgstr "Dividir Eventos"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Split Loop"
+msgstr "Dividir Loop"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Edit]Split Loop"
+msgstr "Dividir Loop"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Split Range"
+msgstr "Dividir Região"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Edit]Split Range"
+msgstr "Dividir Região"
+
+#: .\application\audioedit\audiobendtasks.cpp
+msgid "[AudioEdit]Split at Bend Markers"
+msgstr "Dividir nos Marcadores de Bend"
+
+#: .\application\musicloop\loopextension.cpp
+msgid "[Browser]Split to Mono Files"
+msgstr "Dividir em Arquivos Mono"
+
+#: .\base\model\markertrack.cpp
+msgid "[Marker]Start"
+msgstr "Início"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Status"
+msgstr "Estado"
+
+#: .\musicediting\patterneditviews.cpp
+msgid "[MusicPatternPartEditor]Step %(1)"
+msgstr "Passo %(1)"
+
+#: .\musicediting\musicsteprecorder.cpp
+msgid "[MusicStepRecorder]Step Record"
+msgstr "Gravação Passo-a-Passo"
+
+#: .\musicediting\musicsteprecorder.cpp
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[Command]Step Record"
+msgstr "Gravação Passo-a-Passo"
+
+#: .\musicediting\patternbankcomponent.cpp
+msgid "[PatternSequence]Steps"
+msgstr "Passos"
+
+#: .\musicediting\patterneditviews.cpp
+msgid "[MusicPatternPartEditor]Steps"
+msgstr "Passos"
+
+#: .\base\model\markertrack.cpp
+msgid "[Marker]Stop"
+msgstr "Parar"
+
+#: .\pool\mediapreviewcomponent.cpp
+msgid "[MediaPreview]Stop"
+msgstr "Parar"
+
+#: .\application\audioedit\stripsilencetask.cpp
+msgid "[EditAddIn]Strip Silence"
+msgstr "Remover Silêncio"
+
+#: .\application\audioedit\stripsilencetask.cpp
+msgid "[AudioEdit]Strip Silence"
+msgstr "Remover Silêncio"
+
+#: .\editing\tracklist.cpp
+msgid "[TrackInfo]Sub Tracks: %(1)"
+msgstr "Sub Pistas: %(1)"
+
+#: .\pool\mediapreviewcomponent.cpp
+msgid "[MediaPreview]Sync tempo"
+msgstr "Sincronismo de Andamento"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Synchronize Editor to Arrangement"
+msgstr "Sincronizar o Editor ao Arranjo"
+
+#: .\base\media\mediamarker.cpp
+msgid "[Engine:MediaMarker]Take"
+msgstr "Take"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Take #%(1:3) (%(2))"
+msgstr "Take #%(1:3) (%(2))"
+
+#: .\application\audioinit.cpp
+msgid "[Audio]Tape"
+msgstr "Fita"
+
+#: .\audioediting\audioedithandler.cpp
+msgid "[AudioEditHandler]Tempo: %(1)  Length: %(2)"
+msgstr "Tempo: %(1)  Duração: %(2)"
+
+#: .\audio\audiotrackrecorder.cpp
+msgid "[Record]The drive used for recording is full."
+msgstr "O disco utilizado para gravação está cheio."
+
+#: .\audio\recorddiskspaceobserver.cpp
+msgid "[RecordDiskSpaceObserver]The drive used for recording is full."
+msgstr "O disco utilizado para gravação está cheio."
+
+#: .\base\media\mediapool.cpp
+msgid "[MediaPool]The format of this file is not supported."
+msgstr "O formato deste arquivo não é suportado."
+
+#: .\base\rootsetup.cpp
+msgid "[RootSetup]The sample rate does not match your audio device configuration.\n\nThe rate you set: %(1)\nThe rate the device has: %(2)"
+msgstr "A taxa de amostragem não combina com a configuração de seu dispositivo de áudio.\n\nA taxa que você ajustou: %(1)\nA taxa do dispositivo: %(2)"
+
+#: .\music\musictrackinfo.cpp
+msgid "[Engine]The track \"%(1)\" is not connected to a software instrument."
+msgstr "A pista \"%(1)\" não está conectada a um instrumento software."
+
+#: .\music\musictrackinfo.cpp
+msgid "[Engine]The tracks \"%(1)\" are not connected to a software instrument."
+msgstr "As pistas \"%(1)\" não estão conectadas a um instrumento software."
+
+#: .\pool\mediapoolfunctions.cpp
+msgid "[MediaPoolFunctions]There are no external files."
+msgstr "Não há arquivos externos."
+
+#: .\pool\mediapoolnodes.cpp
+msgid "[PoolNodes]These clips are still used."
+msgstr "Estes clipes ainda estão em uso."
+
+#: .\editing\eventeditmodel.cpp
+msgid "[Events]These files could not be imported:"
+msgstr "Estes arquivos não podem ser importados:"
+
+#: .\pool\mediapoolnodes.cpp
+msgid "[PoolNodes]This clip is still used."
+msgstr "O clipe ainda está em uso."
+
+#: .\editing\eventeditmodel.cpp
+msgid "[Events]This file could not be imported:"
+msgstr "O arquivo não pode ser importado"
+
+#: .\musicediting\patterneditcomponent.cpp
+msgid "[MusicPatternPartEditor]This will delete notes or automation data.\nDo you want to continue?"
+msgstr "Isso excluirá notas ou dados de automação.\nDeseja continuar?"
+
+#: .\editing\mediatrackcontroller.cpp
+msgid "[MediaTrack]Timestretch"
+msgstr "Timestretch"
+
+#: .\editing\tracklist.cpp
+msgid "[TrackHeights]Tiny"
+msgstr "Minúsculo"
+
+#: .\application\audioedit\audiobendtasks.cpp
+msgid "[AudioEdit]Toggle Bend Markers"
+msgstr "Alternar Marcadores de Bend"
+
+#: .\editing\trackeditor.cpp
+msgid "[Command]Toggle Detached Editor"
+msgstr "Alternar Editor Destacado"
+
+#: .\application\eventedit\locktask.cpp
+msgid "[Edit]Toggle Edit Lock"
+msgstr "Alternar Bloqueio de Edção"
+
+#: .\application\audioedit\audioenvelopetasks.cpp
+msgid "[AudioEdit]Toggle Gain Envelope"
+msgstr "Alternar Envelope de Ganho"
+
+#: .\application\eventedit\locktask.cpp
+msgid "[Edit]Toggle Lock"
+msgstr "Alternar Bloqueio"
+
+#: .\automationediting\automationtracklistcomponent.cpp
+msgid "[Command]Toggle Read"
+msgstr "Alternar Leitura"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Toggle Ripple Edit"
+msgstr "Alternar Edição de Ondulação"
+
+#: .\application\eventedit\locktask.cpp
+msgid "[Edit]Toggle Time Lock"
+msgstr "Alternar Bloqueio de Andamento"
+
+#: .\automationediting\automationtracklistcomponent.cpp
+msgid "[Command]Touch"
+msgstr "Toque"
+
+#: .\application\audioedit\audiotracktransformtask.cpp
+#: .\application\musicedit\musictracktransformtask.cpp
+#: .\editing\editgroupscomponent.cpp .\editing\foldertrackcomponent.cpp
+#: .\editing\layereditlayer.cpp .\editing\monitorfollower.cpp
+#: .\editing\trackcontroller.cpp .\editing\tracklayercomponent.cpp
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Track"
+msgstr "Pista"
+
+#: .\base\model\rootevent.cpp .\editing\tracklisteditmodel.cpp
+#: .\editing\tracklistinspector.cpp
+msgid "[Engine]Track"
+msgstr "Pista"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Track"
+msgstr "Pista"
+
+#: .\editing\targettrackindicator.cpp
+msgid "[TrackIndicator]Track \"%(1)\""
+msgstr "Pista \"%(1)\""
+
+#: .\editing\tracklist.cpp
+msgid "[Command]Track Height %(1)"
+msgstr "Altura de Pista %(1)"
+
+#: .\editing\tracklistfilter.cpp
+msgid "[TrackList]Track Scenes"
+msgstr "Cenas de Pistas"
+
+#: .\automation\automationfunctions.cpp
+msgid "[Engine:AutomationFunctions]Transfer Automation"
+msgstr "Tarnsferência de Automação"
+
+#: .\musicediting\musiceditor.cpp
+msgid "[Command]Transform Range"
+msgstr "Faixa de Transformação"
+
+#: .\application\musicedit\musictracktransformtask.cpp
+msgid "[TrackEdit]Transform to Audio Track"
+msgstr "Transformar em Pista de Áudio"
+
+#: .\application\musicedit\musictracktransformtask.cpp
+msgid "[Command]Transform to Audio Track"
+msgstr "Transformar em Pista de Áudio"
+
+#: .\application\musicedit\musictracktransformtask.cpp
+msgid "[TrackEdit]Transform to Instrument Track"
+msgstr "Transformar em Pista de Instrumento"
+
+#: .\application\musicedit\musictracktransformtask.cpp
+msgid "[Command]Transform to Instrument Track"
+msgstr "Transformar em Pista de Instrumento"
+
+#: .\application\audioedit\audiotracktransformtask.cpp
+msgid "[TrackEdit]Transform to Realtime Audio"
+msgstr "Transformar em Áudio em Tempo Real"
+
+#: .\application\audioedit\audiotracktransformtask.cpp
+msgid "[Command]Transform to Realtime Audio"
+msgstr "Transformar em Áudio em Tempo Real"
+
+#: .\application\audioedit\audiotracktransformtask.cpp
+msgid "[TrackEdit]Transform to Rendered Audio"
+msgstr "Transformar em Áudio Renderizado"
+
+#: .\application\audioedit\audiotracktransformtask.cpp
+msgid "[Command]Transform to Rendered Audio"
+msgstr "Transformar em Áudio Renderizado"
+
+#: .\editing\rangeplayer.cpp
+msgid "[Command]Transport"
+msgstr "Transporte"
+
+#: .\base\model\chordfunctions.cpp
+msgid "[Edit]Transpose Chord"
+msgstr "Transpor Acorde"
+
+#: .\base\model\chordfunctions.cpp
+msgid "[Edit]Transpose Chords"
+msgstr "Transpor Acordes"
+
+#: .\editing\chordeditlayer.cpp
+msgid "[Command]Transpose Chords"
+msgstr "Transpor Acordes"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Transpose Event"
+msgstr "Transposição de Evento"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Transpose Events"
+msgstr "Transposição de Eventos"
+
+#: .\application\audioedit\audiocrossfadetask.cpp
+msgid "[AudioEdit]Trim End to Cursor"
+msgstr "Aparar Fim até o Cursor"
+
+#: .\application\audioedit\audiocrossfadetask.cpp
+msgid "[AudioEdit]Trim Start to Cursor"
+msgstr "Aparar Início até o Cursor"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Type"
+msgstr "Tipo"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Undo"
+msgstr "Desfazer"
+
+#: .\musicediting\musicrecordcomponent.cpp
+msgid "[Command]Undo All"
+msgstr "Desfazer Tudo"
+
+#: .\musicediting\musicrecordcomponent.cpp
+msgid "[Command]Undo Last Loop"
+msgstr "Desfazer Último Loop"
+
+#: .\audioediting\audioretunecomponent.cpp
+msgid "[Tune Mode]Universal"
+msgstr "Universal"
+
+#: .\audio\audioclip.cpp
+msgid "[AudioClip]Unknown Format!"
+msgstr "Formato Desconhecido!"
+
+#: .\video\videoclip.cpp
+msgid "[VideoClip]Unknown Format!"
+msgstr "Formato Desconhecido!"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Unlock Event"
+msgstr "Desbloquear Evento"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Unlock Events"
+msgstr "Desbloquear Eventos"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Unlock Track"
+msgstr "Desbloquear Pista"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Unlock Tracks"
+msgstr "Desbloquear Pistas"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Unmute Event"
+msgstr "Reativar Audição do Evento"
+
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Unmute Events"
+msgstr "Tornar Eventos Audíveis"
+
+#: .\editing\layereditlayer.cpp
+msgid "[Layer]Unpack Layers to Tracks"
+msgstr "Desempacotar Camadas para Pistas"
+
+#: .\editing\layereditlayer.cpp
+msgid "[Command]Unpack Layers to Tracks"
+msgstr "Desempacotar Camadas para Pistas"
+
+#: .\editing\takelist.cpp
+msgid "[Edit]Unpack Takes"
+msgstr "Desempacotar Takes"
+
+#: .\editing\takelist.cpp
+msgid "[Edit]Unpack Takes to Tracks"
+msgstr "Desempacotar Takes para Pistas"
+
+#: .\editing\takelist.cpp
+msgid "[Edit]Unpack Takes to existing Layers"
+msgstr "Desempacotar Takes nas Camadas existentes"
+
+#: .\editing\takelist.cpp
+msgid "[Edit]Unpack Takes to new Layers"
+msgstr "Desempacotar Takes para novas Camadas"
+
+#: .\pool\mediapoolbrowser.cpp
+msgid "[PoolBrowser]Used"
+msgstr "Utilizado"
+
+#: .\pool\locatefilescomponent.cpp
+msgid "[LocateFiles]Used by: "
+msgstr "Utilizado por:"
+
+#: .\musicediting\musiccontrollane.cpp
+msgid "[Automation]Velocity"
+msgstr "Intensidade"
+
+#: .\musicediting\patterncontrollane.cpp
+msgid "[MusicPatternPartEditor]Velocity"
+msgstr "Intensidade"
+
+#: .\base\model\arrangertrack.cpp
+msgid "[ArrangerSections]Verse"
+msgstr "Estrofe"
+
+#: .\video\videotrack.cpp
+msgid "[Video]Video"
+msgstr "Vídeo"
+
+#: .\editing\arrangereditlayer.cpp .\editing\chordeditlayer.cpp
+#: .\editing\trackeditor.cpp .\editing\tracklistcomponent.cpp
+#: .\musicediting\musiceditor.cpp
+msgid "[Command]View"
+msgstr "Visualizar"
+
+#: .\audioediting\audioedittask.cpp
+msgid "[AudioEdit]Volume Envelope"
+msgstr "Envelope de Volume"
+
+#: .\application\audioedit\audiobouncetask.cpp
+msgid "[AudioEdit]Wave File with rendered Insert FX"
+msgstr "Arquivo Wave com FX inserido renderizado"
+
+#: .\automationediting\automationtracklistcomponent.cpp
+msgid "[Command]Write"
+msgstr "Escrita"
+
+#: .\automation\automationwriter.cpp
+msgid "[AutomationWriter]Write Automation"
+msgstr "Escrever Automação"
+
+#: .\editing\tracklist.cpp
+msgid "[TrackHeights]X-Large"
+msgstr "Extra-Grande"
+
+#: .\editing\tracklist.cpp .\editing\tracklistcomponent.cpp
+msgid "[Command]Zoom"
+msgstr "Zoom"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Zoom Selected Track"
+msgstr "Aproximar Pista Selecionada"
+
+#: .\audioediting\audioeditor.cpp .\audioediting\audioscaleview.cpp
+msgid "[AudioScale]dB"
+msgstr "dB"
+
+#: .\audioediting\audiofxdraghandler.cpp
+msgid "[AudioFX]new Audio Track"
+msgstr "nova Pista de Áudio"
+
+#: .\automationediting\paramdraghandler.cpp
+msgid "[Automation]new Automation Track"
+msgstr "nova Pista de Automação"
+
+#: .\musicediting\musicfxdraghandler.cpp
+msgid "[MusicFX]new Instrument Track"
+msgstr "nova Pista de Instrumento"
+
+#: .\musicediting\synthdraghandler.cpp
+msgid "[SynthDrag]new Instrument Track"
+msgstr "nova Pista de Instrumento"
+
+#: .\videoediting\videodraghandler.cpp
+msgid "[VideoEdit]new Track"
+msgstr "Nova Pista"
+
+#: .\pool\locatefilescomponent.cpp
+msgid "[LocateFiles]used %(1) times"
+msgstr "utilizado %(1) vezes"
+
+#: .\pool\mediapoolnodes.cpp
+msgid "[PoolNodes]used %(1) times"
+msgstr "utilizado %(1) vezes"
+
+#~ msgid "[Record]Dropouts occured during record. The drive used for recording might not be fast enough."
+#~ msgstr "Ocorreram dropouts durante a gravação. O disco utilizado para a gravação pode não ser rápido o suficiente."
+
+#~ msgid "[EnvelopeValuePresentation]MIDI"
+#~ msgstr "MIDI"
+
+#~ msgid "[Command]Next Scene"
+#~ msgstr "Próxima Cena"
+
+#~ msgid "[EnvelopeValuePresentation]Percent"
+#~ msgstr "Percentual"
+
+#~ msgid "[Command]Previous Scene"
+#~ msgstr "Cena Anterior"
+
+#~ msgid "[EditAddIn]Quantize (Music Editor)"
+#~ msgstr "Quantizar (Editor Musical)"
+
+#~ msgid "[Command]Select Scene 1"
+#~ msgstr "Selecionar Cena 1"
+
+#~ msgid "[Command]Select Scene 2"
+#~ msgstr "Selecionar Cena 2"
+
+#~ msgid "[Command]Select Scene 3"
+#~ msgstr "Selecionar Cena 3"
+
+#~ msgid "[Command]Select Scene 4"
+#~ msgstr "Selecionar Cena 4"
+
+#~ msgid "[Command]Select Scene 5"
+#~ msgstr "Selecionar Cena 5"
+
+#~ msgid "[Engine]\"%(1)\" does not support the selected file format."
+#~ msgstr "\"%(1)\" não suporta o formato de arquívo selecionado."
+
+#~ msgid "[StemRenderer](Disabled)"
+#~ msgstr "(desativado)"
+
+#~ msgid "[StemRenderer](Empty)"
+#~ msgstr "(Vazio)"
+
+#~ msgid "[StemRenderer](Muted)"
+#~ msgstr "(Silenciado)"
+
+#~ msgid "[StemRenderer](Protected)"
+#~ msgstr "(Protegido)"
+
+#~ msgid "[SongBrowser]Append Track"
+#~ msgstr "Obter Pista"
+
+#~ msgid "[SongRenderer]Audio Export"
+#~ msgstr "Exportar Áudio"
+
+#~ msgid "[SongRenderer]Cannot create mixdown with protected content."
+#~ msgstr "Não permitido criar mixagem com conteúdo protegido."
+
+#~ msgid "[StemRenderer]Channels"
+#~ msgstr "Canais"
+
+#~ msgid "[Song]Could not import file!"
+#~ msgstr "Não pode importar arquivo!"
+
+#~ msgid "[Video]Default Size"
+#~ msgstr "Tamanho Padrão"
+
+#~ msgid "[Marker]Delete Marker"
+#~ msgstr "Excluir Marcador"
+
+#~ msgid "[Engine]Devices"
+#~ msgstr "Dispositivos"
+
+#~ msgid "[Engine]Do not publish"
+#~ msgstr "Não publicar"
+
+#~ msgid "[SongRenderer]Do you want to delete the exported file?"
+#~ msgstr "Você deseja excluir o arquivo exportado?"
+
+#~ msgid "[SongRenderer]Do you want to delete the exported files?"
+#~ msgstr "Você deseja excluir os arquivos exportados?"
+
+#~ msgid "[Video]Do you want to extract the audio to a new track?"
+#~ msgstr "Deseja extrair o áudio para uma nova pista?"
+
+#~ msgid "[Video]Double Size"
+#~ msgstr "Tamanho Dobrado"
+
+#~ msgid "[Command]Duplicate (complete)"
+#~ msgstr "Duplicar (completo)"
+
+#~ msgid "[Command]Export Mixdown"
+#~ msgstr "Exportar Consolidação (Mixdown)"
+
+#~ msgid "[Command]Export Stems"
+#~ msgstr "Exportar Partes (Stems)"
+
+#~ msgid "[Command]Export Video"
+#~ msgstr "Exportar Vídeo"
+
+#~ msgid "[SongRenderer]Exporting..."
+#~ msgstr "Exportando..."
+
+#~ msgid "[StemRenderer]Exporting:"
+#~ msgstr "Exportando:"
+
+#~ msgid "[Command]Extract Audio"
+#~ msgstr "Extração de Áudio"
+
+#~ msgid "[Video]Extracted Audio Track"
+#~ msgstr "Pista de Áudio Extraída"
+
+#~ msgid "[SongRenderer]Failed to export audio file."
+#~ msgstr "Falha ao exportar arquivo de áudio."
+
+#~ msgid "[StemRenderer]Failed to export audio file."
+#~ msgstr "Falha ao exportar arquivo de áudio."
+
+#~ msgid "[Video]Failed to write video."
+#~ msgstr "Falha ao escrever vídeo."
+
+#~ msgid "[Command]Goto Next Marker"
+#~ msgstr "Ir ao Próximo Marcador"
+
+#~ msgid "[Command]Goto Previous Marker"
+#~ msgstr "Ir ao Marcador Anterior"
+
+#~ msgid "[Video]Half Size"
+#~ msgstr "Metade"
+
+#~ msgid "[Command]Import File"
+#~ msgstr "Importar Arquivo"
+
+#~ msgid "[Command]Import Video"
+#~ msgstr "Importar Vídeo"
+
+#~ msgid "[Browser]Import to Pool"
+#~ msgstr "Importar para o Pool"
+
+#~ msgid "[Command]Insert"
+#~ msgstr "Inserir"
+
+#~ msgid "[Command]Insert Named"
+#~ msgstr "Inserir Nomeando"
+
+#~ msgid "[Command]Locate Missing Devices"
+#~ msgstr "Localizar Dispositivos Perdidos"
+
+#~ msgid "[SongSetup]Meta Information"
+#~ msgstr "Meta-informações"
+
+#~ msgid "[Edit]Mixdown Selection"
+#~ msgstr "Seleção de Consolidação"
+
+#~ msgid "[SongMaster]No"
+#~ msgstr "Não"
+
+#~ msgid "[StemRenderer]Nothing to export. Please select one or more tracks and set Loop or Markers."
+#~ msgstr "Nada para exportar. Selecione uma ou mais pistas e ajuste o Loop ou Marcadores. "
+
+#~ msgid "[SongRenderer]Nothing to export. Please set Loop or Markers first."
+#~ msgstr "Nada para exportar. Ajuste o Loop ou os Marcadores primeiro. "
+
+#~ msgid "[Command]Open Marker Track"
+#~ msgstr "Abrir Pista de Marcadores"
+
+#~ msgid "[Engine]Pool"
+#~ msgstr "Pool"
+
+#~ msgid "[Command]Remove Track"
+#~ msgstr "Remover Pista"
+
+#~ msgid "[Command]Remove Video"
+#~ msgstr "Remover Vídeo"
+
+#~ msgid "[ClickRenderer]Render Click"
+#~ msgstr "Renderizar Metrônomo"
+
+#~ msgid "[Command]Render Click"
+#~ msgstr "Renderizar Metrônomo"
+
+#~ msgid "[Video]Rendering Audio..."
+#~ msgstr "Renderizando Áudio..."
+
+#~ msgid "[ClickRenderer]Rendering Click"
+#~ msgstr "Renderizando Metrônomo"
+
+#~ msgid "[Marker]Set Markers"
+#~ msgstr "Configurar Marcadores"
+
+#~ msgid "[Command]Set Start and End to Selection"
+#~ msgstr "Ajustar Início e Final na Seleção"
+
+#~ msgid "[Command]Set Video Offset"
+#~ msgstr "Configurar Deslocamento do Vídeo"
+
+#~ msgid "[Engine]Song"
+#~ msgstr "Song"
+
+#~ msgid "[Song]Song Setup"
+#~ msgstr "Configurações do Song"
+
+#~ msgid "[Command]Song Setup"
+#~ msgstr "Configurações do Song"
+
+#~ msgid "[Engine]THIS SONG CONTAINS COPYRIGHTED MATERIAL. YOU MUST NOT USE ANY MATERIAL WITHOUT THE AUTHORS AGREEMENT."
+#~ msgstr "ESTE SONG CONTÉM MATERIAL REGISTRADO. VOCÊ NÃO PODE UTILIZAR QUALQUER MATERIAL SEM A CONCESSÃO DO AUTOR."
+
+#~ msgid "[Video]The audio codec does not support the current sample rate. The rate will be converted to %(1) kHz."
+#~ msgstr "O codec de áudio não suporta a taxa de amostragem atual. A taxa será convertida para %(1) kHz."
+
+#~ msgid "[Engine]The file format will be reset to \"%(1)\"."
+#~ msgstr "O formato de arquívo será reiniciado para \"%(1)\"."
+
+#~ msgid "[SongRenderer]The following problems occured during export:"
+#~ msgstr "Ocorreram os seguintes problemas durante a exportação:"
+
+#~ msgid "[SongMaster]The mastering file of this song is up-to-date."
+#~ msgstr "O arquivo de masterização deste Song está atualizado."
+
+#~ msgid "[SongMaster]The song will be saved first.\n"
+#~ msgstr "O Song será salvo primeiro.\n"
+
+#~ msgid "[SongBrowser]Track"
+#~ msgstr "Pista"
+
+#~ msgid "[SongInfo]Tracks"
+#~ msgstr "Pistas"
+
+#~ msgid "[StemRenderer]Tracks"
+#~ msgstr "Pistas"
+
+#~ msgid "[Command]Update Mastering File"
+#~ msgstr "Atualizar Arquivo de Masterização"
+
+#~ msgid "[SongMaster]Update the mastering file of this song:\n%(6)\nOutput: %(1)\nDuration: %(3)\nResolution: %(4)\nRealtime Processing: %(5)\nInclude Master Effects: %(7)\nFilename: %(2)"
+#~ msgstr "Atualização do arquivo de masterização deste Song:\n%(6)\nSaída: %(1)\nDuração: %(3)\nResolução: %(4)\nProcessamento em Tempo Real: %(5)\nIncluir Efeitos da Master: %(7)\nNome do Arquivo: %(2)"
+
+#~ msgid "[Video]Using different codecs might affect the export speed."
+#~ msgstr "Utilizar codecs diferentes pode afetar a velocidade de exportação."
+
+#~ msgid "[Command]Video"
+#~ msgstr "Vídeo"
+
+#~ msgid "[Command]Video Size Default"
+#~ msgstr "Tamanho Padrão do Vídeo"
+
+#~ msgid "[Command]Video Size Double"
+#~ msgstr "Tamanho Duplo do Vídeo"
+
+#~ msgid "[Command]Video Size Half"
+#~ msgstr "Metade do Tamanho do Vídeo"
+
+#~ msgid "[Video]Writing Video File..."
+#~ msgstr "Escrevendo Arquivo de Vídeo..."
+
+#~ msgid "[SongMaster]Yes"
+#~ msgstr "Sim"
+
+#~ msgid "[BEGIN_XSTRINGS (EditAddIn)]Quantize"
+#~ msgstr "Quantização"
+
+#~ msgid "[EditGroups]A Group with this name already exists."
+#~ msgstr "Já existe um Grupo com esse nome."
+
+#~ msgid "[EditGroups]Group"
+#~ msgstr "Grupo"
+
+#~ msgid "[EditGroups]None"
+#~ msgstr "Nenhúm"
+
+#~ msgid "[EditGroups]Rename Group"
+#~ msgstr "Renomear Grupo"
+
+#~ msgid "[EditGroups]Rename Group..."
+#~ msgstr "Renomear Grupo..."
+
+#~ msgid "[RecordMode]Loop Record Note Erase"
+#~ msgstr "Gravação em Loop - Apagar Notas"
+
+#~ msgid "[RecordMode]Loop Record Note Repeat"
+#~ msgstr "Gravação em Loop - Repetir Notas"
+
+#~ msgid "[Command]Note Repeat"
+#~ msgstr "Repetir Nota"
+
+#~ msgid "[Marker]Marker"
+#~ msgstr "Marcador"
+
+#~ msgid "[Command]Open Arrangertrack"
+#~ msgstr "Abrir Pista de Arranjador"
+
+#~ msgid "[Command]Open Markertrack"
+#~ msgstr "Abrir Pista de Marcadores"
+
+#~ msgid "[Automation]Transfer Automation"
+#~ msgstr "Tarnsferência de Automação"
+

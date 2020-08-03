@@ -1,0 +1,430 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\audiofile\audiocodecs\aiffaudiocodec.cpp
+msgid "[FileType]AIFC File"
+msgstr "AIFCファイル"
+
+#: .\audiofile\audiocodecs\aiffaudiocodec.cpp
+msgid "[FileType]AIFF File"
+msgstr "AIFFファイル"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Add Note Controller \"%(1)\""
+msgstr "ノートコントローラー \"%(1)\" を追加"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Add Pattern"
+msgstr "パターンを追加"
+
+#: .\audiofile\audiocodecs\aiffaudiocodec.cpp
+msgid "[FileType]Apple Impulse File"
+msgstr "Apple Impulseファイル"
+
+#: .\audiofile\audiocodecs\audioloopinfo.cpp
+msgid "[FileType]Audioloop"
+msgstr "Audioloop"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]Augmented"
+msgstr "オーギュメント"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Bars"
+msgstr "小節"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Beat-Linear"
+msgstr "ビートリニア"
+
+#: .\envelopes\envelopeactions.cpp
+msgid "[EnvelopeActions]Bend Points"
+msgstr "ベンドポイント"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Blues"
+msgstr "ブルース"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Chromatic"
+msgstr "クロマチック"
+
+#: .\audiofile\audiofileconverter.cpp
+msgid "[AudioFileConverter]Converting %(1)"
+msgstr "%(1) を変換しています"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Copy Event"
+msgstr "イベントをコピー"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Copy Events"
+msgstr "イベントをコピー"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Delete Event"
+msgstr "イベントを削除"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Delete Events"
+msgstr "イベントを削除"
+
+#: .\envelopes\envelopeactions.cpp
+msgid "[EnvelopeActions]Delete Point"
+msgstr "ポイントを削除"
+
+#: .\envelopes\envelopefunctions.cpp
+msgid "[Events]Delete Points"
+msgstr "ポイントを削除"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]Diminished"
+msgstr "ディミニッシュ"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Dorian"
+msgstr "ドリアン"
+
+#: .\music\beatlistparam.cpp
+msgid "[Resolution]Dotted"
+msgstr "付点あり"
+
+#: .\envelopes\envelopefunctions.cpp
+msgid "[Events]Edit Value"
+msgstr "値を編集"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Frames"
+msgstr "フレーム"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Freeze Quantize"
+msgstr "クオンタイズをフリーズ"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Freeze Velocity"
+msgstr "ベロシティをフリーズ"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Harmonic Minor"
+msgstr "ハーモニックマイナー"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Insert Event"
+msgstr "イベントを挿入"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Insert Events"
+msgstr "イベントを挿入"
+
+#: .\envelopes\envelopeactions.cpp
+msgid "[EnvelopeActions]Insert Point"
+msgstr "ポイントを挿入"
+
+#: .\envelopes\envelopefunctions.cpp
+msgid "[Events]Insert Points"
+msgstr "ポイントを挿入"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Insert Tempo"
+msgstr "テンポを挿入"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Insert Time Signature"
+msgstr "拍子を挿入"
+
+#: .\music\pitchnamelist.cpp
+msgid "[FileType]Key Switches"
+msgstr "キースイッチ"
+
+#: .\music\musicparams.cpp
+msgid "[Media.Music]MIDI"
+msgstr "MIDI"
+
+#: .\music\midifileparser.cpp
+msgid "[FileType]MIDI File"
+msgstr "MIDIファイル"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]Major"
+msgstr "メジャー"
+
+#: .\music\keysignature.cpp
+msgid "[KeySignature]Major"
+msgstr "メジャー"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Major"
+msgstr "メジャー"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Major Pentatonic"
+msgstr "メジャーペンタトニック"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Melodic Minor"
+msgstr "メロディックマイナー"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]Minor"
+msgstr "マイナー"
+
+#: .\music\keysignature.cpp
+msgid "[KeySignature]Minor"
+msgstr "マイナー"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Minor Pentatonic"
+msgstr "マイナーペンタトニック"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Mixolydian"
+msgstr "ミクソリディアン"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Accent"
+msgstr "アクセントを変更"
+
+#: .\music\chordfunctions.cpp
+msgid "[Edit]Modify Chord"
+msgstr "コードを変更"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Modify Event"
+msgstr "イベントを変更"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Pattern Accent Strength"
+msgstr "パターンのアクセント強さを変更"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Pattern Gate"
+msgstr "パターンのゲートを変更"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Pattern Resolution"
+msgstr "パターンの解像度を変更"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Pattern Swing"
+msgstr "パターンのスウィングを変更"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Pattern Type"
+msgstr "パターンのタイプを変更"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Probability"
+msgstr "ランダム率を変更"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Repeat"
+msgstr "リピートを変更"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Step Count"
+msgstr "ステップ数を変更"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Modify Tempo"
+msgstr "テンポを変更"
+
+#: .\time\tempomanipulator.cpp
+msgid "[TempoManipulator]Modify Tempo"
+msgstr "テンポを変更"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Velocity"
+msgstr "ベロシティを変更"
+
+#: .\public\mediaformatter.cpp
+msgid "[Media]Mono"
+msgstr "モノ"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Move Event"
+msgstr "イベントを移動"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Move Events"
+msgstr "イベントを移動"
+
+#: .\envelopes\envelopeactions.cpp
+msgid "[EnvelopeActions]Move Point"
+msgstr "ポイントを移動"
+
+#: .\envelopes\envelopeactions.cpp
+msgid "[EnvelopeActions]Move Points"
+msgstr "ポイントを移動"
+
+#: .\music\musicperformance.cpp
+msgid "[FileType]Music File"
+msgstr "音楽ファイル"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Mute Event"
+msgstr "イベントをミュート"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Natural Minor"
+msgstr "ナチュラルマイナー"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Note Controller"
+msgstr "ノートコントローラー"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Nudge"
+msgstr "ナッジ"
+
+#: .\public\mediaformatter.cpp
+msgid "[Media]Off"
+msgstr "オフ"
+
+#: .\public\mediaformatter.cpp
+msgid "[Media]Pad %(1)"
+msgstr "パッド %(1)"
+
+#: .\music\patternperformance.cpp
+msgid "[FileType]Pattern File"
+msgstr "パターンファイル"
+
+#: .\music\musicparams.cpp
+msgid "[Media.Music]Percent"
+msgstr "パーセント"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Phrygian"
+msgstr "フリジアン"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Pitch"
+msgstr "ピッチ"
+
+#: .\music\pitchnamelist.cpp
+msgid "[FileType]Pitch Names"
+msgstr "音名"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]Power Chord"
+msgstr "パワーコード"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Pressure"
+msgstr "プレッシャー"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Quantize"
+msgstr "クオンタイズ"
+
+#: .\music\beatlistparam.cpp
+msgid "[Resolution]Quintuplet"
+msgstr "5連符"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Remove Note Controller \"%(1)\""
+msgstr "ノートコントローラー \"%(1)\" を削除"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Remove Pattern"
+msgstr "パターンを削除"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Remove Tempo"
+msgstr "テンポを削除"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Remove Time Signature"
+msgstr "拍子を削除"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Rename Pattern"
+msgstr "パターンを削除"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Reorder Pattern"
+msgstr "パターンを並べ替え"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Resize Event"
+msgstr "イベントのサイズを変更"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Resize Events"
+msgstr "イベントのサイズを変更"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Samples"
+msgstr "サンプル"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Seconds"
+msgstr "秒"
+
+#: .\music\beatlistparam.cpp
+msgid "[Resolution]Septuplet"
+msgstr "7連符"
+
+#: .\time\tempoenvelopefunctions.cpp
+msgid "[Tempo]Set BPM Range"
+msgstr "BPM範囲を設定"
+
+#: .\audiofile\audiofileconverter.cpp
+msgid "[AudioFileConverter]Some files could not be converted."
+msgstr "いくつかのファイルを変換できませんでした。"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Split Event"
+msgstr "イベントを分割"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Split Events"
+msgstr "イベントを分割"
+
+#: .\public\mediaformatter.cpp
+msgid "[Media]Stereo"
+msgstr "ステレオ"
+
+#: .\music\beatlistparam.cpp
+msgid "[Resolution]Straight"
+msgstr "ストレート"
+
+#: .\envelopes\envelopefunctions.cpp
+msgid "[Events]Straighten Curve"
+msgstr "カーブを直線に"
+
+#: .\time\tempoenvelope.cpp
+msgid "[Tempo]Tempo"
+msgstr "テンポ"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Timbre"
+msgstr "音色"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Time-Linear"
+msgstr "タイムリニア"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Transpose"
+msgstr "トランスポーズ"
+
+#: .\music\beatlistparam.cpp
+msgid "[Resolution]Triplet"
+msgstr "3連符"
+
+#: .\audiofile\audiocodecs\waveaudiocodec.cpp
+msgid "[FileType]Wave File"
+msgstr "Waveファイル"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]sus2"
+msgstr "サスペンド2"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]sus4"
+msgstr "サスペンド4"
+

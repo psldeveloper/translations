@@ -1,0 +1,1 @@
+Studio Oneで使用する前にioStation 24cをネイティブモードに切り替えてください。

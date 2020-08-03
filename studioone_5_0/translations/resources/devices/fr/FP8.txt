@@ -1,0 +1,1 @@
+Faites passer le FaderPort 8 en mode natif avant de l'utiliser avec Studio One.

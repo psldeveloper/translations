@@ -1,0 +1,138 @@
+#: .\sampler\storage\presethandler.cpp
+msgid "[Sampler]%(1) programs"
+msgstr ""
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler](Press 'Shift' to insert slices)"
+msgstr ""
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Add Sample"
+msgstr ""
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Add Samples"
+msgstr ""
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Add Slices"
+msgstr ""
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Chromatic"
+msgstr ""
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[FileType]EXS24 File"
+msgstr ""
+
+#: .\sampler\gui\wavedisplay.cpp
+msgid "[WaveDisplay]File not found"
+msgstr ""
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Full Range"
+msgstr ""
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[FileType]Giga File"
+msgstr ""
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[Sampler]Importing..."
+msgstr ""
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Insert Sample"
+msgstr ""
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Insert Samples"
+msgstr ""
+
+#: .\sampler\impact\impactviews.cpp
+msgid "[DrumPadInsertHandler]Insert to next free pad"
+msgstr ""
+
+#: .\sampler\storage\settings.cpp
+msgid "[SamplerUserOption]Instrument Library"
+msgstr ""
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[FileType]Kontakt File"
+msgstr ""
+
+#: .\sampler\storage\bitwigcodec.cpp
+msgid "[FileType]Multisample File"
+msgstr ""
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[Sampler]Not supported %(1)"
+msgstr ""
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Octave Mode"
+msgstr ""
+
+#: .\sampler\gui\keyswitchcomponent.cpp
+msgid "[KeySwitchList]Pitch"
+msgstr ""
+
+#: .\sampler\storage\presethandler.cpp
+msgid "[Sampler]Preset in %(1)"
+msgstr ""
+
+#: .\sampler\samplerutils.cpp
+msgid "[SamplerUtitlities]Render Slices"
+msgstr ""
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Replace Sample"
+msgstr ""
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Replace Samples"
+msgstr ""
+
+#: .\sampler\storage\presonuscodec.cpp
+#: .\sampler\storage\soundfontcodec.cpp
+msgid "[FileType]Sampler File"
+msgstr ""
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[Sampler]Searching Samples"
+msgstr ""
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Set Root/Hi/Low Key to %(1)"
+msgstr ""
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Slice"
+msgstr ""
+
+#: .\sampler\impact\impactviews.cpp
+msgid "[DrumPadInsertHandler]Slice and spread across multiple pads"
+msgstr ""
+
+#: .\sampler\samplerutils.cpp
+msgid "[SamplerUtitlities]Slice detection"
+msgstr ""
+
+#: .\sampler\storage\soundfontcodec.cpp
+#: .\sampler\storage\usfcodec.cpp
+msgid "[FileType]SoundFont"
+msgstr ""
+
+#: .\sampler\impact\impactviews.cpp
+msgid "[DrumPadInsertHandler]Spread samples across multiple pads"
+msgstr ""
+
+#: .\sampler\gui\keyswitchcomponent.cpp
+msgid "[KeySwitchList]Title"
+msgstr ""
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]White Keys"
+msgstr ""
+

@@ -1,0 +1,163 @@
+#: .\panel.js
+msgid "Action"
+msgstr ""
+
+#: .\panel.js
+msgid "Are you sure you want to revert all changes?"
+msgstr ""
+
+#: .\editor.js
+msgid "Arguments"
+msgstr ""
+
+#: .\main.js
+msgid "Arrangement"
+msgstr ""
+
+#: .\main.js
+msgid "Audio Editor"
+msgstr ""
+
+#: .\editor.js
+msgid "Command"
+msgstr ""
+
+#: .\editor.js
+msgid "Command Arguments"
+msgstr ""
+
+#: .\organizer.js
+msgid "Description"
+msgstr ""
+
+#: .\organizer.js
+msgid "Do you want to delete the selected macros?"
+msgstr ""
+
+#: .\organizer.js
+msgid "Do you want to rename the macro file as well?"
+msgstr ""
+
+#: .\panel.js
+msgid "Duplicate Macro"
+msgstr ""
+
+#: .\panel.js
+msgid "Edit Macro..."
+msgstr ""
+
+#: .\panel.js
+#: .\renamer.js
+msgid "Edit Names"
+msgstr ""
+
+#: .\panel.js
+msgid "Export Macro Page"
+msgstr ""
+
+#: .\panel.js
+msgid "Export..."
+msgstr ""
+
+#: .\organizer.js
+msgid "Group"
+msgstr ""
+
+#: .\panel.js
+msgid "Help"
+msgstr ""
+
+#: .\panel.js
+msgid "Import Macro Page"
+msgstr ""
+
+#: .\panel.js
+msgid "Import..."
+msgstr ""
+
+#: .\gadget.js
+#: .\panel.js
+msgid "Macro Organizer"
+msgstr ""
+
+#: .\gadget.js
+msgid "Macro Toolbar inspired by the Studio One beta testers"
+msgstr ""
+
+#: .\panel.js
+msgid "Macro not found:"
+msgstr ""
+
+#: .\editor.js
+#: .\gadget.js
+#: .\manager.js
+#: .\panel.js
+msgid "Macros"
+msgstr ""
+
+#: .\translation.js
+msgid "[Macros]Macros (Arrangement)"
+msgstr ""
+
+#: .\translation.js
+msgid "[Macros]Macros (Audio Editor)"
+msgstr ""
+
+#: .\translation.js
+msgid "[Macros]Macros (Note Editor)"
+msgstr ""
+
+#: .\organizer.js
+#: .\panel.js
+msgid "Name"
+msgstr ""
+
+#: .\panel.js
+msgid "New Macro..."
+msgstr ""
+
+#: .\main.js
+msgid "Note Editor"
+msgstr ""
+
+#: .\panel.js
+msgid "Pages"
+msgstr ""
+
+#: .\panel.js
+#: .\renamer.js
+msgid "Reload Names"
+msgstr ""
+
+#: .\panel.js
+msgid "Reset Toolbar"
+msgstr ""
+
+#: .\panel.js
+msgid "Setup"
+msgstr ""
+
+#: .\elements.js
+msgid "Studio One Macro"
+msgstr ""
+
+#: .\elements.js
+msgid "Studio One Macro Page"
+msgstr ""
+
+#: .\gadget.js
+msgid "Studio One Macro Toolbar"
+msgstr ""
+
+#: .\panel.js
+msgid "The file is empty or corrupt and could not be imported."
+msgstr ""
+
+#: .\editor.js
+msgid "This command does not have any arguments."
+msgstr ""
+
+#: .\organizer.js
+msgid "User Macro"
+msgstr ""
+

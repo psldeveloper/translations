@@ -1,0 +1,1 @@
+﻿Conecte seu teclado Komplete Kontrol ao computador e selecione as portas MIDI não DAW, para uso com o Studio One.

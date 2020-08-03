@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\multitrackdocumentfilter.cpp
+msgid "[Multitrack]A package with the same identifier is already mounted."
+msgstr "Es ist bereits ein Paket mit der gleichen Kennung gemountet."
+
+#: .\multitrackformat.cpp
+msgid "[FileType]Multitrack File"
+msgstr "Multitrack-Datei"
+
+#: .\multitrackhandler.cpp
+msgid "[Multitrack]Scanning Multitrack Files..."
+msgstr "Untersuche Multitrack-Dateien..."
+
+#: .\multitrackdocumentfilter.cpp
+msgid "[Multitrack]The file \"%(1)\" will be copied to the multitrack folder:\n\n%(2)"
+msgstr "Die Datei \"%(1)\" wird in den Multitrack-Ordner kopiert:\n\n%(2)"
+
+#: .\multitrackdocumentfilter.cpp
+msgid "[Multitrack]The file \"%(1)\" will be moved to the multitrack folder:\n\n%(2)"
+msgstr "Die Datei \"%(1)\" wird in den Multitrack-Ordner verschoben:\n\n%(2)"
+
+#: .\multitrackproperties.cpp
+msgid "[Multitrack]Tracks"
+msgstr "Spuren"
+

@@ -1,0 +1,126 @@
+#include: ../languagepack.macros
+
+#define: $(TempDir)=~temp
+#define: $(OutDir)=languages
+
+print: Building "$(LanguagePack)"...
+print:
+
+print: Copying prototypes...
+setOutputDir: ./$(TempDir)/$(LanguagePack)
+setInputDir: ../../locales
+copyFile: $(language).xml > localeinfo.xml
+setInputDir: ../../icons
+copyFile: $(language).png > language.png
+copyFile: $(language)@2x.png > language@2x.png
+setInputDir: ./
+copyFile: tables.properties
+copyFile: resources.properties
+setInputDir: ./$(language)
+copyFile: metainfo.xml
+setOutputDir: ./$(TempDir)/$(LanguagePack)/resources
+setInputDir: ../../eula
+copyFile: EULA-$(language).txt > EULA.txt
+
+print: Copying tables...
+; Application
+#define: $(table)=studioapp
+@copyTable
+#define: $(table)=studioapp-audioedit
+@copyTable
+#define: $(table)=studioapp-musicedit
+@copyTable
+#define: $(table)=studioapp-projectedit
+@copyTable
+#define: $(table)=studioapp-toolset
+@copyTable
+#define: $(table)=studioapp-trackedit
+@copyTable
+
+; Framework
+#define: $(table)=cclgui
+@copyTable
+#define: $(table)=cclsystem
+@copyTable
+
+; Modules
+#define: $(table)=araservice
+@copyTable
+#define: $(table)=audiocodecs
+@copyTable
+#define: $(table)=audioanalysis
+@copyTable
+#define: $(table)=cdburn
+@copyTable
+#define: $(table)=cubasehandler
+@copyTable
+#define: $(table)=sessionhandler
+@copyTable
+#define: $(table)=hardwareservice
+@copyTable
+#define: $(table)=midifile
+@copyTable
+#define: $(table)=mp3handler
+@copyTable
+#define: $(table)=musicdevices
+@copyTable
+#define: $(table)=videoengine
+@copyTable
+#define: $(table)=rewireservice
+@copyTable
+#define: $(table)=rexcodec
+@copyTable
+#define: $(table)=instruments
+@copyTable
+#define: $(table)=synth
+@copyTable
+#define: $(table)=vstservice
+@copyTable
+#define: $(table)=dspshell
+@copyTable
+#define: $(table)=remoteservice
+@copyTable
+#define: $(table)=aafhandler
+@copyTable
+
+; Extensions
+#define: $(table)=soundcloud
+@copyTable
+#define: $(table)=soundsetbuilder
+@copyTable
+#define: $(table)=presonusstore
+@copyTable
+#define: $(table)=studioonemacros
+@copyTable
+#define: $(table)=audiobatchconverter
+@copyTable
+
+; Windows only
+#define: $(table)=asioservice
+@copyTable
+#define: $(table)=midiservice
+@copyTable
+#define: $(table)=windowsaudio
+@copyTable
+
+; Mac OS X only
+#define: $(table)=auservice
+@copyTable
+#define: $(table)=coreaudio
+@copyTable
+#define: $(table)=coremidi
+@copyTable
+#define: $(table)=tuioservice
+@copyTable
+
+print: Copying resources...
+; External Devices
+setInputDir: ../../resources/devices/$(language)
+setOutputDir: ./$(TempDir)/$(LanguagePack)/resources/devices
+copyFolder
+
+print: Packaging files...
+setInputDir: ./$(TempDir)/$(LanguagePack)
+setOutputDir: ./$(OutDir)
+packageFolder-r-z: $(LanguagePack).langpack
+return: $(LanguagePack).langpack

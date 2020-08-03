@@ -1,0 +1,1 @@
+﻿Verbinden Sie den ATOM SQ Controller mit dem Computer, um ihn mit Studio One zu verwenden.

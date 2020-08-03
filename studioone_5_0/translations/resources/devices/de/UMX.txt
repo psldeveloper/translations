@@ -1,0 +1,1 @@
+﻿Bitte benutzen Sie das Standard-Mapping welches auf dem UMX abgedruckt ist und setzen Sie die Buttons B5-B8 auf CC 80-83. Benutzen Sie den User Memory zum Speichern.

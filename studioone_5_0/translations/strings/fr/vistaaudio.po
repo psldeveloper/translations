@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\vistaaudiodevice.cpp
+msgid "[VistaAudio]Audio Playback is disabled."
+msgstr "La lecture audio est désactivée."
+
+#: .\vistaaudiodevice.cpp
+msgid "[VistaAudio]Audio Recording is disabled."
+msgstr "L'enregistrement audio est désactivé."
+
+#: .\vistaaudiodevice.cpp
+msgid "[VistaAudio]Failed to open %(1)!"
+msgstr "Échec de l'ouverture de %(1)!"
+
+#: .\vistaaudiomanager.cpp
+msgid "[VistaAudio]Manage audio devices"
+msgstr "Gérer les périphériques audio"
+
+#: .\vistaaudiodevice.cpp
+msgid ""
+"[VistaAudio]Please make sure that the sample rates of your recording and "
+"playback devices match."
+msgstr ""
+"Veuillez vérifier que les fréquences d'échantillonnage de vos appareils de "
+"lecture et d'enregistrement correspondent bien."
+
+#: .\vistaaudiodevice.cpp
+msgid ""
+"[VistaAudio]Please make sure that the speaker configuration is set to stereo."
+msgstr ""
+"Veuillez vérifier que la configuration d'enceintes est réglée sur stéréo."
+
+#: .\vistaaudiomain.cpp
+msgid "[VistaAudio]Support for Consumer Audio Devices on Windows"
+msgstr "Prise en charge des périphériques audio grand public sous Windows"
+
+#: .\plugversion.h
+msgid "[VistaAudio]Windows Audio Support"
+msgstr "Prise en charge de Windows Audio"

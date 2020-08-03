@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\client.xml
+msgid "[SoundCloudManager]Add Tracks..."
+msgstr "トラックを追加..."
+
+#: .\client.xml
+msgid "[TrackPropertyView]Allow external streams at 128 kbps"
+msgstr "128 kbpsでの外部ストリーミングを許可"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Artwork"
+msgstr "アートワーク"
+
+#: .\client.xml
+msgid "[SoundCloudAuthorization]Attempt to connect with SoundCloud failed!"
+msgstr "SoundCloudへの接続に失敗しました。"
+
+#: .\client.xml
+msgid "[TrackPropertyView]BPM"
+msgstr "BPM"
+
+#: .\client.xml
+msgid "[SoundCloudAuthorization]Cancel"
+msgstr "キャンセル"
+
+#: .\browser.xml
+msgid "[ClientPreview]Connect with SoundCloud"
+msgstr "SoundCloudに接続"
+
+#: .\client.xml
+msgid "[NotSignedInView]Connect with SoundCloud"
+msgstr "SoundCloudに接続"
+
+#: .\client.xml
+msgid "[SoundCloudManager]Connect with SoundCloud"
+msgstr "SoundCloudに接続"
+
+#: .\client.xml
+msgid "[SoundCloudConnectDialog]Connect with SoundCloud"
+msgstr "SoundCloudに接続"
+
+#: .\client.xml
+msgid "[SoundCloudManager]De-Authorize"
+msgstr "オーソライズを解除"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Description"
+msgstr "説明"
+
+#: .\browser.xml
+msgid "[TrackPreview]Download"
+msgstr "ダウンロード"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Genre"
+msgstr "ジャンル"
+
+#: .\client.xml
+msgid "[TrackPropertyView]ISRC"
+msgstr "ISRC"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Key"
+msgstr "キー"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Keywords"
+msgstr "キーワード"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Label Name"
+msgstr "レーベル名"
+
+#: .\client.xml
+msgid "[TrackPropertyView]License"
+msgstr "ライセンス"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Make original downloadable"
+msgstr "オリジナルをダウンロード可能にする"
+
+#: .\client.xml
+msgid "[TrackPropertyView]More info"
+msgstr "詳細"
+
+#: .\client.xml
+msgid "[ActivityFeedItems]No recent activity."
+msgstr "最近のアクティビティがありません。"
+
+#: .\client.xml
+msgid "[SoundCloudManager]No track selected"
+msgstr "トラックが選択されていません"
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Comments"
+msgstr "コメント数"
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Downloads"
+msgstr "ダウンロード数"
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Favorites"
+msgstr "お気に入り数"
+
+#: .\browser.xml
+msgid "[UserPreview]Number of Followers"
+msgstr "フォロワー数"
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Followers"
+msgstr "フォロワー数"
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Playbacks"
+msgstr "再生回数"
+
+#: .\browser.xml
+msgid "[UserPreview]Number of Tracks"
+msgstr "トラック数"
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Tracks"
+msgstr "トラック数"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Purchase URL"
+msgstr "購入URL"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Release Name"
+msgstr "リリース名"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Release date"
+msgstr "リリース日"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Remove Image"
+msgstr "イメージを削除"
+
+#: .\client.xml
+msgid "[SoundCloudManager]Remove all"
+msgstr "すべてを削除"
+
+#: .\client.xml
+msgid "[SoundCloudAuthorization]Retry"
+msgstr "再試行"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Select Image"
+msgstr "イメージを選択"
+
+#: .\browser.xml
+msgid "[ClientPreview]SoundCloud Client"
+msgstr "SoundCloudクライアント"
+
+#: .\client.xml
+msgid "[SoundCloudManager]SoundCloud Client"
+msgstr "SoundCloudクライアント"
+
+#: .\client.xml
+msgid "[TrackPropertyView]This track is available publicly"
+msgstr "このトラックは公開されています"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Title"
+msgstr "タイトル"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Track Type"
+msgstr "トラックの種類"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Track info"
+msgstr "トラック情報"
+
+#: .\client.xml
+msgid "[SoundCloudManager]Upload"
+msgstr "アップロード"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Video URL"
+msgstr "ビデオURL"
+
+#: .\client.xml
+msgid "[SoundCloudAuthorization]Waiting for SoundCloud to respond..."
+msgstr "SoundCloudの応答を待っています..."
+
+#: .\client.xml
+msgid "[SoundCloudAuthorization]You are now connected to SoundCloud."
+msgstr "SoundCloudに接続しました。"
+

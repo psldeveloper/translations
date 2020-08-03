@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\vistaaudiodevice.cpp
+msgid "[VistaAudio]Audio Playback is disabled."
+msgstr "Ses çalma devre dışı bırakıldı."
+
+#: .\vistaaudiodevice.cpp
+msgid "[VistaAudio]Audio Recording is disabled."
+msgstr "Ses kayıt devre dışı bırakıldı."
+
+#: .\vistaaudiodevice.cpp
+msgid "[VistaAudio]Failed to open %(1)!"
+msgstr "%(1) açılamadı!"
+
+#: .\vistaaudiomanager.cpp
+msgid "[VistaAudio]Manage audio devices"
+msgstr "Ses aygıtlarını düzenle"
+
+#: .\vistaaudiodevice.cpp
+msgid ""
+"[VistaAudio]Please make sure that the sample rates of your recording and "
+"playback devices match."
+msgstr ""
+"Kayıt ve çalma aygıtlarının örnekleme frekanslarının aynı olduğundan emin "
+"olun."
+
+#: .\vistaaudiodevice.cpp
+msgid ""
+"[VistaAudio]Please make sure that the speaker configuration is set to stereo."
+msgstr "Hoparlör konfigürasyonunuzun stereo olarak ayarlandığından emin olun."
+
+#: .\vistaaudiomain.cpp
+msgid "[VistaAudio]Support for Consumer Audio Devices on Windows"
+msgstr "Windows üzerinde Tüketici Ses Aygıtlarına Destek"
+
+#: .\plugversion.h
+msgid "[VistaAudio]Windows Audio Support"
+msgstr "Windows Ses Desteği"

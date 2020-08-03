@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\aafhandler.cpp
+msgid "[FileType]AAF File"
+msgstr "Plik AAF"
+
+#: .\aafhandler.cpp
+msgid "[AAF]An audio event has modifications and needs to be bounced."
+msgstr "Obiekt audio został zmodyfikowany i należy go ponownie wygenerować."
+
+#: .\aafhandler.cpp
+msgid "[AAF]An audio image is not ready."
+msgstr "Obraz audio nie jest gotowy."
+
+#: .\aafhandler.cpp
+msgid "[AAF]An audio part needs to be bounced."
+msgstr "Partia audio musi zostać wygenerowana."
+
+#: .\aafhandler.cpp
+msgid "[AAF]An event has unrendered Event FX."
+msgstr "Obiekt ma niewygenerowane FX obiektu."
+
+#: .\aafhandler.cpp
+msgid "[AAF]Audio files from content packages can not be exported."
+msgstr "Pliki audio z pakietów zawartości nie mogą być wyeksportowane."
+
+#: .\aafwriter.cpp
+msgid "[AAF]Converting %(1)"
+msgstr "Konwertowanie %(1)"
+
+#: .\aafwriter.cpp
+msgid "[AAF]Embedding %(1)"
+msgstr "Osadzanie %(1)"
+
+#: .\aafwriter.cpp
+msgid "[AAF]Step %(1) of %(2)"
+msgstr "Krok %(1) z %(2)"
+
+#: .\aafhandler.cpp
+msgid "[AAF]The AAF export has the following issues:"
+msgstr "Podczas eksportu do AAF wystąpiły następujące problemy:"
+
+#: .\aafhandler.cpp
+msgid "[AAF]The event is not a plain audio event."
+msgstr "Obiekt nie jest zwykłym obiektem audio."
+
+#: .\aafhandler.cpp
+msgid "[AAF]The file is not on your disk."
+msgstr "Plik nie jest na dysku."
+

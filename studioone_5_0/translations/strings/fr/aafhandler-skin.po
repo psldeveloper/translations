@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\option.xml
+msgid "[ExportDialog]Convert audio files"
+msgstr "Convertir les fichiers audio"
+
+#: .\option.xml
+msgid "[ExportDialog]Convert stereo tracks to mono pairs. This ensures compatibilty with applications which do not support import of stereo tracks."
+msgstr "Convertir les pistes stéréo en paires mono. Cela assure la compatibilté avec les applications qui n'importent pas les pistes stéréo."
+
+#: .\option.xml
+msgid "[ExportDialog]Create copies of all audio data in another format for export."
+msgstr "Créer des copies de toutes les données audio dans un autre format pour exportation."
+
+#: .\option.xml
+msgid "[ExportDialog]Discard unused regions in audio files."
+msgstr "Éliminer les régions non utilisées des fichiers audio."
+
+#: .\option.xml
+msgid "[ExportDialog]Embed audio"
+msgstr "Audio incorporé"
+
+#: .\option.xml
+msgid "[ExportDialog]Export AAF"
+msgstr "Exporter en AAF"
+
+#: .\option.xml
+msgid "[ExportDialog]Export pan"
+msgstr "Exporter le panoramique"
+
+#: .\option.xml
+msgid "[ExportDialog]Head/Tail"
+msgstr "Tête/Queue"
+
+#: .\option.xml
+msgid "[ExportDialog]Improve compatibility with older applications."
+msgstr "Améliorer la compatibilité avec les applications anciennes."
+
+#: .\option.xml
+msgid "[ExportDialog]Include pan automation in export. Disengaging may improve compatibility with applications which do not recognize pan data."
+msgstr "Inclure l'automation du panoramique dans l'exportation. Ne pas l'activer peut améliorer la compatibilité avec des applications qui ne reconnaissent pas les données de panoramique."
+
+#: .\option.xml
+msgid "[ExportDialog]Legacy mode"
+msgstr "Ancien mode"
+
+#: .\option.xml
+msgid "[AudioCodecSelector]Resolution:"
+msgstr "Résolution:"
+
+#: .\option.xml
+msgid "[AudioCodecSelector]Sample Rate:"
+msgstr "Fréq. d'éch.:"
+
+#: .\option.xml
+msgid "[ExportDialog]Split stereo tracks"
+msgstr "Scinder les pistes stéréo"
+
+#: .\option.xml
+msgid "[ExportDialog]Store Wave and AIFF data in the exported file. If disengaged, references to audio files are used instead."
+msgstr "Intégrer les données Wave et AIFF au fichier exporté. Sinon, ce sont les références aux fichiers audio qui sont utilisées."
+
+#: .\option.xml
+msgid "[ExportDialog]Trim audio files"
+msgstr "Rogner les fichiers audio"
+

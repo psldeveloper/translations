@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\soundsetbuilder.cpp
+msgid "[StudioApp]A Sound Set with the identifier \"%(1)\" already exists!"
+msgstr "\"%(1)\" belirleyicili bir Sound Se zaten mevcut!"
+
+#: .\soundsetproperties.cpp
+msgid "[StudioApp]Are you sure you want to modify the Sound Set identifier?"
+msgstr "Sound Set belirleyicisini değiştirmek istediğinize eminmisiniz ?"
+
+#: .\plugversion.h
+msgid "[StudioApp]Build your own Sound Sets for Studio One"
+msgstr "Studio One için kendi Sound Set'lerinizi oluşturun"
+
+#: .\soundsetbuilder.cpp
+msgid "[StudioApp]Failed to create Sound Set!"
+msgstr "Sound Set yaratılamadı!"
+
+#: .\browserextension.cpp
+msgid "[StudioApp]Mount Folder as Sound Set"
+msgstr "Klasörü Sound Set olarak kur"
+
+#: .\browserextension.cpp
+msgid "[StudioApp]Pack Sound Set from Folder"
+msgstr "Klasörden Sound Set oluştur"
+
+#: .\plugversion.h
+msgid "[StudioApp]Sound Set Builder"
+msgstr "Sound Set Kurucu"
+
+#: .\soundsetbuilder.cpp
+msgid "[StudioApp]Sound Set meta information is incomplete!"
+msgstr "Sound Set için meta data eksik!"
+
+#: .\soundsetbuilder.cpp
+msgid "[StudioApp]The Sound Set \"%(1)\" is still in use (%(2) files open)!"
+msgstr "\"%(1)\" Sound Set'i halen kullanımda! (%(2) açık dosya mevcut)!"
+
+#: .\soundsetproperties.cpp
+msgid "[StudioApp]The Sound Set identifier is used to store references to files from the Sound Set inside documents. It has to be globally unique to avoid conflicts with Sound Sets from other users."
+msgstr "Sound Set  belirleyicisi dokümanların içinde bulunan Sound Set'lerdeki dosyalara referansları saklamak için kullanılmaktadır. Başka kullanıcıların Sound Set'leri ile karışmaması için global olarak benzersiz olmak zorundadır."
+
+#: .\browserextension.cpp
+msgid "[StudioApp]Unmount Sound Set Folder"
+msgstr "Sound Set klasörünü Sök"
+

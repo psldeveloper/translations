@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: K2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: MiTI-Studio <tibetprincess@163.com>\n"
+"Language-Team: PreSonus <info@presonussoftware.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"Language: zh_CN\n"
+"X-Generator: smartCAT.ai\n"
+
+#: .\rexcodec.cpp
+msgid "[FileType]REX File"
+msgstr "REX 文件"
+

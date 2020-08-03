@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]+"
+msgstr "+"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]-"
+msgstr "-"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Copyright"
+msgstr "Telif Hakkı"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Description"
+msgstr "Açıklama"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Edit Identifier..."
+msgstr "Belirleyiciyi Düzenle"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Enable Content Protection"
+msgstr "İçerik Korumasını Etkinleştir"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Icon"
+msgstr "İkon"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Identifier"
+msgstr "Belirleyici"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Name of subfolder inside Sound Set to be scanned for presets (optional)"
+msgstr "Ses (Sound) set'i içinde bulunan ve Preset'ler için taranacak olan alt klasörün adı (Opsiyonel)"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Presets"
+msgstr "Presetler"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Remove Image"
+msgstr "İmajı Kaldır"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Select Image"
+msgstr "İmaj Seç"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Sound Set Properties"
+msgstr "Ses Seti Özellikleri"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Title"
+msgstr "Başlık"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Vendor"
+msgstr "Satıcı"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Version"
+msgstr "Varsiyon"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Website"
+msgstr "Web Sayfası"
+

@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Add One Octave"
+msgstr "Adicionar Uma Oitava"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Add Three Octaves"
+msgstr "Adicionar Três Oitavas"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Add Two Octaves"
+msgstr "Adicionar Duas Oitavas"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Augmented"
+msgstr "Aumentado"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Diatonic"
+msgstr "Diatônica"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Diminished"
+msgstr "Diminuto"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Fifth"
+msgstr "Quinta"
+
+#: .\edittasks\fillwithreststask.cpp
+msgid "[ScoreEdit]Fill with Rests"
+msgstr "Preencher com Pausas"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Fourth"
+msgstr "Quarta"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Major"
+msgstr "Maior"
+
+#: .\edittasks\maketuplettask.cpp
+msgid "[ScoreEdit]Make Custom Tuplet"
+msgstr "Criar Tercina Personalizada"
+
+#: .\edittasks\maketuplettask.cpp
+msgid "[ScoreEdit]Make Tuplet"
+msgstr "Criar Tercina"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Minor"
+msgstr "Menor"
+
+#: .\edittasks\scoreedittask.cpp
+msgid "[ScoreEdit]Operations specific to score objects"
+msgstr "Operações específicas para objetos de partitura"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Perfect"
+msgstr "Perfeito"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Same Octave"
+msgstr "Mesma Oitava"
+
+#: .\edittasks\scoreedittask.cpp
+msgid "[ScoreEdit]Score"
+msgstr "Partitura"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Second"
+msgstr "Segundo"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Seventh"
+msgstr "Sétima"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Sixth"
+msgstr "Sexta"
+
+#: .\edittasks\switchstafftask.cpp
+msgid "[ScoreEdit]Switch Staff"
+msgstr "Alternar Pentagrama"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Third"
+msgstr "Terça"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Transpose"
+msgstr "Transposição"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Unison"
+msgstr "Uníssono"
+

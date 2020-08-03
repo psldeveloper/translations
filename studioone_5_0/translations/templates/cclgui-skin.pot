@@ -1,0 +1,48 @@
+#: .\skin.xml
+msgid "[ProgressDialogView]Cancel"
+msgstr ""
+
+#: .\skin.xml
+msgid "[MenuEditor]Edit Menu"
+msgstr ""
+
+#: .\skin.xml
+msgid "[FontSelectorDialog]Font"
+msgstr ""
+
+#: .\skin.xml
+msgid "[HelpViewer]Help Viewer"
+msgstr ""
+
+#: .\skin.xml
+msgid "[CommandEditorDialog]Keyboard Shortcuts"
+msgstr ""
+
+#: .\skin.xml
+msgid "[UserOptionDialog]Options"
+msgstr ""
+
+#: .\skin.xml
+msgid "[ProgressDialogView]Please wait..."
+msgstr ""
+
+#: .\skin.xml
+msgid "[CommandSelectorDialog]Search:"
+msgstr ""
+
+#: .\skin.xml
+msgid "[CommandSelectorDialog]Select Command"
+msgstr ""
+
+#: .\skin.xml
+msgid "[FontSelectorDialog]Select Font"
+msgstr ""
+
+#: .\skin.xml
+msgid "[FontSelectorDialog]Size"
+msgstr ""
+
+#: .\skin.xml
+msgid "[FontSelectorDialog]Style"
+msgstr ""
+

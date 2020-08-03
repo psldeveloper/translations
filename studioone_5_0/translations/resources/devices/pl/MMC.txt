@@ -1,0 +1,1 @@
+To urządzenie odbiera polecenia transportu MIDI Machine Control 

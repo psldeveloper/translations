@@ -1,0 +1,1 @@
+﻿Caricate il file Studio One.ncm in NI Control Editor. Tenete premuto SHIFT-Control sull'hardware Maschine e scegliete il modello  Studio One.

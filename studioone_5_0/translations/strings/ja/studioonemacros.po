@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\panel.js
+msgid "Action"
+msgstr "アクション"
+
+#: .\panel.js
+msgid "Are you sure you want to revert all changes?"
+msgstr "すべての変更を元に戻しますか？"
+
+#: .\editor.js
+msgid "Arguments"
+msgstr "引数"
+
+#: .\main.js
+msgid "Arrangement"
+msgstr "アレンジメント"
+
+#: .\main.js
+msgid "Audio Editor"
+msgstr "オーディオエディター"
+
+#: .\editor.js
+msgid "Command"
+msgstr "コマンド"
+
+#: .\editor.js
+msgid "Command Arguments"
+msgstr "コマンド引数"
+
+#: .\organizer.js
+msgid "Description"
+msgstr "説明"
+
+#: .\organizer.js
+msgid "Do you want to delete the selected macros?"
+msgstr "選択されているマクロを削除しますか？"
+
+#: .\organizer.js
+msgid "Do you want to rename the macro file as well?"
+msgstr "マクロファイルの名前も変更しますか？"
+
+#: .\panel.js
+msgid "Duplicate Macro"
+msgstr "マクロを複製"
+
+#: .\panel.js
+msgid "Edit Macro..."
+msgstr "マクロを編集…"
+
+#: .\panel.js .\renamer.js
+msgid "Edit Names"
+msgstr "名前を編集"
+
+#: .\panel.js
+msgid "Export Macro Page"
+msgstr "マクロページをエクスポート"
+
+#: .\panel.js
+msgid "Export..."
+msgstr "エクスポート..."
+
+#: .\organizer.js
+msgid "Group"
+msgstr "グループ"
+
+#: .\panel.js
+msgid "Help"
+msgstr "ヘルプ"
+
+#: .\panel.js
+msgid "Import Macro Page"
+msgstr "マクロページをインポート"
+
+#: .\panel.js
+msgid "Import..."
+msgstr "インポート..."
+
+#: .\gadget.js .\panel.js
+msgid "Macro Organizer"
+msgstr "マクロオーガナイザー"
+
+#: .\gadget.js
+msgid "Macro Toolbar inspired by the Studio One beta testers"
+msgstr "Studio Oneベータテスターからアイデアを得たマクロツールバー"
+
+#: .\panel.js
+msgid "Macro not found:"
+msgstr "マクロが見つかりません: "
+
+#: .\editor.js .\gadget.js .\manager.js .\panel.js
+msgid "Macros"
+msgstr "マクロ"
+
+#: .\translation.js
+msgid "[Macros]Macros (Arrangement)"
+msgstr "マクロ (アレンジメント)"
+
+#: .\translation.js
+msgid "[Macros]Macros (Audio Editor)"
+msgstr "マクロ (オーディオエディター)"
+
+#: .\translation.js
+msgid "[Macros]Macros (Note Editor)"
+msgstr "マクロ (ノートエディター)"
+
+#: .\organizer.js .\panel.js
+msgid "Name"
+msgstr "名前"
+
+#: .\panel.js
+msgid "New Macro..."
+msgstr "新規マクロ…"
+
+#: .\main.js
+msgid "Note Editor"
+msgstr "ノートエディター"
+
+#: .\panel.js
+msgid "Pages"
+msgstr "ページ"
+
+#: .\panel.js .\renamer.js
+msgid "Reload Names"
+msgstr "名前を再読み込み"
+
+#: .\panel.js
+msgid "Reset Toolbar"
+msgstr "ツールバーをリセット"
+
+#: .\panel.js
+msgid "Setup"
+msgstr "設定"
+
+#: .\elements.js
+msgid "Studio One Macro"
+msgstr "Studio Oneマクロ"
+
+#: .\elements.js
+msgid "Studio One Macro Page"
+msgstr "Studio Oneマクロページ"
+
+#: .\gadget.js
+msgid "Studio One Macro Toolbar"
+msgstr "Studio Oneマクロツールバー"
+
+#: .\panel.js
+msgid "The file is empty or corrupt and could not be imported."
+msgstr "ファイルが空または破損しておりインポートできませんでした。"
+
+#: .\editor.js
+msgid "This command does not have any arguments."
+msgstr "このコマンドには引数がありません。"
+
+#: .\organizer.js
+msgid "User Macro"
+msgstr "ユーザーマクロ"
+
+#~ msgid "[Macros]Macros (Music Editor)"
+#~ msgstr "マクロ (音楽エディター)"
+
+#~ msgid "Music Editor"
+#~ msgstr "音楽エディター"
+
+#~ msgid "Loading Macro failed:"
+#~ msgstr "マクロの読み込みに失敗しました:"
+

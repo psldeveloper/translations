@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\sampler\storage\presethandler.cpp
+msgid "[Sampler]%(1) programs"
+msgstr "%(1) programs"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler](Press 'Shift' to insert slices)"
+msgstr "(Pulse 'Mayús' para insertar rebanadas)"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Add Sample"
+msgstr "Añadir muestra"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Add Samples"
+msgstr "Añadir muestras"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Add Slices"
+msgstr "Añadir rebanadas"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Chromatic"
+msgstr "Cromática"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[FileType]EXS24 File"
+msgstr "Archivo EXS24"
+
+#: .\sampler\gui\wavedisplay.cpp
+msgid "[WaveDisplay]File not found"
+msgstr "Archivo no encontrado"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Full Range"
+msgstr "Rango completo"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[FileType]Giga File"
+msgstr "Giga archivo"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[Sampler]Importing..."
+msgstr "Importando..."
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Insert Sample"
+msgstr "Insertar muestra"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Insert Samples"
+msgstr "Insertar muestras"
+
+#: .\sampler\impact\impactviews.cpp
+msgid "[DrumPadInsertHandler]Insert to next free pad"
+msgstr "Insertar al siguiente pad libre"
+
+#: .\sampler\storage\settings.cpp
+msgid "[SamplerUserOption]Instrument Library"
+msgstr "Librería de instrumento"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[FileType]Kontakt File"
+msgstr "Archivo Kontakt"
+
+#: .\sampler\storage\bitwigcodec.cpp
+msgid "[FileType]Multisample File"
+msgstr "Archivo multi muestra"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[Sampler]Not supported %(1)"
+msgstr "No admitido %(1)"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Octave Mode"
+msgstr "Modo octava"
+
+#: .\sampler\gui\keyswitchcomponent.cpp
+msgid "[KeySwitchList]Pitch"
+msgstr "Pitch"
+
+#: .\sampler\storage\presethandler.cpp
+msgid "[Sampler]Preset in %(1)"
+msgstr "Preset en %(1)"
+
+#: .\sampler\samplerutils.cpp
+msgid "[SamplerUtitlities]Render Slices"
+msgstr "Renderizar rebanadas"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Replace Sample"
+msgstr "Sustituir muestra"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Replace Samples"
+msgstr "Sustituir muestras"
+
+#: .\sampler\storage\presonuscodec.cpp .\sampler\storage\soundfontcodec.cpp
+msgid "[FileType]Sampler File"
+msgstr "Archivo de sampler"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[Sampler]Searching Samples"
+msgstr "Buscando muestras"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Set Root/Hi/Low Key to %(1)"
+msgstr "Ajustar tecla raíz/alta/baja a %(1)"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Slice"
+msgstr "Rebanar"
+
+#: .\sampler\impact\impactviews.cpp
+msgid "[DrumPadInsertHandler]Slice and spread across multiple pads"
+msgstr "Rebanar y desplegar entre múltiples pads"
+
+#: .\sampler\samplerutils.cpp
+msgid "[SamplerUtitlities]Slice detection"
+msgstr "Detección de rebanadas"
+
+#: .\sampler\storage\soundfontcodec.cpp .\sampler\storage\usfcodec.cpp
+msgid "[FileType]SoundFont"
+msgstr "SoundFont"
+
+#: .\sampler\impact\impactviews.cpp
+msgid "[DrumPadInsertHandler]Spread samples across multiple pads"
+msgstr "Desplegar muestras entre múltiples pads"
+
+#: .\sampler\gui\keyswitchcomponent.cpp
+msgid "[KeySwitchList]Title"
+msgstr "Título"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]White Keys"
+msgstr "Teclas blancas"
+

@@ -1,0 +1,16 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+
+#: .\services\devices\dspshell\source\dsppresethandler.cpp
+msgid "[FileType]DSP Preset"
+msgstr "Zestaw DSP"
+
+#: .\services\devices\dspshell\source\plugversion.h
+msgid "[DSPShell]PreSonus DSP Plug-In Support"
+msgstr "Obsługa wtyczek DSP"
+
+#: .\services\devices\dspshell\source\plugmain.cpp
+msgid "[DSPShell]Support for PreSonus DSP Plug-Ins"
+msgstr "Obsługa wtyczek DSP"
+

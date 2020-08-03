@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-10 21:05+0900\n"
+"PO-Revision-Date: 2015-06-02 19:37+0900\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.8.0\n"
+
+#: .\plugversion.h
+msgid "[AudioUnit]AudioUnit Plug-In Support"
+msgstr "AudioUnitプラグイン対応"
+
+#: .\auservicemain.cpp
+msgid "[AudioUnit]Support for Apple AudioUnit Plug-Ins"
+msgstr "Apple AudioUnitプラグイン対応"

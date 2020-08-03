@@ -1,0 +1,1 @@
+﻿O Botão 1 abre o Console - Os Botões 4 e 5 mudam a página de canais para esquerda/direita.

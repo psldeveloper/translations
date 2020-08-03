@@ -1,0 +1,1 @@
+Girişi Yamaha KX-1 olarak ayarlayın. Studio One'ı kontrol etmek için kontrol cihazları arasından KX-DAW'ı seçin.

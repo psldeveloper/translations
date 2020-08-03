@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Arranger Section from Selection"
+msgstr "Seçiimin İçinden Aranjör Bölümü Ekle"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Audio Track (mono)"
+msgstr "Ses İzi Ekle (Mono)"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Audio Track (stereo)"
+msgstr "Ses İzi Ekle (Stereo)"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Automation Track"
+msgstr "Otomasyon İzi Ekle"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Bus for Selected Channels"
+msgstr "Seçili Kanallar İçin Bus Ekle"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Folder Track"
+msgstr "Klasör İzi Ekle"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Instrument Track"
+msgstr "Enstrüman İzi Ekle"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Tracks"
+msgstr "İz Ekle"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Tracks for all Inputs"
+msgstr "Tüm Girişler için İz Ekle"
+
+#: .\translation.js
+msgid "[TrackEdit]Add VCA for Selected Channels"
+msgstr "Seçili Kanallar için VCA Ekle"
+
+#: .\translation.js
+msgid "[TrackEdit]Add numbers"
+msgstr "Sayılar Ekle"
+
+#: .\translation.js
+msgid "[TrackEdit]Apply Track Names to Channels"
+msgstr "İz İsimlerini Kanallara Uygula"
+
+#: .\translation.js
+msgid "[TrackEdit]Arm All Audio Tracks"
+msgstr "Tüm Ses İzlerini Kayıda Hazır Hale Getir"
+
+#: .\translation.js
+msgid "Audio"
+msgstr "Ses"
+
+#: .\translation.js
+msgid "Automation"
+msgstr "Otomasyon"
+
+#: .\translation.js
+msgid "[TrackEdit]Bounce Selection"
+msgstr "Seçimi Bounce Et"
+
+#: .\translation.js
+msgid "[TrackEdit]Bounce To New Track"
+msgstr "Yeni İze Bounce Et"
+
+#: .\translation.js
+msgid "[TrackEdit]Collapse All Tracks"
+msgstr "Tüm İzleri Toparla"
+
+#: .\translation.js
+msgid "[TrackEdit]Copy Ranges to Track"
+msgstr "Alanları İze Kopyala"
+
+#: .\translation.js
+msgid "Default"
+msgstr "Varsayılan"
+
+#: .\translation.js
+msgid "[TrackEdit]Extract to Chord Track"
+msgstr "Akor İzine Çıkar"
+
+#: .\translation.js
+msgid "Folder"
+msgstr "Klasör"
+
+#: .\translation.js
+msgid "[TrackEdit]Insert Instrument Part"
+msgstr "Enstrüman Bölümü Ekle"
+
+#: .\translation.js
+msgid "[TrackEdit]Insert Pattern"
+msgstr "Kalıp Ekle"
+
+#: .\translation.js
+msgid "Instrument"
+msgstr "Enstrüman"
+
+#: .\translation.js
+msgid "[TrackEdit]Invert Track Selection"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Merge Events"
+msgstr "Klipleri Birleştir"
+
+#: .\translation.js
+msgid "Mono"
+msgstr "Mono"
+
+#: .\translation.js
+msgid "[TrackEdit]Mute Events"
+msgstr "Klipleri Sustur"
+
+#: .\translation.js
+msgid "[TrackEdit]New Name"
+msgstr "Yeni İsim"
+
+#: .\translation.js
+msgid "[TrackEdit]Pack Folder"
+msgstr "Klasörleri Paketle"
+
+#: .\translation.js
+msgid "[TrackEdit]Quantize"
+msgstr "Quantize"
+
+#: .\translation.js
+msgid "[TrackEdit]Quantize 50%"
+msgstr "Quantize 50%"
+
+#: .\translation.js
+msgid "[TrackEdit]Quantize on Track"
+msgstr "İz Üzerinde Quantize Et"
+
+#: .\translation.js
+msgid "[TrackEdit]Remove Part Automation"
+msgstr "Bölüm Otomasyonunu Kaldır"
+
+#: .\translation.js
+msgid "[TrackEdit]Remove Track Automation"
+msgstr "İz Otomasyonunu Kaldır"
+
+#: .\translation.js
+msgid "[TrackEdit]Rename Events"
+msgstr "Klipleri Tekrar Adlandır"
+
+#: .\translation.js
+msgid "[TrackEdit]Replace Event With Next Layer"
+msgstr "Klipi bir sonraki Katman ile Değiştir"
+
+#: .\translation.js
+msgid "[TrackEdit]Replace Event With Previous Layer"
+msgstr "Klipi bir önceki Katman ile Değiştir"
+
+#: .\translation.js
+msgid "[TrackEdit]Restore Timing"
+msgstr "Ölçüyü eski haline getir"
+
+#: .\translation.js
+msgid "[TrackEdit]Select Muted Events"
+msgstr "Sessize alınmış klipleri seç"
+
+#: .\translation.js
+msgid "[TrackEdit]Select Muted Tracks"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Send to Back"
+msgstr "Geriye At"
+
+#: .\translation.js
+msgid "[TrackEdit]Send to Front"
+msgstr "Öne Al"
+
+#: .\translation.js
+msgid "[TrackEdit]Separate Shared Copies"
+msgstr "Paylaşılmış Kopyaları Ayır"
+
+#: .\translation.js
+msgid "[TrackEdit]Split at Grid"
+msgstr "Izgaradan Böl"
+
+#: .\translation.js
+msgid "Stereo"
+msgstr "Stereo"
+
+#: .\Split.js
+msgid "This would create too many events and will be cancelled."
+msgstr "Bu işlem çok fazla klip yaratacağından iptal edildi."
+
+#: .\translation.js
+msgid "[TrackEdit]Toggle Mute"
+msgstr "Mute Aç/Kapa"
+
+#: .\translation.js
+msgid "Track"
+msgstr "İz"
+
+#: .\translation.js
+msgid "[TrackEdit]Transpose"
+msgstr "Transpoze"
+
+#: .\translation.js
+msgid "[TrackEdit]Transpose Events Down"
+msgstr "Klipleri Aşağı Transpoze Et"
+
+#: .\translation.js
+msgid "[TrackEdit]Transpose Events Up"
+msgstr "Klipleri Yukarı Transpoze Et"
+
+#: .\translation.js
+msgid "[TrackEdit]Transpose Instrument Tracks"
+msgstr "Enstrüman İzlerini Transpoze Et"
+
+#: .\translation.js
+msgid "[TrackEdit]Unmute Events"
+msgstr "Klipleri Sessizlikten çıkar"

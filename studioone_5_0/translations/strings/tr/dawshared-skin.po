@@ -1,0 +1,549 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\audiochannel.xml
+msgid "[PlugInSelectorMenuWide]$title"
+msgstr "$title"
+
+#: .\audiochannel.xml
+msgid "[SendMicroViewSimpleSlider]$tooltip"
+msgstr "$tooltip"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioMeter.Narrow]0"
+msgstr "0"
+
+#: .\audiochannel.small.xml
+msgid "[OutputChannelLevelSection]0"
+msgstr "0"
+
+#: .\audiochannel.small.xml
+msgid "[ChannelMeterDisplay]@property[parent.controller.editGroup]"
+msgstr "@property[parent.controller.editGroup]"
+
+#: .\audiochannel.xml
+msgid "[AudioSendRackSlotView]@value[]"
+msgstr "@value[]"
+
+#: .\audiochannel.xml
+msgid "[AudioFXRackSlotView]Activate"
+msgstr "Aktive Et"
+
+#: .\audiochannel.xml
+msgid "[AudioSendRackSlotView]Activate"
+msgstr "Aktive Et"
+
+#: .\audiochannel.xml
+msgid "[MixFXRackSlotView]Activate"
+msgstr "Aktive Et"
+
+#: .\audiochannel.xml
+msgid "[AudioInserts]Activate All"
+msgstr "Tümünü Aktive Et"
+
+#: .\audiochannel.xml
+msgid "[PostFaderInserts]Activate All"
+msgstr "Tümünü Aktive Et"
+
+#: .\audiochannel.xml
+msgid "[AudioSends]Activate All"
+msgstr "Tümünü Aktive Et"
+
+#: .\audiochannel.xml
+msgid "[AudioSendsCueMixEmbedded]Activate All"
+msgstr "Tümünü Aktive Et"
+
+#: .\audiochannel.xml
+msgid "[AudioInserts]Add Insert"
+msgstr "Insert Ekle"
+
+#: .\audiochannel.xml
+msgid "[PostFaderInserts]Add Insert"
+msgstr "Insert Ekle"
+
+#: .\audiochannel.xml
+msgid "[AudioSends]Add Send"
+msgstr "Send Ekle"
+
+#: .\audiochannel.xml
+msgid "[AudioSendsCueMixEmbedded]Add Send"
+msgstr "Send Ekle"
+
+#: .\audiochannel.xml
+msgid "[RemoteFXRackSlotView]Apply DSP to Input Signal"
+msgstr "Giriş Sinyaline DSP Uygula"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]Automation Mode"
+msgstr "Otomasyon Modu"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Small.Narrow.Content]Automation Mode"
+msgstr "Otomasyon Modu"
+
+#: .\audiochannel.small.xml
+msgid "[AudioCustomChannel.BasicsContent]Automation Mode"
+msgstr "Otomasyon Modu"
+
+#: .\audiochannel.small.xml
+msgid "[AudioOutputChannel.Basics]Automation Mode"
+msgstr ""
+
+#: .\audiochannel.small.xml
+msgid "[MixerOutputChannelLeftStrip]Channel Editor"
+msgstr "Kanal Düzenleyici"
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelRightStrip]Channel Editor"
+msgstr "Kanal Düzenleyici"
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelButtonBlock]Channel Mode"
+msgstr "Kanal modu"
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelButtonBlock]Click On/Off"
+msgstr "Click Açık/Kapalı"
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelButtonBlock]Click Volume: @value[]"
+msgstr "Click Seviyesi: @value[]"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioInput.NarrowHoldAndClip]Clip"
+msgstr "Klip"
+
+#: .\audiochannel.narrow.xml
+msgid "[ChannelMeterDisplay.Small.Narrow]Clip / Peak Levels"
+msgstr "Klip / Tepe Seviyeleri"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioMeter.Narrow]Clip / Peak Levels"
+msgstr "Klip / Tepe Seviyeleri"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioInput.NarrowHoldAndClip]Clip / Peak Levels"
+msgstr "Klip / Tepe Seviyeleri"
+
+#: .\audiochannel.small.xml
+msgid "[AudioInputChannel.Basics]Clip / Peak Levels"
+msgstr ""
+
+#: .\audiochannel.small.xml
+msgid "[OutputChannelLevelSection]Clip / Peak Levels"
+msgstr "Klip / Tepe Seviyeleri"
+
+#: .\audiochannel.small.xml
+msgid "[ChannelMeterDisplay]Clip / Peak Levels"
+msgstr "Klip / Tepe Seviyeleri"
+
+#: .\deviceheader.xml
+msgid "[DeviceEditorHeadline]Close"
+msgstr "Kapat"
+
+#: .\audiochannel.xml
+msgid "[CueMixStack]Cue mix"
+msgstr "Cue miks"
+
+#: .\audiochannel.xml
+msgid "[CueMixRackSlotView]Cue mix Level: @value[]"
+msgstr "Cue miks Seviyesi: @value[]"
+
+#: .\audiochannel.xml
+msgid "[CueMixRackSlotView]Cue mix Pan: @value[]"
+msgstr "Cue miks Pan: @value[]"
+
+#: .\audiochannel.small.xml
+msgid "[ChannelLabel]Double Click: Edit Name"
+msgstr "Çift Tık: İsmi Düzenle"
+
+#: .\audiochannel.narrow.xml
+msgid ""
+"[ChannelLabelNarrow]Double Click: Edit Name, Keep Pressed: Select Channel "
+"Color"
+msgstr "Çift Klik: İsmi Düzenle, Basılı Tutma: Kanal rengini Seç"
+
+#: .\audiochannel.small.xml
+msgid ""
+"[ChannelLabel]Double Click: Edit Name, Keep Pressed: Select Channel Color"
+msgstr "Çift Klik: İsmi Düzenle, Basılı Tutma: Kanal rengini Seç"
+
+#: .\audiochannel.xml
+msgid "[AudioInserts]Drag FX Chain from here"
+msgstr "Buradan FX zincirini sürükle"
+
+#: .\audiochannel.xml
+msgid "[PostFaderInserts]Drag FX Chain from here"
+msgstr "Buradan FX zincirini sürükle"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]Enable Hardware Monitoring"
+msgstr "Donanımsal Dinlemeyi Etkinleştir."
+
+#: .\audiochannel.small.xml
+msgid "[AudioOutputChannel.Basics]Enable Hardware Monitoring"
+msgstr ""
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]Enable Low Latency Monitoring"
+msgstr "Düşük Gecikmeli Dinlemeyi Etkinleştir"
+
+#: .\audiochannel.small.xml
+msgid "[AudioOutputChannel.Basics]Enable Low Latency Monitoring"
+msgstr ""
+
+#: .\audiochannel.small.xml
+msgid "[MixerOutputChannelLeftStrip]Expand"
+msgstr "Genişletme"
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelRightStrip]Expand"
+msgstr "Genişletme"
+
+#: .\audiochannel.small.xml
+msgid "[EditGroupView]Group"
+msgstr "Gurup"
+
+#: .\audiochannel.xml
+msgid "[ChannelInputFXView]Input Gain"
+msgstr "Giriş Kazancı"
+
+#: .\audiochannel.xml
+msgid "[AudioInserts]Inserts"
+msgstr "Inserts"
+
+#: .\audiochannel.small.xml
+msgid "[InsertsSendsMixFXIndicator]Inserts  |  Sends  |  Mix FX"
+msgstr "Insert'ler | Send'ler | Miks FX"
+
+#: .\audiochannel.small.xml
+msgid "[MixerOutputChannelLeftStrip]Inserts  | Post Fader Inserts | Mix FX"
+msgstr "Insert'ler  | Fader Sonrası Insert'ler | Miks FX"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]Instrument Editor"
+msgstr "Enstrüman Düzenleyici"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Small.Narrow.Content]Instrument Editor"
+msgstr "Enstrüman Düzenleyici"
+
+#: .\audiochannel.small.xml
+msgid "[ChannelConnectionsSection]Instrument Editor"
+msgstr "Enstrüman Düzenleyici"
+
+#: .\audiochannel.small.xml
+msgid "[AudioSynth.ChannelNumberAndIcon]Instrument Editor"
+msgstr "Enstrüman Düzenleyici"
+
+#: .\audiochannel.small.xml
+msgid "[AudioSynthBus.ChannelNumberAndIcon]Instrument Editor"
+msgstr "Enstrüman Düzenleyici"
+
+#: .\deviceheader.xml
+msgid "[DeviceEditorHeadline]Keep Editor Open"
+msgstr "Düzenleyiciyi Açık Tut"
+
+#: .\audiochannel.xml
+msgid "[CueMixRackSlotView]Level"
+msgstr "Seviye"
+
+#: .\audiochannel.xml
+msgid "[AudioFXRackSlotView]Link to DSP"
+msgstr "DSP'ye bağdaştır"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]Listen Active"
+msgstr ""
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelButtonBlock]Listen Active"
+msgstr ""
+
+#: .\audiochannel.xml
+msgid "[CueMixRackSlotView]Lock level and pan to channel"
+msgstr "Seviye ve pan'ı kanala kitle"
+
+#: .\audiochannel.small.xml
+msgid "[Audio.ChannelNumberAndIcon]Low Latency Monitoring Enabled"
+msgstr "Düşük Gecikmeli Dinleme Devrede"
+
+#: .\audiochannel.small.xml
+msgid "[AudioSynth.ChannelNumberAndIcon]Low Latency Monitoring Enabled"
+msgstr "Düşük Gecikmeli Dinleme Devrede"
+
+#: .\deviceheader.xml
+msgid "[DeviceEditorTitleBar]Macro Controls"
+msgstr "Kakro Kontrolleri"
+
+#: .\audiochannel.xml
+msgid "[AudioBusFxInsertsStack]Mix FX"
+msgstr "Miks FX"
+
+#: .\audiochannel.xml
+msgid "[MixFXRackSlotView]Mix FX"
+msgstr "Miks FX"
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelButtonBlock]Monitor"
+msgstr "Dinleme"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]Mono"
+msgstr "Mono"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]Mute"
+msgstr "Mute"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Small.Narrow.Content]Mute"
+msgstr "Mute"
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelButtonBlock]Mute"
+msgstr "Mute"
+
+#: .\audiochannel.xml
+msgid "[CueMixRackSlotView]Mute Cue mix"
+msgstr "Cue Miks'i Sustur"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]Pan: @value[]"
+msgstr "Pan: @value[]"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Small.Narrow.Content]Pan: @value[]"
+msgstr "Pan: @value[]"
+
+#: .\audiochannel.small.xml
+msgid "[ChannelPanSection]Pan: @value[]"
+msgstr "Pan: @value[]"
+
+#: .\audiochannel.small.xml
+msgid "[AudioInputChannel.Basics]Peak Hold (dB)"
+msgstr ""
+
+#: .\audiochannel.small.xml
+msgid "[OutputChannelLevelSection]Peak Hold (dB)"
+msgstr "Tepe Noktasını Hatırla (dB)"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsMono]Phantom Power"
+msgstr "Phantom Power (Güç)"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsStereoChannel]Phantom Power"
+msgstr "Phantom Power (Güç)"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsCompactMono]Phantom Power"
+msgstr "Phantom Power (Güç)"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsCompactStereo]Phantom Power"
+msgstr "Phantom Power (Güç)"
+
+#: .\audiochannel.xml
+msgid "[ChannelInputFXView]Polarity"
+msgstr "Polarite"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsMono]Polarity"
+msgstr "Polarite"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsStereoChannel]Polarity"
+msgstr "Polarite"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsCompactMono]Polarity"
+msgstr "Polarite"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsCompactStereo]Polarity"
+msgstr "Polarite"
+
+#: .\audiochannel.xml
+msgid "[PostFaderInserts]Post"
+msgstr "Post"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsMono]Preamp Gain"
+msgstr "Preamp Kazancı"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsStereoChannel]Preamp Gain"
+msgstr "Preamp Kazancı"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsCompactMono]Preamp Gain"
+msgstr "Preamp Kazancı"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsCompactStereo]Preamp Gain"
+msgstr "Preamp Kazancı"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsMono]Preamp Gain: @value[]"
+msgstr "Preamp Kazancı: @value[]"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsStereoChannel]Preamp Gain: @value[]"
+msgstr "Preamp Kazancı: @value[]"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]Prefader Listen"
+msgstr ""
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelButtonBlock]Prefader Listen"
+msgstr ""
+
+#: .\audiochannel.xml
+msgid "[AudioSendRackSlotView]Prefader On/Off"
+msgstr "Fader Öncesi Aç/Kapa"
+
+#: .\audiochannel.xml
+msgid "[AudioSendRackSlotView]Prefader Send Level: @value[]"
+msgstr "Fader Öncesi Yollama Seviyesi : @value[]"
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelButtonBlock]Record"
+msgstr "Kayıt"
+
+#: .\deviceheader.xml
+msgid "[DeviceEditorTitleBar]Routing"
+msgstr "Yönlendirme"
+
+#: .\audiochannel.small.xml
+msgid "[MixerOutputChannelLeftStrip]Routing Editor"
+msgstr ""
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelRightStrip]Routing Editor"
+msgstr ""
+
+#: .\audiochannel.xml
+msgid "[AudioBusFxInsertsStack]Select Mix FX"
+msgstr "Miks FX seç"
+
+#: .\audiochannel.xml
+msgid "[MixFXRackSlotView]Select Mix FX"
+msgstr "Miks FX seç"
+
+#: .\audiochannel.xml
+msgid "[AudioSendRackSlotView]Send Level: @value[]"
+msgstr "Yollama Seviyesi: @value[]"
+
+#: .\audiochannel.xml
+msgid "[AudioSends]Sends"
+msgstr "Yollamalar"
+
+#: .\audiochannel.xml
+msgid "[AudioSendsCueMixEmbedded]Sends"
+msgstr "Yollamalar"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsMono]Sensitivity"
+msgstr "Hassasiyet"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsStereoChannel]Sensitivity"
+msgstr "Hassasiyet"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsCompactMono]Sensitivity"
+msgstr "Hassasiyet"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsCompactStereo]Sensitivity"
+msgstr "Hassasiyet"
+
+#: .\deviceheader.xml
+msgid "[DeviceEditorTitleBar]Show Inserts"
+msgstr "Eklemeleri Göster"
+
+#: .\deviceheader.xml
+msgid "[DeviceEditorTitleBar]Show Post Fader Inserts"
+msgstr "Fader Sonrası Eklentileri Göster"
+
+#: .\audiochannel.small.xml
+msgid "[AudioSynthBus.ChannelNumberAndIcon]Show sub channels"
+msgstr "Alt kanalları Göster"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]Solo (Solo Safe use Shift)"
+msgstr "Solo (Solo Safe için Shift)"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Small.Narrow.Content]Solo (Solo Safe use Shift)"
+msgstr "Solo (Solo Safe için Shift)"
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelButtonBlock]Solo (Solo Safe use Shift)"
+msgstr "Solo (Solo Safe için Shift)"
+
+#: .\audiochannel.small.xml
+msgid "[ChannelConnectionsSection]Sources"
+msgstr "Kaynaklar"
+
+#: .\audiochannel.small.xml
+msgid "[ChannelConnectionsSection]Targets"
+msgstr "Hedefler"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]VCA"
+msgstr "VCA"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Small.Narrow.Content]VCA"
+msgstr "VCA"
+
+#: .\audiochannel.small.xml
+msgid "[AudioCustomChannel.BasicsContent]VCA"
+msgstr "VCA"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]Volume"
+msgstr "Ses Seviyesi"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Small.Narrow.Content]Volume"
+msgstr "Ses Seviyesi"
+
+#: .\audiochannel.small.xml
+msgid "[AudioCustomChannel.BasicsContent]Volume"
+msgstr "Ses Seviyesi"
+
+#: .\audiochannel.small.xml
+msgid "[AudioOutputChannel.Basics]Volume"
+msgstr ""
+
+#: .\audiochannel.xml
+msgid "[MacroControlEditChannel]Volume"
+msgstr "Ses Seviyesi"
+
+#~ msgid "[AudioOutputChannel.BasicsNoSeparator]Automation Mode"
+#~ msgstr "Otomasyon Modu"
+
+#~ msgid "[AudioChannel.SmallLevels]Clip / Peak Levels"
+#~ msgstr "Klip / Tepe Seviyeleri"
+
+#~ msgid "[AudioInput.Channel.Content]Clip / Peak Levels"
+#~ msgstr "Klip / Tepe Seviyeleri"
+
+#~ msgid "[AudioOutputChannel.BasicsNoSeparator]Enable Hardware Monitoring"
+#~ msgstr "Donanımsal Dinlemeyi Etkinleştir."
+
+#~ msgid "[AudioOutputChannel.BasicsNoSeparator]Enable Low Latency Monitoring"
+#~ msgstr "Düşük Gecikmeli Dinlemeyi Etkinleştir"
+
+#~ msgid "[AudioInput.Channel.Content]Peak Hold (dB)"
+#~ msgstr "Tepe Noktasını Hatırla (dB)"
+
+#~ msgid "[AudioOutputChannel.BasicsNoSeparator]Volume"
+#~ msgstr "Ses Seviyesi"

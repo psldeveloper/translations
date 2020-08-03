@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\vstloaderbase.cpp
+msgid "[VST]Adding VST Plug-In %(1)..."
+msgstr "Sto aggiungendo Plug-In VST %(1)..."
+
+#: .\vstservicemain.cpp
+msgid "[VST]Support for VST 2.4 Audio Processors and Instruments"
+msgstr "Supporto per Processori Audio e Strumenti VST 2.4"
+
+#: .\vstservicemain.cpp
+msgid "[VST]Support for VST 3.0 Audio Processors and Instruments"
+msgstr "Supporto per Processori Audio e Strumenti VST 3.0"
+
+#: .\plugversion.h
+msgid "[VST]VST 2.4 Plug-In Support"
+msgstr "Supporto Plug-In VST 2.4"
+
+#: .\plugversion.h
+msgid "[VST]VST 3 Plug-In Support"
+msgstr "Supporto Plug-In VST 3"
+
+#: .\vstuseroption.cpp
+msgid "[VSTUserOption]VST Plug-Ins"
+msgstr "Plug-Ins VST"
+
+#: .\vst2\vstpresetfile.cpp
+msgid "[FileType]VST2 Bank"
+msgstr "Banco VST2 "
+
+#: .\vst2\vstpresetfile.cpp
+msgid "[FileType]VST2 Program"
+msgstr "Programma VST2"
+
+#: .\vst3\vst3presethandler.cpp
+msgid "[FileType]VST3 Preset"
+msgstr "Preset VST3"
+
+#~ msgid "[VST]Adding VST3 Plug-In %(1)..."
+#~ msgstr "Sto Aggiungendo Plug-In VST3 %(1)..."
+
+#~ msgid "[VSTUserOption]Do you want to rescan VST Plug-Ins which failed to initialize on next startup?"
+#~ msgstr "Al prossimo avvio, vuoi una nuova scansione dei plug-in VST che non sono stati inizializzati?"
+
+#~ msgid "[VST]Found Plug-In Shell %(1)..."
+#~ msgstr "Trovata Plug-In Shell %(1)..."
+
+#~ msgid "[VST]Scan failed for %(1) Plug-In %(2)..."
+#~ msgstr "Scansione non riuscita per %(1) plug-in %(2)..."
+
+#~ msgid "[VST]Scanning %(1) Plug-In %(2)..."
+#~ msgstr "Scansione di %(1) plug-in %(2) ..."
+
+#~ msgid "[VST]Scanning VST Plug-In %(1)..."
+#~ msgstr "Scansione Plug-In VST %(1)..."
+
+#~ msgid "[VST]VST Plug-In %(1) failed to load!"
+#~ msgstr "Non è stato possibile caricare il Plug-In VST %(1)!"
+
+#~ msgid "[VST]%(1) ignored, because it crashed before. "
+#~ msgstr "%(1) è stato ignorato, perché è andato in crash prima."
+

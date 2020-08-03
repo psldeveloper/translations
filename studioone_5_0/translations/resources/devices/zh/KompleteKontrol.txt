@@ -1,0 +1,2 @@
+﻿请将您的Komplete Kontrol键盘连接到计算机，然后选择非DAW MIDI端口以与Studio One一起使用。
+

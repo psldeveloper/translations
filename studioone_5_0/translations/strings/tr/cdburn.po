@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\gear\gearburner.cpp
+msgid "[CDBurner]Burning Aborted by User"
+msgstr "CD yakma kullanıcı tarafından iptal edildi"
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Busy"
+msgstr "Meşgul"
+
+#: .\plugversion.h
+msgid "[CDBurner]CD Burning Support"
+msgstr "CD Yakma Desteği"
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Checking Device"
+msgstr "Aygıt Kontrol Ediliyor"
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Closing..."
+msgstr "Kapatılıyor..."
+
+#: .\mac\imagewriter.cpp
+msgid "[DDPImageMaker]Do you want to create a DDP image?\n\nImage: %(1)\nDDPID File: %(2)\nLocation: %(3)"
+msgstr "DDP imaj dosyası oluşturmak istiyormusunuz? \n\nImaj: %(1)\nDDPID Dosyası: %(2)\nLokasyon: %(3)"
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Erasing"
+msgstr "Siliniyor"
+
+#: .\gear\geareraser.cpp
+msgid "[CDBurner]Erasing Aborted by User"
+msgstr "Silme işlemi kullanıcı tarafından iptal edildi"
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Erasing..."
+msgstr "Siliniyor..."
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Finalizing"
+msgstr "BitirliliyorFinalize ediliyor"
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Finishing..."
+msgstr "Bitiriliyor..."
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Formating"
+msgstr "Formatlanıyor"
+
+#: .\mac\imagewriter.cpp
+msgid "[DDPImageMaker]Generating DDP image files..."
+msgstr "DDP imaj dosyaları oluşturuluyor..."
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Idle"
+msgstr "Beklemede"
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Illegal"
+msgstr "Geçersiz"
+
+#: .\base\mediainfo.cpp
+msgid "[CDBurner]Media is not readable"
+msgstr "Medya okunamıyor"
+
+#: .\base\mediainfo.cpp
+msgid "[CDBurner]No media in disc drive"
+msgstr "Disk sürücüde nedya yok"
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Physicalizing"
+msgstr "Fizikselleştiriliyor"
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Preparing track"
+msgstr "İz hazırlanıyor"
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Preparing..."
+msgstr "Hazırlanıyor..."
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Reading"
+msgstr "Okunuyor"
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Reading Disc Info"
+msgstr "Disk bilgisi okunuyor"
+
+#: .\cdburnmain.cpp
+msgid "[CDBurner]Support for Audio CD Burning"
+msgstr "Audio CD yakma desteği"
+
+#: .\mac\imagewriter.cpp
+msgid "[DDPImageMaker]There was an error during the DDP image creation!"
+msgstr "DDP imajı oluşturulurken bir hata oluştu"
+
+#: .\base\mediainfo.cpp
+msgid "[CDBurner]Unknown media"
+msgstr "Bilinmeyen Medya"
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Verifying"
+msgstr "Kontrol Ediliyor"
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Verifying..."
+msgstr "Kontrol Ediliyor..."
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Write Speed"
+msgstr "Yazma Hızı"
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Writing"
+msgstr "Yazılıyor"
+
+#: .\gear\gearimagewriter.cpp
+msgid "[GearDevice]Writing "
+msgstr "Yazılıyor"
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Writing track"
+msgstr "İz Yazılıyor"
+

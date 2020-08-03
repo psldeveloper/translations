@@ -1,0 +1,220 @@
+#: .\translation.js
+msgid "[TrackEdit]Add Arranger Section from Selection"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Add Audio Track (mono)"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Add Audio Track (stereo)"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Add Automation Track"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Add Bus for Selected Channels"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Add Folder Track"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Add Instrument Track"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Add Tracks"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Add Tracks for all Inputs"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Add VCA for Selected Channels"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Add numbers"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Apply Track Names to Channels"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Arm All Audio Tracks"
+msgstr ""
+
+#: .\translation.js
+msgid "Audio"
+msgstr ""
+
+#: .\translation.js
+msgid "Automation"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Bounce Selection"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Bounce To New Track"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Collapse All Tracks"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Copy Ranges to Track"
+msgstr ""
+
+#: .\translation.js
+msgid "Default"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Extract to Chord Track"
+msgstr ""
+
+#: .\translation.js
+msgid "Folder"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Insert Instrument Part"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Insert Pattern"
+msgstr ""
+
+#: .\translation.js
+msgid "Instrument"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Invert Track Selection"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Merge Events"
+msgstr ""
+
+#: .\translation.js
+msgid "Mono"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Mute Events"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]New Name"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Pack Folder"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Quantize"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Quantize 50%"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Quantize on Track"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Remove Part Automation"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Remove Track Automation"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Rename Events"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Replace Event With Next Layer"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Replace Event With Previous Layer"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Restore Timing"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Select Muted Events"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Select Muted Tracks"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Send to Back"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Send to Front"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Separate Shared Copies"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Split at Grid"
+msgstr ""
+
+#: .\translation.js
+msgid "Stereo"
+msgstr ""
+
+#: .\Split.js
+msgid "This would create too many events and will be cancelled."
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Toggle Mute"
+msgstr ""
+
+#: .\translation.js
+msgid "Track"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Transpose"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Transpose Events Down"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Transpose Events Up"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Transpose Instrument Tracks"
+msgstr ""
+
+#: .\translation.js
+msgid "[TrackEdit]Unmute Events"
+msgstr ""
+

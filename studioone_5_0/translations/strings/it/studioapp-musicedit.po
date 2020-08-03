@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\translation.js
+msgid "[MusicEdit]Delete Double Notes"
+msgstr "Elimina Note Doppie"
+
+#: .\translation.js
+msgid "[MusicEdit]Delete Short Notes"
+msgstr "Elimina Note Corte"
+
+#: .\translation.js
+msgid "[MusicEdit]Explode Pitches to Tracks"
+msgstr "Esplodi le Altezze sulle Tracce"
+
+#: .\translation.js
+msgid "[MusicEdit]Extend to Part End"
+msgstr "Estendi a Fine Parte"
+
+#: .\translation.js
+msgid "[MusicEdit]Freeze Pitch"
+msgstr "Freeze Pitch"
+
+#: .\translation.js
+msgid "[MusicEdit]Freeze Quantize"
+msgstr "Freeze Quantizz."
+
+#: .\translation.js
+msgid "[MusicEdit]Freeze Velocity"
+msgstr "Freeze Velocity"
+
+#: .\translation.js
+msgid "[MusicEdit]Humanize"
+msgstr "Umanizzare"
+
+#: .\translation.js
+msgid "[MusicEdit]Humanize Less"
+msgstr "Umanizza meno"
+
+#: .\translation.js
+msgid "[MusicEdit]Length"
+msgstr "Lunghezza"
+
+#: .\translation.js
+msgid "[MusicEdit]Merge Events"
+msgstr "Unisci Eventi"
+
+#: .\translation.js
+msgid "[MusicEdit]Quantize"
+msgstr "Quantizza"
+
+#: .\translation.js
+msgid "[MusicEdit]Quantize 50%"
+msgstr "Quantizza 50%"
+
+#: .\translation.js
+msgid "[MusicEdit]Quantize End"
+msgstr "Quantizza Fine"
+
+#: .\translation.js
+msgid "[MusicEdit]Repeat Notes to Part End"
+msgstr "Ripeti la nota sino alla fine della parte"
+
+#: .\translation.js
+msgid "[MusicEdit]Restore Timing"
+msgstr "Ripristina Timing"
+
+#: .\translation.js
+msgid "[MusicEdit]Restore Velocity"
+msgstr "Ripristina Velocity"
+
+#: .\translation.js
+msgid "[MusicEdit]Select Notes"
+msgstr "Seleziona Note"
+
+#: .\translation.js
+msgid "[MusicEdit]Split at Grid"
+msgstr "Dividi sulla Griglia"
+
+#: .\translation.js
+msgid "[MusicEdit]Stretch"
+msgstr "Allunga"
+
+#: .\Split.js
+msgid "This would create too many notes and will be cancelled."
+msgstr "Ciò creerebbe troppe note e verrà annullato."
+
+#: .\translation.js
+msgid "[MusicEdit]Transpose"
+msgstr "Trasponi"
+
+#: .\translation.js
+msgid "[MusicEdit]Velocity"
+msgstr "Velocity"
+
+#~ msgid "[MusicEdit]Extend to part end"
+#~ msgstr "Estendi a Fine Parte"
+
+#~ msgid "Add"
+#~ msgstr "Aggiungi"
+
+#~ msgid "Force Overlaps"
+#~ msgstr "Forza Sovrapposizioni"
+
+#~ msgid "Legato"
+#~ msgstr "Legato"
+
+#~ msgid "Multiply"
+#~ msgstr "Moltiplica"
+
+#~ msgid "Remove Overlaps"
+#~ msgstr "Eliminare Sovrapposizioni"
+
+#~ msgid "Scale"
+#~ msgstr "Scala"
+
+#~ msgid "Set"
+#~ msgstr "Imposta"
+
+#~ msgid "Subtract"
+#~ msgstr "Sottrai"

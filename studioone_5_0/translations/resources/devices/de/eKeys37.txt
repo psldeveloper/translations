@@ -1,0 +1,1 @@
+﻿Das eKeys hat keine Controller. Anschlagstärke ist immer 100.

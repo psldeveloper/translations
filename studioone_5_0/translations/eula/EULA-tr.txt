@@ -1,0 +1,174 @@
+﻿SON KULLANICI LİSANS SÖZLEŞMESİ
+GÜNCEL VERSİYON – Mayıs 2017
+PreSonus Audio Electronics, Inc., 18011 Grand Bay Court, Baton Rouge, LA 70809
+
+1.GENEL
+
+1.1 Bu Sözleşme; Kullanıcı (Bundan böyle “Yetkili”, “Kullanıcı” “Siz ” veya “Sizin” olarak adlandırılacaktır.)  ile PreSonus Audio Electronics Inc,  PreSonus Europe Limited ve /veya PreSonus Software Limited arasında; PreSonus acentelerinin ve iştiraklerinin (Topluca "PreSonus", "biz" veya "bizim" olarak adlandırılacaktır.) (a) bilgi, veri, belge, resim, fotoğraf, grafik, ses, video veya web yayınları ve (b) gerekli medya, dokümanları (Örneğin, program açıklamaları veya el kitapları gibi) dahil olmak üzere tüm Lisanslı Yazılımların (bunlar aşağıda tanımlanmıştır.) ve PreSonus tarafından üretilen diğer tüm belge ve materyallerin (“Ürün / Ürünler”) herhangi bir kısıtlama olmaksızın kullanımına dair sözleşme koşullarını (“Koşullar”) belirler.
+
+1.2. PreSonus kendi takdiriyle, bu Koşullar’ın bir bölümü veya bölümlerini istediği zaman değiştirme, güncelleme, ekleme veya kaldırma hakkını saklı tutar. Yapılan değişiklikler ile ilgili olarak bu Koşullar’ı periyodik olarak kontrol etmek sizin sorumluluğunuzdadır. Yayınlanan değişikliklerin ardından Ürün veya Ürünleri kullanmaya devam etmeniz, değişiklikleri kabul ettiğiniz ve onayladığınız anlamına gelecektir. PreSonus, Koşullar’ın güncel halini www.presonus.com/EULA adresinde (“Site”) kullanıma sunacaktır. Ürün kullanımı için, kullanım süresinde belirlenen Koşullar’ın en güncel versiyonu geçerli sayılacaktır. Web Sitesi kullanımı Son Kullanıcı Lisans Sözleşmesi’nde ve www.presonus.com/Terms-of-Use adresinde bulunan PreSonus Kullanım Koşulları’nda belirtilmektedir.
+
+2. KAYIT/AKTİVASYON
+
+2.1. Ürün veya ürünleri bilgisayarınızdan kullanmanıza olanak sağlayan aktivasyon kodunu alabilmeniz için öncelikle bu Ürün veya Ürünlerin kaydını tamamlamanız gerekmektedir. Etkinleştirilmemiş olan PreSonus Ürünlerinin kullanılması mümkün değildir.
+
+2.2. Kayıt için adınızı, e-mail adresinizi ve posta adresinizi belirtmeniz gerekecektir. Hesap Bilgileriniz (aşağıda belirtilmiştir), kayıt veritabanımızda PreSonus seri numarası ile birlikte saklanır. PreSonus, verilerinizin web üzerinden iletilmesi için, mevcut güvenlik standartlarını karşılayan 128 bit şifrelemeli güvenli bir SSL bağlantısı kullanır. PreSonus ait Kişisel Verilerin Kullanımı ile ilgili daha fazla bilgi için lütfen www.presonus.com/Privacy-Policy adresini inceleyiniz.
+
+3. KOŞULLARIN KABULU
+
+3.1 Ürün’ü bilgisayarınıza yükleyerek veya kaydederek, bu Koşullar’ı kabul ettiğinizi beyan etmiş olursunuz. Eğer bu Koşullar’ı kabul etmiyorsanız, Ürün’ü bilgisayarınıza yüklememelisiniz.
+ 
+3.2  (a) Kanunen Ürünleri kabul etmenize veya kullanmanıza izin verilmiyorsa, (b) PreSonus ile bağlayıcı bir sözleşme yapmak için, örneğin yasal olarak yetkin bir yaşta olmama ve/veya kanuna uygun olarak ebeveyn onayı alınmaması gibi durumlarda, bu Ürünler kullanılamayacaktır. 
+Bu Şartları kabul ederek, özellikle 13 yaşından büyük olduğunuzu onaylar ve Ürünlerin 13 yaşın altındaki çocuklar için tasarlanmadığını kabul ettiğinizi beyan etmiş olursunuz.
+
+3.3. PreSonus, Ürünlerin veya Hizmetlerin daha fazla kullanımına izin vermeden önce, güncellenmiş Koşullar için onay vermenizi talep edebilir. Aksi takdirde, herhangi bir Ürünü, Siteyi veya Hizmeti sürekli kullanmanız, yapılan değişiklikleri kabul ettiğiniz anlamına gelecektir.
+
+4. TANIMLAR
+
+Aksi belirtilmediği sürece, bu Koşullar’da belirtilen terimler aşağıdaki anlamları taşır:
+
+4.1 “Hesap Bilgileri”, PreSonus ID'niz ve giriş bilgileriniz de dahil olmak üzere, Siteye Ürün veya Ürünleri kaydederken PreSonus'a verdiğiniz bilgileri ifade eder.
+
+4.2. “Paket”, PreSonus veya başka bir tarafça, ilgili tarafın markalı ambalajında, belirli bir Lisanslı Yazılımı içeren, bir çevrimiçi mağaza  veya belli bir satıcı aracılığıyla, son kullanıcılara pazarlanan ve satılan Ürün anlamına gelir.
+
+4.3. “Fikri Mülkiyet Hakları”,  telif hakları, ahlaki haklar, ticari marka, ticari takdim şekli, patent, mesleki sırlar, haksız rekabet ve diğer fikri veya mülkiyet haklarını ifade eder.
+
+4.4. “Kanun”, Amerika Birleşik Devletleri veya diğer ilgili ülkelerin, veri veya yazılım ihracatıyla ilgili yasaları gibi, ilgili bir yargı alanındaki geçerli bir kanun, düzenleme veya genel kabul görmüş uygulamalarını veya kılavuzlarını ifade eder.
+
+4.5. “Lisans Anahtarı”, PreSonus tarafından sağlanan, lisans türünü tanımlayan ve Lisanslı Yazılımın belirli özelliklerini açan veya etkinleştiren benzersiz kodu ifade eder.
+
+4.6. “Lisanslı Yazılım”, PreSonus tarafından size sağlanan, herhangi bir değişiklik veya ilaveleri içeren ancak bunlarla da sınırlı olmayan, bilgisayar yazılımına dair bir hedef kod sürümünü ve her bir Ürünün ilgili belgelerini ifade eder.
+
+4.7. “Kullanıma Sunmak”, Ürünü kullanımınız sırasında e-mail göndermek, postalamak, iletmek, yüklemek veya başka bir şekilde kullanılabilir hale getirmek anlamına gelir.
+
+4.8. “Markalar”, Ürün veya Ürünlerde ve ilgili dokümanlarında gösterilen ticari markalar, logolar ve hizmet markaları anlamına gelir.
+
+4.9. “Servis(ler)”, PreSonus tarafından Kullanıcıya sunulan, uzaktan erişim desteği ve telefon desteği dahil ancak bunlarla da sınırlı olmayan, tüm teknik destek hizmetlerini ifade eder.
+
+4.10. “Paylaşılan İçerik”,  sizin veya başkalarının Kullanıma Sunmak için seçtiği bir içeriği ifade eder.
+
+4.11. “Kullanıcı”,  Ürün / Ürünlerin kullanıcısı anlamına gelir.
+
+4.12. “Kullanıcı İçeriği”, (a) Lisans Sahibinin İçeriğini ve (b) Diğer Kullanıcılar tarafından yüklenen Paylaşılan İçeriği ifade eder.
+
+4.13. “İçeriğiniz”,Ürünleri ve Siteyi kullanımınız vasıtasıyla, kullanıma sunabileceğiniz Kullanıcı İçeriğini ifade eder.
+
+5. KULLANIM KAPSAMI /LİSANS
+
+Bu Son Kullanıcı Lisans Sözleşmesi’nin Koşullarına uymanız kaydıyla, PreSonus Ürünlere erişiminiz ve kullanımınız için, tam yetki vermeyen, devredilemeyen ve iptali mümkün olan hakları size aşağıdaki koşullara bağlı olarak garanti eder:
+
+5.1. PreSonus’tan gelen Ürün yasalarla korunmaktadır. Ürünlerin Fikri Mülkiyet Hakları PreSonus'a aittir. Ürünü kopyalayamaz, kopyalatamaz, başka bir koda dönüştüremez, ters mühendislik ile yöntemlerini kıramaz veya kırdırtamazsınız. (a) Ürün tasarımının, düzeninin veya görünümünün bir kısmını veya tamamını çoğaltamaz, kopyalayamaz veya taklit edemezsiniz.  b) Ürünü veya Ürünün erişim ve kullanım hakkını kiraya veremez, lisanslayamaz veya satamazsınız. (c) Üründe bulunan herhangi bir metni, telif hakkını veya diğer mülkiyet bildirimlerini kaldıramaz, revize edemez veya değiştirmezsiniz. 
+Kendi çalışanlarınız da dahil olmak üzere Ürünü / Ürünleri üçüncü şahısların izinsiz kullanamayacağını uygun ve doğru bir şekilde sağlamalısınız. Bu bağlamda oluşabilecek her türlü zarar veya ziyandan PreSonus'a karşı siz sorumlu olursunuz.
+
+MPEG Layer-3 içeren Ürün / Ürünler için: 
+
+Bu Ürünün tedariği herhangi bir lisans sunmamaktadır ve bu Ürünle birlikte oluşturulan MPEG Layer- 3 uyumlu içeriğin gelir getirici yayın sistemlerinde (yerüstü, uydu, kablo ve / veya diğer dağıtım kanalları), akış uygulamaları (İnternet, intranetler ve / veya diğer ağlar üzerinden), diğer içerik dağıtım sistemleri (ücretli ses veya isteğe bağlı ses uygulamaları ve benzeri) veya fiziksel ortamlarda (kompakt diskler, dijital çok yönlü diskler, yarı iletken çipler, sabit diskler, hafıza kartları ve benzeri) gibi alanlarda dağıtılmasında hiçbir hak ifade etmez. Bu tarz kullanımlar için bağımsız bir lisans gereklidir. Ayrıntılar için lütfen http://mp3licensing.com adresini ziyaret edin.
+
+MPEG Layer-3 ses kodlama teknolojisi, Fraunhofer IIS ve Thomson Licensing'den lisans almıştır.
+
+5.2. STUDIO ONE ürün serisinin Lisanslı Yazılımlar için:
+ (a)Lisans Sahibi, Lisanslı Yazılımı aynı anda tek bir bilgisayara kurmak ve kullanmak için bir (1) lisansa sahip olacaktır. Lisans Sahibi yazılımı başka bir bilgisayara kurabilir ve kullanabilir, ancak ek lisans satın almadıkça, bir yazılımı aynı anda birden fazla bilgisayarda kullanamaz. Lisans Sahibinin tek bir bilgisayardaki  aktivasyon kullanımını kaybetmesi durumunda, ilave olarak dört (4) aktivasyonu daha olacaktır. Studio One'ın kullanımı için sağlanan aktivasyonlar, üreticinin lisansına ve kullanım koşullarına tabi olan üçüncü tarafların yazılımları için geçerli değildir. Lisans Sahibinin bilgisayarında / donanımında (yani RAM, sabit disk veya yeni bir işletim sistemi gibi) büyük değişiklikler yapılması durumunda, tüm Studio One yazılımının yeniden etkinleştirilmesi gerekir. Yazılımın ve içeriğin eksiksiz olarak dijital ortamdaki yedeği PreSonus hesabınızda online olarak mevcuttur. Lisanslı Yazılımın kopyalarını kaydetmemeniz şartıyla, Lisanslı Yazılımı kalıcı olarak, ilgili tarafın otomatik olarak bu Son Kullanıcı Lisans Sözleşmesi’nin Koşulları’na tabi olması koşuluyla, başka bir tarafa devretmenize izin verilir. Lisanslı Yazılımın sürümünü yükselttiyseniz, orijinal Lisanslı Yazılımı ve yükseltilmiş olan Lisanslı Yazılımı ayrı ayrı devredemezsiniz. Arşivleme amacıyla Lisanslı Yazılımın yedek kopyalarını almanıza izin verilir.
+
+(b) Lisanslı Yazılımın, PreSonus haricindeki bir kaynaktan edinilen başka bir Lisans Anahtarı ile kullanılması açıkça ve kesinlikle yasaktır. PreSonus, tamamen kendi takdirine bağlı olarak, Lisanslı Yazılımın yasa dışı Lisans Anahtarlarıyla kullanımını engellemek, gözetlemek ve kontrol etmek adına gerekli gördüğü her türlü aksiyonu alma hakkını saklı tutar.
+
+5.3. STUDIO ONE EXCHANGE servis kullanımı için, lütfen StudioOne.PreSonus.com adresinde bulunan PreSonus Exchange Hizmet Şartları’na bakın.
+
+5.4. STUDIO ONE PRIME ürün serisinin Lisanslı Yazılımları için:
+(a) Lisans Sahibi, Lisanslı Yazılımı istediği sayıda bilgisayara kurabilir ve kullanabilir. Kullanıcıların STUDIO ONE PRIME’ı kopyalamaları ve paylaşmaları önerilmektedir. Lisanslı Yazılımın farklı bilgisayarlarda kurulmasına ve kullanılmasına izin verilir. Arşivleme amacıyla Lisanslı Yazılımın yedek kopyalarının alınmasına izin verilir. STUDIO ONE PRIME Ürününü OEM Lisans Sözleşmesi olmadığı sürece başka bir ticari ürüne ekleyemez veya dağıtamazsınız. Tüm STUDIO ONE PRIME Kullanıcıları bu Son Kullanıcı Lisans Sözleşmesi Koşullarına tabidir. PreSonus STUDIO ONE PRIME için Destek Hizmetleri sunmaz. STUDIO ONE PRIME lisansları başka bir tarafa kalıcı olarak devredilemez.
+
+5.5. NOTION ürün serisinin Lisanslı Yazılımları için:
+(a) Lisans Sahibine, Lisanslı Yazılımı aynı anda tek bir bilgisayara kurmak ve kullanmak için bir (1) lisans hakkı verilir. Lisans Sahibi yazılımı başka bir bilgisayara kurabilir ve kullanabilira ncak ek lisans satın almadıkça, yazılım aynı anda birden fazla bilgisayarda kullanılmayabilir. Lisans Sahibinin tek bir bilgisayardaki aktivasyon kullanımını kaybetmesi durumunda, dört (4) ek aktivasyonu daha olacaktır. Arşivleme amacıyla Lisanslı Yazılımın yedek kopyalarını alınmasına izin verilir.
+
+(b) Kurulum sürecinin bir parçası olan bazı ses veya müzik örnekleri ve yazı karakterleri dahil olmak üzere, bu gibi Ürün bileşenlerinin hakları üçüncü taraflara aittir ve bu bileşenler yalnızca Ürünle birlikte kullanım için lisanslıdır. Ürün ile bağlantılı olduğu durumlar hariç, bu bileşenlerin herhangi bir alt lisansı, dağıtımı veya diğer kullanımları bu Sözleşme’nin bir ihlali olarak kabul edilir.
+
+(c) Lisans Sahibi, son kullanıcının Notion kullanarak yaptığı kayıtların Londra Senfoni Orkestrası tarafından kaydedildiğine dair herhangir bir temsilde bulunmamayı veya ima etmemeyi kabul eder.
+
+(d) Lisans Kullanıcısı, Notion kullanılarak yapılan müzikal kayıtlarda “Bu kayıt, Londra Senfoni Orkestrası tarafından kaydedilen orkestra örnekleri kullanılarak yapıldı” ifadesiyle, Londra Senfoni Orkestrası’nı ima etmeyi veya ön söz olarak belirtmeyi kabul eder. 
+
+5.6. Bundled ürün serisindeki Lisanslı Yazılımlar için:
+ (a) PreSonus’un belirli Ürünleri için aşağıdakiler geçerli olacaktır:                                                                   Paketlerde (yazılım ve donanımı birlikte içeren), yazılım yalnızca orijinal kayıtlı sahibine teslim edilir. Kullanılmış bir PreSonus donanım ürününü  alıyor veya satıyorsanız, beraberinde gelen yazılım gelecekteki donanım sahipleri için otomatik olarak birleştirilmez. Yazılım ve donanım, ürün içinde ayrı varlıklar olarak görülür. Ancak yazılım devredilebilir özellikte ise, bir PreSonus yazılım lisansını devredebilirsiniz.
+(b) PreSonus’taki belirli Ürünler için aşağıdakiler geçerli olacaktır:                                                                             Paketler (yalnızca yazılım) sadece bir bütün olarak aktarılabilir. Sadece Yazılım içeren Paketin ayrı ayrı bileşenleri, üçüncü taraf üreticinin izni olmadığı sürece, ayrı ayrı bir şekilde devredilemez.
+
+5.7. Ürün/Ürünlerin, sadece bu Koşulların ve geçerli yasaların izin verdiği şekilde kullanılması sizin tarafınızca kabul edilir.
+
+5.8. PreSonus, Ürünleri, Servisleri veya herhangi bir bölümü önceden bildirerek veya bildirmeden geçici veya kalıcı olarak değiştirebilir veya sonlandırabilir. Bu gibi durumlarda PreSonus'un size veya başka birine karşı sorumlu olmayacağını kabul edersiniz.
+
+6.GİZİLİLİK POLİTİKASI
+
+6.1. PreSonus’un veri koruma ve toplama uygulamaları hakkında bilgi için, lütfen Siteden erişebileceğiniz ve buraya referans olarak eklenmiş olan PreSonus Gizlilik Politikasını (“Gizlilik Politikası”) okuyun. Bu doğrultuda PreSonus’un verilerinizi, www.presonus.com/Privacy-Policy adresinde yer alan Gizlilik Politikasına uygun olarak kullanmasını kabul etmiş olursunuz.
+
+7.MÜLKİYET
+
+7.1. Ürün(ler)
+Tüm Ürün(ler), ve bu Ürünlerin seçimi ve düzenlenmesi, Fikri Mülkiyet Hakları tarafından korunmaktadır. Burada açıkça belirtilmediği sürece, PreSonus, Ürün(leri) kullanmak için açık veya zımni haklar vermez. Ürünlerin dünya çapındaki tüm dillere, formatlara ve medyaya ilişkin tüm hakları ve menfaatleri, PreSonus'un münhasır mülkiyetidir ve olmaya devam edecektir, Ayrıca Koşullarda yer alan hiçbir şey, size veya herhangi bir üçüncü tarafa, telif hakkı veya diğer fikri mülkiyet hakları kapsamında dolaylı olarak, yazılı veya başka bir şekilde herhangi bir lisans veya hak verilmemesi şeklinde yorumlanamaz. 
+
+7.2. Ticari Marka
+
+Markalar PreSonus'un malıdır. PreSonus'un önceden yazılı izni olmadan Markaları kullanmanıza izin verilmez. PreSonus ve PreSonus logosu, PreSonus'un ticari markalarıdır. PreSonus Markalarının güncel bir listesi için, lütfen Sitede yayınlanan ticari marka bilgilerine bakın.
+
+7.3. İçerik Hakkınız
+Bireysel bir kullanıcıysanız, içeriğinizin tüm haklarına, unvanlarına ve mülkiyet hakkına sahip olursunuz. İçeriğinizle ilgili garantiler için Bölüm 9 ve 10'a bakın.
+
+8. TELİF HAKKI:
+
+8.1. Ürünler ABD ve diğer ülkelerin telif hakkı yasaları ile korunmaktadır ve PreSonus, Ürün(ler)deki tüm Fikri Mülkiyet Haklarını saklı tutar. Ürün kodunu ayrı olarak yayınlayamaz, satamaz, pazarlayamaz, kiralayamaz ya da alt lisans olarak veremezsiniz. Ancak bu, lisansın izin verilen kütüphane ve sınıf kullanımı gibi telif hakkı yasalarının onaylandığı adil kullanım alanlarında yasaklanması veya sınırlanması, şeklinde yorumlanmamalıdır.
+
+9. GARANTİ, TEMİNAT YÜKÜMLÜLÜĞÜ VE FERAGAT:
+
+9.1. İçeriğinizle ilgili olarak şunları beyan ve taahhüt edersiniz: 
+(a) Fikri Mülkiyet Haklarına sahip olduğunuzu veya İçeriğinizi Ürünle bağlantılı olarak kullanımına veya aksi kullanımı Koşullarda izin verildiği şekilde olduğu konusunda gerekli tüm lisans ve izinleri almış olduğunuzu. 
+(b) İçeriğinizi dağıtmak, herkese açık alanda göstermek, herkese açık bir performans olarak sergilemek ve İçeriğinizin çoğaltılması da dahil olmak üzere, Şartlarda belirtilen şekilde kullandığınıza dair, İçeriğinizde tasvir edilen tüm kişi ve kişilerden onay aldığınızı.
+ (c) İçeriğinizin; herhangi bir şahsın, şirketin, kuruluşun veya diğer üçüncü şahısların tanıtım veya gizlilik hakkı dahil olmak üzere hiçbir fikri mülkiyet hakkını veya diğer mülkiyet haklarını ihlal etmediğinizi ve çiğnemediğinizi.
+
+9.2. İçeriğinizden veya içeriğinizle bağlantılı olarak ortaya çıkabilecek; Ürün, Hizmet veya Siteyi kullanımınızdan; Ürün, Hizmet veya Siteye erişiminizden; diğer Kullanıcıların kişisel bilgilerini kullanımınızdan ve bu bilgilere ulaşımınızdan; grubunuzun herhangi bir üyesinin eylemlerinden; web sitelerine erişiminizden veya kullanımınızdan; İçeriğinizin bir başkasına zarar vermesinden; Ürün, Hizmet veya Site aracılığıyla reklam veren veya tanıtan herhangi biriyle aranızda oluşabilecek durumlardan; Koşulları ihlal edici eylemlerinizden veya Fikri Mülkiyet Hakları dahil olmak üzere, başkalarının haklarını ihlal eylemlerinizden dolayı ortaya çıkabilecek herhangi bir iddiaya veya talebe karşı, avukatlık masrafları gibi makul ücretler de dahil olmak üzere, konuyla iligli herhangi bir hatası bulunmayan PreSonus ve bağlı ortaklıklarını, bağlı kuruluşlarını, memurlarını, acentelerini, çalışanlarını, ortak markalarını veya diğer iş ortaklarını ve Lisansı Sahibini,doğabilecek tüm zararlardan tazmin etmeyi ve korumayı kabul edersiniz. 
+
+10. SINIRLI GARANTİ:
+
+10.1. Ürünün; siteden indirdiğiniz tarih itibariyle sitede yer alan ürün özelliklerinde veya satın alma esnasında Ürünün fiziksel ambalajında ​​ve Ürün ile birlikte verilen belgelerde açıklandığı şekilde genel olarak belirtilen işlev ve özellikleri sağlayacağını garanti ediyoruz.
+
+10.2. PreSonus, Ürünün veya Ürünü kullanımınızın kesintisiz veya hatasız olacağına dair hiçbir garanti vermez. PreSonus Ürünlerini virüslerden, casus yazılımlardan, "gizli" girişlerinden veya diğer zararlı kodlardan uzak tutmak için tüm makul önlemleri almıştır. Ürün, sizin izniniz olmadan, herhangi bir yükseltme, ekleme veya başka bir üçüncü taraf ürününü indirmeyecek veya kurmayacaktır. Ürün özelliklerini kullanmanızdan veya İçeriğinize erişim hakkınızdan kasten sizi mahrum etmeyeceğiz.
+
+10.3. BU ÜRÜN “OLDUĞU GİBİ” SUNULMUŞTUR VE HERHANGİ BİR İFADE VEYA İMA DAHİL OLMAK ÜZERE VE BUNLARLA DA SINIRLI OLMAYAN, HERHANGİ BİR PAZARLANABİLİRLİĞE VEYA ÖZEL BİR AMACA UYGUNLUĞA DAİR İMA EDİLEN GARANTİLER KABUL EDİLEMEZ. DİREKT, İNDİREKT, KAZARA, ÖZEL, EMSAL NİTELİKTE OLAN VE ZARAR İLE SONUÇLANAN (YEDEK HİZMET VE ÜRÜNLERİN ALIMI; KULANIMIN, VERİNİN VE GELİRİN KAYBI; VEYA İŞİN DURMASI GİBİ DURUMLAR DAHİL ANCAK BUNLARLA DA SINIRLI OLMAYAN), VE BUNLARLA BİRLİKTE BU ÜRÜNÜN KULLANIMINDAN ORTAYA ÇIKABİLECEK ZARARLARDAN, BÖYLE BİR ZARAR İHTİMALİ BELİRTİLMİŞ OLSA DAHİ, HERHANGİ BİR YÜKÜMLÜLÜK TEORİSİNE, SÖZLEŞMEDEKİ KATI YÜKÜMLÜLÜKLERE VEYA HAKSIZ MUAMELELERE KARŞI (İHMAL VEYA AKSİ DURUMLAR DAHİL OLMAK ÜZERE) PRESONUS HERHANGİ BİR SORUMLULUK KABUL ETMEYECEKTİR.
+
+10.4. İNDİRİLEN VE KULLANIMA UYGUN HALE GETİRİLEN HERHANGİ BİR YAZILIM VEYA İÇERİK, VE BU ÜRÜNLERİ KULLANIMIZDAN OLUŞACAK DİKKAT VE RİSKLER SİZE AİTTİR, VE BU TARZ ÜRÜNLERİN İNDİRİLMESİNDEN KAYNAKLANAN SİSTEMSEL BİLGİSAYAR ZARARLARINDAN YA DA VERİ KAYBINDAN TAMAMEN SİZ SORUMLU TUTULURSUNUZ. PRESONUS SİTEDEN BİLGİSAYARINIZA İNDİRİLEN HERHANGİ BİR BİLGİSAYAR VİRÜSÜNDEN VE BU TARZ KÖTÜ AMAÇLI KODLARLA İLGİLİ HİÇBİR SORUMLULUĞU KABUL ETMEDİĞİ BEYAN EDER.
+
+11. YÜKÜMLÜLÜĞÜN SINIRLANDIRILMASI
+
+11.1. Yukarıdaki sınırlı garanti kapsamından doğabilecek özel haklarınız , satın alma fiyatının tamamen geri ödenmesi veya arızalı Ürünün düzeltilmesi şeklindeki çözümler ile PreSonus’un kararında olacaktır.
+
+12. İHRACAT KONTROL KANUNLARI:
+
+12.1. Ürün ve Hizmetlerin ABD ihracat kontrolü ve yaptırım yasalarına (İhracat İdaresi Yönetmeliği dahil) (“İhracat Kontrolleri”) tabi olduğunu ve İhracat Kontrollerine uyacağınızı kabul edersiniz. Ürünler doğrudan veya dolaylı bir şekilde ihraç edilemeyecek, reeksport gerçekleştirilemeyecek veya ithal edilemeyecek ve bu Ürün ve Hizmetler aşağıdakilerle bağlantılı olarak kullanılamayacaktır: a) ABD ihracat sınırlamalarına tabi olan herhangi bir ülke (Küba, İran, Kuzey Kore, Sudan ve Suriye dahil ve bunlarla da sınırlı olmamak üzere), b) ABD Hükumetinin herhangi bir federal kurumu tarafından ABD’nin ihracat işlemlerine katılmaları yasaklanmış olan son kullanıcılar. Buna ek olarak, bölgenizde bu Ürünlerin veya Servislerin ihracat, ithalat veya kullanım hakkınızı etkileyebilecek herhangi bir yerel yasaya uyulması konularından siz sorumlu olursunuz. PreSonus bir ihlal gerçekleştiğinin bilgisini aldığında, PreSonus Ürünleri ve/veya Hizmetlerinin sunulması yasaklanabilir.
+
+13. UYUŞMAZLIKLARIN ÇÖZÜMÜ:
+
+13.1. Karar Mercii
+ (a) PreSonus aleyhine oluşabilecek herhangi bir iddia veya anlaşmazlığın, taraflarca aksi kararlaştırılmadıkça veya aşağıda Bölüm 13.2'de belirtilmedikçe, Amerika Birleşik Devletleri East Baton Rouge Parish, Louisiana’ da bulunan bir mahkeme tarafından çözülmesi gerektiğini kabul edersiniz. Bu tür iddiaları veya anlaşmazlıkları çözmek amacıyla, Louisiana yasaları uygulandığında, East Baton Rouge Parish, Louisiana, Amerika Birleşik Devletleri'nde bulunan mahkemelerin kişisel yargı yetkisini kabul etmeyi kabul edersiniz. Bu tür iddia ve anlaşmazlıkların çözülmesi için Louisiana yasaları uygulandığında, Amerika Birleşik Devletleri, East Baton Rouge Parish Louisiana’daki mahkemelerin kişisel yargı yetkisini kabul ettiğinizi beyan edersiniz.
+(b) Bu tür iddiaları veya anlaşmazlıkları çözmek adına İrlanda yasaları uygulandığında, İrlanda mahkemelerinin kişisel yetkisini kabul ettiğinizi beyan edersiniz. Taraflar, Uluslararası Mal Satışına İlişkin Sözleşmelerle ilgili olarak Birleşmiş Milletler Kararını özellikle reddederler.
+
+13.2. Alternatif Uyuşmazlık Çözümleri:
+(a) Louisiana Yasası uygulandığında, işbu Anlaşmanın yorumlanması, geçerliliği, oluşumu, performansı, ihlali veya feshi ile alakalı veya bunlarla ilgili olarak ortaya çıkan herhangi bir anlaşmazlık veya ihtilaf, Amerikan Tahkim Derneği’nin yürürlükte olan kurallarına bağlı olarak (“Kurallar”) Baton Rouge, Louisiana yasalarına uygun olarak yapılacak bağlayıcı tahkim ile çözülür. Hakem, bu tür bir ihtilaf veya uyuşmazlıkta tazminat veya başka bir çözüm sağlayabilir. Hakemin kararı, nihai, kesin ve tarafların tahkimi için bağlayıcı olacaktır. Hakemin verdiği karara herhangi bir yetkili yargı mahkemesinde itiraz edilebilir. Hakem, Louisiana hukukunu, herhangi bir anlaşmazlığın veya hak talebinin liyakatı için, hukuk kurallarındaki çelişkilere atıfta bulunmadan uygulayacaktır. Bu Son Kullanıcı Lisans Sözleşmesi’nin Koşulları’ndan kaynaklanan veya bunlarla ilgili olarak oluşan, tarafların katılımcı olduğu herhangi bir tahkim ile ilgili herhangi bir eylem veya işlem için Louisiana'daki yerel mahkemelerin ve federal mahkemelerin şahsi yargı yetkisine tabi olduğunu kabul edersiniz.
+
+(b) İrlanda Yasası uygulandığında, herhangi bir ihtilaf yalnızca ve son olarak 2010 Tahkim Yasası uyarınca tahkim kararlaştırılması yoluyla, İrlanda'da Dublin'de işlem yapacak olan hakem ile karşılıklı olarak mutabık kalınan bir (1) anlaşma ile çözülecektir. Bildiriler İngilizce dilinde yapılacak ve taraflardan birinin talebi üzerine hakem kararını destekleyen gerçekler ve yasal gerekçelerle ilgili yazılı bir açıklama ile sonuçlanacaktır. Hakemin verilmesiyle ilgili karar, bu kararı verme yetkisine sahip herhangi bir mahkeme tarafından verilebilir.
+
+14. GENEL HÜKÜMLER:
+
+14.1. Yasaların izin verdiği ölçüde ve herhangi bir diğer hakkI çiğnemeksizin, PreSonus bu Koşulları esasen ihlal etmeniz durumunda lisansınızı feshedebilir.
+
+14.2. PreSonus'a bildirim: Şartlar uyarınca PreSonus'a verilen herhangi bir bildirim, PreSonus Audio Electronics Inc., 18011 Grand Bay Court, Baton Rouge, LA 70809 adresine Hukuk Departmanı adına gönderilmelidir. Eğer bildirim Presonus Software Limited veya Presonus Europe Limited’a ise, lütfen bildirimi 13 Churchview Square, Cavan, Co Cavan, Irlanda adresine, Sn. Eugene Greenan adına gönderiniz.
+
+14.3. Tarafınıza Yapılacak Bildirim: PreSonus, Koşullarda yapılan değişiklikler de dahil olmak üzere e-mail, standart posta, Site içindeki bildirimlerle veya halihazırda bilinen veya gelecekte geliştirilmesi mümkün olan diğer uygulama yollarıyla size bildirimler gönderebilir.
+
+14.4. Anlaşmanının Bütünü: Bu Son Kullanıcı Lisans Sözleşmesi’nin Koşulları, PreSonus ile aranızdaki, Siteye, Hizmetlere ve Ürünlere erişiminize veya kullanımınıza ilişkin olarak yapılan tüm sözleşmeyi teşkil eder ve bu konuda siz ve PreSonus arasındaki önceki anlaşmaların yerine geçer.
+
+14.5. Devredilememezlik: PreSonus’un yazılı izni olmadan bu Koşullar veya bu belge ile verilen herhangi bir hak devredilemez veya başka bir şekilde atanamaz. Bu Koşullar altındaki PreSonus’a ait haklar PreSonus tarafından devredilebilir.
+
+14.6. Bölünebilirlik: Herhangi bir sebeple yetkili bir mahkeme tarafından, Koşullar veya bu koşulların bir kısmının herhangi bir hükmünün uygulanamaz olduğuna karar verilmesi durumunda, bu hükmün tarafların niyetini etkilememesi için, izin verilen azami ölçüde uygulanması sağlanacak, ve geri kalan Koşulların tümü tam olarak yürürlükte kalacaktır.
+
+14.7. Feragat: PreSonus'un, Koşulların veya ilgili hakların herhangi bir hükmünü uygulamaması veya yerine getirmemesi, bu hükümden veya haktan feragatını teşkil etmez.
+
+14.8. Yükümlülük: Ürün/Ürünlerin, Sitenin veya Hizmetlerin herhangi bir bölümüne katılımınızı veya bunları kullanımınızı yasaklayan herhangi bir kanunu bilmek ve bu kanuna uymak yalnızca siz sorumluluğunuzdur.
+
+14.9. Onaylama: Bu Son Kullanıcı Lisans Sözleşmesi’ni okuduğunuzu, anladığınızı ve Koşullara uymayı kabul ettiğinizi onaylıyorsunuz. Bu sözleşmede yer alan Koşullara uymuyorsanız veya satın aldığınız Ürün/ürünlerden otuz (30) gün içerisinde memnun kalmazsanız, lütfen Ürünü bilgisayarınızdan kaldırın, tüm kopyalarını yok edin ve Ürünün tüm kullanımlarına son verin.
+
+(SON)

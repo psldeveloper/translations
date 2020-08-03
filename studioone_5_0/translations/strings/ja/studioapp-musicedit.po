@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\translation.js
+msgid "[MusicEdit]Delete Double Notes"
+msgstr "重複音を削除"
+
+#: .\translation.js
+msgid "[MusicEdit]Delete Short Notes"
+msgstr "短い音符を削除"
+
+#: .\translation.js
+msgid "[MusicEdit]Explode Pitches to Tracks"
+msgstr "ピッチをトラックへ展開"
+
+#: .\translation.js
+msgid "[MusicEdit]Extend to Part End"
+msgstr "パートエンドまで拡張"
+
+#: .\translation.js
+msgid "[MusicEdit]Freeze Pitch"
+msgstr "ピッチをフリーズ"
+
+#: .\translation.js
+msgid "[MusicEdit]Freeze Quantize"
+msgstr "クオンタイズをフリーズ"
+
+#: .\translation.js
+msgid "[MusicEdit]Freeze Velocity"
+msgstr "ベロシティをフリーズ"
+
+#: .\translation.js
+msgid "[MusicEdit]Humanize"
+msgstr "ヒューマナイズ"
+
+#: .\translation.js
+msgid "[MusicEdit]Humanize Less"
+msgstr "ヒューマナイズ（低）"
+
+#: .\translation.js
+msgid "[MusicEdit]Length"
+msgstr "長さ"
+
+#: .\translation.js
+msgid "[MusicEdit]Merge Events"
+msgstr "イベントを結合"
+
+#: .\translation.js
+msgid "[MusicEdit]Quantize"
+msgstr "クオンタイズ"
+
+#: .\translation.js
+msgid "[MusicEdit]Quantize 50%"
+msgstr "クオンタイズ 50%"
+
+#: .\translation.js
+msgid "[MusicEdit]Quantize End"
+msgstr "エンドをクオンタイズ"
+
+#: .\translation.js
+msgid "[MusicEdit]Repeat Notes to Part End"
+msgstr "ノートをパートエンドまでリピート"
+
+#: .\translation.js
+msgid "[MusicEdit]Restore Timing"
+msgstr "タイミングを復元"
+
+#: .\translation.js
+msgid "[MusicEdit]Restore Velocity"
+msgstr "ベロシティを復元"
+
+#: .\translation.js
+msgid "[MusicEdit]Select Notes"
+msgstr "音を選択"
+
+#: .\translation.js
+msgid "[MusicEdit]Split at Grid"
+msgstr "グリッドで分割"
+
+#: .\translation.js
+msgid "[MusicEdit]Stretch"
+msgstr "ストレッチ"
+
+#: .\Split.js
+msgid "This would create too many notes and will be cancelled."
+msgstr "作成されるノートが多すぎるため、キャンセルされます。"
+
+#: .\translation.js
+msgid "[MusicEdit]Transpose"
+msgstr "トランスポーズ"
+
+#: .\translation.js
+msgid "[MusicEdit]Velocity"
+msgstr "ベロシティ"
+
+#~ msgid "[MusicEdit]Extend to part end"
+#~ msgstr "パートエンドまで拡張"
+
+#~ msgid "Add"
+#~ msgstr "追加"
+
+#~ msgid "Force Overlaps"
+#~ msgstr "オーバーラップを強制"
+
+#~ msgid "Legato"
+#~ msgstr "レガート"
+
+#~ msgid "Multiply"
+#~ msgstr "乗算"
+
+#~ msgid "Remove Overlaps"
+#~ msgstr "オーバーラップを削除"
+
+#~ msgid "Scale"
+#~ msgstr "音階"
+
+#~ msgid "Set"
+#~ msgstr "設定"
+
+#~ msgid "Subtract"
+#~ msgstr "減算"

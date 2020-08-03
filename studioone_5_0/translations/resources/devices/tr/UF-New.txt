@@ -1,0 +1,1 @@
+Fabrika ayarlarını kullanın. Fabrika ayarlarını geri çağırmak için cihazı açarken oktav tuşlarına basılı tutun.

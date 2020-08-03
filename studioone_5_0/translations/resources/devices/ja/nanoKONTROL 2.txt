@@ -1,0 +1,1 @@
+﻿Mackie Control動作モードを選択してください（［SET MARKER］と［REW］を押したままUSBケーブルを接続してください）。

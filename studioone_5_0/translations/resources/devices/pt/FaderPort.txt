@@ -1,0 +1,1 @@
+﻿O botão de Saída atribui o Fader à saída principal. O Banco atribui o Fader ao banco Remoto. O botão de Usuário alterna quaisquer Solo. O Shift alterna o encoder para controle de transporte. O footswitch aciona a gravação.

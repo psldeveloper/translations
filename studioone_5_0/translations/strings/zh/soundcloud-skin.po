@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: smartCAT.ai\n"
+
+#: .\client.xml
+msgid "[SoundCloudManager]Add Tracks..."
+msgstr "添加音轨..."
+
+#: .\client.xml
+msgid "[TrackPropertyView]Allow external streams at 128 kbps"
+msgstr "允许外部流 (128Kbps)"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Artwork"
+msgstr "美工"
+
+#: .\client.xml
+msgid "[SoundCloudAuthorization]Attempt to connect with SoundCloud failed!"
+msgstr "SoundCloud连接失败!"
+
+#: .\client.xml
+msgid "[TrackPropertyView]BPM"
+msgstr "BPM"
+
+#: .\client.xml
+msgid "[SoundCloudAuthorization]Cancel"
+msgstr "取消"
+
+#: .\browser.xml
+msgid "[ClientPreview]Connect with SoundCloud"
+msgstr "连接SoundCloud"
+
+#: .\client.xml
+msgid "[NotSignedInView]Connect with SoundCloud"
+msgstr "连接SoundCloud"
+
+#: .\client.xml
+msgid "[SoundCloudManager]Connect with SoundCloud"
+msgstr "连接SoundCloud"
+
+#: .\client.xml
+msgid "[SoundCloudConnectDialog]Connect with SoundCloud"
+msgstr "连接SoundCloud"
+
+#: .\client.xml
+msgid "[SoundCloudManager]De-Authorize"
+msgstr "取消授权"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Description"
+msgstr "描述"
+
+#: .\browser.xml
+msgid "[TrackPreview]Download"
+msgstr "下载"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Genre"
+msgstr "风格"
+
+#: .\client.xml
+msgid "[TrackPropertyView]ISRC"
+msgstr "ISRC"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Key"
+msgstr "键"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Keywords"
+msgstr "关键字"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Label Name"
+msgstr "标签名"
+
+#: .\client.xml
+msgid "[TrackPropertyView]License"
+msgstr "许可证"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Make original downloadable"
+msgstr "源支持下载"
+
+#: .\client.xml
+msgid "[TrackPropertyView]More info"
+msgstr "更多信息"
+
+#: .\client.xml
+msgid "[ActivityFeedItems]No recent activity."
+msgstr "无最近活动。"
+
+#: .\client.xml
+msgid "[SoundCloudManager]No track selected"
+msgstr "未选择音轨"
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Comments"
+msgstr "评论数量"
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Downloads"
+msgstr "下载数量"
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Favorites"
+msgstr "收藏数量"
+
+#: .\browser.xml
+msgid "[UserPreview]Number of Followers"
+msgstr "关注数量"
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Followers"
+msgstr "关注数量"
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Playbacks"
+msgstr "播放数量"
+
+#: .\browser.xml
+msgid "[UserPreview]Number of Tracks"
+msgstr "音轨数量"
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Tracks"
+msgstr "音轨数量"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Purchase URL"
+msgstr "购买网址"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Release Name"
+msgstr "发布名称"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Release date"
+msgstr "发布日期"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Remove Image"
+msgstr "移除图像"
+
+#: .\client.xml
+msgid "[SoundCloudManager]Remove all"
+msgstr "全部移除"
+
+#: .\client.xml
+msgid "[SoundCloudAuthorization]Retry"
+msgstr "重试"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Select Image"
+msgstr "选择图像"
+
+#: .\browser.xml
+msgid "[ClientPreview]SoundCloud Client"
+msgstr "SoundCloud客户端"
+
+#: .\client.xml
+msgid "[SoundCloudManager]SoundCloud Client"
+msgstr "SoundCloud客户端"
+
+#: .\client.xml
+msgid "[TrackPropertyView]This track is available publicly"
+msgstr "此音轨可公开访问"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Title"
+msgstr "标题"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Track Type"
+msgstr "音轨类型"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Track info"
+msgstr "音轨信息"
+
+#: .\client.xml
+msgid "[SoundCloudManager]Upload"
+msgstr "上传"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Video URL"
+msgstr "视频网址"
+
+#: .\client.xml
+msgid "[SoundCloudAuthorization]Waiting for SoundCloud to respond..."
+msgstr "等待SoundCloud响应..."
+
+#: .\client.xml
+msgid "[SoundCloudAuthorization]You are now connected to SoundCloud."
+msgstr "已连接到SoundCloud。"
+

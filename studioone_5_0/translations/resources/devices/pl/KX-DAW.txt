@@ -1,0 +1,2 @@
+Użyj ustawień fabrycznych i wybierz port 2 w opcji "Odbieraj z" dla KX MIDI.
+Assign 1 to kwantyzacja, Assign 2 to usuwanie. A otwiera edytor, a B otwiera konsoletę.

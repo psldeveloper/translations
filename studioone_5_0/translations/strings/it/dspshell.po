@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\services\devices\dspshell\source\dsppresethandler.cpp
+msgid "[FileType]DSP Preset"
+msgstr "DSP Preset"
+
+#: .\services\devices\dspshell\source\plugversion.h
+msgid "[DSPShell]PreSonus DSP Plug-In Support"
+msgstr "Supporto PreSonus DSP Plug-In"
+
+#: .\services\devices\dspshell\source\plugmain.cpp
+msgid "[DSPShell]Support for PreSonus DSP Plug-Ins"
+msgstr "Supporto per PreSonus DSP Plug-Ins"
+

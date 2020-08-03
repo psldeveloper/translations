@@ -1,0 +1,12 @@
+#: .\unifieddevice.cpp
+msgid "[WindowsMidi]Failed to open %(1)!"
+msgstr ""
+
+#: .\midiservicemain.cpp
+msgid "[WindowsMidi]Support for MIDI gear on Windows"
+msgstr ""
+
+#: .\plugversion.h
+msgid "[WindowsMidi]Windows MIDI Support"
+msgstr ""
+

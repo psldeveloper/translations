@@ -1,0 +1,1 @@
+﻿Bitte wählen Sie Modus III auf dem Schalter auf der Rückseite des Phatboy. Funktioniert auf allen MIDI-Kanälen.

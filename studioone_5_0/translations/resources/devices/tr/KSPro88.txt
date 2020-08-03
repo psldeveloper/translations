@@ -1,0 +1,1 @@
+Keystation üzerinde 10. fabrika ayarını seçin. Fader C1-C8, Düğme B11-B17 ve tuş C52-C59 konsola haritalandırılmıştır. 

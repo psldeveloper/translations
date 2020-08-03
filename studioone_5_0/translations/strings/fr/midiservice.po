@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: S1\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fisch <thierryfisch@orange.fr>\n"
+"Language-Team: PreSonus Software <info@presonussoftware.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+
+#: .\unifieddevice.cpp
+#, fuzzy
+msgid "[WindowsMidi]Failed to open %(1)!"
+msgstr "Échec de l'ouverture de %(1)!"
+
+#: .\midiservicemain.cpp
+msgid "[WindowsMidi]Support for MIDI gear on Windows"
+msgstr "Prise en charge du matériel MIDI sous Windows"
+
+#: .\plugversion.h
+msgid "[WindowsMidi]Windows MIDI Support"
+msgstr "Prise en charge du MIDI Windows"
+
+#~ msgid "[WindowsMidi]MIDI"
+#~ msgstr "MIDI"

@@ -1,0 +1,1 @@
+﻿Connetti la tua tastiera Komplete Kontrol al tuo computer e seleziona le porte MIDI DAW per utilizzarla con Studio One.

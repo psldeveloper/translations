@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]Buy"
+msgstr "Comprar"
+
+#: .\exchange.xml
+msgid "[PresetFileInfo]Created by:"
+msgstr "Creado por:"
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]File transfers will continue in background."
+msgstr "La transferencia de archivos continuará en segundo plano"
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]Files"
+msgstr "Archivos"
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]Free"
+msgstr "Libre"
+
+#: .\exchange.xml
+msgid "[WareItemPreview]Install"
+msgstr "Instalar"
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]Install"
+msgstr "Instalar"
+
+#: .\exchange.xml
+msgid "[WareItemPreview]Installed"
+msgstr "Instalado"
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]Loading price..."
+msgstr "Cargando precio..."
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]Manage Workspaces"
+msgstr "Gestionar espacios de trabajo"
+
+#: .\exchange.xml
+msgid "[PresetFileInfo]Modified:"
+msgstr "Modificado:"
+
+#: .\marketplace.xml
+msgid "[AudioPreviewPlayerMini]Play"
+msgstr "Reproducir"
+
+#: .\exchange.xml
+msgid "[PresetFileInfo]Plug-In:"
+msgstr "Plug in:"
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]Refresh"
+msgstr "Refrescar"
+
+#: .\exchange.xml .\marketplace.xml
+msgid "[ClientPreview]Sign In"
+msgstr "Registrarse"
+
+#: .\marketplace.xml
+msgid "[AudioPreviewPlayerMini]Stop"
+msgstr "Detener"
+
+#: .\exchange.xml
+msgid "[WareCollectionPreview]This device is not installed on your system!"
+msgstr "Este dispositivo no está instalado en su sistema!"
+
+#: .\exchange.xml
+msgid "[WareItemPreview]Update"
+msgstr "Actualización"
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]Upload"
+msgstr "Subir"
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]Workspaces"
+msgstr "Espacios de trabajo"
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]excl. VAT"
+msgstr "IVA Excl."
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]incl. VAT"
+msgstr "IVA Incl."
+

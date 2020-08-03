@@ -1,0 +1,1571 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\song\publisherselector.cpp
+msgid "[Engine]\"%(1)\" does not support the selected file format."
+msgstr "\"%(1)\" 不支持所选文件类型。"
+
+#: .\song\stemrenderer.cpp
+msgid "[StemRenderer](Disabled)"
+msgstr "(已禁用)"
+
+#: .\song\stemrenderer.cpp
+msgid "[StemRenderer](Empty)"
+msgstr "(空白)"
+
+#: .\song\stemrenderer.cpp
+msgid "[StemRenderer](Muted)"
+msgstr "(已静音)"
+
+#: .\song\stemrenderer.cpp
+msgid "[StemRenderer](Protected)"
+msgstr "(受保护)"
+
+#: .\project\publish\audiofilepublisher.cpp
+msgid "[AudioFilePublisher](Unknown Artist)"
+msgstr "(未知作者)"
+
+#: .\project\publish\audiofilepublisher.cpp
+msgid "[AudioFilePublisher](Unknown Title)"
+msgstr "(未知标题)"
+
+#: .\project\publish\burnerdialog.cpp
+msgid "[BurnerDialog]A blank CD is found and you can start to burn"
+msgstr "找到空白CD，可以开始刻录了"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]A patch with this name already exists."
+msgstr " 已存在同名补丁。"
+
+#: .\show\editing\showdraghandler.cpp
+msgid "[ShowDragHandler]Add Backing Track"
+msgstr " 增加伴奏"
+
+#: .\show\editing\showplayerlistcomponent.cpp
+msgid "[Command]Add Backing Track Player"
+msgstr " 增加伴奏播放器"
+
+#: .\show\editing\showplayerview.cpp
+msgid "[Player]Add Backing Track Player"
+msgstr " 增加伴奏播放器"
+
+#: .\project\editing\projectdraghandler.cpp
+msgid "[ProjectEditHandler]Add Event to Track"
+msgstr "添加事件至音轨"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Add Marker"
+msgstr "添加标记"
+
+#: .\show\editing\showplayerlistcomponent.cpp
+msgid "[Command]Add Player"
+msgstr " 添加播放器"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Add Player"
+msgstr " 添加播放器"
+
+#: .\show\editing\showplayerview.cpp
+msgid "[Player]Add Player..."
+msgstr " 添加播放器"
+
+#: .\show\editing\showplayerlistcomponent.cpp
+msgid "[Command]Add Real Instrument Player"
+msgstr " 添加真实乐器播放器"
+
+#: .\show\editing\showplayerview.cpp
+msgid "[Player]Add Real Instrument Player"
+msgstr " 添加真实乐器播放器"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Add Setlist Item"
+msgstr " 添加曲目项"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Add Setlist Item"
+msgstr " 添加曲目项"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Add Track"
+msgstr "添加音轨"
+
+#: .\show\editing\showplayerlistcomponent.cpp
+msgid "[Command]Add Virtual Instrument Player"
+msgstr " 添加虚拟乐器播放器"
+
+#: .\show\editing\showplayerview.cpp
+msgid "[Player]Add Virtual Instrument Player"
+msgstr " 添加虚拟乐器播放器"
+
+#: .\song\songbrowsable.cpp
+msgid "[SongBrowser]Append Track"
+msgstr "追加轨道"
+
+#: .\show\editing\showplayerinspector.cpp
+msgid "[Command]Apply Patch"
+msgstr " 应用补丁"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Arranger"
+msgstr "编曲器"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Arrow Tool"
+msgstr "光标工具"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Artist / Performer"
+msgstr "作者/演奏者"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Assign Backing Track"
+msgstr " 指定伴奏"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Assign Patch"
+msgstr " 指定补丁"
+
+#: .\show\editing\showeditcomponent.cpp
+msgid "[Command]Audio"
+msgstr "音频"
+
+#: .\song\songrenderer.cpp
+msgid "[SongRenderer]Audio Export"
+msgstr "导出音频"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Backing Track"
+msgstr " 伴奏"
+
+#: .\project\editing\projectedittasks.cpp
+msgid "[ProjectEdit]Bounce Track"
+msgstr "混缩音轨"
+
+#: .\project\publish\projectburner.cpp
+msgid "[Command]Burn Audio CD"
+msgstr "刻录音频CD"
+
+#: .\project\publish\projectburner.cpp
+msgid "[ProjectBurner]Burning failed."
+msgstr "刻录失败。"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]CD Burning Service not installed."
+msgstr "未安装CD刻录服务"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]CD Protocol"
+msgstr "CD协议"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]CD Title"
+msgstr "CD名称"
+
+#: .\show\document\performancecomponent.cpp
+msgid "[Command]Cancel"
+msgstr "取消"
+
+#: .\song\songrenderer.cpp
+msgid "[SongRenderer]Cannot create mixdown with protected content."
+msgstr "无法使用受保护内容创建混音。"
+
+#: .\song\stemrenderer.cpp
+msgid "[StemRenderer]Channels"
+msgstr "通道"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Colorize Player"
+msgstr " 为播放器着色"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Colorize Setlist Item"
+msgstr " 为曲目项着色"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Colorize Track"
+msgstr "音轨着色"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Combine Tracks"
+msgstr "组合音轨"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Project]Combine with next Track"
+msgstr "与下一个音轨组合"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Command]Combine with next Track"
+msgstr "与下一个音轨组合"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Comment"
+msgstr "评论"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Composer"
+msgstr "作曲人"
+
+#: .\show\editing\setlistiteminspector.cpp
+msgid "[PatchList]Content"
+msgstr "内容"
+
+#: .\show\editing\setlistitemcomponent.cpp
+msgid "[SetListItem]Continue"
+msgstr " 继续"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Convert to Grand Staff"
+msgstr " 转换为大谱表"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Convert to Single Staff"
+msgstr " 转换为单一谱表"
+
+#: .\song\songcontroller.cpp
+msgid "[Command]Copy"
+msgstr "复制"
+
+#: .\project\editing\projectedittasks.cpp
+msgid "[ProjectEdit]Copy Metadata to all Tracks"
+msgstr "拷贝元数据至所有音轨"
+
+#: .\project\publish\audiofilepublisher.cpp
+msgid "[AudioFilePublisher]Could not create audio files."
+msgstr "无法创建音频文件。"
+
+#: .\project\publish\burnerdialog.cpp
+msgid "[BurnerDialog]Could not find a CD burner"
+msgstr "无法找到CD刻录机"
+
+#: .\song\songcontroller.cpp
+msgid "[Song]Could not import file!"
+msgstr "无法导入文件!"
+
+#: .\project\document\projectcomponent.cpp
+msgid "[Project]Could not import file! The file format is unsupported."
+msgstr "无法导入文件! 不支持的文件格式。"
+
+#: .\project\publish\ddpimagemaker.cpp
+msgid "[DDPImageMaker]DDP image failed."
+msgstr "DDP映像失败。"
+
+#: .\show\editing\showplayerlistcomponent.cpp
+msgid "[PlayerList]Default"
+msgstr "默认"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Default Patch: %(1)"
+msgstr " 默认补丁：%(1)"
+
+#: .\song\songvideohandler.cpp
+msgid "[Video]Default Size"
+msgstr "默认大小"
+
+#: .\show\editing\showeditcomponent.cpp .\song\songmarker.cpp
+msgid "[Command]Delete"
+msgstr "删除"
+
+#: .\song\songmarker.cpp
+msgid "[Marker]Delete Marker"
+msgstr "删除标记"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Deselect All"
+msgstr "取消选择"
+
+#: .\project\editing\projectedittasks.cpp
+msgid "[ProjectEdit]Detect Loudness"
+msgstr "检测响度"
+
+#: .\project\document\projectdocument.cpp
+msgid "[Project]Devices"
+msgstr "设备"
+
+#: .\show\document\showdocument.cpp
+msgid "[Show]Devices"
+msgstr "设备"
+
+#: .\song\songdocument.cpp
+msgid "[Engine]Devices"
+msgstr "设备"
+
+#: .\project\publish\audiofilepublisher.cpp
+msgid "[Command]Digital Release"
+msgstr "数字发布"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Disable Setlist Item"
+msgstr " 禁用曲目项"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Disable Setlist Item"
+msgstr " 禁用曲目项"
+
+#: .\project\document\projectcomponent.cpp
+msgid "[Command]Disable Track"
+msgstr "禁用音轨"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Disable Track"
+msgstr "禁用音轨"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Disable Tracks"
+msgstr "禁用音轨"
+
+#: .\song\publisherselector.cpp
+msgid "[Engine]Do not publish"
+msgstr "不发布"
+
+#: .\project\editing\projecttrackcomponent.cpp
+msgid "[ProjectTrack]Do you want to apply incrementing ISRC codes for all tracks?"
+msgstr "是否希望将递增的ISRC编码应用到所有音轨上？"
+
+#: .\project\publish\ddpimagemaker.cpp
+msgid "[DDPImageMaker]Do you want to create a DDP image?\n\nImage: %(1)\nLocation: %(2)"
+msgstr "是否创建DDP映像?\n\n映像: %(1)\n位置: %(2)"
+
+#: .\song\songrenderer.cpp
+msgid "[SongRenderer]Do you want to delete the exported file?"
+msgstr "是否删除已导出的文件？"
+
+#: .\song\songrenderer.cpp
+msgid "[SongRenderer]Do you want to delete the exported files?"
+msgstr "是否删除已导出的文件？"
+
+#: .\song\songvideohandler.cpp
+msgid "[Video]Do you want to extract the audio to a new track?"
+msgstr "是否将音频提取到新音轨中?"
+
+#: .\project\document\projectcomponent.cpp .\show\document\showcomponent.cpp
+#: .\song\songcontroller.cpp
+msgid "[Command]Document Setup"
+msgstr " 文件设置"
+
+#: .\song\songvideohandler.cpp
+msgid "[Video]Double Size"
+msgstr "两倍大小"
+
+#: .\show\document\performancecomponent.cpp
+msgid "[Command]Down"
+msgstr "向下"
+
+#: .\song\songcontroller.cpp
+msgid "[Command]Duplicate"
+msgstr "创建副本"
+
+#: .\song\songcontroller.cpp
+msgid "[Command]Duplicate (complete)"
+msgstr "创建副本（完整）"
+
+#: .\show\editing\showplayerlistcomponent.cpp
+msgid "[Command]Duplicate Player"
+msgstr " 复制播放器"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Duplicate Player"
+msgstr " 复制播放器"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Duplicate Setlist Item"
+msgstr " 复制曲目项"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Duplicate Setlist Item"
+msgstr " 复制曲目项"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]EAN/UPC"
+msgstr "EAN/UPC"
+
+#: .\score\scoreeditor.cpp
+msgid "[Command]Edit"
+msgstr "编辑"
+
+#: .\project\document\projectpoolbrowser.cpp
+msgid "[Project]Edit Song"
+msgstr "编辑乐曲"
+
+#: .\project\editing\projecttrackcomponent.cpp
+msgid "[ProjectTrack]Edit Song"
+msgstr "编辑乐曲"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Enable Setlist Item"
+msgstr " 启用曲目项"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Enable Setlist Item"
+msgstr " 启用曲目项"
+
+#: .\project\document\projectcomponent.cpp
+msgid "[Command]Enable Track"
+msgstr "启用音轨"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Enable Track"
+msgstr "启用音轨"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Enable Tracks"
+msgstr "启用音轨"
+
+#: .\project\publish\burnerdialog.cpp
+msgid "[BurnerDialog]Erasing failed."
+msgstr "擦除失败。"
+
+#: .\song\songcontroller.cpp
+msgid "[Command]Export Mixdown"
+msgstr "导出混音"
+
+#: .\song\songcontroller.cpp
+msgid "[Command]Export Stems"
+msgstr "导出Stem"
+
+#: .\song\songvideohandler.cpp
+msgid "[Command]Export Video"
+msgstr "导出视频"
+
+#: .\song\songrenderer.cpp
+msgid "[SongRenderer]Exporting..."
+msgstr "正在导出..."
+
+#: .\song\stemrenderer.cpp
+msgid "[StemRenderer]Exporting:"
+msgstr "正在导出:"
+
+#: .\song\songvideohandler.cpp
+msgid "[Command]Extract Audio"
+msgstr "提取音频"
+
+#: .\song\songvideohandler.cpp
+msgid "[Video]Extracted Audio Track"
+msgstr "已提取音频轨道"
+
+#: .\song\songrenderer.cpp
+msgid "[SongRenderer]Failed to export audio file."
+msgstr "音频文件导出失败。"
+
+#: .\song\stemrenderer.cpp
+msgid "[StemRenderer]Failed to export audio file."
+msgstr "音频文件导出失败。"
+
+#: .\song\songvideorenderer.cpp
+msgid "[Video]Failed to write video."
+msgstr "写入视频失败。"
+
+#: .\project\document\projectcomponent.cpp .\show\document\showcomponent.cpp
+#: .\song\songcontroller.cpp
+msgid "[Command]File"
+msgstr "文件"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Command]First Track"
+msgstr "首音轨"
+
+#: .\project\publish\audiofilepublisher.cpp
+msgid "[AudioFilePublisher]Generating audio files (%(1) of %(2))"
+msgstr "正在生成音频文件 (%(1)/%(2))"
+
+#: .\project\publish\imagemaker.cpp
+msgid "[ImageMaker]Generating image file..."
+msgstr "正在生成映像文件..."
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Generator"
+msgstr "生成器"
+
+#: .\song\songmarker.cpp
+msgid "[Command]Goto Next Marker"
+msgstr "跳转到下一个标记"
+
+#: .\song\songmarker.cpp
+msgid "[Command]Goto Previous Marker"
+msgstr "跳转到上一个标记"
+
+#: .\song\songvideohandler.cpp
+msgid "[Video]Half Size"
+msgstr "一半大小"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]ISRC"
+msgstr "ISRC"
+
+#: .\project\publish\ddpdocumenthandler.cpp
+msgid "[DDP]Import DDP"
+msgstr "导入DDP"
+
+#: .\project\document\projectcomponent.cpp .\show\document\showcomponent.cpp
+#: .\song\songcontroller.cpp
+msgid "[Command]Import File"
+msgstr "导入文件"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Import File"
+msgstr "导入文件"
+
+#: .\song\songvideohandler.cpp
+msgid "[Command]Import Video"
+msgstr "导入视频"
+
+#: .\song\poolimportextension.cpp
+msgid "[Browser]Import to Pool"
+msgstr "导入素材池"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Index"
+msgstr "索引"
+
+#: .\project\model\projectmodel.cpp
+msgid "[ProjectMarker]Index %(1)"
+msgstr "Index %(1)"
+
+#: .\project\publish\burnerdialog.cpp
+msgid "[BurnerDialog]Initializing..."
+msgstr "正在初始化..."
+
+#: .\project\editing\projecteditcomponent.cpp
+#: .\show\editing\showeditcomponent.cpp .\song\songmarker.cpp
+msgid "[Command]Insert"
+msgstr "插入"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Insert Marker"
+msgstr "插入标记"
+
+#: .\show\editing\showeditcomponent.cpp .\song\songmarker.cpp
+msgid "[Command]Insert Named"
+msgstr "插入已命名项"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[SetList]Item"
+msgstr "歌曲"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Command]Last Track"
+msgstr "最后一个音轨"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Length"
+msgstr "长度"
+
+#: .\project\editing\projectedithandler.cpp
+msgid "[ProjectEditHandler]Length: %(1)"
+msgstr "长度: %(1)"
+
+#: .\show\editing\showeditmodel.cpp
+msgid "[EventEditHandler]Length: %(1)"
+msgstr "长度: %(1)"
+
+#: .\project\editing\projectedithandler.cpp
+msgid "[ProjectEditHandler]Length: %(1)  Pause: %(2)"
+msgstr "长度： %(1)  暂停： %(2)"
+
+#: .\project\document\projectcomponent.cpp .\show\document\showcomponent.cpp
+#: .\song\songcontroller.cpp
+msgid "[Command]Locate Missing Devices"
+msgstr "查找缺失的设备"
+
+#: .\show\editing\setlistitemcomponent.cpp
+msgid "[SetListItem]Loop"
+msgstr "循环"
+
+#: .\show\editing\showeditcomponent.cpp
+msgid "[Command]Loop Setlist Item"
+msgstr " 循环曲目项"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Lyrics"
+msgstr "歌词"
+
+#: .\project\publish\ddpimagemaker.cpp
+msgid "[Command]Make DDP Image"
+msgstr "创建DDP映像"
+
+#: .\project\publish\imagemaker.cpp
+msgid "[Command]Make Image"
+msgstr "创建映像"
+
+#: .\project\editing\projecteditcomponent.cpp
+#: .\show\editing\showeditcomponent.cpp .\song\songmarker.cpp
+msgid "[Command]Marker"
+msgstr "标记"
+
+#: .\show\document\showsetup.cpp
+msgid "[ShowSetup]Meta Information"
+msgstr "元信息"
+
+#: .\song\songsetup.cpp
+msgid "[SongSetup]Meta Information"
+msgstr "元信息"
+
+#: .\application\song\mixdowntask.cpp
+msgid "[Edit]Mixdown Selection"
+msgstr "混缩选择"
+
+#: .\project\publish\projectburner.cpp
+msgid "[ProjectBurner]Mixdown Speed: %float(1:1)"
+msgstr "混音速度: %float(1:1)"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Modify Attribute"
+msgstr "修改属性"
+
+#: .\project\editing\projectedithandler.cpp
+msgid "[ProjectEditHandler]Move End Marker"
+msgstr "移动结束标记"
+
+#: .\project\editing\projectedithandler.cpp
+msgid "[ProjectEditHandler]Move End Marker only"
+msgstr "只移动结束标记"
+
+#: .\project\editing\projectedithandler.cpp
+msgid "[ProjectEditHandler]Move Event and Resize Track"
+msgstr "移动事件及调整音轨大小"
+
+#: .\project\editing\projectedithandler.cpp
+msgid "[ProjectEditHandler]Move Event and Track Start"
+msgstr "移动事件和音轨开始"
+
+#: .\project\editing\projectedithandler.cpp
+msgid "[ProjectEditHandler]Move Event only"
+msgstr "只移动事件"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Move Marker"
+msgstr "移动标记"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Move Marker"
+msgstr "移动标记"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Move Player"
+msgstr " 移动播放器"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Move Setlist Item"
+msgstr " 移动曲目项"
+
+#: .\project\editing\projectedithandler.cpp
+msgid "[ProjectEditHandler]Move Start Marker"
+msgstr "移动开始标记"
+
+#: .\project\editing\projectedithandler.cpp
+msgid "[ProjectEditHandler]Move Start Marker only"
+msgstr "只移动开始标记"
+
+#: .\project\editing\projectedithandler.cpp
+msgid "[ProjectEditHandler]Move Start and End Marker"
+msgstr "移动开始和结束标记"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ActionDescriptions]Move Track"
+msgstr "移动音轨"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Mute"
+msgstr " 静音"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Mute"
+msgstr " 静音"
+
+#: .\project\editing\projecteditcomponent.cpp
+#: .\show\document\performancecomponent.cpp
+#: .\show\editing\showeditcomponent.cpp
+msgid "[Command]Navigation"
+msgstr "导航"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Next Patch"
+msgstr " 下一个补丁"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Next Player"
+msgstr "下一个玩家"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Next Setlist Item"
+msgstr " 下一个曲目项"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Command]Next Track"
+msgstr "下一个轨道"
+
+#: .\song\songmaster.cpp
+msgid "[SongMaster]No"
+msgstr "不"
+
+#: .\project\publish\burnerdialog.cpp
+msgid "[BurnerDialog]No Device"
+msgstr "无设备"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]None"
+msgstr "无"
+
+#: .\project\editing\projectedittasks.cpp
+msgid "[AudioEdit]Normalize Audio"
+msgstr "音频标准化"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Not all tracks could be added to the audio disc, because an audio disc can only be 80 minutes long."
+msgstr "并非所有音轨都可添加至音频光碟，因为一张音频光碟最多只有80分钟。"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Not all tracks could be added to the audio disc, because an audio disc can only contain up to 99 tracks."
+msgstr "并非所有音轨都可添加至音频光碟，因为一张音频光碟最多只可以容纳99个音轨。"
+
+#: .\song\stemrenderer.cpp
+msgid "[StemRenderer]Nothing to export. Please select one or more tracks and set Loop or Markers."
+msgstr "无可导出的内容。请选择一条或多条音轨并设置循环或标记。"
+
+#: .\song\songrenderer.cpp
+msgid "[SongRenderer]Nothing to export. Please set Loop or Markers first."
+msgstr "无可导出的内容。请先设置循环或标记。"
+
+#: .\show\editing\globaltracklistcomponent.cpp
+msgid "[Command]Open Arranger Track"
+msgstr "打开编曲轨道"
+
+#: .\show\editing\globaltracklistcomponent.cpp
+msgid "[Command]Open Chord Track"
+msgstr "打开和弦轨道"
+
+#: .\show\editing\globaltracklistcomponent.cpp .\song\songmarker.cpp
+msgid "[Command]Open Marker Track"
+msgstr "打开标记轨道"
+
+#: .\show\editing\globaltracklistcomponent.cpp
+msgid "[Command]Open Tempo Track"
+msgstr "打开节奏轨道"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Opening the CD Burning Engine failed."
+msgstr "打开CD刻录引擎失败"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Paint Tool"
+msgstr "描绘工具"
+
+#: .\song\songcontroller.cpp
+msgid "[Command]Paste"
+msgstr "粘贴"
+
+#: .\show\editing\setlistiteminspector.cpp
+#: .\show\editing\showplayerinspector.cpp
+msgid "[PatchList]Patch"
+msgstr " 修补"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Patch"
+msgstr " 修补"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Pause"
+msgstr "暂停"
+
+#: .\show\document\performancecomponent.cpp
+msgid "[Command]Perform"
+msgstr " 表演"
+
+#: .\show\editing\setlistiteminspector.cpp
+msgid "[PatchList]Player"
+msgstr " 播放器"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Player"
+msgstr " 播放器"
+
+#: .\show\editing\showdraghandler.cpp
+msgid "[ShowDragHandler]Player \"%(1)\""
+msgstr " 播放器 \"%(1)\""
+
+#: .\project\document\songupdater.cpp
+msgid "[SongUpdater]Please ensure that no files or devices are missing!"
+msgstr "请确保没有缺失设备和文件!"
+
+#: .\project\publish\burnerdialog.cpp
+msgid "[BurnerDialog]Please erase the CD or insert a blank one"
+msgstr "请擦除CD内容或插入空白CD。"
+
+#: .\project\publish\burnerdialog.cpp
+msgid "[BurnerDialog]Please insert a blank CD"
+msgstr "请插入空白CD"
+
+#: .\project\document\projectdocument.cpp
+msgid "[Project]Pool"
+msgstr "素材池"
+
+#: .\show\document\showdocument.cpp
+msgid "[Show]Pool"
+msgstr "素材池"
+
+#: .\song\songdocument.cpp
+msgid "[Engine]Pool"
+msgstr "素材池"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Preparing..."
+msgstr "正在准备..."
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Previous Patch"
+msgstr " 前一个补丁"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Previous Player"
+msgstr "上一个玩家"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Previous Setlist Item"
+msgstr " 前一个曲目项"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Command]Previous Track"
+msgstr "上一个轨道"
+
+#: .\project\document\projectcomponent.cpp
+#: .\project\editing\projecteditcomponent.cpp
+#: .\project\publish\audiofilepublisher.cpp
+#: .\project\publish\ddpimagemaker.cpp .\project\publish\imagemaker.cpp
+#: .\project\publish\projectburner.cpp
+msgid "[Command]Project"
+msgstr "项目"
+
+#: .\project\document\projectdocument.cpp
+msgid "[Project]Project"
+msgstr "项目"
+
+#: .\project\editing\projectedittasks.cpp
+msgid "[ProjectEdit]Project"
+msgstr "项目"
+
+#: .\project\document\projectcomponent.cpp
+msgid "[Project]Project Setup"
+msgstr "项目设置"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Real Instrument"
+msgstr " 真正乐器"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Remove Backing Track"
+msgstr " 移除伴奏"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Remove Marker"
+msgstr "移除标记"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Remove Marker"
+msgstr "移除标记"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Remove Patch"
+msgstr " 移除补丁"
+
+#: .\show\editing\showplayerlistcomponent.cpp
+msgid "[Command]Remove Player"
+msgstr " 移除播放器"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Remove Player"
+msgstr " 移除播放器"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Remove Setlist Item"
+msgstr " 移除曲目项"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Remove Setlist Item"
+msgstr " 移除曲目项"
+
+#: .\project\document\projectcomponent.cpp .\song\songcontroller.cpp
+msgid "[Command]Remove Track"
+msgstr "移除音轨"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Remove Track"
+msgstr "移除音轨"
+
+#: .\song\songvideohandler.cpp
+msgid "[Command]Remove Video"
+msgstr "移除视频"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Rename Patch"
+msgstr " 重新命名补丁"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Rename Patch"
+msgstr " 重新命名补丁"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Rename Patch \"%(1)\"..."
+msgstr " 重新命名补丁 \"%(1)\"……"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Rename Player"
+msgstr " 重新命名播放器"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Rename Track"
+msgstr "重命名音轨"
+
+#: .\song\clickrenderer.cpp
+msgid "[ClickRenderer]Render Click"
+msgstr "渲染节拍"
+
+#: .\song\songcontroller.cpp
+msgid "[Command]Render Click"
+msgstr "渲染节拍"
+
+#: .\song\songvideorenderer.cpp
+msgid "[Video]Rendering Audio..."
+msgstr "正在渲染音频…"
+
+#: .\song\clickrenderer.cpp
+msgid "[ClickRenderer]Rendering Click"
+msgstr "正在渲染节拍"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Replace File"
+msgstr "替换文件"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Reset Default Patch"
+msgstr " 重设默认补丁"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Reset Default Patch"
+msgstr " 重设默认补丁"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Project]Reset Pause"
+msgstr "重置暂停"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Command]Reset Pause"
+msgstr "重置暂停"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Project]Reset Track Markers to Content"
+msgstr "根据内容重置音轨标记"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Command]Reset Track Markers to Content"
+msgstr "根据内容重置音轨标记"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Resize Track"
+msgstr "重置音轨大小"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Save Patch"
+msgstr " 保存补丁"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Save Patch"
+msgstr " 保存补丁"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Save Patch..."
+msgstr " 保存补丁……"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Select All"
+msgstr "全选"
+
+#: .\score\scoreeditor.cpp
+msgid "[Command]Select All"
+msgstr "全选"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Select All in Staff"
+msgstr " 选择乐谱中所有内容"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Select All on Tracks"
+msgstr "音轨全选"
+
+#: .\score\scoreeditor.cpp
+msgid "[Command]Select All on Tracks"
+msgstr "音轨全选"
+
+#: .\show\editing\showeditcomponent.cpp
+msgid "[ShowEditComponent]Select In Pool"
+msgstr "在素材池中选择"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Select Mute Patch"
+msgstr " 选择静音补丁"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Select Patch 1"
+msgstr " 选择补丁 1"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Select Patch 10"
+msgstr " 选择补丁 10"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Select Patch 2"
+msgstr " 选择补丁 2"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Select Patch 3"
+msgstr " 选择补丁 3"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Select Patch 4"
+msgstr " 选择补丁 4"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Select Patch 5"
+msgstr " 选择补丁 5"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Select Patch 6"
+msgstr " 选择补丁 6"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Select Patch 7"
+msgstr " 选择补丁 7"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Select Patch 8"
+msgstr " 选择补丁 8"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Select Patch 9"
+msgstr " 选择补丁 9"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Select Player 1"
+msgstr "选择玩家1"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Select Player 10"
+msgstr "选择玩家10"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Select Player 2"
+msgstr "选择玩家2"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Select Player 3"
+msgstr "选择玩家 3"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Select Player 4"
+msgstr "选择玩家4"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Select Player 5"
+msgstr "选择玩家 5"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Select Player 6"
+msgstr "选择玩家 6"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Select Player 7"
+msgstr "选择玩家 7"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Select Player 8"
+msgstr "选择玩家 8"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Select Player 9"
+msgstr "选择玩家 9"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Select Setlist Item 1"
+msgstr " 选择曲目项 1"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Select Setlist Item 10"
+msgstr " 选择曲目项 10"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Select Setlist Item 2"
+msgstr " 选择曲目项 2"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Select Setlist Item 3"
+msgstr " 选择曲目项 3"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Select Setlist Item 4"
+msgstr " 选择曲目项 4"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Select Setlist Item 5"
+msgstr " 选择曲目项 5"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Select Setlist Item 6"
+msgstr " 选择曲目项 6"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Select Setlist Item 7"
+msgstr " 选择曲目项 7"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Select Setlist Item 8"
+msgstr " 选择曲目项 8"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Select Setlist Item 9"
+msgstr " 选择曲目项 9"
+
+#: .\show\editing\showeditcomponent.cpp
+msgid "[Command]Select in Pool"
+msgstr "在素材池中选择"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Set \"%(1)\" as Default Patch"
+msgstr " 将 \"%(1)\" 设置为默认补丁"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Set Current as Default Patch"
+msgstr " 将当前设置设为默认补丁"
+
+#: .\song\songmarker.cpp
+msgid "[Marker]Set Markers"
+msgstr "设置标记"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Set Meta Info"
+msgstr " 设置元信息"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Set Playback Mode Continue"
+msgstr " 将播放模式设置为继续"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Set Playback Mode Loop"
+msgstr " 将播放模式设置为循环"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Set Playback Mode Stop at End"
+msgstr " 将播放模式设置为播放最后一首后结束"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Set Player"
+msgstr " 设置播放器"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Set Setlist Item Duration"
+msgstr " 设置曲目项时长"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Set Setlist Item Key Signature"
+msgstr " 设置曲目项调号"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Set Setlist Item Pause"
+msgstr " 设置曲目项停顿"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Set Setlist Item Playback Mode"
+msgstr " 设置曲目项播放模式"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Set Setlist Item Tempo"
+msgstr " 设置曲目项节奏"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Set Setlist Item Time Signature"
+msgstr " 设置曲目项拍号"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Set Setlist Item Title"
+msgstr " 设置曲目项标题"
+
+#: .\song\songmarker.cpp
+msgid "[Command]Set Start and End to Selection"
+msgstr "根据所选设置开始和结束"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Set Track Pause"
+msgstr "设置音轨暂停"
+
+#: .\song\songvideohandler.cpp
+msgid "[Command]Set Video Offset"
+msgstr "设置视频偏移"
+
+#: .\show\document\performancecomponent.cpp .\show\document\showcomponent.cpp
+#: .\show\editing\setlistcomponent.cpp .\show\editing\showeditcomponent.cpp
+#: .\show\editing\showeditmodel.cpp .\show\editing\showplayerinspector.cpp
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Show"
+msgstr "显示"
+
+#: .\show\document\showdocument.cpp
+msgid "[Show]Show"
+msgstr "显示"
+
+#: .\show\document\showcomponent.cpp
+msgid "[Show]Show Setup"
+msgstr " 显示设置"
+
+#: .\song\songcontroller.cpp
+msgid "[Command]Show in Explorer/Finder"
+msgstr "在资源管理器/Finder中显示"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Solo"
+msgstr "独奏"
+
+#: .\song\songcontroller.cpp .\song\songmaster.cpp
+msgid "[Command]Song"
+msgstr "乐曲"
+
+#: .\song\songdocument.cpp
+msgid "[Engine]Song"
+msgstr "乐曲"
+
+#: .\song\songcontroller.cpp
+msgid "[Song]Song Setup"
+msgstr "乐曲设置"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Project]Split Event at Cursor"
+msgstr "在光标处拆分事件"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Split Track"
+msgstr "拆分音轨"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Project]Split Track and Event at Cursor"
+msgstr "在光标处拆分音轨和事件"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Command]Split Track and Event at Cursor"
+msgstr "在光标处拆分音轨和事件"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Project]Split Track at Cursor"
+msgstr "在光标处拆分音轨"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Command]Split Track at Cursor"
+msgstr "在光标处拆分音轨"
+
+#: .\project\publish\projectburner.cpp
+msgid "[ProjectBurner]Start to burn audio disc at %(1) times"
+msgstr "开始%(1)倍速刻录音频光碟"
+
+#: .\project\publish\ddpimagemaker.cpp
+msgid "[DDPImageMaker]Start to write DDP image at %(1) times"
+msgstr "开始%(1)倍速写入DDP映像"
+
+#: .\show\editing\showeditmodel.cpp
+msgid "[EventEditHandler]Start: %(1) (%(2))\nPause: %(3)"
+msgstr " 开始：%(1) (%(2)) \n暂停：%(3)"
+
+#: .\show\editing\setlistitemcomponent.cpp
+msgid "[SetListItem]Stop at End"
+msgstr " 播放最后一首后结束"
+
+#: .\song\songdocument.cpp
+msgid "[Engine]THIS SONG CONTAINS COPYRIGHTED MATERIAL. YOU MUST NOT USE ANY MATERIAL WITHOUT THE AUTHORS AGREEMENT."
+msgstr "此乐曲包含版权素材，未经作者许可，不得使用这些素材!"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Project]The EAN code is not formatted correctly.\n\nIt should be 13 characters long and should only contain numeric characters.\n\nExample: 036000291452\n\nIf you have a UPC, you just need to add 0 at the beginning to form a valid EAN code."
+msgstr "EAN码格式不正确。\n\n应为13个字符并只包含数字。\n\n例如: 036000291452\n\n如果你有一个UPC码，则只需在前面增加一个0即可得到有效的EAN码。"
+
+#: .\project\editing\projecttrackcomponent.cpp
+msgid "[ProjectTrack]The ISRC code is not formatted correctly.\n\nIt should be 12 characters long and should only contain alphanumeric characters.\n\nExample: USPR37300012"
+msgstr "ISRC编码格式不正确。\n\n应为12个字符且仅包含字母和数字。\n\n例如: USPR37300012"
+
+#: .\song\songvideorenderer.cpp
+msgid "[Video]The audio codec does not support the current sample rate. The rate will be converted to %(1) kHz."
+msgstr "音频编解码器不支持当前的采样速率。采样率须转换至 %(1) kHz。"
+
+#: .\project\publish\burnerdialog.cpp
+msgid "[BurnerDialog]The device could not be opened"
+msgstr "无法打开设备"
+
+#: .\song\publisherselector.cpp
+msgid "[Engine]The file format will be reset to \"%(1)\"."
+msgstr "此文件格式将被设置为 \"%(1)\"。"
+
+#: .\project\document\songupdater.cpp
+msgid "[SongUpdater]The following files failed to update:"
+msgstr "以下文件更新失败: "
+
+#: .\song\songrenderer.cpp
+msgid "[SongRenderer]The following issues occurred during export:"
+msgstr " 导出期间出现下列问题："
+
+#: .\song\songmaster.cpp
+msgid "[SongMaster]The mastering file of this song is up-to-date."
+msgstr "此乐曲的母带文件为最新。"
+
+#: .\project\document\songupdater.cpp
+msgid "[SongUpdater]The mastering files are up-to-date."
+msgstr "母带文件为最新。"
+
+#: .\song\songmaster.cpp
+msgid "[SongMaster]The song will be saved first.\n"
+msgstr "将先保存乐曲。\n"
+
+#: .\project\publish\imagemaker.cpp
+msgid "[ImageMaker]There was an error during the image creation!"
+msgstr "创建映像期间出现错误!"
+
+#: .\project\publish\projectpublisher.cpp
+msgid "[ProjectPublisher]This project does not contain any enabled tracks."
+msgstr "项目未包含任何已启用的音轨。"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Title"
+msgstr "标题"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Toggle Playback Mode Loop / Continue"
+msgstr " 切换播放模式 循环/继续"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Toggle Playback Mode Loop / Stop at End"
+msgstr " 切换播放模式 循环/曲终结束"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Total Playing Time"
+msgstr "总播放时间"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+#: .\song\songcontroller.cpp
+msgid "[Command]Track"
+msgstr "音轨"
+
+#: .\song\songbrowsable.cpp
+msgid "[SongBrowser]Track"
+msgstr "音轨"
+
+#: .\project\model\projectmodel.cpp
+msgid "[ProjectMarker]Track %(1)"
+msgstr "音轨 %(1)"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Track %(1)"
+msgstr "音轨 %(1)"
+
+#: .\project\document\projectdocumentinfo.cpp
+msgid "[ProjectInfo]Tracks"
+msgstr "音轨"
+
+#: .\project\publish\projectpublisher.cpp
+msgid "[ProjectPublisher]Tracks"
+msgstr "音轨"
+
+#: .\song\songdocumentinfo.cpp
+msgid "[SongInfo]Tracks"
+msgstr "音轨"
+
+#: .\song\stemrenderer.cpp
+msgid "[StemRenderer]Tracks"
+msgstr "音轨"
+
+#: .\show\document\performancecomponent.cpp
+msgid "[Command]Up"
+msgstr "向上"
+
+#: .\project\document\projectpoolbrowser.cpp
+msgid "[Project]Update Mastering File"
+msgstr "更新母带文件"
+
+#: .\project\editing\projecttrackcomponent.cpp
+msgid "[ProjectTrack]Update Mastering File"
+msgstr "更新母带文件"
+
+#: .\song\songmaster.cpp
+msgid "[Command]Update Mastering File"
+msgstr "更新母带文件"
+
+#: .\project\document\projectcomponent.cpp
+msgid "[Command]Update Mastering Files"
+msgstr "更新母带文件"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Update Patch"
+msgstr " 更新补丁"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Update Patch"
+msgstr " 更新补丁"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Update Patch"
+msgstr " 更新补丁"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Update Patch \"%(1)\""
+msgstr " 更新补丁 \"%(1)\""
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Update Title"
+msgstr "更新标题"
+
+#: .\song\songmaster.cpp
+msgid "[SongMaster]Update the mastering file of this song:\n%(6)\nOutput: %(1)\nDuration: %(3)\nResolution: %(4)\nRealtime Processing: %(5)\nInclude Master Effects: %(7)\nFilename: %(2)"
+msgstr "更新此歌曲的母带文件:\n%(6)\n输出: %(1)\n时长: %(3)\n分辨率: %(4)\n实时进度: %(5)\n包含主效果: %(7)\n文件名: %(2)"
+
+#: .\project\document\songupdater.cpp
+msgid "[SongUpdater]Update was canceled."
+msgstr "更新已取消。"
+
+#: .\project\document\songupdater.cpp
+msgid "[SongUpdater]Updated %(1) of %(2) mastering files in %(3)."
+msgstr "已更新%(3)中的母带文件(%(1)/%(2))。"
+
+#: .\song\songvideorenderer.cpp
+msgid "[Video]Using different codecs might affect the export speed."
+msgstr "使用不同编码器或会影响输出速度。"
+
+#: .\song\songvideohandler.cpp
+msgid "[Command]Video"
+msgstr "视频"
+
+#: .\song\songvideohandler.cpp
+msgid "[Command]Video Size Default"
+msgstr "视频默认大小"
+
+#: .\song\songvideohandler.cpp
+msgid "[Command]Video Size Double"
+msgstr "视频双倍大小"
+
+#: .\song\songvideohandler.cpp
+msgid "[Command]Video Size Half"
+msgstr "视频一半大小"
+
+#: .\show\editing\globaltracklistcomponent.cpp .\song\songmarker.cpp
+msgid "[Command]View"
+msgstr "查看"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Virtual Instrument"
+msgstr " 虚拟乐器"
+
+#: .\song\songvideorenderer.cpp
+msgid "[Video]Writing Video File..."
+msgstr "正在写入视频文件..."
+
+#: .\song\songmaster.cpp
+msgid "[SongMaster]Yes"
+msgstr "是的"
+
+#: .\show\editing\showplayerlistcomponent.cpp
+msgid "[Command]Zoom"
+msgstr "缩放"
+
+#: .\show\editing\showdraghandler.cpp
+msgid "[ShowDragHandler]new Player"
+msgstr " 新播放器"
+
+#~ msgid "[Marker]Insert Marker"
+#~ msgstr "插入标记"
+
+#~ msgid "[Marker]Marker %(1)"
+#~ msgstr "标记 %(1)"
+
+#~ msgid "[Marker]Name"
+#~ msgstr "名称"
+
+#~ msgid "[Command]Project Setup"
+#~ msgstr "项目设置"
+
+#~ msgid "[Command]Recall Marker"
+#~ msgstr "调出标记"
+
+#~ msgid "[Command]Recall Marker 1"
+#~ msgstr "调出标记 1"
+
+#~ msgid "[Command]Recall Marker 10"
+#~ msgstr "调出标记 10"
+
+#~ msgid "[Command]Recall Marker 11"
+#~ msgstr "调出标记 11"
+
+#~ msgid "[Command]Recall Marker 12"
+#~ msgstr "调出标记 12"
+
+#~ msgid "[Command]Recall Marker 13"
+#~ msgstr "调出标记 13"
+
+#~ msgid "[Command]Recall Marker 14"
+#~ msgstr "调出标记 14"
+
+#~ msgid "[Command]Recall Marker 15"
+#~ msgstr "调出标记r 15"
+
+#~ msgid "[Command]Recall Marker 16"
+#~ msgstr "调出标记 16"
+
+#~ msgid "[Command]Recall Marker 17"
+#~ msgstr "调出标记 17"
+
+#~ msgid "[Command]Recall Marker 18"
+#~ msgstr "调出标记 18"
+
+#~ msgid "[Command]Recall Marker 19"
+#~ msgstr "调出标记 19"
+
+#~ msgid "[Command]Recall Marker 2"
+#~ msgstr "调出标记 2"
+
+#~ msgid "[Command]Recall Marker 20"
+#~ msgstr "调出标记 20"
+
+#~ msgid "[Command]Recall Marker 3"
+#~ msgstr "调出标记 3"
+
+#~ msgid "[Command]Recall Marker 4"
+#~ msgstr "调出标记 4"
+
+#~ msgid "[Command]Recall Marker 5"
+#~ msgstr "调出标记 5"
+
+#~ msgid "[Command]Recall Marker 6"
+#~ msgstr "调出标记 6"
+
+#~ msgid "[Command]Recall Marker 7"
+#~ msgstr "调出标记 7"
+
+#~ msgid "[Command]Recall Marker 8"
+#~ msgstr "调出标记 8"
+
+#~ msgid "[Command]Recall Marker 9"
+#~ msgstr "调出标记 9"
+
+#~ msgid "[Command]Song Setup"
+#~ msgstr "乐曲设置"
+
+#~ msgid "[SongRenderer]The following problems occured during export:"
+#~ msgstr "导出时遇到以下问题:"
+
+#~ msgid "[Command]Combine Tracks"
+#~ msgstr "组合音轨"
+
+#~ msgid "[Command]Split Track"
+#~ msgstr "拆分音轨"
+
+#~ msgid "[Command]Split Track and Event"
+#~ msgstr "拆分音轨和事件"
+
+#~ msgid "[Edit]Split at Cursor"
+#~ msgstr "在指针处分割"
+
+#~ msgid "[Project]Reset Marker"
+#~ msgstr "重设标记"
+

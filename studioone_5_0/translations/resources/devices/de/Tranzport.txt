@@ -1,0 +1,1 @@
+﻿Shift Wheel ändert Kanallautstärke. In / Out zoomt(Shift für vertikal). Shift Record speichert Song. Shift Mute ist Golbal Mute. Shift Solo ist Global Solo. Shift Add löscht Marker.

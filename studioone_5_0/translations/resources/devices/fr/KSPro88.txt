@@ -1,0 +1,1 @@
+Veuillez sélectionner le preset d'usine 10 sur le Keystation. Les faders C1-C8, les boutons B11-B17 et les touches C52-C59 sont affectés à la console. Le fader 9 est le volume Master. La touche C60 commute le clic on/off.

@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: S1\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fisch <thierryfisch@orange.fr>\n"
+"Language-Team: PreSonus Software <info@presonussoftware.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+
+#: .\gear\gearburner.cpp
+msgid "[CDBurner]Burning Aborted by User"
+msgstr "Gravure interrompue par l'utilisateur"
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Busy"
+msgstr "Occupé"
+
+#: .\plugversion.h
+msgid "[CDBurner]CD Burning Support"
+msgstr "Support de gravure CD"
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Checking Device"
+msgstr "Vérification du périphérique"
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Closing..."
+msgstr "Fermeture..."
+
+#: .\mac\imagewriter.cpp
+msgid ""
+"[DDPImageMaker]Do you want to create a DDP image?\n"
+"\n"
+"Image: %(1)\n"
+"DDPID File: %(2)\n"
+"Location: %(3)"
+msgstr ""
+"[DDPImageMaker]Voulez-vous créer une image DDP?\n"
+"\n"
+"Image: %(1)\n"
+"Fichier DDPID: %(2)\n"
+"Emplacement: %(3)"
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Erasing"
+msgstr "Effacement"
+
+#: .\gear\geareraser.cpp
+msgid "[CDBurner]Erasing Aborted by User"
+msgstr "Effacement interrompu par l'utilisateur"
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Erasing..."
+msgstr "Effacement..."
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Finalizing"
+msgstr "Finalisation"
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Finishing..."
+msgstr "Finalisation..."
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Formating"
+msgstr "Formatage"
+
+#: .\mac\imagewriter.cpp
+msgid "[DDPImageMaker]Generating DDP image files..."
+msgstr "Production de fichiers images DDP..."
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Idle"
+msgstr "À l'arrêt"
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Illegal"
+msgstr "Illégal"
+
+#: .\base\mediainfo.cpp
+msgid "[CDBurner]Media is not readable"
+msgstr "Support illisible"
+
+#: .\base\mediainfo.cpp
+msgid "[CDBurner]No media in disc drive"
+msgstr "Pas de support dans le lecteur"
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Physicalizing"
+msgstr "Matérialisation"
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Preparing track"
+msgstr "Préparation de la piste"
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Preparing..."
+msgstr "Préparation..."
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Reading"
+msgstr "Lecture"
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Reading Disc Info"
+msgstr "Lecture des infos du disque"
+
+#: .\cdburnmain.cpp
+msgid "[CDBurner]Support for Audio CD Burning"
+msgstr "Prise en charge de la gravure de CD audio"
+
+#: .\mac\imagewriter.cpp
+msgid "[DDPImageMaker]There was an error during the DDP image creation!"
+msgstr "Une erreur est survenue pendant la création de l'image DDP!"
+
+#: .\base\mediainfo.cpp
+msgid "[CDBurner]Unknown media"
+msgstr "Support inconnu"
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Verifying"
+msgstr "Vérification"
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Verifying..."
+msgstr "Vérification..."
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Write Speed"
+msgstr "Vitesse de gravure"
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Writing"
+msgstr "Gravure"
+
+#: .\gear\gearimagewriter.cpp
+msgid "[GearDevice]Writing "
+msgstr "Écriture"
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Writing track"
+msgstr "Gravure de la piste"

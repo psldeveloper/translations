@@ -1,0 +1,1 @@
+Studio Oneで使用する前にFaderPortをネイティブモードに切り替えてください。

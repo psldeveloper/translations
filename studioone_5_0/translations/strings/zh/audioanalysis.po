@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: smartCAT.ai\n"
+
+#: .\silencedetectioncomponent.cpp
+msgid "[SilenceDetection]Little Silence"
+msgstr "少量静音"
+
+#: .\silencedetectioncomponent.cpp
+msgid "[SilenceDetection]Lots of Silence"
+msgstr "大量静音"
+
+#: .\silencedetectioncomponent.cpp
+msgid "[SilenceDetection]Manual"
+msgstr "手动"
+
+#: .\silencedetectioncomponent.cpp
+msgid "[SilenceDetection]Noise Floor"
+msgstr "噪声基底"
+
+#: .\transientdetectioncomponent.cpp
+msgid "[TransientDetection]Sensitive"
+msgstr "灵敏"
+
+#: .\transientdetectioncomponent.cpp
+msgid "[TransientDetection]Standard"
+msgstr "标准"
+

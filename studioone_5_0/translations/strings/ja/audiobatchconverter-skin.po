@@ -1,0 +1,401 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\converter.xml
+msgid "[ProcessSlotHeader]Activate"
+msgstr "アクティベート"
+
+#: .\converter.xml
+msgid "[ProcessFXHeaderView]Activate"
+msgstr "アクティベート"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Add Files..."
+msgstr "ファイルを追加…"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Add Folder..."
+msgstr "フォルダーを追加…"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Append process info"
+msgstr "プロセス情報を追加"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Append process info to result file names"
+msgstr "プロセス情報を結果ファイル名に追加"
+
+#: .\converter.xml
+msgid "[AudioFilePreview]Apply Process Rack in playback"
+msgstr "プロセスラックを再生に適用"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]As Source"
+msgstr "ソース"
+
+#: .\converter.xml
+msgid "[AudioFilePreview]Audio Output: @value[]"
+msgstr "オーディオ出力: @value[]"
+
+#: .\format.xml
+msgid "[ExtractAutomatic]Auto"
+msgstr "自動"
+
+#: .\converter.xml
+msgid "[AudioFilePreview]Auto-advance to next file"
+msgstr "次のファイルに自動的に移動"
+
+#: .\converter.xml
+msgid "[ProcessFXHeaderView]Browse Presets"
+msgstr "プリセットをブラウズ"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Cancel"
+msgstr "キャンセル"
+
+#: .\converter.xml
+msgid "[PlugInFileInfo]Category:"
+msgstr "カテゴリ:"
+
+#: .\format.xml
+msgid "[FormatConverter]Channels"
+msgstr "チャンネル"
+
+#: .\format.xml
+msgid "[FormatBasic]Channels"
+msgstr "チャンネル"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Click here to select..."
+msgstr "ここをクリックして選択…"
+
+#: .\converter.xml
+msgid "[ProcessFXTitleBar]Close"
+msgstr "閉じる"
+
+#: .\gain.xml
+msgid "[Fade]Concave"
+msgstr "凹"
+
+#: .\gain.xml
+msgid "[Fade]Convex"
+msgstr "凸"
+
+#: .\repair.xml
+msgid "[RateRepair]Corrected Sample Rate"
+msgstr "修正済サンプルレート"
+
+#: .\converter.xml
+msgid "[PresetFileInfo]Created by:"
+msgstr "作成元:"
+
+#: .\gain.xml
+msgid "[Fade]Curve Type"
+msgstr "曲線タイプ"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Delete All"
+msgstr "すべて削除"
+
+#: .\format.xml
+msgid "[FormatConverter]Destination Bit Resolution"
+msgstr "変換先のビット解像度"
+
+#: .\format.xml
+msgid "[FormatConverter]Destination Channel Format"
+msgstr "変換先のチャンネルフォーマット"
+
+#: .\format.xml
+msgid "[FormatBasic]Destination Channel Format"
+msgstr "変換先のチャンネルフォーマット"
+
+#: .\format.xml
+msgid "[FormatConverter]Destination File Type"
+msgstr "変換先のファイルタイプ"
+
+#: .\format.xml
+msgid "[FormatConverter]Destination Sample Rate"
+msgstr "変換先のサンプルレート"
+
+#: .\format.xml
+msgid "[FormatBasic]Destination Sample Rate"
+msgstr "変換先のサンプルレート"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Drag process or effect here"
+msgstr "プロセスまたはエフェクトをここにドラッグ"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Drag process rack preset from here"
+msgstr "プロセスラックプリセットをここからドラッグ"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Drag source files here"
+msgstr "ソースファイルをここにドラッグ"
+
+#: .\format.xml
+msgid "[FormatConverter]Enable Channel Format Conversion"
+msgstr "チャンネルフォーマット変換を有効化"
+
+#: .\format.xml
+msgid "[FormatBasic]Enable Channel Format Conversion"
+msgstr "チャンネルフォーマット変換を有効化"
+
+#: .\format.xml
+msgid "[FormatConverter]Enable File Type Conversion"
+msgstr "ファイルタイプ変換を有効化"
+
+#: .\format.xml
+msgid "[FormatConverter]Enable Rate Conversion"
+msgstr "レート変換を有効化"
+
+#: .\format.xml
+msgid "[FormatBasic]Enable Rate Conversion"
+msgstr "レート変換を有効化"
+
+#: .\format.xml
+msgid "[FormatConverter]Enable Resolution Conversion"
+msgstr "解像度変換を有効化"
+
+#: .\converter.xml
+msgid "[ProcessSlotHeader]Expand / Collapse"
+msgstr "展開/折りたたむ"
+
+#: .\gain.xml
+msgid "[Fade]Fade In"
+msgstr "フェードイン"
+
+#: .\gain.xml
+msgid "[Fade]Fade Out"
+msgstr "フェードアウト"
+
+#: .\format.xml
+msgid "[Concatenator]File Name"
+msgstr "ファイル名"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Files:"
+msgstr "ファイル: "
+
+#: .\gain.xml
+msgid "[Gain]Gain"
+msgstr "ゲイン"
+
+#: .\repair.xml
+msgid "[Declicker]Intensity"
+msgstr "強さ"
+
+#: .\repair.xml
+msgid "[Denoiser]Intensity"
+msgstr "強さ"
+
+#: .\repair.xml
+msgid "[InvertPhase]Invert Left"
+msgstr "左に反転"
+
+#: .\repair.xml
+msgid "[InvertPhase]Invert Right"
+msgstr "右に反転"
+
+#: .\format.xml
+msgid "[KeepFormat]Keep"
+msgstr "維持"
+
+#: .\format.xml
+msgid "[Extractor]Length"
+msgstr "長さ"
+
+#: .\gain.xml
+msgid "[Fade]Length"
+msgstr "長さ"
+
+#: .\gain.xml
+msgid "[Fade]Linear"
+msgstr "リニア"
+
+#: .\converter.xml
+msgid "[AudioFilePreview]Loop Active @cmd[Transport|Toggle Loop]"
+msgstr "ループ有効 @cmd[Transport|Toggle Loop]"
+
+#: .\format.xml
+msgid ""
+"[FileMerger]Merge all mono file from the list even if file names do not match"
+msgstr "ファイル名が一致しなくてもリストのすべてのモノファイルを結合"
+
+#: .\format.xml
+msgid "[FileMerger]Merge mismatching files as well"
+msgstr "一致しないファイルも結合"
+
+#: .\format.xml
+msgid "[Extractor]Mode"
+msgstr "モード"
+
+#: .\gain.xml
+msgid "[Normalize]Mode"
+msgstr "モード"
+
+#: .\converter.xml
+msgid "[PresetFileInfo]Modified:"
+msgstr "変更日:"
+
+#: .\format.xml
+msgid "[FileSplitter]Naming Format"
+msgstr "名前付け形式"
+
+#: .\converter.xml
+msgid "[Command]Next"
+msgstr "次"
+
+#: .\converter.xml
+msgid "[ProcessFXHeaderView]Next Preset @cmd[]"
+msgstr "次のプリセット @cmd[]"
+
+#: .\converter.xml
+msgid "[ProcessSlotHeader]Open Editor"
+msgstr "エディターを開く"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Output Format"
+msgstr "出力フォーマット"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Output Location"
+msgstr "出力先"
+
+#: .\repair.xml
+msgid "[Declicker]Output clicks only"
+msgstr "クリックのみ出力"
+
+#: .\converter.xml
+msgid "[PresetFileInfo]Plug-In:"
+msgstr "プラグイン:"
+
+#: .\converter.xml
+msgid "[Command]Presets"
+msgstr "プリセット"
+
+#: .\converter.xml
+msgid "[Command]Previous"
+msgstr "前"
+
+#: .\converter.xml
+msgid "[ProcessFXHeaderView]Previous Preset @cmd[]"
+msgstr "前のプリセット @cmd[]"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Process"
+msgstr "プロセス"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Process Rack"
+msgstr "プロセスラック"
+
+#: .\converter.xml
+msgid "[ProcessProgress]Progress:"
+msgstr "進行状況: "
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Remove All"
+msgstr "すべてを削除"
+
+#: .\repair.xml
+msgid "[Denoiser]Remove Hiss"
+msgstr "ヒスを削除"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Remove Selected"
+msgstr "選択対象を削除"
+
+#: .\format.xml
+msgid "[FormatConverter]Resolution"
+msgstr "解像度"
+
+#: .\format.xml
+msgid "[FormatConverter]Sample Rate"
+msgstr "サンプルレート"
+
+#: .\format.xml
+msgid "[FormatBasic]Sample Rate"
+msgstr "サンプルレート"
+
+#: .\converter.xml
+msgid "[BrowseNavigator]Search @cmd.title[]"
+msgstr "@cmd.title[] を検索"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Show Peak / RMS / R128"
+msgstr "ピーク/RMS/R128を表示"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Source Folder"
+msgstr "ソースフォルダー"
+
+#: .\format.xml
+msgid "[Concatenator]Source Folder"
+msgstr "ソースフォルダー"
+
+#: .\converter.xml
+msgid "[AudioFilePreview]Start @cmd[Transport|Start]"
+msgstr "スタート @cmd[Transport|Start]"
+
+#: .\format.xml
+msgid "[Extractor]Start Offset"
+msgstr "スタートオフセット"
+
+#: .\converter.xml
+msgid "[AudioFilePreview]Stop @cmd[Transport|Stop]"
+msgstr "停止 @cmd[Transport|Stop]"
+
+#: .\gain.xml
+msgid "[Normalize]Target Loudness"
+msgstr "対象ラウドネス"
+
+#: .\gain.xml
+msgid "[Normalize]Target Peak"
+msgstr "対象ピーク"
+
+#: .\converter.xml
+msgid "[ProcessProgress]Time Remaining:"
+msgstr "残時間:"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Transfer all files to source list"
+msgstr "すべてのファイルをソースリストに転送"
+
+#: .\format.xml
+msgid "[FormatConverter]Type"
+msgstr "タイプ"
+
+#: .\format.xml
+msgid "[Concatenator]Use source folder as file name"
+msgstr "ソースフォルダーをファイル名として使用"
+
+#: .\converter.xml
+msgid "[UsingSource]Using source location"
+msgstr "ソースロケーションを使用"
+
+#: .\converter.xml
+msgid "[PlugInFileInfo]Vendor:"
+msgstr "ベンダー:"
+
+#: .\converter.xml
+msgid "[AudioFilePreview]Volume"
+msgstr "ボリューム"
+
+#~ msgid "[SearchBar](Not searchable)"
+#~ msgstr "（検索できません）"
+
+#~ msgid "[SearchBar]Clear"
+#~ msgstr "クリア"
+
+#~ msgid "[SearchBar]Search for"
+#~ msgstr "次を検索"
+
+#~ msgid "[SearchBar]Search in"
+#~ msgstr "次から検索"
+
+#~ msgid "[BrowseNavigator]Show Thumbnails"
+#~ msgstr "サムネイルを表示"

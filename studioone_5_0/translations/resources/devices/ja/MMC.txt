@@ -1,0 +1,1 @@
+このデバイスはMIDI Machine Controlトランスポートコマンドを受信します。 

@@ -1,0 +1,404 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\converter.xml
+msgid "[ProcessSlotHeader]Activate"
+msgstr "激活"
+
+#: .\converter.xml
+msgid "[ProcessFXHeaderView]Activate"
+msgstr "激活"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Add Files..."
+msgstr "添加文件..."
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Add Folder..."
+msgstr "添加文件夹..."
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Append process info"
+msgstr "添加进程信息"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Append process info to result file names"
+msgstr "将进程信息附加到结果文件名"
+
+#: .\converter.xml
+msgid "[AudioFilePreview]Apply Process Rack in playback"
+msgstr "在回放中应用处理机架"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]As Source"
+msgstr "作为源"
+
+#: .\converter.xml
+msgid "[AudioFilePreview]Audio Output: @value[]"
+msgstr "音频输出: @value[]"
+
+#: .\format.xml
+msgid "[ExtractAutomatic]Auto"
+msgstr "自动"
+
+#: .\converter.xml
+msgid "[AudioFilePreview]Auto-advance to next file"
+msgstr "自动前进至下一个文件"
+
+#: .\converter.xml
+msgid "[ProcessFXHeaderView]Browse Presets"
+msgstr "浏览预置"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Cancel"
+msgstr "取消"
+
+#: .\converter.xml
+msgid "[PlugInFileInfo]Category:"
+msgstr "类别:"
+
+#: .\format.xml
+msgid "[FormatConverter]Channels"
+msgstr "通道"
+
+#: .\format.xml
+msgid "[FormatBasic]Channels"
+msgstr "通道"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Click here to select..."
+msgstr "点击这里进行选择..."
+
+#: .\converter.xml
+msgid "[ProcessFXTitleBar]Close"
+msgstr "关闭"
+
+#: .\gain.xml
+msgid "[Fade]Concave"
+msgstr "凹面"
+
+#: .\gain.xml
+msgid "[Fade]Convex"
+msgstr "凸面"
+
+#: .\repair.xml
+msgid "[RateRepair]Corrected Sample Rate"
+msgstr "修正采样率"
+
+#: .\converter.xml
+msgid "[PresetFileInfo]Created by:"
+msgstr "创建者:"
+
+#: .\gain.xml
+msgid "[Fade]Curve Type"
+msgstr "曲线类型"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Delete All"
+msgstr "删除全部"
+
+#: .\format.xml
+msgid "[FormatConverter]Destination Bit Resolution"
+msgstr "目标分辨率"
+
+#: .\format.xml
+msgid "[FormatConverter]Destination Channel Format"
+msgstr "目标通道格式"
+
+#: .\format.xml
+msgid "[FormatBasic]Destination Channel Format"
+msgstr "目标通道格式"
+
+#: .\format.xml
+msgid "[FormatConverter]Destination File Type"
+msgstr "目标文件类型"
+
+#: .\format.xml
+msgid "[FormatConverter]Destination Sample Rate"
+msgstr "目标采样率"
+
+#: .\format.xml
+msgid "[FormatBasic]Destination Sample Rate"
+msgstr "目标采样率"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Drag process or effect here"
+msgstr "将进程或效果拖曳至此"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Drag process rack preset from here"
+msgstr "从这里拖曳处理机架预置"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Drag source files here"
+msgstr "将源文件拖曳至此"
+
+#: .\format.xml
+msgid "[FormatConverter]Enable Channel Format Conversion"
+msgstr "启用轨道格式转换"
+
+#: .\format.xml
+msgid "[FormatBasic]Enable Channel Format Conversion"
+msgstr "启用轨道格式转换"
+
+#: .\format.xml
+msgid "[FormatConverter]Enable File Type Conversion"
+msgstr "启用文件类型转换"
+
+#: .\format.xml
+msgid "[FormatConverter]Enable Rate Conversion"
+msgstr "启用采样率转换"
+
+#: .\format.xml
+msgid "[FormatBasic]Enable Rate Conversion"
+msgstr "启用采样率转换"
+
+#: .\format.xml
+msgid "[FormatConverter]Enable Resolution Conversion"
+msgstr "启用分辨率转换"
+
+#: .\converter.xml
+msgid "[ProcessSlotHeader]Expand / Collapse"
+msgstr "展开/折叠"
+
+#: .\gain.xml
+msgid "[Fade]Fade In"
+msgstr "淡入"
+
+#: .\gain.xml
+msgid "[Fade]Fade Out"
+msgstr "淡出"
+
+#: .\format.xml
+msgid "[Concatenator]File Name"
+msgstr "文件名"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Files:"
+msgstr "文件:"
+
+#: .\gain.xml
+msgid "[Gain]Gain"
+msgstr "增益"
+
+#: .\repair.xml
+msgid "[Declicker]Intensity"
+msgstr "强度"
+
+#: .\repair.xml
+msgid "[Denoiser]Intensity"
+msgstr "强度"
+
+#: .\repair.xml
+msgid "[InvertPhase]Invert Left"
+msgstr "反转左"
+
+#: .\repair.xml
+msgid "[InvertPhase]Invert Right"
+msgstr "反转右"
+
+#: .\format.xml
+msgid "[KeepFormat]Keep"
+msgstr "保持"
+
+#: .\format.xml
+msgid "[Extractor]Length"
+msgstr "长度"
+
+#: .\gain.xml
+msgid "[Fade]Length"
+msgstr "长度"
+
+#: .\gain.xml
+msgid "[Fade]Linear"
+msgstr "线性"
+
+#: .\converter.xml
+msgid "[AudioFilePreview]Loop Active @cmd[Transport|Toggle Loop]"
+msgstr "循环活动片段@cmd[Transport|Toggle Loop]"
+
+#: .\format.xml
+msgid ""
+"[FileMerger]Merge all mono file from the list even if file names do not match"
+msgstr "合并列表中的所有单声道文件，无论文件名是否匹配"
+
+#: .\format.xml
+msgid "[FileMerger]Merge mismatching files as well"
+msgstr "也合并不匹配文件"
+
+#: .\format.xml
+msgid "[Extractor]Mode"
+msgstr "模式"
+
+#: .\gain.xml
+msgid "[Normalize]Mode"
+msgstr "模式"
+
+#: .\converter.xml
+msgid "[PresetFileInfo]Modified:"
+msgstr "修改时间:"
+
+#: .\format.xml
+msgid "[FileSplitter]Naming Format"
+msgstr "命名格式"
+
+#: .\converter.xml
+msgid "[Command]Next"
+msgstr "下一个"
+
+#: .\converter.xml
+msgid "[ProcessFXHeaderView]Next Preset @cmd[]"
+msgstr "下一个预置@cmd[]"
+
+#: .\converter.xml
+msgid "[ProcessSlotHeader]Open Editor"
+msgstr "打开编辑器"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Output Format"
+msgstr "输出格式"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Output Location"
+msgstr "输出地点"
+
+#: .\repair.xml
+msgid "[Declicker]Output clicks only"
+msgstr "只输出点击"
+
+#: .\converter.xml
+msgid "[PresetFileInfo]Plug-In:"
+msgstr "插件:"
+
+#: .\converter.xml
+msgid "[Command]Presets"
+msgstr "预置"
+
+#: .\converter.xml
+msgid "[Command]Previous"
+msgstr "上一个"
+
+#: .\converter.xml
+msgid "[ProcessFXHeaderView]Previous Preset @cmd[]"
+msgstr "上一个预置@cmd[]"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Process"
+msgstr "进程"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Process Rack"
+msgstr "处理机架"
+
+#: .\converter.xml
+msgid "[ProcessProgress]Progress:"
+msgstr "进程："
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Remove All"
+msgstr "全部移除"
+
+#: .\repair.xml
+msgid "[Denoiser]Remove Hiss"
+msgstr "移除嘶嘶声"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Remove Selected"
+msgstr "移除所选"
+
+#: .\format.xml
+msgid "[FormatConverter]Resolution"
+msgstr "分辨率"
+
+#: .\format.xml
+msgid "[FormatConverter]Sample Rate"
+msgstr "采样率"
+
+#: .\format.xml
+msgid "[FormatBasic]Sample Rate"
+msgstr "采样率"
+
+#: .\converter.xml
+msgid "[BrowseNavigator]Search @cmd.title[]"
+msgstr "搜索@cmd.title[]"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Show Peak / RMS / R128"
+msgstr "显示峰值 / RMS / R128"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Source Folder"
+msgstr "源文件夹"
+
+#: .\format.xml
+msgid "[Concatenator]Source Folder"
+msgstr "源文件夹"
+
+#: .\converter.xml
+msgid "[AudioFilePreview]Start @cmd[Transport|Start]"
+msgstr "开始@cmd[Transport|Start]"
+
+#: .\format.xml
+msgid "[Extractor]Start Offset"
+msgstr "起始偏移量"
+
+#: .\converter.xml
+msgid "[AudioFilePreview]Stop @cmd[Transport|Stop]"
+msgstr "停止@cmd[Transport|Stop]"
+
+#: .\gain.xml
+msgid "[Normalize]Target Loudness"
+msgstr "响度范围"
+
+#: .\gain.xml
+msgid "[Normalize]Target Peak"
+msgstr "目标峰值"
+
+#: .\converter.xml
+msgid "[ProcessProgress]Time Remaining:"
+msgstr "剩余时间:"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Transfer all files to source list"
+msgstr "将所有文件传输到源列表"
+
+#: .\format.xml
+msgid "[FormatConverter]Type"
+msgstr "类型"
+
+#: .\format.xml
+msgid "[Concatenator]Use source folder as file name"
+msgstr "使用源文件夹作为文件名"
+
+#: .\converter.xml
+msgid "[UsingSource]Using source location"
+msgstr "使用源位置"
+
+#: .\converter.xml
+msgid "[PlugInFileInfo]Vendor:"
+msgstr "供应商:"
+
+#: .\converter.xml
+msgid "[AudioFilePreview]Volume"
+msgstr "音量"
+
+#~ msgid "[SearchBar](Not searchable)"
+#~ msgstr "（无法搜索）"
+
+#~ msgid "[SearchBar]Clear"
+#~ msgstr "清除"
+
+#~ msgid "[SearchBar]Search for"
+#~ msgstr "搜索"
+
+#~ msgid "[SearchBar]Search in"
+#~ msgstr "在以下位置搜索:"
+
+#~ msgid "[BrowseNavigator]Show Thumbnails"
+#~ msgstr "显示缩略图"
+
+#~ msgid "[Normalize]Target Loundness"
+#~ msgstr "目标响度"

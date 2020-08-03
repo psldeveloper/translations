@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\sampler\storage\presethandler.cpp
+msgid "[Sampler]%(1) programs"
+msgstr "%(1) programmes"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler](Press 'Shift' to insert slices)"
+msgstr "(Presser 'Shift' pour insérer des tranches)"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Add Sample"
+msgstr "Ajouter un échantillon"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Add Samples"
+msgstr "Ajouter des échantillons"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Add Slices"
+msgstr "Ajouter des tranches"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Chromatic"
+msgstr "Chromatique"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[FileType]EXS24 File"
+msgstr "Fichier EXS24"
+
+#: .\sampler\gui\wavedisplay.cpp
+msgid "[WaveDisplay]File not found"
+msgstr "Fichier non trouvé"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Full Range"
+msgstr "Toute la plage"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[FileType]Giga File"
+msgstr "Fichier Giga"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[Sampler]Importing..."
+msgstr "Importation..."
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Insert Sample"
+msgstr "Insérer un échantillon"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Insert Samples"
+msgstr "Insérer des échantillons"
+
+#: .\sampler\impact\impactviews.cpp
+msgid "[DrumPadInsertHandler]Insert to next free pad"
+msgstr "Insérer dans le prochain pad libre"
+
+#: .\sampler\storage\settings.cpp
+msgid "[SamplerUserOption]Instrument Library"
+msgstr "Biblio.instruments"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[FileType]Kontakt File"
+msgstr "Fichier Kontakt"
+
+#: .\sampler\storage\bitwigcodec.cpp
+msgid "[FileType]Multisample File"
+msgstr "Fichier multiéchantillon"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[Sampler]Not supported %(1)"
+msgstr "%(1) non pris en charge"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Octave Mode"
+msgstr "Mode Octave"
+
+#: .\sampler\gui\keyswitchcomponent.cpp
+msgid "[KeySwitchList]Pitch"
+msgstr "Hauteur"
+
+#: .\sampler\storage\presethandler.cpp
+msgid "[Sampler]Preset in %(1)"
+msgstr "Preset dans %(1)"
+
+#: .\sampler\samplerutils.cpp
+msgid "[SamplerUtitlities]Render Slices"
+msgstr "Convertir les tranches"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Replace Sample"
+msgstr "Remplacer l'échantillon"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Replace Samples"
+msgstr "Remplacer les échantillons"
+
+#: .\sampler\storage\presonuscodec.cpp .\sampler\storage\soundfontcodec.cpp
+msgid "[FileType]Sampler File"
+msgstr "Fichier d'échantillonneur"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[Sampler]Searching Samples"
+msgstr "Recherche d'échantillons"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Set Root/Hi/Low Key to %(1)"
+msgstr "Régler la note tonique/haute/basse sur %(1)"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Slice"
+msgstr "Trancher"
+
+#: .\sampler\impact\impactviews.cpp
+msgid "[DrumPadInsertHandler]Slice and spread across multiple pads"
+msgstr "Découper et répartir sur plusieurs pads"
+
+#: .\sampler\samplerutils.cpp
+msgid "[SamplerUtitlities]Slice detection"
+msgstr "Détection des tranches"
+
+#: .\sampler\storage\soundfontcodec.cpp .\sampler\storage\usfcodec.cpp
+msgid "[FileType]SoundFont"
+msgstr "SoundFont"
+
+#: .\sampler\impact\impactviews.cpp
+msgid "[DrumPadInsertHandler]Spread samples across multiple pads"
+msgstr "Répartir les échantillons sur plusieurs pads"
+
+#: .\sampler\gui\keyswitchcomponent.cpp
+msgid "[KeySwitchList]Title"
+msgstr "Intitulé"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]White Keys"
+msgstr "Touches blanches"
+

@@ -1,0 +1,672 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\projectdocument.cpp
+msgid "[FileType]$APPNAME Project"
+msgstr "$APPNAME项目"
+
+#: .\showdocument.cpp
+msgid "[FileType]$APPNAME Show"
+msgstr " $APPNAME 显示"
+
+#: .\showdocument.cpp
+msgid "[FileType]$APPNAME Show Template"
+msgstr " $APPNAME 显示模板"
+
+#: .\songdocument.cpp
+msgid "[FileType]$APPNAME Song"
+msgstr "$APPNAME乐曲"
+
+#: .\songdocument.cpp
+msgid "[FileType]$APPNAME Song Template"
+msgstr "$APPNAME乐曲模板"
+
+#: .\showenvironment.cpp
+msgid "[Show]16 Buttons"
+msgstr " 16 个按钮"
+
+#: .\showenvironment.cpp
+msgid "[Show]16 Faders"
+msgstr " 16 个推子"
+
+#: .\showenvironment.cpp
+msgid "[Show]16 Knobs"
+msgstr " 16 个旋钮"
+
+#: .\showenvironment.cpp
+msgid "[Show]8 Buttons + 8 Knobs + 8 Faders"
+msgstr " 8 个按钮+ 8 个旋钮+ 8 个推子"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Add Device"
+msgstr "添加设备"
+
+#: .\documenthandler.cpp
+msgid "[StudioApp]Add to Project"
+msgstr "添加到项目中"
+
+#: .\documenthandler.cpp
+msgid "[Command]Add to Project"
+msgstr "添加到项目中"
+
+#: .\documenthandler.cpp
+msgid "[StudioApp]Add to Show"
+msgstr " 加入显示"
+
+#: .\documenthandler.cpp
+msgid "[Command]Add to Show"
+msgstr " 加入显示"
+
+#: .\appoptions.cpp
+msgid "[Options]Advanced"
+msgstr "高级"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]Application"
+msgstr "应用程序"
+
+#: .\studioapp.cpp
+msgid "[StudioApp]Artist Profile"
+msgstr "作者资料"
+
+#: .\appoptions.cpp
+msgid "[Options]Audio"
+msgstr "音频"
+
+#: .\sidebar.filetypes.cpp
+msgid "[FileType]Audio Files"
+msgstr "音频文件"
+
+#: .\appoptions.cpp
+msgid "[Options]Automation"
+msgstr "自动控制"
+
+#: .\appoptions.cpp
+msgid "[Options]Basic"
+msgstr "基本"
+
+#: .\sidebar.cpp
+msgid "[Command]Browser"
+msgstr "浏览器"
+
+#: .\showenvironment.cpp
+msgid "[Show]Button"
+msgstr " 按钮"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]CPU Cores"
+msgstr "CPU核"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]CPU Model"
+msgstr "CPU型号"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]CPU Speed"
+msgstr "CPU速度"
+
+#: .\soundsethandler.cpp
+msgid "[Tags]Character"
+msgstr "特色"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Cloud"
+msgstr "云"
+
+#: .\appoptions.cpp
+msgid "[Options]Console"
+msgstr "控制台"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Construction Kits"
+msgstr "建构组件"
+
+#: .\appoptions.cpp
+msgid "[Options]Create a New Song"
+msgstr "创建新乐曲"
+
+#: .\showdocument.cpp
+msgid "[StudioApp]Create an empty Show"
+msgstr " 创建一个空白的显示"
+
+#: .\songdocument.cpp
+msgid "[StudioApp]Create an empty song"
+msgstr "创建空白乐曲"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]Disk"
+msgstr "硬盘"
+
+#: .\appoptions.cpp
+msgid "[Options]Do Nothing"
+msgstr "无操作"
+
+#: .\projectdocument.cpp
+msgid "[StudioApp]Do you want to make the current I/O Setup the default for new Projects?"
+msgstr "是否将当前I/O设置设为新项目的默认设置?"
+
+#: .\showdocument.cpp
+msgid "[StudioApp]Do you want to make the current I/O Setup the default for new Shows?"
+msgstr " 让当前 I/O 设置成为全新表演的默认设置？"
+
+#: .\songdocument.cpp
+msgid "[StudioApp]Do you want to make the current I/O Setup the default for new Songs?"
+msgstr "是否将当前I/O设置设为新乐曲的默认设置?"
+
+#: .\documenthandler.cpp
+msgid "[Command]Document"
+msgstr "文档"
+
+#: .\studioapp.cpp
+msgid "[Installer]Documentation"
+msgstr "文档"
+
+#: .\sidebar.filetypes.cpp
+msgid "[FileType]Documents"
+msgstr "文档"
+
+#: .\appoptions.cpp
+msgid "[Command]Edit"
+msgstr "编辑"
+
+#: .\melodyneextension.cpp
+msgid "[StudioApp]Edit with Melodyne"
+msgstr "使用Melodyne编辑"
+
+#: .\revoiceextension.cpp
+msgid "[StudioApp]Edit with Revoice Pro"
+msgstr "使用Revoice Pro编辑"
+
+#: .\vocalignextension.cpp
+msgid "[StudioApp]Edit with VocALign"
+msgstr "使用VocALign编辑"
+
+#: .\appoptions.cpp
+msgid "[Options]Editing"
+msgstr "编辑"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Effects"
+msgstr "效果"
+
+#: .\showdocument.cpp
+msgid "[StudioApp]Empty Show"
+msgstr " 清空显示"
+
+#: .\songdocument.cpp
+msgid "[StudioApp]Empty Song"
+msgstr "空白乐曲"
+
+#: .\devicepresetrevealer.cpp
+msgid "[MPE]Enable MPE"
+msgstr " 启用 MPE"
+
+#: .\devicepresetrevealer.cpp
+msgid "[SystemScaling]Enable System DPI Scaling"
+msgstr "启用系统DPI缩放"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]Ethernet Adapter"
+msgstr "以太网适配器"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]External Instruments"
+msgstr " 外部乐器"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]FX Chains"
+msgstr "FX链"
+
+#: .\showenvironment.cpp
+msgid "[Show]Fader"
+msgstr "文件夹"
+
+#: .\documenthandler.cpp
+msgid "[Command]File"
+msgstr "文件"
+
+#: .\appoptions.cpp
+msgid "[Options]File Types"
+msgstr "文件类型"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Files"
+msgstr "文件"
+
+#: .\devicepresetrevealer.cpp
+msgid "[SystemScaling]For complete high-DPI compatibility the plug-in needs to be updated by the vendor."
+msgstr "为了得到完整的高DPI兼容性，插件需由供应商进行升级。"
+
+#: .\studioapp.cpp
+msgid "[Command]Help"
+msgstr "帮助"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Home"
+msgstr "主页"
+
+#: .\songdataimporter.cpp
+msgid "[SongDataImporter]Import Song Data"
+msgstr "导入歌曲数据"
+
+#: .\songdataimporter.cpp
+msgid "[Command]Import Song Data"
+msgstr "导入歌曲数据"
+
+#: .\studioapp.cpp
+msgid "[Installer]Impulse Responses"
+msgstr "脉冲响应"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Install Content"
+msgstr "安装内容"
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]Install Sound Set"
+msgstr "安装声音集"
+
+#: .\soundsethandler.cpp
+msgid "[Tags]Instrument"
+msgstr "乐器"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Instruments"
+msgstr "乐器"
+
+#: .\studioapp.cpp
+msgid "[Installer]Instruments"
+msgstr "乐器"
+
+#: .\showenvironment.cpp
+msgid "[Show]Knob"
+msgstr "旋钮"
+
+#: .\studioapp.cpp
+msgid "[Installer]Legacy and Compatibility"
+msgstr "旧版本及兼容性"
+
+#: .\studioapp.cpp
+msgid "[Installer]Loop Libraries"
+msgstr "循环库"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Loops"
+msgstr "循环"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]MAC Address"
+msgstr "MAC地址"
+
+#: .\appoptions.cpp
+msgid "[Options]MIDI"
+msgstr "MIDI"
+
+#: .\studioapp.cpp
+msgid "[StudioApp]Macros"
+msgstr "宏"
+
+#: .\projectdocument.cpp
+msgid "[StudioApp]Master"
+msgstr "主"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Mix FX"
+msgstr "Mix FX"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Multi Instruments"
+msgstr "多重乐器"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Multitrack Files"
+msgstr "多轨道文件"
+
+#: .\sidebar.filetypes.cpp
+msgid "[FileType]Musical Files"
+msgstr "音乐文件"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]New Multi Instrument"
+msgstr "新建多重乐器"
+
+#: .\documenthandler.cpp
+msgid "[Command]New Project"
+msgstr "新建项目"
+
+#: .\projectdocument.cpp
+msgid "[StudioApp]New Project"
+msgstr "新建项目"
+
+#: .\documenthandler.cpp
+msgid "[StudioApp]New Project \"%(1)\"..."
+msgstr "新建项目 \"%(1)\"..."
+
+#: .\documenthandler.cpp
+msgid "[Command]New Show"
+msgstr " 新显示页"
+
+#: .\showdocument.cpp
+msgid "[StudioApp]New Show"
+msgstr " 新显示页"
+
+#: .\documenthandler.cpp
+msgid "[StudioApp]New Show \"%(1)\"..."
+msgstr " 新显示页\"%(1)\"……"
+
+#: .\documenthandler.cpp
+msgid "[Command]New Song"
+msgstr "新建乐曲"
+
+#: .\songdocument.cpp
+msgid "[StudioApp]New Song"
+msgstr "新建乐曲"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Note FX"
+msgstr "Note FX"
+
+#: .\appoptions.cpp
+msgid "[Options]Open Default Song/Project/Show"
+msgstr " 打开默认歌曲/项目/表演"
+
+#: .\appoptions.cpp
+msgid "[Options]Open Last Song/Project/Show"
+msgstr " 打开最近歌曲/项目/表演"
+
+#: .\devicepresetrevealer.cpp
+msgid "[SystemScaling]Please note that System DPI Scaling might cause graphical glitches in third-party plug-ins that $APPNAME can't fix."
+msgstr "请注意，系统DPI缩放比例或会引起 $APPNAME 无法修复的第三方图形化问题。"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Pool"
+msgstr "素材池"
+
+#: .\soundsethandler.cpp
+msgid "[Tags]Product"
+msgstr "产品"
+
+#: .\documenthandler.cpp
+msgid "[StudioApp]Projects"
+msgstr "项目"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]RAM"
+msgstr "RAM"
+
+#: .\melodyneextension.cpp
+msgid "[StudioApp]Remove Melodyne"
+msgstr "移除Melodyne"
+
+#: .\revoiceextension.cpp
+msgid "[StudioApp]Remove Revoice Pro"
+msgstr "移除Revoice Pro"
+
+#: .\vocalignextension.cpp
+msgid "[StudioApp]Remove VocALign"
+msgstr "移除VocALign"
+
+#: .\documenthandler.cpp
+msgid "[Command]Save As Template"
+msgstr "另存为模板"
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]Scanning Sound Sets..."
+msgstr "正在扫描声音集..."
+
+#: .\samplerextension.cpp
+msgid "[StudioApp]Send To new Impact"
+msgstr "发送至Impact"
+
+#: .\samplerextension.cpp
+msgid "[StudioApp]Send To new SampleOne"
+msgstr "发送至SampleOne"
+
+#: .\notionexportcomponent.cpp
+msgid "[NotionExportComponent]Send to Notion"
+msgstr "发送至Notion"
+
+#: .\notionexportcomponent.cpp
+msgid "[Command]Send to Notion"
+msgstr "发送至Notion"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Shop"
+msgstr "商店"
+
+#: .\automationhandler.cpp
+msgid "[AutomationHandler]Show Automation"
+msgstr "显示自动控制"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Cloud"
+msgstr "显示云"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Effects"
+msgstr "显示效果"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Files"
+msgstr "显示文件"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Home Page"
+msgstr "显示主页"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Instruments"
+msgstr "显示乐器"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Loops"
+msgstr "显示循环"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Pool"
+msgstr "显示素材池"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Shop"
+msgstr "显示商店"
+
+#: .\devicepresetrevealer.cpp
+msgid "[DevicePresets]Show in Browser"
+msgstr "在浏览器中显示"
+
+#: .\devicepresetrevealer.cpp
+msgid "[DevicePresets]Show in Console"
+msgstr "在控制台中显示"
+
+#: .\devicepresetrevealer.cpp
+msgid "[DevicePresets]Show in Routing"
+msgstr "在路由中显示"
+
+#: .\documenthandler.cpp
+msgid "[StudioApp]Shows"
+msgstr " 表演"
+
+#: .\notionexportcomponent.cpp .\songdataimporter.cpp
+msgid "[Command]Song"
+msgstr "乐曲"
+
+#: .\documenthandler.cpp
+msgid "[StudioApp]Songs"
+msgstr "乐曲"
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]Sound Set \"%(1)\" failed to install."
+msgstr "声音集 \"%(1)\" 安装失败。"
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]Sound Set \"%(1)\" has been updated to version %(2)."
+msgstr "声音集 \"%(1)\" 已更新至版本 %(2)。"
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]Sound Set \"%(1)\" is already installed."
+msgstr "声音集 \"%(1)\" 已经安装。"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Sound Sets"
+msgstr "声音集"
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]Sound Sets"
+msgstr "声音集"
+
+#: .\documenthandler.cpp
+msgid "[Command]Start Page"
+msgstr "开始页"
+
+#: .\soundsethandler.cpp
+msgid "[Tags]Style"
+msgstr "样式"
+
+#: .\documenthandler.cpp
+msgid "[Command]Switch To Project"
+msgstr " 切换至项目"
+
+#: .\documenthandler.cpp
+msgid "[Command]Switch To Show"
+msgstr " 切换至节目"
+
+#: .\documenthandler.cpp
+msgid "[Command]Switch To Song"
+msgstr " 切换至歌曲"
+
+#: .\appoptions.cpp
+msgid "[Options]Synchronization"
+msgstr " 同步"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]System"
+msgstr "系统"
+
+#: .\devicepresetrevealer.cpp
+msgid "[SystemScaling]System DPI Scaling for third-party plug-ins requires Windows 10 version 1803 or later."
+msgstr "用于第三方插件的系统DPI缩放需要Windows 10版本1803或更高版本。"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]System ID"
+msgstr "系统ID"
+
+#: .\studioapp.cpp
+msgid "[StudioApp]System Information"
+msgstr "系统信息"
+
+#: .\studioapp.cpp
+msgid "[Command]System Information"
+msgstr "系统信息"
+
+#: .\songdataimporter.cpp
+msgid "[SongDataImporter]Tempo & Time Signature"
+msgstr "节拍和拍号"
+
+#: .\studioapp.cpp
+msgid "[StudioApp]Thank you for checking out $APPNAME. You have %(1) program starts left."
+msgstr "感谢使用$APPNAME。您当前可以使用%(1)个我们的程序。"
+
+#: .\studioapp.cpp
+msgid "[StudioApp]The $APPNAME Reference Manual has not been installed yet."
+msgstr "$APPNAME参考指南尚未安装。"
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]The following Sound Sets failed to install or are installed multiple times on your system. This can be caused by incomplete file downloads. Do you want to delete these files now?"
+msgstr "以下声音集安装失败，或已在您的系统上多次安装。引起此问题的原因可能是不完整的文件下载。 是否确认删除这些文件？"
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]The package \"%(1)\" is still in use (%(2) files open)!"
+msgstr "\"%(1)\" 包正在使用中 (%(2) 个文件打开)!"
+
+#: .\notionexportcomponent.cpp
+msgid "[NotionExportComponent]This computer"
+msgstr "此台电脑"
+
+#: .\appoptions.cpp
+msgid "[Command]Toggle No Overlap"
+msgstr " 切换无重叠"
+
+#: .\appoptions.cpp
+msgid "[Command]Toggle Range Tool in upper event area"
+msgstr "在上方区域切换范围工具"
+
+#: .\appoptions.cpp
+msgid "[Command]Toolbar"
+msgstr "工具栏"
+
+#: .\soundsethandler.cpp
+msgid "[Tags]Type"
+msgstr "类型"
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]Uninstall"
+msgstr "卸载"
+
+#: .\devicepresetrevealer.cpp
+msgid "[DevicePresets]Update Plug-in Thumbnail"
+msgstr "更新插件缩略图"
+
+#: .\devicebrowserextension.cpp
+msgid "[StudioApp]Used by"
+msgstr "使用者："
+
+#: .\sidebar.filetypes.cpp
+msgid "[FileType]User Files"
+msgstr "用户文件"
+
+#: .\soundsethandler.cpp
+msgid "[Tags]Vendor"
+msgstr "供应商"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]Version"
+msgstr "版本"
+
+#: .\sidebar.filetypes.cpp
+msgid "[FileType]Video Files"
+msgstr "视频文件"
+
+#: .\appfeatures.cpp
+msgid "[Command]Video Player"
+msgstr "视频播放器"
+
+#: .\appfeatures.cpp .\documenthandler.cpp
+msgid "[Command]View"
+msgstr "查看"
+
+#: .\projectdocument.cpp .\showdocument.cpp .\songdocument.cpp
+msgid "[StudioApp]Workspace"
+msgstr "工作区"
+
+#~ msgid "[Options]Open Default Song/Project"
+#~ msgstr "打开默认的乐曲/项目"
+
+#~ msgid "[Options]Open Last Song/Project"
+#~ msgstr "打开上一次的乐曲/项目"
+
+#~ msgid "[FileType]Presets"
+#~ msgstr "预置"
+
+#~ msgid "[Command]Show Project"
+#~ msgstr "显示项目"
+
+#~ msgid "[Command]Show Song"
+#~ msgstr "显示乐曲"
+
+#~ msgid "[StudioApp]Recent Files"
+#~ msgstr "最近使用的文件"
+
+#~ msgid "[StudioApp]An older version of $APPNAME has been found on this computer."
+#~ msgstr "在本机上找到名为$APPNAME的旧版本"
+
+#~ msgid "[StudioApp]Do you want to import the settings from the old version of $APPNAME?"
+#~ msgstr "是否从名为$APPNAME?的旧版本导入设置?"
+
+#~ msgid "[StudioApp]$APPNAME can not shutdown right now!"
+#~ msgstr "$APPNAME无法正常关闭!"
+
+#~ msgid "[StudioApp]Files are being transferred in background."
+#~ msgstr "文件将在后台进行传送。"
+

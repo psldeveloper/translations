@@ -1,0 +1,5 @@
+﻿Output: Main Out auf dem Fader
+Bank: Remote Bank auf dem Fader
+User: Globales Solo ein/aus
+Shift + Encoder: Transport
+Fußschalter: Aufnahme ein/aus

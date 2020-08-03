@@ -1,0 +1,430 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\audiofile\audiocodecs\aiffaudiocodec.cpp
+msgid "[FileType]AIFC File"
+msgstr "AIFC-Datei"
+
+#: .\audiofile\audiocodecs\aiffaudiocodec.cpp
+msgid "[FileType]AIFF File"
+msgstr "AIFF-Datei"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Add Note Controller \"%(1)\""
+msgstr "Notencontroller hinzufügen \"%(1)\""
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Add Pattern"
+msgstr "Pattern hinzufügen"
+
+#: .\audiofile\audiocodecs\aiffaudiocodec.cpp
+msgid "[FileType]Apple Impulse File"
+msgstr "Apple Impulsdatei"
+
+#: .\audiofile\audiocodecs\audioloopinfo.cpp
+msgid "[FileType]Audioloop"
+msgstr "Audioloop"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]Augmented"
+msgstr "Übermäßig"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Bars"
+msgstr "Takte"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Beat-Linear"
+msgstr "Taktlinear"
+
+#: .\envelopes\envelopeactions.cpp
+msgid "[EnvelopeActions]Bend Points"
+msgstr "Punkte verbiegen"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Blues"
+msgstr "Blues"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Chromatic"
+msgstr "Chromatisch"
+
+#: .\audiofile\audiofileconverter.cpp
+msgid "[AudioFileConverter]Converting %(1)"
+msgstr "Konvertiere %(1)"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Copy Event"
+msgstr "Event kopieren"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Copy Events"
+msgstr "Events kopieren"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Delete Event"
+msgstr "Event löschen"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Delete Events"
+msgstr "Events löschen"
+
+#: .\envelopes\envelopeactions.cpp
+msgid "[EnvelopeActions]Delete Point"
+msgstr "Punkt löschen"
+
+#: .\envelopes\envelopefunctions.cpp
+msgid "[Events]Delete Points"
+msgstr "Punkte löschen"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]Diminished"
+msgstr "Vermindert"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Dorian"
+msgstr "Dorisch"
+
+#: .\music\beatlistparam.cpp
+msgid "[Resolution]Dotted"
+msgstr "Punktiert"
+
+#: .\envelopes\envelopefunctions.cpp
+msgid "[Events]Edit Value"
+msgstr "Wert bearbeiten"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Frames"
+msgstr "Frames"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Freeze Quantize"
+msgstr "Quantisierung festsetzen"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Freeze Velocity"
+msgstr "Anschlagstärke festsetzen"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Harmonic Minor"
+msgstr "Harmonisch Moll"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Insert Event"
+msgstr "Event einfügen"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Insert Events"
+msgstr "Events einfügen"
+
+#: .\envelopes\envelopeactions.cpp
+msgid "[EnvelopeActions]Insert Point"
+msgstr "Punkt einfügen"
+
+#: .\envelopes\envelopefunctions.cpp
+msgid "[Events]Insert Points"
+msgstr "Punkte einfügen"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Insert Tempo"
+msgstr "Tempowechsel einfügen"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Insert Time Signature"
+msgstr "Taktwechsel einfügen"
+
+#: .\music\pitchnamelist.cpp
+msgid "[FileType]Key Switches"
+msgstr "Keyswitches"
+
+#: .\music\musicparams.cpp
+msgid "[Media.Music]MIDI"
+msgstr "MIDI"
+
+#: .\music\midifileparser.cpp
+msgid "[FileType]MIDI File"
+msgstr "MIDI-Datei"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]Major"
+msgstr "Dur"
+
+#: .\music\keysignature.cpp
+msgid "[KeySignature]Major"
+msgstr "Dur"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Major"
+msgstr "Dur"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Major Pentatonic"
+msgstr "Dur pentatonisch"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Melodic Minor"
+msgstr "Melodisch Moll"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]Minor"
+msgstr "Moll"
+
+#: .\music\keysignature.cpp
+msgid "[KeySignature]Minor"
+msgstr "Moll"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Minor Pentatonic"
+msgstr "Moll pentatonisch"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Mixolydian"
+msgstr "Mixolydisch"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Accent"
+msgstr "Betonung verändern"
+
+#: .\music\chordfunctions.cpp
+msgid "[Edit]Modify Chord"
+msgstr "Akkord verändern"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Modify Event"
+msgstr "Event bearbeiten"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Pattern Accent Strength"
+msgstr "Patternakzentstärke ändern"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Pattern Gate"
+msgstr "Patternnotenlänge verändern"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Pattern Resolution"
+msgstr "Patternauflösung verändern"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Pattern Swing"
+msgstr "Patternswing verändern"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Pattern Type"
+msgstr "Patternart verändern"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Probability"
+msgstr "Wahrscheinlichkeit verändern"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Repeat"
+msgstr "Wiederholungen verändern"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Step Count"
+msgstr "Stepanzahl verändern"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Modify Tempo"
+msgstr "Tempo bearbeiten"
+
+#: .\time\tempomanipulator.cpp
+msgid "[TempoManipulator]Modify Tempo"
+msgstr "Tempo bearbeiten"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Velocity"
+msgstr "Anschlagstärke bearbeiten"
+
+#: .\public\mediaformatter.cpp
+msgid "[Media]Mono"
+msgstr "Mono"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Move Event"
+msgstr "Event verschieben"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Move Events"
+msgstr "Events verschieben"
+
+#: .\envelopes\envelopeactions.cpp
+msgid "[EnvelopeActions]Move Point"
+msgstr "Punkt verschieben"
+
+#: .\envelopes\envelopeactions.cpp
+msgid "[EnvelopeActions]Move Points"
+msgstr "Punkte verschieben"
+
+#: .\music\musicperformance.cpp
+msgid "[FileType]Music File"
+msgstr "Musikdatei"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Mute Event"
+msgstr "Event stummschalten"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Natural Minor"
+msgstr "Natürliches Moll"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Note Controller"
+msgstr "Notencontroller"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Nudge"
+msgstr "Verschieben"
+
+#: .\public\mediaformatter.cpp
+msgid "[Media]Off"
+msgstr "Aus"
+
+#: .\public\mediaformatter.cpp
+msgid "[Media]Pad %(1)"
+msgstr "Pad %(1)"
+
+#: .\music\patternperformance.cpp
+msgid "[FileType]Pattern File"
+msgstr "Pattern-Datei"
+
+#: .\music\musicparams.cpp
+msgid "[Media.Music]Percent"
+msgstr "Prozent"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Phrygian"
+msgstr "Phrygisch"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Pitch"
+msgstr "Tonhöhe"
+
+#: .\music\pitchnamelist.cpp
+msgid "[FileType]Pitch Names"
+msgstr "Pitchnamen"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]Power Chord"
+msgstr "Power-Chord"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Pressure"
+msgstr "Pressure"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Quantize"
+msgstr "Quantisieren"
+
+#: .\music\beatlistparam.cpp
+msgid "[Resolution]Quintuplet"
+msgstr "Quintole"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Remove Note Controller \"%(1)\""
+msgstr "Notencontroller entfernen \"%(1)\""
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Remove Pattern"
+msgstr "Pattern entfernen"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Remove Tempo"
+msgstr "Tempowechsel entfernen"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Remove Time Signature"
+msgstr "Taktwechsel entfernen"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Rename Pattern"
+msgstr "Pattern umbenennen"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Reorder Pattern"
+msgstr "Pattern umsortieren"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Resize Event"
+msgstr "Eventgröße anpassen"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Resize Events"
+msgstr "Eventlängen anpassen"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Samples"
+msgstr "Samples"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Seconds"
+msgstr "Sekunden"
+
+#: .\music\beatlistparam.cpp
+msgid "[Resolution]Septuplet"
+msgstr "Septole"
+
+#: .\time\tempoenvelopefunctions.cpp
+msgid "[Tempo]Set BPM Range"
+msgstr "BPM-Bereich setzen"
+
+#: .\audiofile\audiofileconverter.cpp
+msgid "[AudioFileConverter]Some files could not be converted."
+msgstr "Einige Dateien konnten nicht konvertiert werden."
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Split Event"
+msgstr "Event teilen"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Split Events"
+msgstr "Events teilen"
+
+#: .\public\mediaformatter.cpp
+msgid "[Media]Stereo"
+msgstr "Stereo"
+
+#: .\music\beatlistparam.cpp
+msgid "[Resolution]Straight"
+msgstr "Gerade"
+
+#: .\envelopes\envelopefunctions.cpp
+msgid "[Events]Straighten Curve"
+msgstr "Kurve glätten"
+
+#: .\time\tempoenvelope.cpp
+msgid "[Tempo]Tempo"
+msgstr "Tempo"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Timbre"
+msgstr "Timbre"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Time-Linear"
+msgstr "Zeitlinear"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Transpose"
+msgstr "Transponieren"
+
+#: .\music\beatlistparam.cpp
+msgid "[Resolution]Triplet"
+msgstr "Triole"
+
+#: .\audiofile\audiocodecs\waveaudiocodec.cpp
+msgid "[FileType]Wave File"
+msgstr "Wave-Datei"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]sus2"
+msgstr "sus2"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]sus4"
+msgstr "sus4"
+

@@ -1,0 +1,1 @@
+﻿Impostate "Ricezione Da" a Edirol PCR 1. Funziona con i modelli 300, 500 e 800. Per il controllo di Studio One  utilizzate il dispositivo PCR-V-Link.

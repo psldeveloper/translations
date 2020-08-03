@@ -1,0 +1,8 @@
+#: .\plugversion.h
+msgid "[CoreMidi]CoreMIDI Support"
+msgstr ""
+
+#: .\midiservicemain.cpp
+msgid "[CoreMidi]Support for MIDI gear on OS X"
+msgstr ""
+

@@ -1,0 +1,1505 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\application.cpp
+msgid "[Application]$APPNAME can not shutdown right now!"
+msgstr "$APPNAME は現在終了できません。"
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]%(1) File"
+msgstr "%(1) ファイル"
+
+#: .\documents\documenttemplates.cpp
+msgid "[Documents]%(1) already exists.\nDo you want to replace it?"
+msgstr "%(1) はすでに存在します。置き換えますか？"
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]%(1) preset files were imported."
+msgstr "%(1) つのプリセットファイルがインポートされました。"
+
+#: .\browser\pluginselector.cpp
+msgid "[PlugInSelector](Unknown Vendor)"
+msgstr "（不明なベンダーです）"
+
+#: .\presets\presetbrowser.cpp
+msgid "[PresetBrowser](no presets)"
+msgstr "（プリセットなし）"
+
+#: .\documents\autosaver.cpp
+msgid "[Autosave]A backup of the original file has been found."
+msgstr "元のファイルのバックアップが見つかりました。"
+
+#: .\documents\autosaver.cpp
+msgid "[Autosave]A backup that is newer than the original file has been found."
+msgstr "元のファイルよりも新しいバックアップが見つかりました。"
+
+#: .\fileinfo\filerenamer.cpp
+msgid "[FileRenamer]A file with this name already exists."
+msgstr "この名前のファイルはすでに存在します。"
+
+#: .\fileinfo\filerenamer.cpp
+msgid "[FileRenamer]A folder with this name already exists."
+msgstr "この名前のフォルダーはすでに存在します。"
+
+#: .\presets\presetfileprimitives.cpp
+msgid "[Presets]A preset with this name already exists."
+msgstr "この名前のプリセットはすでに存在します。"
+
+#: .\application.cpp
+msgid "[Command]About"
+msgstr "情報"
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]Add File Type"
+msgstr "ファイルタイプを追加"
+
+#: .\datastore\tagstorecomponent.cpp
+msgid "[TagStore]Add Tag"
+msgstr "タグを追加"
+
+#: .\browser\plugindraghander.cpp
+msgid "[PluginDraghandler]Add to Favorites"
+msgstr "お気に入りに追加"
+
+#: .\datastore\tagstorecomponent.cpp
+msgid "[TagStore]Adding Tags..."
+msgstr "タグを追加しています..."
+
+#: .\options\useroption.cpp
+msgid "[UserOption]Advanced"
+msgstr "詳細"
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]Age"
+msgstr "時期"
+
+#: .\datastore\tagstore.cpp
+msgid "[TagStore]All tags are valid."
+msgstr "すべてのタグは有効です。"
+
+#: .\application.cpp
+msgid "[Application]An instance of $APPNAME is already running."
+msgstr "$APPNAME のインスタンスはすでに動作しています。"
+
+#: .\fileinfo\filerenamer.cpp
+msgid "[FileRenamer]An object with this name already exists."
+msgstr "この名前のオブジェクトはすでに存在します。"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Appearance"
+msgstr "アピアランス"
+
+#: .\application.cpp
+msgid "[Command]Application"
+msgstr "アプリケーション"
+
+#: .\actions\trashbinpanel.cpp
+msgid "[TrashBin]Are you sure you want to permanently delete these %(1) items?"
+msgstr "%(1) つのアイテムを完全に削除しますか？"
+
+#: .\actions\trashbinpanel.cpp
+msgid "[TrashBin]Are you sure you want to permanently delete this item?"
+msgstr "このアイテムを完全に削除しますか？"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Are you sure you want to reset the plug-in browser to default?"
+msgstr "プラグインブラウザーをデフォルトにリセットしますか？"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Are you sure you want to revert all changes?"
+msgstr "すべての変更を元に戻しますか？"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Are you sure you want to revert your last plug-in browser changes?"
+msgstr "直前のプラグインブラウザー変更を元に戻しますか？"
+
+#: .\browser\browser.cpp
+msgid "[Command]Ascend Root"
+msgstr "ルートを上階層へ上げる"
+
+#: .\browser\browser.cpp .\navigation\navigatorbase.cpp
+msgid "[Command]Back"
+msgstr "戻る"
+
+#: .\browser\browser.cpp .\browser\filesystemnodes.cpp
+msgid "[Command]Browser"
+msgstr "ブラウザー"
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]But it's not a preset for %(1)!"
+msgstr "%(1) のプリセットではありません。"
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]But none of them is a preset for %(1)!"
+msgstr "どれも %(1) のプリセットではありません。"
+
+#: .\fileinfo\pathclassifier.cpp
+msgid "[FileInfo]CD/DVD Drive"
+msgstr "CD/DVDドライブ"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Can not close %(1) right now!"
+msgstr "%(1) を今閉じることはできません。"
+
+#: .\browser\pluginselector.cpp
+msgid "[PlugInSelector]Category"
+msgstr "カテゴリ"
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]Category"
+msgstr "カテゴリ"
+
+#: .\datastore\tagstore.cpp
+msgid "[TagStore]Checking files in \"%(1)\""
+msgstr "\"%(1)\" のファイルを確認しています"
+
+#: .\datastore\tagstore.cpp .\datastore\tagstorecomponent.cpp
+msgid "[TagStore]Cleanup Tags of Missing Files"
+msgstr "行方不明のファイルのタグのクリーンアップ"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Clear Recent Files"
+msgstr "最近使ったファイルをクリア"
+
+#: .\documents\recentdocuments.cpp
+msgid "[Documents]Clear Recent Files"
+msgstr "最近使ったファイルをクリア"
+
+#: .\datastore\tagstorecomponent.cpp
+msgid "[TagStore]Clear Tags"
+msgstr "タグをクリア"
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]Click+Drag Preset"
+msgstr "プリセットをクリック+ドラッグ"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Close"
+msgstr "閉じる"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Close All"
+msgstr "すべてを閉じる"
+
+#: .\browser\browser.cpp
+msgid "[Browser]Close Tab"
+msgstr "タブを閉じる"
+
+#: .\browser\browser.cpp
+msgid "[Command]Close Tab"
+msgstr "タブを閉じる"
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Browser]Content"
+msgstr "コンテンツ"
+
+#: .\application.cpp
+msgid "[Command]Contents"
+msgstr "目次"
+
+#: .\application.cpp
+msgid "[Command]Context Help"
+msgstr "コンテキストヘルプ"
+
+#: .\browser\filedraghandler.cpp
+msgid "[FileDraghandler]Copy"
+msgstr "コピー"
+
+#: .\editing\editor.cpp .\etc\batchoperation.cpp
+msgid "[Edit]Copy"
+msgstr "コピー"
+
+#: .\editing\editor.cpp
+msgid "[Command]Copy"
+msgstr "コピー"
+
+#: .\browser\filedraghandler.cpp
+msgid "[FileDraghandler]Copy to \"%(1)\""
+msgstr "\"%(1)\" へコピー"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Copying %(1)"
+msgstr "%(1) をコピーしています"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Copying files"
+msgstr "ファイルをコピーしています"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Could not load %(1)!"
+msgstr "%(1) を読み込めませんでした。"
+
+#: .\fileinfo\filerenamer.cpp
+msgid "[FileRenamer]Could not rename this file."
+msgstr "このファイルの名前を変更できませんでした。"
+
+#: .\fileinfo\filerenamer.cpp
+msgid "[FileRenamer]Could not rename this folder."
+msgstr "このフォルダーの名前を変更できませんでした。"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Could not save %(1)!"
+msgstr "%(1) を保存できませんでした。"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Create new folder"
+msgstr "新規フォルダーを作成"
+
+#: .\editing\editor.cpp
+msgid "[Edit]Cut"
+msgstr "カット"
+
+#: .\editing\editor.cpp
+msgid "[Command]Cut"
+msgstr "カット"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Dark Mode"
+msgstr "ダークモード"
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]Date"
+msgstr "日付"
+
+#: .\actions\trashbinpanel.cpp
+msgid "[TrashBin]Delete"
+msgstr "削除"
+
+#: .\datastore\stringlistcomponent.cpp .\editing\editor.cpp
+msgid "[Command]Delete"
+msgstr "削除"
+
+#: .\editing\editor.cpp
+msgid "[Edit]Delete"
+msgstr "削除"
+
+#: .\presets\presetnode.cpp
+msgid "[Presets]Delete"
+msgstr "削除"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Delete File..."
+msgstr "ファイルを削除..."
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Delete Folder..."
+msgstr "フォルダーを削除..."
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Delete Thumbnail"
+msgstr "サムネイルを削除"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Delete Undo History"
+msgstr "取り消し履歴を削除"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Deleting %(1)"
+msgstr "%(1) を削除しています"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Deleting Files"
+msgstr "ファイルを削除しています"
+
+#: .\documents\documentmanager.cpp .\documents\documentversions.cpp
+msgid "[Documents]Description"
+msgstr "説明"
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]Description"
+msgstr "説明"
+
+#: .\editing\editor.cpp
+msgid "[Edit]Deselect All"
+msgstr "すべての選択を解除"
+
+#: .\editing\editor.cpp
+msgid "[Command]Deselect All"
+msgstr "すべての選択を解除"
+
+#: .\browser\filebrowser.cpp
+msgid "[Browser]Desktop"
+msgstr "デスクトップ"
+
+#: .\options\serviceoption.cpp
+msgid "[UserOption]Disable"
+msgstr "無効化"
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]Discard"
+msgstr "破棄"
+
+#: .\documents\recentdocuments.cpp
+msgid "[Documents]Do you really want to clear the list of recent files?\n\nThis action can not be undone."
+msgstr "最近使ったファイルのリストを消去しますか？\n\nこの操作は取り消せません。"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Do you really want to delete the Undo History?\n\nThis action can not be undone."
+msgstr "取り消し履歴を削除しますか？この操作は取り消せません。"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to copy these files to \"%(1)\"?"
+msgstr "これらのファイルを \"%(1)\" へコピーしますか？"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to copy this file to \"%(1)\"?"
+msgstr "このファイルを \"%(1)\" へコピーしますか？"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to copy this folder to \"%(1)\"?"
+msgstr "このフォルダーを \"%(1)\" へコピーしますか？"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to delete these files permanently from disk?"
+msgstr "これらのファイルをディスクから完全に削除しますか？"
+
+#: .\presets\presetnode.cpp
+msgid "[Presets]Do you want to delete these presets?"
+msgstr "これらのプリセットを削除しますか？"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to delete this file permanently from disk?"
+msgstr "このファイルをディスクから完全に削除しますか？"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to delete this folder permanently from disk?"
+msgstr "このフォルダーをディスクから完全に削除しますか？"
+
+#: .\presets\presetnode.cpp
+msgid "[Presets]Do you want to delete this preset?"
+msgstr "このプリセットを削除しますか？"
+
+#: .\documents\autosaver.cpp
+msgid "[Autosave]Do you want to keep the backup as a version?"
+msgstr "バックアップをバージョンとして保存しますか？"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Do you want to merge into %(1)?"
+msgstr "%(1) に結合しますか？"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to move these files to \"%(1)\"?"
+msgstr "これらのファイルを \"%(1)\" へ移動しますか？"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to move this file to \"%(1)\"?"
+msgstr "このファイルを \"%(1)\" へ移動しますか？"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to move this folder to \"%(1)\"?"
+msgstr "このフォルダーを \"%(1)\" へ移動しますか？"
+
+#: .\documents\autosaver.cpp
+msgid "[Autosave]Do you want to open the backup?"
+msgstr "バックアップを開きますか？"
+
+#: .\presets\presetmanager.cpp
+msgid "[Presets]Do you want to remove all plug-in settings and perform a full rescan next time you start $APPNAME?"
+msgstr "すべてのプラグイン設定を削除して $APPNAME の次回起動時にフルスキャンを実行しますか？"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Do you want to remove the reference to it from the Recent list?"
+msgstr "リストから参照を削除しますか？"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Do you want to remove these folders?"
+msgstr "これらのフォルダーを削除しますか？"
+
+#: .\datastore\tagstore.cpp
+msgid "[TagStore]Do you want to remove these tag entries for non-existing files?"
+msgstr "存在しないファイルに対するこれらのタグエントリを削除しますか？"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Do you want to remove this folder?"
+msgstr "このフォルダーを削除しますか？"
+
+#: .\presets\presetmanager.cpp
+msgid "[Presets]Do you want to rescan blocked plug-ins next time you start $APPNAME?"
+msgstr "ブラックリストに登録されているプラグインを $APPNAME の次回起動時に再スキャンしますか？"
+
+#: .\application.cpp
+msgid "[Application]Do you want to restart $APPNAME now?"
+msgstr "今すぐ $APPNAME を再起動しますか？"
+
+#: .\options\commandoption.cpp
+msgid "[UserOption]Do you want to revert the keyboard mapping scheme to \"%(1)\"?"
+msgstr "キーボードマッピングスキームを \"%(1)\" へ戻しますか？"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Do you want to save a copy of %(1) as file format \"%(2)\"?"
+msgstr "%(1) のコピーをファイルフォーマット \"%(2)\" として保存しますか？"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Do you want to save your changes in %(1)?"
+msgstr "変更内容を %(1) に保存しますか？"
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]Do you want to store the current settings as default preset?"
+msgstr "現在の設定をデフォルトプリセットとして保存しますか？"
+
+#: .\browser\filebrowser.cpp
+msgid "[Browser]Documents"
+msgstr "ドキュメント"
+
+#: .\browser\filexportdraghandler.cpp
+msgid "[FileExport]Download"
+msgstr "ダウンロード"
+
+#: .\browser\filexportdraghandler.cpp
+msgid "[FileExport]Download to \"%(1)\""
+msgstr "\"%(1)\" へダウンロード"
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Drag"
+msgstr "ドラッグ"
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Draw Selection"
+msgstr "選択を描画"
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Draw Selection (add)"
+msgstr "選択を描画（追加）"
+
+#: .\browser\searchcomponent.cpp .\datastore\stringlistcomponent.cpp
+#: .\documents\documentmanager.cpp .\editing\editor.cpp
+msgid "[Command]Edit"
+msgstr "編集"
+
+#: .\documents\notepad.cpp
+msgid "[Notepad]Edit Note..."
+msgstr "ノートを編集…"
+
+#: .\actions\trashbinpanel.cpp
+msgid "[TrashBin]Empty Trash Bin"
+msgstr "ゴミ箱を空にする"
+
+#: .\options\serviceoption.cpp
+msgid "[UserOption]Enable"
+msgstr "有効化"
+
+#: .\browser\browser.cpp
+msgid "[Command]Enter"
+msgstr "Enter"
+
+#: .\browser\filexportdraghandler.cpp
+msgid "[FileExport]Export"
+msgstr "エクスポート"
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]Export %(1)..."
+msgstr "%(1) をエクスポート..."
+
+#: .\presets\presettrader.cpp
+msgid "[Command]Export Preset"
+msgstr "プリセットをエクスポート"
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]Export Preset..."
+msgstr "プリセットをエクスポート..."
+
+#: .\options\commandoption.cpp
+msgid "[UserOption]Export as Text..."
+msgstr "テキストとしてエクスポート..."
+
+#: .\browser\filexportdraghandler.cpp
+msgid "[FileExport]Export to \"%(1)\""
+msgstr "\"%(1)\" へエクスポート"
+
+#: .\options\commandoption.cpp
+msgid "[UserOption]Export..."
+msgstr "エクスポート..."
+
+#: .\fileinfo\fileexporter.cpp
+msgid "[FileExporter]Exported"
+msgstr "エクスポートされました"
+
+#: .\fileinfo\fileexporter.cpp
+msgid "[FileExporter]Exporting"
+msgstr "エクスポートしています"
+
+#: .\fileinfo\fileexporter.cpp
+msgid "[FileExporter]Exporting %(1)"
+msgstr "%(1) をエクスポートしています"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Exporting %(1)..."
+msgstr "%(1) をエクスポートしています..."
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]Extension"
+msgstr "拡張"
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Browser]Extract Here"
+msgstr "ここで抽出"
+
+#: .\application.cpp
+msgid "[Application]Failed to load Application Theme!"
+msgstr "アプリケーションテーマの読み込みに失敗しました。"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Favorite"
+msgstr "お気に入り"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Favorites"
+msgstr "お気に入り"
+
+#: .\application.cpp .\documents\documentmanager.cpp
+msgid "[Command]File"
+msgstr "ファイル"
+
+#: .\etc\batchoperation.cpp
+msgid "[FileOperations]File %(1) of %(2)"
+msgstr "ファイル %(2) 中 %(1)"
+
+#: .\fileinfo\filepreviewcomponent.cpp
+msgid "[FileInfo]File information"
+msgstr "ファイル情報"
+
+#: .\browser\pluginselector.cpp
+msgid "[PlugInSelector]Flat"
+msgstr "全体"
+
+#: .\browser\pluginmanagement.cpp
+msgid "[PlugInManagement]Folder"
+msgstr "フォルダー"
+
+#: .\browser\pluginselector.cpp
+msgid "[PlugInSelector]Folder"
+msgstr "フォルダー"
+
+#: .\fileinfo\fileinfocomponent.cpp
+msgid "[FileInfo]Folder"
+msgstr "フォルダー"
+
+#: .\browser\searchresultlist.cpp
+msgid "[Search]Folders"
+msgstr "フォルダー"
+
+#: .\navigation\navigatorbase.cpp
+msgid "[Command]Forward"
+msgstr "先へ進む"
+
+#: .\options\useroption.cpp
+msgid "[UserOption]General"
+msgstr "一般"
+
+#: .\application.cpp
+msgid "[Command]Help"
+msgstr "ヘルプ"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Hide"
+msgstr "隠す"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]High DPI Mode will be changed next time you start $APPNAME."
+msgstr "高DPIモードは $APPNAME の次回起動時に変更されます。"
+
+#: .\navigation\navigatorbase.cpp
+msgid "[Command]Home"
+msgstr "ホーム"
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]Icon"
+msgstr "アイコン"
+
+#: .\presets\presettrader.cpp
+msgid "[Command]Import Preset"
+msgstr "プリセットをインポート"
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]Import Preset..."
+msgstr "プリセットをインポート..."
+
+#: .\browser\pluginbrowser.cpp
+msgid "[Presets]Import Presets"
+msgstr "プリセットをインポート"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Import as format"
+msgstr "フォーマットとしてインポート"
+
+#: .\options\commandoption.cpp
+msgid "[UserOption]Import..."
+msgstr "インポート..."
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Importing %(1)..."
+msgstr "%(1) をインポートしています..."
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]Importing Preset"
+msgstr "プリセットをインポートしています"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Incremental version"
+msgstr "増分バージョン"
+
+#: .\browser\browser.cpp
+msgid "[Command]Insert Selected Item"
+msgstr "選択されているアイテムを挿入"
+
+#: .\editing\editor.cpp
+msgid "[Command]Invert Selection"
+msgstr "選択を反転"
+
+#: .\options\mainoption.cpp
+msgid "[SliderMode]Jump"
+msgstr "ジャンプ"
+
+#: .\application.cpp
+msgid "[Command]Keyboard Shortcuts"
+msgstr "キーボードショートカット"
+
+#: .\options\commandoption.cpp
+msgid "[UserOption]Keyboard Shortcuts"
+msgstr "キーボードショートカット"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Language"
+msgstr "言語"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Language will be changed next time you start $APPNAME."
+msgstr "言語は $APPNAME の次回起動時に変更されます。"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Light Mode"
+msgstr "ライトモード"
+
+#: .\options\mainoption.cpp
+msgid "[KnobMode]Linear"
+msgstr "リニア"
+
+#: .\presets\presetcomponent.cpp .\presets\presettrader.cpp
+msgid "[Presets]Load Preset"
+msgstr "プリセットを読み込む"
+
+#: .\presets\presettrader.cpp
+msgid "[Command]Load Preset File"
+msgstr "プリセットファイルをロード"
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]Load Preset File..."
+msgstr "プリセットファイルをロード..."
+
+#: .\documents\packagedocument.cpp
+msgid "[Documents]Loading %(1)..."
+msgstr "%(1) を読み込んでいます..."
+
+#: .\documents\packagedocument.cpp
+msgid "[Documents]Loading: %(1)..."
+msgstr "読み込み中: %(1)..."
+
+#: .\fileinfo\pathclassifier.cpp
+msgid "[FileInfo]Local"
+msgstr "ローカル"
+
+#: .\options\mainoption.cpp .\options\useroption.cpp
+msgid "[UserOption]Locations"
+msgstr "ロケーション"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Merge"
+msgstr "結合"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Merging %(1)..."
+msgstr "%(1) に結合中..."
+
+#: .\browser\filedraghandler.cpp
+msgid "[FileDraghandler]Move"
+msgstr "移動"
+
+#: .\editing\scaleview.cpp
+msgid "[Scale]Move"
+msgstr "移動"
+
+#: .\browser\filedraghandler.cpp
+msgid "[FileDraghandler]Move to \"%(1)\""
+msgstr "\"%(1)\" へ移動"
+
+#: .\browser\plugindraghander.cpp
+msgid "[PluginDraghandler]Move to \"%(1)\""
+msgstr "\"%(1)\" へ移動"
+
+#: .\browser\plugindraghander.cpp
+msgid "[PluginDraghandler]Move to Root"
+msgstr "ルートに移動"
+
+#: .\editing\scaleview.cpp
+msgid "[Scale]Move, Zoom"
+msgstr "移動、ズーム"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Moving %(1)"
+msgstr "%(1) を移動しています"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Moving files"
+msgstr "ファイルを移動しています"
+
+#: .\browser\filebrowser.cpp
+msgid "[Browser]Music"
+msgstr "ミュージック"
+
+#: .\browser\pluginmanagement.cpp
+msgid "[PlugInManagement]Name"
+msgstr "名前"
+
+#: .\browser\browser.cpp .\editing\editor.cpp .\itemlist\listitemcomponent.cpp
+#: .\navigation\navigatorbase.cpp
+msgid "[Command]Navigation"
+msgstr "ナビゲーション"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]New"
+msgstr "新規"
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Command]New Folder"
+msgstr "新規フォルダー"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]New Folder..."
+msgstr "新規フォルダー..."
+
+#: .\itemlist\showhidefilter.cpp
+msgid "[ShowHideFilter]New Preset"
+msgstr "新規プリセット"
+
+#: .\browser\browser.cpp
+msgid "[Browser]New Root Tab"
+msgstr "新規ルートタブ"
+
+#: .\browser\browser.cpp
+msgid "[Command]New Root Tab"
+msgstr "新規ルートタブ"
+
+#: .\browser\browser.cpp
+msgid "[Browser]New Tab"
+msgstr "新規タブ"
+
+#: .\browser\browser.cpp
+msgid "[Command]New Tab"
+msgstr "新規タブ"
+
+#: .\browser\browser.cpp
+msgid "[Browser]New Tab From Here"
+msgstr "ここから新規タブ"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]New folder"
+msgstr "新規フォルダー"
+
+#: .\browser\browser.cpp .\presets\presetbrowser.cpp
+msgid "[Command]Next"
+msgstr "次"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Next Tool"
+msgstr "次のツール"
+
+#: .\presets\presetparam.cpp
+msgid "[Presets]No Preset"
+msgstr "プリセットなし"
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]No other versions of \"%(1)\" were saved."
+msgstr "\"%(1)\" の他のバージョンは保存されていません。"
+
+#: .\editing\tasks\edittaskcollection.cpp
+msgid "[EditTask]No recent items"
+msgstr "最近使った項目なし"
+
+#: .\documents\documentblocks.cpp
+msgid "[Documents]No versions found."
+msgstr "バージョンが見つかりませんでした。"
+
+#: .\browser\pluginselector.cpp
+msgid "[PlugInSelector]None"
+msgstr "なし"
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]One preset file was imported."
+msgstr "1 つのプリセットファイルがインポートされました。"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Open"
+msgstr "開く"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Open %(1):"
+msgstr "%(1) を開く:"
+
+#: .\application.cpp
+msgid "[Command]Open Settings Folder"
+msgstr "設定フォルダーを開く"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Open files:"
+msgstr "ファイルを開く:"
+
+#: .\application.cpp
+msgid "[Command]Options"
+msgstr "オプション"
+
+#: .\options\useroption.cpp
+msgid "[UserOption]Options"
+msgstr "オプション"
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]Original"
+msgstr "オリジナル"
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Browser]Packages"
+msgstr "パッケージ"
+
+#: .\editing\editor.cpp
+msgid "[Edit]Paste"
+msgstr "ペースト"
+
+#: .\editing\editor.cpp
+msgid "[Command]Paste"
+msgstr "ペースト"
+
+#: .\documents\documentblocks.cpp
+msgid "[Documents]Pin document to Recent Files list"
+msgstr "ドキュメントを最近使ったファイルリストに貼り付ける"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Please note that third-party plug-ins will appear smaller if they do not support scaling."
+msgstr "スケーリングに対応していないサードパーティ製プラグインは小さめに表示されます。"
+
+#: .\application.cpp
+msgid "[Application]Please restart $APPNAME for the changes to take effect."
+msgstr "変更を有効にするには $APPNAME を再起動してください。"
+
+#: .\documents\documentdialog.cpp
+msgid "[Documents]Please supply a filename."
+msgstr "ファイル名を入力してください。"
+
+#: .\application.cpp
+msgid "[Application]Plug-In folder not found at:\n"
+msgstr "次のロケーションにプラグインフォルダーが見つかりません:\r\n"
+
+#: .\pluginclass.cpp
+msgid "[CCL]Plug-in Thumbnails"
+msgstr "プラグインサムネイル"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Plug-ins"
+msgstr "プラグイン"
+
+#: .\options\useroption.cpp
+msgid "[UserOption]Preferences"
+msgstr "環境設定"
+
+#: .\presets\presetfile.cpp
+msgid "[FileType]Preset"
+msgstr "プリセット"
+
+#: .\presets\presetcollection.cpp
+msgid "[FileType]Preset Collection"
+msgstr "プリセットコレクション"
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]Preset file export failed."
+msgstr "プリセットファイルエクスポートに失敗しました。"
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]Preset:"
+msgstr "プリセット:"
+
+#: .\presets\presetbrowser.cpp .\presets\presetcomponent.cpp
+#: .\presets\presetmanager.cpp .\presets\presettrader.cpp
+msgid "[Command]Presets"
+msgstr "プリセット"
+
+#: .\presets\presetfile.cpp
+msgid "[FileType]Presets"
+msgstr "プリセット"
+
+#: .\browser\browser.cpp .\presets\presetbrowser.cpp
+msgid "[Command]Previous"
+msgstr "前"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Previous Tool"
+msgstr "前のツール"
+
+#: .\application.cpp
+msgid "[Command]Quit"
+msgstr "終了"
+
+#: .\presets\presetmanager.cpp
+msgid "[Command]Re-Index Presets"
+msgstr "プリセットの索引を再作成"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Recent"
+msgstr "最近使った項目"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Recent File"
+msgstr "最近使ったファイル"
+
+#: .\documents\recentdocuments.cpp
+msgid "[Documents]Recent Files"
+msgstr "最近使ったファイル"
+
+#: .\editing\tasks\edittaskcollection.cpp
+msgid "[EditTask]Recent items"
+msgstr "最近使った項目"
+
+#: .\actions\actionjournal.cpp
+msgid "[Action]Redo"
+msgstr "やり直す"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Redo"
+msgstr "やり直す"
+
+#: .\editing\editor.cpp
+msgid "[Edit]Redo"
+msgstr "やり直す"
+
+#: .\browser\browser.cpp
+msgid "[Browser]Refresh"
+msgstr "再読み込み"
+
+#: .\browser\browser.cpp .\navigation\navigatorbase.cpp
+msgid "[Command]Refresh"
+msgstr "再読み込み"
+
+#: .\fileinfo\pathclassifier.cpp
+msgid "[FileInfo]Remote"
+msgstr "リモート"
+
+#: .\fileinfo\pathclassifier.cpp
+msgid "[FileInfo]Removable Drive"
+msgstr "リムーバブルドライブ"
+
+#: .\presets\presetmanager.cpp
+msgid "[Command]Remove Plug-In Settings"
+msgstr "プラグイン設定を削除"
+
+#: .\datastore\tagstorecomponent.cpp
+msgid "[TagStore]Remove Tag"
+msgstr "タグを削除"
+
+#: .\documents\documentblocks.cpp
+msgid "[Documents]Remove from Recent Files list"
+msgstr "最近使ったファイルリストから削除"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Rename"
+msgstr "名前を変更"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Rename"
+msgstr "名前を変更"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Rename"
+msgstr "名前を変更"
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Command]Rename File"
+msgstr "ファイル名を変更"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Rename File"
+msgstr "ファイル名を変更"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Rename File..."
+msgstr "ファイル名を変更..."
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Rename Folder"
+msgstr "フォルダー名を変更"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Rename Folder..."
+msgstr "フォルダー名を変更..."
+
+#: .\presets\presetnode.cpp
+msgid "[Presets]Rename Preset..."
+msgstr "プリセット名を変更..."
+
+#: .\browser\browser.cpp
+msgid "[Browser]Rename Tab"
+msgstr "タブ名を変更"
+
+#: .\browser\browser.cpp
+msgid "[Command]Rename Tab"
+msgstr "タブ名を変更"
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]Replace"
+msgstr "置換"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Reset"
+msgstr "リセット"
+
+#: .\presets\presetmanager.cpp
+msgid "[Command]Reset Blocklist"
+msgstr "ブラックリストをリセット"
+
+#: .\browser\browser.cpp
+msgid "[Browser]Reset Root"
+msgstr "ルートをリセット"
+
+#: .\browser\browser.cpp
+msgid "[Command]Reset Root"
+msgstr "ルートをリセット"
+
+#: .\actions\trashbinpanel.cpp
+msgid "[TrashBin]Restore"
+msgstr "復元"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Restore Version"
+msgstr "バージョンを復元"
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]Restoring version \"%(1)\".\n\nDo you want to replace the saved version \"%(2)\" with the current state, or discard the current state?"
+msgstr "バージョン \"%(1)\" を復元しています。\n\n保存したバージョン \"%(2)\" と現在の状態を置換しますか、それとも現在の状態を破棄しますか？"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Revert"
+msgstr "元に戻す"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Revert"
+msgstr "元に戻す"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Save"
+msgstr "保存"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Save As"
+msgstr "別名で保存"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Save New Version"
+msgstr "新規バージョンを保存"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Save New Version"
+msgstr "新規バージョンを保存"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Save to New Folder"
+msgstr "新規フォルダーに保存"
+
+#: .\documents\packagedocument.cpp
+msgid "[Documents]Saving %(1)..."
+msgstr "%(1) を保存しています..."
+
+#: .\documents\packagedocument.cpp
+msgid "[Documents]Saving: %(1)..."
+msgstr "保存中: %(1)..."
+
+#: .\application.cpp
+msgid "[Application]Scanning Languages..."
+msgstr "言語をスキャンしています..."
+
+#: .\application.cpp
+msgid "[Application]Scanning Plug-Ins..."
+msgstr "プラグインをスキャンしています..."
+
+#: .\presets\presetmanager.cpp
+msgid "[Presets]Scanning Plug-Ins..."
+msgstr "プラグインをスキャンしています..."
+
+#: .\presets\presetmanager.cpp
+msgid "[Presets]Scanning Presets..."
+msgstr "プリセットをスキャンしています..."
+
+#: .\application.cpp
+msgid "[Application]Scanning Scripts..."
+msgstr "スクリプトをスキャンしています..."
+
+#: .\application.cpp
+msgid "[Application]Script folder not found at:\n"
+msgstr "次のロケーションにスクリプトフォルダーが見つかりません:\r\n"
+
+#: .\browser\searchcomponent.cpp
+msgid "[Command]Search"
+msgstr "検索"
+
+#: .\options\pathlist.cpp
+msgid "[PathList]Searching the root folder of a volume might be very slow.\n\nDo you really want to add %(1)?"
+msgstr "ボリュームのルートフォルダーの検索は非常に遅い場合があります。%(1) を追加しますか？"
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Select"
+msgstr "選択"
+
+#: .\editing\editor.cpp
+msgid "[Edit]Select All"
+msgstr "すべてを選択"
+
+#: .\editing\editor.cpp
+msgid "[Command]Select All"
+msgstr "すべてを選択"
+
+#: .\editing\tools\selecttool.cpp
+msgid "[Tools]Select Tool"
+msgstr "ツールを選択"
+
+#: .\options\pathlist.cpp
+msgid "[PathList]Select..."
+msgstr "選択..."
+
+#: .\options\serviceoption.cpp
+msgid "[UserOption]Services"
+msgstr "サービス"
+
+#: .\browser\browser.cpp
+msgid "[Browser]Set as Root"
+msgstr "ルートに設定"
+
+#: .\fileinfo\filerenamer.cpp
+msgid "[FileRenamer]Show Extension"
+msgstr "拡張子を表示"
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Browser]Show Package Contents"
+msgstr "パッケージ内容を表示"
+
+#: .\browser\searchresultlist.cpp
+msgid "[Search]Show in Context"
+msgstr "コンテキストに表示"
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Browser]Show in Explorer"
+msgstr "エクスプローラーに表示"
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Command]Show in Explorer/Finder"
+msgstr "エクスプローラー/Finderに表示"
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Browser]Show in Finder"
+msgstr "Finderに表示"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Some files could not be copied."
+msgstr "いくつかのファイルをコピーできませんでした。"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Some files could not be deleted."
+msgstr "いくつかのファイルを削除できませんでした。"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Some files could not be moved."
+msgstr "いくつかのファイルを移動できませんでした。"
+
+#: .\presets\presetmanager.cpp
+msgid "[Presets]Some plug-ins will be updated next time you start $APPNAME."
+msgstr "プラグインは $APPNAME の次回起動時に更新されます。"
+
+#: .\etc\multiprogress.cpp
+msgid "[MultiProgress]Step %(1) of %(2)"
+msgstr "手順 %(2) 中 %(1)"
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]Store %(1)..."
+msgstr "%(1)を保存..."
+
+#: .\presets\presetcomponent.cpp .\presets\presetdrag.cpp
+msgid "[Presets]Store Preset"
+msgstr "プリセットを保存"
+
+#: .\presets\presetcomponent.cpp
+msgid "[Command]Store Preset"
+msgstr "プリセットを保存"
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]Store Preset..."
+msgstr "プリセットを保存..."
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]Store as Default Preset"
+msgstr "デフォルトプリセットとして保存"
+
+#: .\presets\presetcomponent.cpp
+msgid "[Command]Store as Default Preset"
+msgstr "デフォルトプリセットとして保存"
+
+#: .\documents\documenttemplates.cpp
+msgid "[Documents]Templates"
+msgstr "テンプレート"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]The file \"%(1)\" could not be moved to trash.\n\nDo you want to permanently delete it?"
+msgstr "ファイル \"%(1)\" をゴミ箱へ移動できませんでした。完全に削除しますか？"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]The file %(1) could not be found!"
+msgstr "ファイル %(1) は見つかりませんでした。"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]The file format may not preserve all content."
+msgstr "このファイルフォーマットはすべてのコンテンツを保存しない可能性があります。"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]The file has been created with an older version of $APPNAME. After saving the file you will not be able to load it in the old version again.\n\nAre you sure you want to continue?"
+msgstr "このファイルは以前のバージョンの $APPNAME で作成されています。ファイルを保存すると、以前のバージョンでは使用できなくなります。\r\n\r\n続けますか？"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]The file is broken or could not be opened."
+msgstr "ファイルは破損しているか開けない可能性があります。"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]The file is in use."
+msgstr "ファイルは使用中です。"
+
+#: .\options\imageselector.cpp
+msgid "[ImageSelector]The image size is limited to %(1) x %(2). Do you want to scale the image?"
+msgstr "イメージサイズは %(1) x %(2) に制限されています。イメージのサイズを変更しますか？"
+
+#: .\documents\autosaver.cpp
+msgid "[Autosave]The original file will be kept as a version then."
+msgstr "その場合、元のファイルはバージョンとして保存されます。"
+
+#: .\documents\documenttemplates.cpp
+msgid "[Documents]The template could not be saved!"
+msgstr "テンプレートを保存できませんでした。"
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]These %(1) files could not be imported:"
+msgstr "%(1) のファイルをインポートできませんでした。"
+
+#: .\actions\trashbinpanel.cpp
+msgid "[TrashBin]These items could not be restored!"
+msgstr "これらのアイテムを復元できませんでした。"
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]This file could not be imported:"
+msgstr "このファイルをインポートできませんでした:"
+
+#: .\documents\packagedocument.cpp
+msgid "[Documents]This file is not compatible because it has been created with a newer version of $APPNAME.\n\nThis version: %(1)\nGenerator: %(2)"
+msgstr "このファイルは新しいバージョンの $APPNAME で作成されているため、互換性がありません。\n\nこのバージョン: %(1)\nジェネレーター: %(2)"
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]This file type already exists."
+msgstr "このファイルタイプはすでに存在します。"
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]This file type is invalid."
+msgstr "このファイルタイプは無効です。"
+
+#: .\actions\trashbinpanel.cpp
+msgid "[TrashBin]This item could not be restored!"
+msgstr "このアイテムを復元できませんでした。"
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]Title"
+msgstr "タイトル"
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Toggle Select"
+msgstr "選択を切り替え"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 1"
+msgstr "ツール1"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 10"
+msgstr "ツール10"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 2"
+msgstr "ツール2"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 3"
+msgstr "ツール3"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 4"
+msgstr "ツール4"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 5"
+msgstr "ツール5"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 6"
+msgstr "ツール6"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 7"
+msgstr "ツール7"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 8"
+msgstr "ツール8"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 9"
+msgstr "ツール9"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Toolbar"
+msgstr "ツールバー"
+
+#: .\options\mainoption.cpp
+msgid "[SliderMode]Touch"
+msgstr "タッチ"
+
+#: .\browser\pluginmanagement.cpp
+msgid "[PlugInManagement]Type"
+msgstr "タイプ"
+
+#: .\browser\pluginselector.cpp
+msgid "[PlugInSelector]Type"
+msgstr "タイプ"
+
+#: .\datastore\tagcategory.cpp
+msgid "[TagCategory]Type"
+msgstr "タイプ"
+
+#: .\actions\actionjournal.cpp
+msgid "[Action]Undo"
+msgstr "取り消す"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Undo"
+msgstr "取り消す"
+
+#: .\editing\editor.cpp
+msgid "[Edit]Undo"
+msgstr "取り消す"
+
+#: .\fileinfo\pathclassifier.cpp
+msgid "[FileInfo]Unknown"
+msgstr "不明"
+
+#: .\documents\documentblocks.cpp
+msgid "[Documents]Unpin document from Recent Files list"
+msgstr "ドキュメントを最近使ったファイルリストから外す"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Untitled"
+msgstr "名称未設定"
+
+#: .\browser\browser.cpp
+msgid "[Browser]Up"
+msgstr "上"
+
+#: .\presets\presetmanager.cpp
+msgid "[Command]Update Plug-Ins"
+msgstr "プラグインを更新"
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]Update Preset"
+msgstr "プリセットを更新"
+
+#: .\presets\presetcomponent.cpp
+msgid "[Command]Update Preset"
+msgstr "プリセットを更新"
+
+#: .\datastore\tagstore.cpp
+msgid "[TagStore]Updated tags in %(1)\n"
+msgstr "%(1) で更新されたタグ\n"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Use %(1) Format"
+msgstr "%(1) フォーマットを使用"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]User Data"
+msgstr "ユーザーデータ"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]User Interface"
+msgstr "ユーザーインターフェース"
+
+#: .\browser\pluginmanagement.cpp
+msgid "[PlugInManagement]Vendor"
+msgstr "ベンダー"
+
+#: .\browser\pluginselector.cpp
+msgid "[PlugInSelector]Vendor"
+msgstr "ベンダー"
+
+#: .\editing\addins\editaddindescription.cpp
+msgid "[Command]View"
+msgstr "表示"
+
+#: .\browser\pluginbrowser.cpp
+msgid "[Presets]Visible"
+msgstr "表示"
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Browser]Volumes"
+msgstr "ボリューム"
+
+#: .\application.cpp
+msgid "[Command]Website"
+msgstr "ウェブサイト"
+
+#: .\application.cpp
+msgid "[Application]Welcome to %(1)!"
+msgstr "%(1) へようこそ！"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]You do not have write permissions at this file location."
+msgstr "このファイルロケーションに書き込む権限がありません。"
+
+#: .\options\serviceoption.cpp
+msgid "[UserOption]Your changes will be applied next time you start $APPNAME."
+msgstr "変更は $APPNAME の次回起動時に適用されます。"
+
+#: .\editing\scaleview.cpp
+msgid "[Scale]Zoom"
+msgstr "ズーム"
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]default"
+msgstr "デフォルト"
+
+#: .\datastore\tagnodes.cpp
+msgid "[TagStore]other"
+msgstr "その他"
+
+#~ msgid "[Presets]Do you want to rescan blacklisted plug-ins next time you start $APPNAME?"
+#~ msgstr "ブラックリストに登録されているプラグインを $APPNAME の次回起動時に再スキャンしますか？"
+
+#~ msgid "[Command]Reset Blacklist"
+#~ msgstr "ブラックリストをリセット"
+
+#~ msgid "[Presets]Replace Preset"
+#~ msgstr "プリセットを置換"
+
+#~ msgid "[Command]Replace Preset"
+#~ msgstr "プリセットを置換"
+
+#~ msgid "[Application]An instance of %(1) is already running!"
+#~ msgstr "%(1) のインスタンスはすでに動作しています。"
+
+#~ msgid "[UserOption]Please note that third party plug-ins will appear smaller if they do not support scaling."
+#~ msgstr "スケーリングに対応していないサードパーティ製プラグインは小さめに表示されます。"
+
+#~ msgid "[Documents]Do you want to save a copy of %(1) as format %(2)?"
+#~ msgstr "%(1) のコピーを %(2) フォーマットとして保存しますか？"
+
+#~ msgid "[Documents]Loading %(1) canceled."
+#~ msgstr "%(1) の読み込みはキャンセルされました。"
+

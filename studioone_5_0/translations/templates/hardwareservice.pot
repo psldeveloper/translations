@@ -1,0 +1,8 @@
+#: .\plugversion.h
+msgid "[Hardware]PreSonus Hardware Support"
+msgstr ""
+
+#: .\plugmain.cpp
+msgid "[Hardware]Support for PreSonus Hardware Products"
+msgstr ""
+

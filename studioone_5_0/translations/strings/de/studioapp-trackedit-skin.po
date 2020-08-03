@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Add Tracks"
+msgstr "Spuren hinzufügen"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.AudioOptions]Ascending"
+msgstr "Aufsteigend"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.InstrumentOptions]Ascending"
+msgstr "Aufsteigend"
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Auto-Color"
+msgstr "Autom. Farbe"
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Color"
+msgstr "Farbe"
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Count"
+msgstr "Anzahl"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.InstrumentOptions]Existing Instrument"
+msgstr "Vorhandenes Instrument"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.AudioOptions]Format"
+msgstr "Format"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.AudioOptions]Input"
+msgstr "Eingang"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.InstrumentOptions]Input"
+msgstr "Eingang"
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Name"
+msgstr "Name"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.InstrumentOptions]New Instrument"
+msgstr "Neues Instrument"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.AudioOptions]Output"
+msgstr "Ausgang"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.InstrumentOptions]Output"
+msgstr "Ausgang"
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Pack Folder"
+msgstr "In Ordnerspur zusammenfassen"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.AudioOptions]Preset"
+msgstr "Preset"
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Type"
+msgstr "Typ"

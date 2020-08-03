@@ -1,0 +1,1 @@
+﻿Utilice con Axiom Pro 25, 49 o 61.Por favor seleccione los puertos Hypercontrol MIDI.PAD: 1-Guardar 2-Deshacer 3-Mixer 4-duplicar 5-RTZ 6-Selección de bucle 7-Autopunch 8-Ir a inicio de bucle. 9-Ir al final de bucle

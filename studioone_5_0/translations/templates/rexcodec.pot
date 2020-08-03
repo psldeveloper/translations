@@ -1,0 +1,4 @@
+#: .\rexcodec.cpp
+msgid "[FileType]REX File"
+msgstr ""
+

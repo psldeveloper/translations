@@ -1,0 +1,1508 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\application.cpp
+msgid "[Application]$APPNAME can not shutdown right now!"
+msgstr "$APPNAME无法马上关闭!"
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]%(1) File"
+msgstr "%(1)文件"
+
+#: .\documents\documenttemplates.cpp
+msgid "[Documents]%(1) already exists.\nDo you want to replace it?"
+msgstr "%(1)已经存在。\n是否替换?"
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]%(1) preset files were imported."
+msgstr "%(1) 预置文件已导入。"
+
+#: .\browser\pluginselector.cpp
+msgid "[PlugInSelector](Unknown Vendor)"
+msgstr "(未知供应商)"
+
+#: .\presets\presetbrowser.cpp
+msgid "[PresetBrowser](no presets)"
+msgstr "(无预置)"
+
+#: .\documents\autosaver.cpp
+msgid "[Autosave]A backup of the original file has been found."
+msgstr "找到一个原始文件的备份。"
+
+#: .\documents\autosaver.cpp
+msgid "[Autosave]A backup that is newer than the original file has been found."
+msgstr "找到一个新于原始文件的备份。"
+
+#: .\fileinfo\filerenamer.cpp
+msgid "[FileRenamer]A file with this name already exists."
+msgstr "已存在同名文件。"
+
+#: .\fileinfo\filerenamer.cpp
+msgid "[FileRenamer]A folder with this name already exists."
+msgstr "已存在同名文件夹。"
+
+#: .\presets\presetfileprimitives.cpp
+msgid "[Presets]A preset with this name already exists."
+msgstr "已存在同名预置。"
+
+#: .\application.cpp
+msgid "[Command]About"
+msgstr "关于"
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]Add File Type"
+msgstr "添加文件类型"
+
+#: .\datastore\tagstorecomponent.cpp
+msgid "[TagStore]Add Tag"
+msgstr "添加标签"
+
+#: .\browser\plugindraghander.cpp
+msgid "[PluginDraghandler]Add to Favorites"
+msgstr "添加至收藏夹"
+
+#: .\datastore\tagstorecomponent.cpp
+msgid "[TagStore]Adding Tags..."
+msgstr "添加标签中..."
+
+#: .\options\useroption.cpp
+msgid "[UserOption]Advanced"
+msgstr "高级"
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]Age"
+msgstr "存在时间"
+
+#: .\datastore\tagstore.cpp
+msgid "[TagStore]All tags are valid."
+msgstr "所有标签均有效。"
+
+#: .\application.cpp
+msgid "[Application]An instance of $APPNAME is already running."
+msgstr "实例$APPNAME已经运行!"
+
+#: .\fileinfo\filerenamer.cpp
+msgid "[FileRenamer]An object with this name already exists."
+msgstr "已存在同名对象。"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Appearance"
+msgstr "外观"
+
+#: .\application.cpp
+msgid "[Command]Application"
+msgstr "应用程序"
+
+#: .\actions\trashbinpanel.cpp
+msgid "[TrashBin]Are you sure you want to permanently delete these %(1) items?"
+msgstr "确认要永久删除这些%(1)项吗?"
+
+#: .\actions\trashbinpanel.cpp
+msgid "[TrashBin]Are you sure you want to permanently delete this item?"
+msgstr "确认要永久删除此项吗?"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Are you sure you want to reset the plug-in browser to default?"
+msgstr "是否确认将插件浏览器重置为默认设置？"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Are you sure you want to revert all changes?"
+msgstr "确认要恢复所有改变吗?"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Are you sure you want to revert your last plug-in browser changes?"
+msgstr "是否确实要恢复插件浏览器的上一次改变？"
+
+#: .\browser\browser.cpp
+msgid "[Command]Ascend Root"
+msgstr "升序排列根"
+
+#: .\browser\browser.cpp .\navigation\navigatorbase.cpp
+msgid "[Command]Back"
+msgstr "返回"
+
+#: .\browser\browser.cpp .\browser\filesystemnodes.cpp
+msgid "[Command]Browser"
+msgstr "浏览器"
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]But it's not a preset for %(1)!"
+msgstr "但它不是%(1)的预置!"
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]But none of them is a preset for %(1)!"
+msgstr "但其中没有%(1)的预置!"
+
+#: .\fileinfo\pathclassifier.cpp
+msgid "[FileInfo]CD/DVD Drive"
+msgstr "CD/DVD驱动器"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Can not close %(1) right now!"
+msgstr "无法立即关闭%(1)!"
+
+#: .\browser\pluginselector.cpp
+msgid "[PlugInSelector]Category"
+msgstr "类别"
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]Category"
+msgstr "类别"
+
+#: .\datastore\tagstore.cpp
+msgid "[TagStore]Checking files in \"%(1)\""
+msgstr "正在检查 \"%(1)\"中的文件"
+
+#: .\datastore\tagstore.cpp .\datastore\tagstorecomponent.cpp
+msgid "[TagStore]Cleanup Tags of Missing Files"
+msgstr "清除缺失文件的标签"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Clear Recent Files"
+msgstr "清除最近使用的文件"
+
+#: .\documents\recentdocuments.cpp
+msgid "[Documents]Clear Recent Files"
+msgstr "清除最近使用的文件"
+
+#: .\datastore\tagstorecomponent.cpp
+msgid "[TagStore]Clear Tags"
+msgstr "清除标签"
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]Click+Drag Preset"
+msgstr "点击并拖曳预置"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Close"
+msgstr "关闭"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Close All"
+msgstr "全部关闭"
+
+#: .\browser\browser.cpp
+msgid "[Browser]Close Tab"
+msgstr "关闭标签"
+
+#: .\browser\browser.cpp
+msgid "[Command]Close Tab"
+msgstr "关闭标签"
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Browser]Content"
+msgstr "内容"
+
+#: .\application.cpp
+msgid "[Command]Contents"
+msgstr "目录"
+
+#: .\application.cpp
+msgid "[Command]Context Help"
+msgstr "快捷帮助"
+
+#: .\browser\filedraghandler.cpp
+msgid "[FileDraghandler]Copy"
+msgstr "复制"
+
+#: .\editing\editor.cpp .\etc\batchoperation.cpp
+msgid "[Edit]Copy"
+msgstr "复制"
+
+#: .\editing\editor.cpp
+msgid "[Command]Copy"
+msgstr "复制"
+
+#: .\browser\filedraghandler.cpp
+msgid "[FileDraghandler]Copy to \"%(1)\""
+msgstr "复制到\"%(1)\""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Copying %(1)"
+msgstr "正在复制%(1)"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Copying files"
+msgstr "正在复制文件"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Could not load %(1)!"
+msgstr "无法加载%(1)!"
+
+#: .\fileinfo\filerenamer.cpp
+msgid "[FileRenamer]Could not rename this file."
+msgstr "无法重命名此文件。"
+
+#: .\fileinfo\filerenamer.cpp
+msgid "[FileRenamer]Could not rename this folder."
+msgstr "无法重命名此文件夹。"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Could not save %(1)!"
+msgstr "无法保存%(1)!"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Create new folder"
+msgstr "新建文件夹"
+
+#: .\editing\editor.cpp
+msgid "[Edit]Cut"
+msgstr "剪切"
+
+#: .\editing\editor.cpp
+msgid "[Command]Cut"
+msgstr "剪切"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Dark Mode"
+msgstr "夜间模式"
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]Date"
+msgstr "日期"
+
+#: .\actions\trashbinpanel.cpp
+msgid "[TrashBin]Delete"
+msgstr "删除"
+
+#: .\datastore\stringlistcomponent.cpp .\editing\editor.cpp
+msgid "[Command]Delete"
+msgstr "删除"
+
+#: .\editing\editor.cpp
+msgid "[Edit]Delete"
+msgstr "删除"
+
+#: .\presets\presetnode.cpp
+msgid "[Presets]Delete"
+msgstr "删除"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Delete File..."
+msgstr "删除文件..."
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Delete Folder..."
+msgstr "删除文件夹..."
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Delete Thumbnail"
+msgstr "删除缩略图"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Delete Undo History"
+msgstr "删除撤销记录"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Deleting %(1)"
+msgstr "正在删除%(1)"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Deleting Files"
+msgstr "正在删除文件"
+
+#: .\documents\documentmanager.cpp .\documents\documentversions.cpp
+msgid "[Documents]Description"
+msgstr "描述"
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]Description"
+msgstr "描述"
+
+#: .\editing\editor.cpp
+msgid "[Edit]Deselect All"
+msgstr "取消选择"
+
+#: .\editing\editor.cpp
+msgid "[Command]Deselect All"
+msgstr "取消选择"
+
+#: .\browser\filebrowser.cpp
+msgid "[Browser]Desktop"
+msgstr "桌面"
+
+#: .\options\serviceoption.cpp
+msgid "[UserOption]Disable"
+msgstr "禁用"
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]Discard"
+msgstr "放弃"
+
+#: .\documents\recentdocuments.cpp
+msgid "[Documents]Do you really want to clear the list of recent files?\n\nThis action can not be undone."
+msgstr "是否确实要清除最近使用的文件列表？\n\n此操作不可撤销。"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Do you really want to delete the Undo History?\n\nThis action can not be undone."
+msgstr "确认要删除撤销记录吗?\n\n此操作无法撤销。"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to copy these files to \"%(1)\"?"
+msgstr "是否将这些文件复制到\"%(1)\"?"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to copy this file to \"%(1)\"?"
+msgstr "是否将此文件复制到\"%(1)\"?"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to copy this folder to \"%(1)\"?"
+msgstr "是否将文件夹复制到\"%(1)\"?"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to delete these files permanently from disk?"
+msgstr "是否从磁盘中永久性删除这些文件?"
+
+#: .\presets\presetnode.cpp
+msgid "[Presets]Do you want to delete these presets?"
+msgstr "是否删除这些预置?"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to delete this file permanently from disk?"
+msgstr "是否从磁盘中永久性删除此文件?"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to delete this folder permanently from disk?"
+msgstr "是否从磁盘中永久性删除此文件夹?"
+
+#: .\presets\presetnode.cpp
+msgid "[Presets]Do you want to delete this preset?"
+msgstr "是否删除此预置?"
+
+#: .\documents\autosaver.cpp
+msgid "[Autosave]Do you want to keep the backup as a version?"
+msgstr "是否保留备份作为一个版本?"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Do you want to merge into %(1)?"
+msgstr "是否要合并至%(1)?"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to move these files to \"%(1)\"?"
+msgstr "是否将这些文件移至\"%(1)\"?"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to move this file to \"%(1)\"?"
+msgstr "是否将此文件移至\"%(1)\"?"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to move this folder to \"%(1)\"?"
+msgstr "是否将文件夹移至\"%(1)\"?"
+
+#: .\documents\autosaver.cpp
+msgid "[Autosave]Do you want to open the backup?"
+msgstr "是否打开备份？"
+
+#: .\presets\presetmanager.cpp
+msgid "[Presets]Do you want to remove all plug-in settings and perform a full rescan next time you start $APPNAME?"
+msgstr "是否要删除所有插件设置并在下次启动 $APPNAME 时执行完全重新扫描？"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Do you want to remove the reference to it from the Recent list?"
+msgstr "是否将其从最近使用的文件列表中移除?"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Do you want to remove these folders?"
+msgstr "是否确认移除这些文件夹？"
+
+#: .\datastore\tagstore.cpp
+msgid "[TagStore]Do you want to remove these tag entries for non-existing files?"
+msgstr "是否确定移除这些不存在文件的标签？"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Do you want to remove this folder?"
+msgstr "是否确认移除此文件夹？"
+
+#: .\presets\presetmanager.cpp
+msgid "[Presets]Do you want to rescan blocked plug-ins next time you start $APPNAME?"
+msgstr "是否在下次启动$APPNAME时重新扫描黑名单中的插件?"
+
+#: .\application.cpp
+msgid "[Application]Do you want to restart $APPNAME now?"
+msgstr "是否现在重启$APPNAME？"
+
+#: .\options\commandoption.cpp
+msgid "[UserOption]Do you want to revert the keyboard mapping scheme to \"%(1)\"?"
+msgstr "是否将键盘映射方案恢复为\"%(1)\"?"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Do you want to save a copy of %(1) as file format \"%(2)\"?"
+msgstr "是否将%(1)的副本保存为 \"%(2)\"的文件格式？"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Do you want to save your changes in %(1)?"
+msgstr "是否将改变保存到%(1)?"
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]Do you want to store the current settings as default preset?"
+msgstr "是否将当前设置保存为默认预置?"
+
+#: .\browser\filebrowser.cpp
+msgid "[Browser]Documents"
+msgstr "文档"
+
+#: .\browser\filexportdraghandler.cpp
+msgid "[FileExport]Download"
+msgstr "下载"
+
+#: .\browser\filexportdraghandler.cpp
+msgid "[FileExport]Download to \"%(1)\""
+msgstr "下载至\"%(1)\""
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Drag"
+msgstr "拖曳"
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Draw Selection"
+msgstr "绘制所选"
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Draw Selection (add)"
+msgstr "绘制所选 (添加)"
+
+#: .\browser\searchcomponent.cpp .\datastore\stringlistcomponent.cpp
+#: .\documents\documentmanager.cpp .\editing\editor.cpp
+msgid "[Command]Edit"
+msgstr "编辑"
+
+#: .\documents\notepad.cpp
+msgid "[Notepad]Edit Note..."
+msgstr "编辑记录…"
+
+#: .\actions\trashbinpanel.cpp
+msgid "[TrashBin]Empty Trash Bin"
+msgstr "清空回收站"
+
+#: .\options\serviceoption.cpp
+msgid "[UserOption]Enable"
+msgstr "启用"
+
+#: .\browser\browser.cpp
+msgid "[Command]Enter"
+msgstr "Enter"
+
+#: .\browser\filexportdraghandler.cpp
+msgid "[FileExport]Export"
+msgstr "导出"
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]Export %(1)..."
+msgstr "导出%(1)..."
+
+#: .\presets\presettrader.cpp
+msgid "[Command]Export Preset"
+msgstr "导出预置"
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]Export Preset..."
+msgstr "导出预置..."
+
+#: .\options\commandoption.cpp
+msgid "[UserOption]Export as Text..."
+msgstr "导出为文本..."
+
+#: .\browser\filexportdraghandler.cpp
+msgid "[FileExport]Export to \"%(1)\""
+msgstr "导出到\"%(1)\""
+
+#: .\options\commandoption.cpp
+msgid "[UserOption]Export..."
+msgstr "导出..."
+
+#: .\fileinfo\fileexporter.cpp
+msgid "[FileExporter]Exported"
+msgstr "已导出"
+
+#: .\fileinfo\fileexporter.cpp
+msgid "[FileExporter]Exporting"
+msgstr "正在导出"
+
+#: .\fileinfo\fileexporter.cpp
+msgid "[FileExporter]Exporting %(1)"
+msgstr "正在导出%(1)"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Exporting %(1)..."
+msgstr "正在导出: %(1)..."
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]Extension"
+msgstr "扩展"
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Browser]Extract Here"
+msgstr "解压到此处"
+
+#: .\application.cpp
+msgid "[Application]Failed to load Application Theme!"
+msgstr "程序主题加载失败。"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Favorite"
+msgstr "收藏夹"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Favorites"
+msgstr "收藏夹"
+
+#: .\application.cpp .\documents\documentmanager.cpp
+msgid "[Command]File"
+msgstr "文件"
+
+#: .\etc\batchoperation.cpp
+msgid "[FileOperations]File %(1) of %(2)"
+msgstr "文件%(1)，共%(2)个"
+
+#: .\fileinfo\filepreviewcomponent.cpp
+msgid "[FileInfo]File information"
+msgstr "文件信息"
+
+#: .\browser\pluginselector.cpp
+msgid "[PlugInSelector]Flat"
+msgstr "平铺"
+
+#: .\browser\pluginmanagement.cpp
+msgid "[PlugInManagement]Folder"
+msgstr "文件夹"
+
+#: .\browser\pluginselector.cpp
+msgid "[PlugInSelector]Folder"
+msgstr "文件夹"
+
+#: .\fileinfo\fileinfocomponent.cpp
+msgid "[FileInfo]Folder"
+msgstr "文件夹"
+
+#: .\browser\searchresultlist.cpp
+msgid "[Search]Folders"
+msgstr "文件夹"
+
+#: .\navigation\navigatorbase.cpp
+msgid "[Command]Forward"
+msgstr "快进"
+
+#: .\options\useroption.cpp
+msgid "[UserOption]General"
+msgstr "常规"
+
+#: .\application.cpp
+msgid "[Command]Help"
+msgstr "帮助"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Hide"
+msgstr "隐藏"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]High DPI Mode will be changed next time you start $APPNAME."
+msgstr "高DPI模式将在下次启动$APPNAME时更改。"
+
+#: .\navigation\navigatorbase.cpp
+msgid "[Command]Home"
+msgstr "主页"
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]Icon"
+msgstr "图标"
+
+#: .\presets\presettrader.cpp
+msgid "[Command]Import Preset"
+msgstr "导入预置"
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]Import Preset..."
+msgstr "导入预置..."
+
+#: .\browser\pluginbrowser.cpp
+msgid "[Presets]Import Presets"
+msgstr "导入预置"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Import as format"
+msgstr "导入为格式"
+
+#: .\options\commandoption.cpp
+msgid "[UserOption]Import..."
+msgstr "导入..."
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Importing %(1)..."
+msgstr "正在导入: %(1)..."
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]Importing Preset"
+msgstr "正在导入预置..."
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Incremental version"
+msgstr "增量版本"
+
+#: .\browser\browser.cpp
+msgid "[Command]Insert Selected Item"
+msgstr " 插入选定项目"
+
+#: .\editing\editor.cpp
+msgid "[Command]Invert Selection"
+msgstr "反转所选"
+
+#: .\options\mainoption.cpp
+msgid "[SliderMode]Jump"
+msgstr "跳进"
+
+#: .\application.cpp
+msgid "[Command]Keyboard Shortcuts"
+msgstr "键盘快捷键"
+
+#: .\options\commandoption.cpp
+msgid "[UserOption]Keyboard Shortcuts"
+msgstr "键盘快捷键"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Language"
+msgstr "语言"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Language will be changed next time you start $APPNAME."
+msgstr "新语言将在重新启动$APPNAME后应用。"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Light Mode"
+msgstr "日间模式"
+
+#: .\options\mainoption.cpp
+msgid "[KnobMode]Linear"
+msgstr "线性"
+
+#: .\presets\presetcomponent.cpp .\presets\presettrader.cpp
+msgid "[Presets]Load Preset"
+msgstr "加载预置"
+
+#: .\presets\presettrader.cpp
+msgid "[Command]Load Preset File"
+msgstr "加载预置文件"
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]Load Preset File..."
+msgstr "加载预置文件..."
+
+#: .\documents\packagedocument.cpp
+msgid "[Documents]Loading %(1)..."
+msgstr "正在加载%(1)..."
+
+#: .\documents\packagedocument.cpp
+msgid "[Documents]Loading: %(1)..."
+msgstr "正在加载: %(1)..."
+
+#: .\fileinfo\pathclassifier.cpp
+msgid "[FileInfo]Local"
+msgstr "本地"
+
+#: .\options\mainoption.cpp .\options\useroption.cpp
+msgid "[UserOption]Locations"
+msgstr "位置"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Merge"
+msgstr "合并"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Merging %(1)..."
+msgstr "正在合并 %(1)..."
+
+#: .\browser\filedraghandler.cpp
+msgid "[FileDraghandler]Move"
+msgstr "移动"
+
+#: .\editing\scaleview.cpp
+msgid "[Scale]Move"
+msgstr "移动"
+
+#: .\browser\filedraghandler.cpp
+msgid "[FileDraghandler]Move to \"%(1)\""
+msgstr "移至\"%(1)\""
+
+#: .\browser\plugindraghander.cpp
+msgid "[PluginDraghandler]Move to \"%(1)\""
+msgstr "移至\"%(1)\""
+
+#: .\browser\plugindraghander.cpp
+msgid "[PluginDraghandler]Move to Root"
+msgstr "移至根"
+
+#: .\editing\scaleview.cpp
+msgid "[Scale]Move, Zoom"
+msgstr "移动, 缩放"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Moving %(1)"
+msgstr "正在移动%(1)"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Moving files"
+msgstr "正在移动文件"
+
+#: .\browser\filebrowser.cpp
+msgid "[Browser]Music"
+msgstr " 音乐"
+
+#: .\browser\pluginmanagement.cpp
+msgid "[PlugInManagement]Name"
+msgstr "名称"
+
+#: .\browser\browser.cpp .\editing\editor.cpp .\itemlist\listitemcomponent.cpp
+#: .\navigation\navigatorbase.cpp
+msgid "[Command]Navigation"
+msgstr "导航"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]New"
+msgstr "新建"
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Command]New Folder"
+msgstr "新建文件夹"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]New Folder..."
+msgstr "新建文件夹..."
+
+#: .\itemlist\showhidefilter.cpp
+msgid "[ShowHideFilter]New Preset"
+msgstr "新建预置"
+
+#: .\browser\browser.cpp
+msgid "[Browser]New Root Tab"
+msgstr "新建根标签"
+
+#: .\browser\browser.cpp
+msgid "[Command]New Root Tab"
+msgstr "新建根标签"
+
+#: .\browser\browser.cpp
+msgid "[Browser]New Tab"
+msgstr "新建标签"
+
+#: .\browser\browser.cpp
+msgid "[Command]New Tab"
+msgstr "新建标签"
+
+#: .\browser\browser.cpp
+msgid "[Browser]New Tab From Here"
+msgstr "从此处新建标签"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]New folder"
+msgstr "新建文件夹"
+
+#: .\browser\browser.cpp .\presets\presetbrowser.cpp
+msgid "[Command]Next"
+msgstr "下一个"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Next Tool"
+msgstr "下一个工具"
+
+#: .\presets\presetparam.cpp
+msgid "[Presets]No Preset"
+msgstr "无预置"
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]No other versions of \"%(1)\" were saved."
+msgstr "未保存无其他版本的\"%(1)\"。"
+
+#: .\editing\tasks\edittaskcollection.cpp
+msgid "[EditTask]No recent items"
+msgstr "无最近使用的项"
+
+#: .\documents\documentblocks.cpp
+msgid "[Documents]No versions found."
+msgstr "未找到版本。"
+
+#: .\browser\pluginselector.cpp
+msgid "[PlugInSelector]None"
+msgstr "无"
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]One preset file was imported."
+msgstr "已导入一个预置文件。"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Open"
+msgstr "打开"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Open %(1):"
+msgstr "打开 %(1):"
+
+#: .\application.cpp
+msgid "[Command]Open Settings Folder"
+msgstr "打开设置文件夹"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Open files:"
+msgstr "打开文件:"
+
+#: .\application.cpp
+msgid "[Command]Options"
+msgstr "选项"
+
+#: .\options\useroption.cpp
+msgid "[UserOption]Options"
+msgstr "选项"
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]Original"
+msgstr "原始"
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Browser]Packages"
+msgstr "包"
+
+#: .\editing\editor.cpp
+msgid "[Edit]Paste"
+msgstr "粘贴"
+
+#: .\editing\editor.cpp
+msgid "[Command]Paste"
+msgstr "粘贴"
+
+#: .\documents\documentblocks.cpp
+msgid "[Documents]Pin document to Recent Files list"
+msgstr "将文件固定在最近使用的文件列表中"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Please note that third-party plug-ins will appear smaller if they do not support scaling."
+msgstr "请注意，第三方插件如不支持缩放，则会显示得较小。"
+
+#: .\application.cpp
+msgid "[Application]Please restart $APPNAME for the changes to take effect."
+msgstr "重启$APPNAME以使改变生效。"
+
+#: .\documents\documentdialog.cpp
+msgid "[Documents]Please supply a filename."
+msgstr "请提供文件名。"
+
+#: .\application.cpp
+msgid "[Application]Plug-In folder not found at:\n"
+msgstr "此处没有找到插件文件夹:\n"
+
+#: .\pluginclass.cpp
+msgid "[CCL]Plug-in Thumbnails"
+msgstr " 插件缩略图"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Plug-ins"
+msgstr "插件"
+
+#: .\options\useroption.cpp
+msgid "[UserOption]Preferences"
+msgstr "偏好"
+
+#: .\presets\presetfile.cpp
+msgid "[FileType]Preset"
+msgstr "预置"
+
+#: .\presets\presetcollection.cpp
+msgid "[FileType]Preset Collection"
+msgstr "预置合集"
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]Preset file export failed."
+msgstr "预置文件导出失败。"
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]Preset:"
+msgstr "预置:"
+
+#: .\presets\presetbrowser.cpp .\presets\presetcomponent.cpp
+#: .\presets\presetmanager.cpp .\presets\presettrader.cpp
+msgid "[Command]Presets"
+msgstr "预置"
+
+#: .\presets\presetfile.cpp
+msgid "[FileType]Presets"
+msgstr "预置"
+
+#: .\browser\browser.cpp .\presets\presetbrowser.cpp
+msgid "[Command]Previous"
+msgstr "上一个"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Previous Tool"
+msgstr "上一个工具"
+
+#: .\application.cpp
+msgid "[Command]Quit"
+msgstr "退出"
+
+#: .\presets\presetmanager.cpp
+msgid "[Command]Re-Index Presets"
+msgstr "重索引预置"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Recent"
+msgstr "最近的"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Recent File"
+msgstr "最近使用的文件"
+
+#: .\documents\recentdocuments.cpp
+msgid "[Documents]Recent Files"
+msgstr "最近使用的文件"
+
+#: .\editing\tasks\edittaskcollection.cpp
+msgid "[EditTask]Recent items"
+msgstr "最近使用的项"
+
+#: .\actions\actionjournal.cpp
+msgid "[Action]Redo"
+msgstr "重做"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Redo"
+msgstr "重做"
+
+#: .\editing\editor.cpp
+msgid "[Edit]Redo"
+msgstr "重做"
+
+#: .\browser\browser.cpp
+msgid "[Browser]Refresh"
+msgstr "刷新"
+
+#: .\browser\browser.cpp .\navigation\navigatorbase.cpp
+msgid "[Command]Refresh"
+msgstr "刷新"
+
+#: .\fileinfo\pathclassifier.cpp
+msgid "[FileInfo]Remote"
+msgstr "远程"
+
+#: .\fileinfo\pathclassifier.cpp
+msgid "[FileInfo]Removable Drive"
+msgstr "移动硬盘"
+
+#: .\presets\presetmanager.cpp
+msgid "[Command]Remove Plug-In Settings"
+msgstr "删除插件设置"
+
+#: .\datastore\tagstorecomponent.cpp
+msgid "[TagStore]Remove Tag"
+msgstr "移除标签"
+
+#: .\documents\documentblocks.cpp
+msgid "[Documents]Remove from Recent Files list"
+msgstr "从最近使用的文件列表中移除"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Rename"
+msgstr "重命名"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Rename"
+msgstr "重命名"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Rename"
+msgstr "重命名"
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Command]Rename File"
+msgstr "重命名文件"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Rename File"
+msgstr "重命名文件"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Rename File..."
+msgstr "重命名文件..."
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Rename Folder"
+msgstr "重命名文件夹"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Rename Folder..."
+msgstr "重命名文件夹..."
+
+#: .\presets\presetnode.cpp
+msgid "[Presets]Rename Preset..."
+msgstr "重命名预置..."
+
+#: .\browser\browser.cpp
+msgid "[Browser]Rename Tab"
+msgstr "重命名标签"
+
+#: .\browser\browser.cpp
+msgid "[Command]Rename Tab"
+msgstr "重命名标签"
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]Replace"
+msgstr "替换"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Reset"
+msgstr "重置"
+
+#: .\presets\presetmanager.cpp
+msgid "[Command]Reset Blocklist"
+msgstr "重置黑名单"
+
+#: .\browser\browser.cpp
+msgid "[Browser]Reset Root"
+msgstr "重置根"
+
+#: .\browser\browser.cpp
+msgid "[Command]Reset Root"
+msgstr "重置根"
+
+#: .\actions\trashbinpanel.cpp
+msgid "[TrashBin]Restore"
+msgstr "还原"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Restore Version"
+msgstr "还原版本"
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]Restoring version \"%(1)\".\n\nDo you want to replace the saved version \"%(2)\" with the current state, or discard the current state?"
+msgstr "正在还原版本 \"%(1)\".\n\n是否要将保存的版本 \"%(2)\" 替换为当前状态，或放弃当前状态？"
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Revert"
+msgstr "恢复"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Revert"
+msgstr "恢复"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Save"
+msgstr "保存"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Save As"
+msgstr "另存为"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Save New Version"
+msgstr "保存新版本"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Save New Version"
+msgstr "保存新版本"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Save to New Folder"
+msgstr "保存到新建文件夹"
+
+#: .\documents\packagedocument.cpp
+msgid "[Documents]Saving %(1)..."
+msgstr "正在保存%(1)..."
+
+#: .\documents\packagedocument.cpp
+msgid "[Documents]Saving: %(1)..."
+msgstr "正在保存: %(1)..."
+
+#: .\application.cpp
+msgid "[Application]Scanning Languages..."
+msgstr "正在扫描语言..."
+
+#: .\application.cpp
+msgid "[Application]Scanning Plug-Ins..."
+msgstr "正在扫描插件..."
+
+#: .\presets\presetmanager.cpp
+msgid "[Presets]Scanning Plug-Ins..."
+msgstr "正在扫描插件..."
+
+#: .\presets\presetmanager.cpp
+msgid "[Presets]Scanning Presets..."
+msgstr "正在扫描预置..."
+
+#: .\application.cpp
+msgid "[Application]Scanning Scripts..."
+msgstr "正在扫描脚本..."
+
+#: .\application.cpp
+msgid "[Application]Script folder not found at:\n"
+msgstr "此处没有找到脚本文件夹:\n"
+
+#: .\browser\searchcomponent.cpp
+msgid "[Command]Search"
+msgstr "搜索"
+
+#: .\options\pathlist.cpp
+msgid "[PathList]Searching the root folder of a volume might be very slow.\n\nDo you really want to add %(1)?"
+msgstr "从根目录下开始搜索可能耗时很长。\n\n确认要添加%(1)吗?"
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Select"
+msgstr "选择"
+
+#: .\editing\editor.cpp
+msgid "[Edit]Select All"
+msgstr "全选"
+
+#: .\editing\editor.cpp
+msgid "[Command]Select All"
+msgstr "全选"
+
+#: .\editing\tools\selecttool.cpp
+msgid "[Tools]Select Tool"
+msgstr "选择工具"
+
+#: .\options\pathlist.cpp
+msgid "[PathList]Select..."
+msgstr "选择..."
+
+#: .\options\serviceoption.cpp
+msgid "[UserOption]Services"
+msgstr "服务"
+
+#: .\browser\browser.cpp
+msgid "[Browser]Set as Root"
+msgstr "设置为根"
+
+#: .\fileinfo\filerenamer.cpp
+msgid "[FileRenamer]Show Extension"
+msgstr "显示扩展"
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Browser]Show Package Contents"
+msgstr "显示包目录"
+
+#: .\browser\searchresultlist.cpp
+msgid "[Search]Show in Context"
+msgstr "在上下文中显示"
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Browser]Show in Explorer"
+msgstr "在资源管理器中显示"
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Command]Show in Explorer/Finder"
+msgstr "在资源管理器/Finder中显示"
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Browser]Show in Finder"
+msgstr "在Finder中显示"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Some files could not be copied."
+msgstr "某些文件无法复制。"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Some files could not be deleted."
+msgstr "某些文件无法删除。"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Some files could not be moved."
+msgstr "某些文件无法移动。"
+
+#: .\presets\presetmanager.cpp
+msgid "[Presets]Some plug-ins will be updated next time you start $APPNAME."
+msgstr "部分插件将在下次启动$APPNAME时更新。"
+
+#: .\etc\multiprogress.cpp
+msgid "[MultiProgress]Step %(1) of %(2)"
+msgstr "步骤%(1)/%(2)"
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]Store %(1)..."
+msgstr "存储%(1)..."
+
+#: .\presets\presetcomponent.cpp .\presets\presetdrag.cpp
+msgid "[Presets]Store Preset"
+msgstr "存储预置"
+
+#: .\presets\presetcomponent.cpp
+msgid "[Command]Store Preset"
+msgstr "存储预置"
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]Store Preset..."
+msgstr "存储预置..."
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]Store as Default Preset"
+msgstr "存储为默认预置"
+
+#: .\presets\presetcomponent.cpp
+msgid "[Command]Store as Default Preset"
+msgstr "存储为默认预置"
+
+#: .\documents\documenttemplates.cpp
+msgid "[Documents]Templates"
+msgstr " 模板"
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]The file \"%(1)\" could not be moved to trash.\n\nDo you want to permanently delete it?"
+msgstr "无法将文件\"%(1)\"移至回收站。\n\n是否永久性删除?"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]The file %(1) could not be found!"
+msgstr "无法找到文件%(1)!"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]The file format may not preserve all content."
+msgstr "该文件格式可能无法保留全部内容。"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]The file has been created with an older version of $APPNAME. After saving the file you will not be able to load it in the old version again.\n\nAre you sure you want to continue?"
+msgstr "此文件是旧版本$APPNAME所创建的。保存后将无法在旧版本中打开。\n\n确认要继续吗?"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]The file is broken or could not be opened."
+msgstr "文件损坏或者无法打开。"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]The file is in use."
+msgstr "文件正在使用。"
+
+#: .\options\imageselector.cpp
+msgid "[ImageSelector]The image size is limited to %(1) x %(2). Do you want to scale the image?"
+msgstr "图像大小限制为%(1) x %(2)。是否进行缩放?"
+
+#: .\documents\autosaver.cpp
+msgid "[Autosave]The original file will be kept as a version then."
+msgstr "原始文件将保存为一个版本。"
+
+#: .\documents\documenttemplates.cpp
+msgid "[Documents]The template could not be saved!"
+msgstr "无法保存此模板!"
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]These %(1) files could not be imported:"
+msgstr "无法导入这些%(1)文件:"
+
+#: .\actions\trashbinpanel.cpp
+msgid "[TrashBin]These items could not be restored!"
+msgstr "无法还原这些项!"
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]This file could not be imported:"
+msgstr "无法导入此文件:"
+
+#: .\documents\packagedocument.cpp
+msgid "[Documents]This file is not compatible because it has been created with a newer version of $APPNAME.\n\nThis version: %(1)\nGenerator: %(2)"
+msgstr "[Documents]此文件不兼容，因为它为更新版本的$APPNAME所创建。\n\n本版本是: %(1)\n生成器: %(2)"
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]This file type already exists."
+msgstr "文件类型已经存在。"
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]This file type is invalid."
+msgstr "文件类型无效。"
+
+#: .\actions\trashbinpanel.cpp
+msgid "[TrashBin]This item could not be restored!"
+msgstr "无法还原此项!"
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]Title"
+msgstr "标题"
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Toggle Select"
+msgstr "切换选择"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 1"
+msgstr "工具 1"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 10"
+msgstr " 10 号工具"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 2"
+msgstr "工具 2"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 3"
+msgstr "工具 3"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 4"
+msgstr "工具 4"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 5"
+msgstr "工具 5"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 6"
+msgstr "工具 6"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 7"
+msgstr "工具 7"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 8"
+msgstr "工具 8"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 9"
+msgstr "工具 9"
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Toolbar"
+msgstr "工具栏"
+
+#: .\options\mainoption.cpp
+msgid "[SliderMode]Touch"
+msgstr "触控"
+
+#: .\browser\pluginmanagement.cpp
+msgid "[PlugInManagement]Type"
+msgstr "类型"
+
+#: .\browser\pluginselector.cpp
+msgid "[PlugInSelector]Type"
+msgstr "类型"
+
+#: .\datastore\tagcategory.cpp
+msgid "[TagCategory]Type"
+msgstr "类型"
+
+#: .\actions\actionjournal.cpp
+msgid "[Action]Undo"
+msgstr "撤销"
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Undo"
+msgstr "撤销"
+
+#: .\editing\editor.cpp
+msgid "[Edit]Undo"
+msgstr "撤销"
+
+#: .\fileinfo\pathclassifier.cpp
+msgid "[FileInfo]Unknown"
+msgstr "未知"
+
+#: .\documents\documentblocks.cpp
+msgid "[Documents]Unpin document from Recent Files list"
+msgstr "在最近使用的文件列表中取消固定文件"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Untitled"
+msgstr "无标题"
+
+#: .\browser\browser.cpp
+msgid "[Browser]Up"
+msgstr "向上"
+
+#: .\presets\presetmanager.cpp
+msgid "[Command]Update Plug-Ins"
+msgstr "更新插件"
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]Update Preset"
+msgstr " 更新预设"
+
+#: .\presets\presetcomponent.cpp
+msgid "[Command]Update Preset"
+msgstr " 更新预设"
+
+#: .\datastore\tagstore.cpp
+msgid "[TagStore]Updated tags in %(1)\n"
+msgstr "已更新%(1)中的标签\n"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Use %(1) Format"
+msgstr "使用 %(1) 格式"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]User Data"
+msgstr "用户数据"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]User Interface"
+msgstr "用户界面"
+
+#: .\browser\pluginmanagement.cpp
+msgid "[PlugInManagement]Vendor"
+msgstr "供应商"
+
+#: .\browser\pluginselector.cpp
+msgid "[PlugInSelector]Vendor"
+msgstr "供应商"
+
+#: .\editing\addins\editaddindescription.cpp
+msgid "[Command]View"
+msgstr "查看"
+
+#: .\browser\pluginbrowser.cpp
+msgid "[Presets]Visible"
+msgstr "可见"
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Browser]Volumes"
+msgstr "卷"
+
+#: .\application.cpp
+msgid "[Command]Website"
+msgstr "网站"
+
+#: .\application.cpp
+msgid "[Application]Welcome to %(1)!"
+msgstr "欢迎使用%(1)!"
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]You do not have write permissions at this file location."
+msgstr "没有此文件位置的写入权限。"
+
+#: .\options\serviceoption.cpp
+msgid "[UserOption]Your changes will be applied next time you start $APPNAME."
+msgstr "改变将在重新启动$APPNAME后生效。"
+
+#: .\editing\scaleview.cpp
+msgid "[Scale]Zoom"
+msgstr "缩放"
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]default"
+msgstr "默认"
+
+#: .\datastore\tagnodes.cpp
+msgid "[TagStore]other"
+msgstr "其他"
+
+#~ msgid "[Presets]Do you want to rescan blacklisted plug-ins next time you start $APPNAME?"
+#~ msgstr "是否在下次启动$APPNAME时重新扫描黑名单中的插件?"
+
+#~ msgid "[Command]Reset Blacklist"
+#~ msgstr "重置黑名单"
+
+#~ msgid "[Presets]Replace Preset"
+#~ msgstr "替换预置"
+
+#~ msgid "[Command]Replace Preset"
+#~ msgstr "替换预置"
+
+#~ msgid "[Application]An instance of %(1) is already running!"
+#~ msgstr "实例%(1)已经运行!"
+
+#~ msgid "[UserOption]Please note that third party plug-ins will appear smaller if they do not support scaling."
+#~ msgstr "请注意，若第三方插件无法适应缩放比例，则其或被缩小显示。"
+
+#~ msgid "[Autosave]Do you want to open the backup? The original file will be kept as a version then."
+#~ msgstr "是否打开备份？打开后源文件将被保存为一个版本。"
+
+#~ msgid "[Documents]Do you want to save a copy of %(1) as format %(2)?"
+#~ msgstr "是否将%(1)的副本保存为格式%(2)?"
+
+#~ msgid "[Documents]Loading %(1) canceled."
+#~ msgstr "取消加载%(1)."
+

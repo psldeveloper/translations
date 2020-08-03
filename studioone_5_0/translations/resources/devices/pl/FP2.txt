@@ -1,0 +1,1 @@
+Przełącz FaderPort do trybu natywnego przed użyciem z Studio One.

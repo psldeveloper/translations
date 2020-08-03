@@ -1,0 +1,547 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\audiochannel.xml
+msgid "[PlugInSelectorMenuWide]$title"
+msgstr "$title"
+
+#: .\audiochannel.xml
+msgid "[SendMicroViewSimpleSlider]$tooltip"
+msgstr "$tooltip"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioMeter.Narrow]0"
+msgstr "0"
+
+#: .\audiochannel.small.xml
+msgid "[OutputChannelLevelSection]0"
+msgstr "0"
+
+#: .\audiochannel.small.xml
+msgid "[ChannelMeterDisplay]@property[parent.controller.editGroup]"
+msgstr "@property[parent.controller.editGroup]"
+
+#: .\audiochannel.xml
+msgid "[AudioSendRackSlotView]@value[]"
+msgstr "@value[]"
+
+#: .\audiochannel.xml
+msgid "[AudioFXRackSlotView]Activate"
+msgstr "Activar"
+
+#: .\audiochannel.xml
+msgid "[AudioSendRackSlotView]Activate"
+msgstr "Activar"
+
+#: .\audiochannel.xml
+msgid "[MixFXRackSlotView]Activate"
+msgstr "Activar"
+
+#: .\audiochannel.xml
+msgid "[AudioInserts]Activate All"
+msgstr "Activar todo"
+
+#: .\audiochannel.xml
+msgid "[PostFaderInserts]Activate All"
+msgstr "Activar todo"
+
+#: .\audiochannel.xml
+msgid "[AudioSends]Activate All"
+msgstr "Activar todo"
+
+#: .\audiochannel.xml
+msgid "[AudioSendsCueMixEmbedded]Activate All"
+msgstr "Activar todo"
+
+#: .\audiochannel.xml
+msgid "[AudioInserts]Add Insert"
+msgstr "Agregar insert"
+
+#: .\audiochannel.xml
+msgid "[PostFaderInserts]Add Insert"
+msgstr "Agregar insert"
+
+#: .\audiochannel.xml
+msgid "[AudioSends]Add Send"
+msgstr "Agregar envío"
+
+#: .\audiochannel.xml
+msgid "[AudioSendsCueMixEmbedded]Add Send"
+msgstr "Agregar envío"
+
+#: .\audiochannel.xml
+msgid "[RemoteFXRackSlotView]Apply DSP to Input Signal"
+msgstr "Aplicar DSP a entrada"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]Automation Mode"
+msgstr "Modo de automatización"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Small.Narrow.Content]Automation Mode"
+msgstr "Modo de automatización"
+
+#: .\audiochannel.small.xml
+msgid "[AudioCustomChannel.BasicsContent]Automation Mode"
+msgstr "Modo de automatización"
+
+#: .\audiochannel.small.xml
+msgid "[AudioOutputChannel.Basics]Automation Mode"
+msgstr "Modo de automatización"
+
+#: .\audiochannel.small.xml
+msgid "[MixerOutputChannelLeftStrip]Channel Editor"
+msgstr "Editor de canal"
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelRightStrip]Channel Editor"
+msgstr "Editor de canal"
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelButtonBlock]Channel Mode"
+msgstr "Modo de canal"
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelButtonBlock]Click On/Off"
+msgstr "Activar/Desactivar clic"
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelButtonBlock]Click Volume: @value[]"
+msgstr "Da clic en volumen: @valor[]"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioInput.NarrowHoldAndClip]Clip"
+msgstr "Clip"
+
+#: .\audiochannel.narrow.xml
+msgid "[ChannelMeterDisplay.Small.Narrow]Clip / Peak Levels"
+msgstr "Clip / Niveles de pico"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioMeter.Narrow]Clip / Peak Levels"
+msgstr "Clip / Niveles de pico"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioInput.NarrowHoldAndClip]Clip / Peak Levels"
+msgstr "Clip / Niveles de pico"
+
+#: .\audiochannel.small.xml
+msgid "[AudioInputChannel.Basics]Clip / Peak Levels"
+msgstr "Clip / Niveles de pico"
+
+#: .\audiochannel.small.xml
+msgid "[OutputChannelLevelSection]Clip / Peak Levels"
+msgstr "Clip / Niveles de pico"
+
+#: .\audiochannel.small.xml
+msgid "[ChannelMeterDisplay]Clip / Peak Levels"
+msgstr "Clip / Niveles de pico"
+
+#: .\deviceheader.xml
+msgid "[DeviceEditorHeadline]Close"
+msgstr "Cerrar"
+
+#: .\audiochannel.xml
+msgid "[CueMixStack]Cue mix"
+msgstr "Mezcla Cue"
+
+#: .\audiochannel.xml
+msgid "[CueMixRackSlotView]Cue mix Level: @value[]"
+msgstr "Nivel de mezcla Cue : @value[]"
+
+#: .\audiochannel.xml
+msgid "[CueMixRackSlotView]Cue mix Pan: @value[]"
+msgstr "Mezcla Cue Pan: @value[]"
+
+#: .\audiochannel.small.xml
+msgid "[ChannelLabel]Double Click: Edit Name"
+msgstr "Doble clic: Editar nombre"
+
+#: .\audiochannel.narrow.xml
+msgid "[ChannelLabelNarrow]Double Click: Edit Name, Keep Pressed: Select Channel Color"
+msgstr "Doble clic: Editar nombre, mantener presionado: Seleccionar color de canal"
+
+#: .\audiochannel.small.xml
+msgid "[ChannelLabel]Double Click: Edit Name, Keep Pressed: Select Channel Color"
+msgstr "Doble clic: Editar nombre, mantener presionado: Seleccionar color de canal"
+
+#: .\audiochannel.xml
+msgid "[AudioInserts]Drag FX Chain from here"
+msgstr "Arrastre cadenas FX desde aquí"
+
+#: .\audiochannel.xml
+msgid "[PostFaderInserts]Drag FX Chain from here"
+msgstr "Arrastre cadenas FX desde aquí"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]Enable Hardware Monitoring"
+msgstr "Habilitar monitoreo de hardware"
+
+#: .\audiochannel.small.xml
+msgid "[AudioOutputChannel.Basics]Enable Hardware Monitoring"
+msgstr "Habilitar monitoreo de hardware"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]Enable Low Latency Monitoring"
+msgstr "Habilitar monitoreo de baja latencia"
+
+#: .\audiochannel.small.xml
+msgid "[AudioOutputChannel.Basics]Enable Low Latency Monitoring"
+msgstr "Habilitar monitoreo de baja latencia"
+
+#: .\audiochannel.small.xml
+msgid "[MixerOutputChannelLeftStrip]Expand"
+msgstr "Expandir"
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelRightStrip]Expand"
+msgstr "Expandir"
+
+#: .\audiochannel.small.xml
+msgid "[EditGroupView]Group"
+msgstr "Grupo"
+
+#: .\audiochannel.xml
+msgid "[ChannelInputFXView]Input Gain"
+msgstr "Ganancia de entrada"
+
+#: .\audiochannel.xml
+msgid "[AudioInserts]Inserts"
+msgstr "Inserts"
+
+#: .\audiochannel.small.xml
+msgid "[InsertsSendsMixFXIndicator]Inserts  |  Sends  |  Mix FX"
+msgstr "Inserciones  |  Envío  |  Mezcla FX"
+
+#: .\audiochannel.small.xml
+msgid "[MixerOutputChannelLeftStrip]Inserts  | Post Fader Inserts | Mix FX"
+msgstr "Inserciones  | Inserciones Post Fader | Mezcla FX"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]Instrument Editor"
+msgstr "Editor de instrumento"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Small.Narrow.Content]Instrument Editor"
+msgstr "Editor de instrumento"
+
+#: .\audiochannel.small.xml
+msgid "[ChannelConnectionsSection]Instrument Editor"
+msgstr "Editor de instrumento"
+
+#: .\audiochannel.small.xml
+msgid "[AudioSynth.ChannelNumberAndIcon]Instrument Editor"
+msgstr "Editor de instrumento"
+
+#: .\audiochannel.small.xml
+msgid "[AudioSynthBus.ChannelNumberAndIcon]Instrument Editor"
+msgstr "Editor de instrumento"
+
+#: .\deviceheader.xml
+msgid "[DeviceEditorHeadline]Keep Editor Open"
+msgstr "Mantener editor abierto"
+
+#: .\audiochannel.xml
+msgid "[CueMixRackSlotView]Level"
+msgstr "Nivel"
+
+#: .\audiochannel.xml
+msgid "[AudioFXRackSlotView]Link to DSP"
+msgstr "Vínculo a DSP"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]Listen Active"
+msgstr "Escucha activa"
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelButtonBlock]Listen Active"
+msgstr "Escucha activa"
+
+#: .\audiochannel.xml
+msgid "[CueMixRackSlotView]Lock level and pan to channel"
+msgstr "Bloquear nivel y paneo de canal"
+
+#: .\audiochannel.small.xml
+msgid "[Audio.ChannelNumberAndIcon]Low Latency Monitoring Enabled"
+msgstr "Monitoreo baja latencia activado"
+
+#: .\audiochannel.small.xml
+msgid "[AudioSynth.ChannelNumberAndIcon]Low Latency Monitoring Enabled"
+msgstr "Monitoreo baja latencia activado"
+
+#: .\deviceheader.xml
+msgid "[DeviceEditorTitleBar]Macro Controls"
+msgstr "Controles Macro"
+
+#: .\audiochannel.xml
+msgid "[AudioBusFxInsertsStack]Mix FX"
+msgstr "Mezcla FX"
+
+#: .\audiochannel.xml
+msgid "[MixFXRackSlotView]Mix FX"
+msgstr "Mezcla FX"
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelButtonBlock]Monitor"
+msgstr "Monitoreo"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]Mono"
+msgstr "Mono"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]Mute"
+msgstr "Mutear"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Small.Narrow.Content]Mute"
+msgstr "Mutear"
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelButtonBlock]Mute"
+msgstr "Mutear"
+
+#: .\audiochannel.xml
+msgid "[CueMixRackSlotView]Mute Cue mix"
+msgstr "Mutear mezcla Cue"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]Pan: @value[]"
+msgstr "Paneo: @value[]"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Small.Narrow.Content]Pan: @value[]"
+msgstr "Paneo: @value[]"
+
+#: .\audiochannel.small.xml
+msgid "[ChannelPanSection]Pan: @value[]"
+msgstr "Paneo: @value[]"
+
+#: .\audiochannel.small.xml
+msgid "[AudioInputChannel.Basics]Peak Hold (dB)"
+msgstr "Pico retenido (dB)"
+
+#: .\audiochannel.small.xml
+msgid "[OutputChannelLevelSection]Peak Hold (dB)"
+msgstr "Pico retenido (dB)"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsMono]Phantom Power"
+msgstr "Alimentación phantom"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsStereoChannel]Phantom Power"
+msgstr "Alimentación phantom"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsCompactMono]Phantom Power"
+msgstr "Alimentación phantom"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsCompactStereo]Phantom Power"
+msgstr "Alimentación phantom"
+
+#: .\audiochannel.xml
+msgid "[ChannelInputFXView]Polarity"
+msgstr "Fase"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsMono]Polarity"
+msgstr "Fase"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsStereoChannel]Polarity"
+msgstr "Fase"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsCompactMono]Polarity"
+msgstr "Fase"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsCompactStereo]Polarity"
+msgstr "Fase"
+
+#: .\audiochannel.xml
+msgid "[PostFaderInserts]Post"
+msgstr "Post"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsMono]Preamp Gain"
+msgstr "Ganancia del preamp."
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsStereoChannel]Preamp Gain"
+msgstr "Ganancia del preamp."
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsCompactMono]Preamp Gain"
+msgstr "Ganancia del preamp."
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsCompactStereo]Preamp Gain"
+msgstr "Ganancia del preamp."
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsMono]Preamp Gain: @value[]"
+msgstr "Ganancia del preamp.: @value[]"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsStereoChannel]Preamp Gain: @value[]"
+msgstr "Ganancia del preamp.: @value[]"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]Prefader Listen"
+msgstr "Escucha Prefader"
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelButtonBlock]Prefader Listen"
+msgstr "Escucha Prefader"
+
+#: .\audiochannel.xml
+msgid "[AudioSendRackSlotView]Prefader On/Off"
+msgstr "Activar/Desactivar Prefader"
+
+#: .\audiochannel.xml
+msgid "[AudioSendRackSlotView]Prefader Send Level: @value[]"
+msgstr "Nivel de envío prefader: @value[]"
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelButtonBlock]Record"
+msgstr "Grabar"
+
+#: .\deviceheader.xml
+msgid "[DeviceEditorTitleBar]Routing"
+msgstr "Ruteo"
+
+#: .\audiochannel.small.xml
+msgid "[MixerOutputChannelLeftStrip]Routing Editor"
+msgstr "Editor de encaminamiento"
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelRightStrip]Routing Editor"
+msgstr "Editor de encaminamiento"
+
+#: .\audiochannel.xml
+msgid "[AudioBusFxInsertsStack]Select Mix FX"
+msgstr "Seleccionar mezcla FX"
+
+#: .\audiochannel.xml
+msgid "[MixFXRackSlotView]Select Mix FX"
+msgstr "Seleccionar mezcla FX"
+
+#: .\audiochannel.xml
+msgid "[AudioSendRackSlotView]Send Level: @value[]"
+msgstr "Nivel de envío: @value[]"
+
+#: .\audiochannel.xml
+msgid "[AudioSends]Sends"
+msgstr "Envios"
+
+#: .\audiochannel.xml
+msgid "[AudioSendsCueMixEmbedded]Sends"
+msgstr "Envios"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsMono]Sensitivity"
+msgstr "Sensibilidad"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsStereoChannel]Sensitivity"
+msgstr "Sensibilidad"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsCompactMono]Sensitivity"
+msgstr "Sensibilidad"
+
+#: .\audiochannel.xml
+msgid "[HardwareInputControlsCompactStereo]Sensitivity"
+msgstr "Sensibilidad"
+
+#: .\deviceheader.xml
+msgid "[DeviceEditorTitleBar]Show Inserts"
+msgstr "Mostrar Inserts"
+
+#: .\deviceheader.xml
+msgid "[DeviceEditorTitleBar]Show Post Fader Inserts"
+msgstr "Mostrar Inserts post fader"
+
+#: .\audiochannel.small.xml
+msgid "[AudioSynthBus.ChannelNumberAndIcon]Show sub channels"
+msgstr "Mostrar sub canales"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]Solo (Solo Safe use Shift)"
+msgstr "Solo (Para guardar Solo use Shift)"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Small.Narrow.Content]Solo (Solo Safe use Shift)"
+msgstr "Solo (Para guardar Solo use Shift)"
+
+#: .\audiochannel.small.xml
+msgid "[MixerChannelButtonBlock]Solo (Solo Safe use Shift)"
+msgstr "Solo (Para guardar Solo use Shift)"
+
+#: .\audiochannel.small.xml
+msgid "[ChannelConnectionsSection]Sources"
+msgstr "Fuentes"
+
+#: .\audiochannel.small.xml
+msgid "[ChannelConnectionsSection]Targets"
+msgstr "Destinos"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]VCA"
+msgstr "VCA"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Small.Narrow.Content]VCA"
+msgstr "VCA"
+
+#: .\audiochannel.small.xml
+msgid "[AudioCustomChannel.BasicsContent]VCA"
+msgstr "VCA"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Narrow.Content]Volume"
+msgstr "Volumen"
+
+#: .\audiochannel.narrow.xml
+msgid "[AudioChannel.Small.Narrow.Content]Volume"
+msgstr "Volumen"
+
+#: .\audiochannel.small.xml
+msgid "[AudioCustomChannel.BasicsContent]Volume"
+msgstr "Volumen"
+
+#: .\audiochannel.small.xml
+msgid "[AudioOutputChannel.Basics]Volume"
+msgstr "Volumen"
+
+#: .\audiochannel.xml
+msgid "[MacroControlEditChannel]Volume"
+msgstr "Volumen"
+
+#~ msgid "[AudioOutputChannel.BasicsNoSeparator]Automation Mode"
+#~ msgstr "Modo de automatización"
+
+#~ msgid "[AudioChannel.SmallLevels]Clip / Peak Levels"
+#~ msgstr "Clip / Niveles de pico"
+
+#~ msgid "[AudioInput.Channel.Content]Clip / Peak Levels"
+#~ msgstr "Clip / Niveles de pico"
+
+#~ msgid "[AudioOutputChannel.BasicsNoSeparator]Enable Hardware Monitoring"
+#~ msgstr "Habilitar monitoreo de hardware"
+
+#~ msgid "[AudioOutputChannel.BasicsNoSeparator]Enable Low Latency Monitoring"
+#~ msgstr "Habilitar monitoreo de baja latencia"
+
+#~ msgid "[AudioInput.Channel.Content]Peak Hold (dB)"
+#~ msgstr "Pico retenido (dB)"
+
+#~ msgid "[AudioOutputChannel.BasicsNoSeparator]Volume"
+#~ msgstr "Volumen"
+

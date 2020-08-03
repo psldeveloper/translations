@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Add One Octave"
+msgstr "Ajouter une octave"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Add Three Octaves"
+msgstr "Ajouter trois octaves"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Add Two Octaves"
+msgstr "Ajouter deux octaves"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Augmented"
+msgstr "Augmenté"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Diatonic"
+msgstr "Diatonique"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Diminished"
+msgstr "Diminué"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Fifth"
+msgstr "Quinte"
+
+#: .\edittasks\fillwithreststask.cpp
+msgid "[ScoreEdit]Fill with Rests"
+msgstr "Remplir de silences"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Fourth"
+msgstr "Quarte"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Major"
+msgstr "Majeur"
+
+#: .\edittasks\maketuplettask.cpp
+msgid "[ScoreEdit]Make Custom Tuplet"
+msgstr "Faire un N-olet personnalisé"
+
+#: .\edittasks\maketuplettask.cpp
+msgid "[ScoreEdit]Make Tuplet"
+msgstr "Faire un N-olet"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Minor"
+msgstr "Mineur"
+
+#: .\edittasks\scoreedittask.cpp
+msgid "[ScoreEdit]Operations specific to score objects"
+msgstr "Opérations propres aux objets de partition"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Perfect"
+msgstr "Juste"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Same Octave"
+msgstr "Même octave"
+
+#: .\edittasks\scoreedittask.cpp
+msgid "[ScoreEdit]Score"
+msgstr "Partition"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Second"
+msgstr "Seconde"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Seventh"
+msgstr "Septième"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Sixth"
+msgstr "Sixte"
+
+#: .\edittasks\switchstafftask.cpp
+msgid "[ScoreEdit]Switch Staff"
+msgstr "Changer de portée"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Third"
+msgstr "Tierce"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Transpose"
+msgstr "Transposer"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Unison"
+msgstr "Unisson"
+

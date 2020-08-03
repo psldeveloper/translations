@@ -1,0 +1,1 @@
+Lütfen cihazınızın üzerinde fabrika ayarı 1 ve encoder Gurup 1'i seçin. 1 ve 2. satırdaki encoderlar ve üç düğme satırı konsolu kontrol eder.

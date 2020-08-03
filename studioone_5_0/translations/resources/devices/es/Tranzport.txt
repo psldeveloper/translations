@@ -1,0 +1,2 @@
+﻿Shift+Rueda es cambio de volumen. Zooms+/- (Shift para vertical). Shift+Record guarda la canción. Shift+Mute es muteo global. Shift+Solo es Solo global. Shift+Add borra marcadores.
+ 

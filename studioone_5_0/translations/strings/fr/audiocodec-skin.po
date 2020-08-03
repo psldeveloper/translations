@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\skin.xml
+msgid "[FlacEncoderOption]0: fastest, least compression"
+msgstr "0: + rapide, - de compression"
+
+#: .\skin.xml
+msgid "[FlacEncoderOption]8: slowest, most compression"
+msgstr "8: - rapide, + de compression"
+
+#: .\skin.xml
+msgid "[CoreAudioEncoderOption]AAC"
+msgstr "AAC"
+
+#: .\skin.xml
+msgid "[CoreAudioEncoderResolution]AAC"
+msgstr "AAC"
+
+#: .\skin.xml
+msgid "[M4AEncoderOption]AAC"
+msgstr "AAC"
+
+#: .\skin.xml
+msgid "[M4AEncoderResolution]AAC"
+msgstr "AAC"
+
+#: .\skin.xml
+msgid "[CoreAudioEncoderOption]ALAC"
+msgstr "ALAC"
+
+#: .\skin.xml
+msgid "[CoreAudioEncoderResolution]ALAC"
+msgstr "ALAC"
+
+#: .\skin.xml
+msgid "[M4AEncoderOption]ALAC"
+msgstr "ALAC"
+
+#: .\skin.xml
+msgid "[M4AEncoderResolution]ALAC"
+msgstr "ALAC"
+
+#: .\skin.xml
+msgid "[OggEncoderResolution]Average bitrate:"
+msgstr "Débit moyen:"
+
+#: .\skin.xml
+msgid "[CoreAudioEncoderOption]Bitrate:"
+msgstr "Débit:"
+
+#: .\skin.xml
+msgid "[CoreAudioEncoderResolution]Bitrate:"
+msgstr "Débit:"
+
+#: .\skin.xml
+msgid "[M4AEncoderOption]Bitrate:"
+msgstr "Débit:"
+
+#: .\skin.xml
+msgid "[M4AEncoderResolution]Bitrate:"
+msgstr "Débit:"
+
+#: .\skin.xml
+msgid "[FlacEncoderOption]Compression Level:"
+msgstr "Niv. de compression:"
+
+#: .\skin.xml
+msgid "[CoreAudioEncoderOption]Linear PCM"
+msgstr "PCM linéaire"
+
+#: .\skin.xml
+msgid "[CoreAudioEncoderResolution]Linear PCM"
+msgstr "PCM linéaire"
+
+#: .\skin.xml
+msgid "[OggEncoderResolution]Managed bitrate"
+msgstr "Débit géré"
+
+#: .\skin.xml
+msgid "[OggEncoderResolution]Maximum bitrate:"
+msgstr "Débit maximal:"
+
+#: .\skin.xml
+msgid "[OggEncoderResolution]Minimum bitrate:"
+msgstr "Débit minimal:"
+
+#: .\skin.xml
+msgid "[OggEncoderResolution]Quality:"
+msgstr "Qualité:"
+
+#: .\skin.xml
+msgid "[FlacEncoderOption]Resolution:"
+msgstr "Résolution:"
+
+#: .\skin.xml
+msgid "[CoreAudioEncoderOption]Resolution:"
+msgstr "Résolution:"
+
+#: .\skin.xml
+msgid "[CoreAudioEncoderResolution]Resolution:"
+msgstr "Résolution:"
+
+#: .\skin.xml
+msgid "[M4AEncoderOption]Resolution:"
+msgstr "Résolution:"
+
+#: .\skin.xml
+msgid "[M4AEncoderResolution]Resolution:"
+msgstr "Résolution:"
+
+#: .\skin.xml
+msgid "[FlacEncoderOption]Sample Rate:"
+msgstr "Fréq. d'éch.:"
+
+#: .\skin.xml
+msgid "[OggEncoderOption]Sample Rate:"
+msgstr "Fréq. d'éch.:"
+
+#: .\skin.xml
+msgid "[CoreAudioEncoderOption]Sample Rate:"
+msgstr "Fréq. d'éch.:"
+
+#: .\skin.xml
+msgid "[M4AEncoderOption]Sample Rate:"
+msgstr "Fréq. d'éch.:"
+
+#: .\skin.xml
+msgid "[OggEncoderResolution]Variable bitrate"
+msgstr "Débit variable"
+

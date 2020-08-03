@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]$APPCOMPANY Login"
+msgstr "$APPCOMPANY 登录"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]$APPCOMPANY Terms of Use"
+msgstr "$APPCOMPANY 使用条款"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]$APPNAME requires access to your $APPCOMPANY Account. Please login with your e-mail/username and password below."
+msgstr "$APPNAME 需要访问您的 $APPCOMPANY 帐户。请在下方使用您的电子邮件/用户名登录。"
+
+#: .\subscription.xml
+msgid "[SubscriptionStatus]$CLOUDNAME has been activated on this computer."
+msgstr " 本台计算机已启用 $CLOUDNAME。"
+
+#: .\backup.xml
+msgid "[BackupManager]$CLOUDNAME has not been activated on this computer."
+msgstr "  本台计算机未启用 $CLOUDNAME。"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorInplaceView]-"
+msgstr "-"
+
+#: .\purchase.xml
+msgid "[PurchaseHandler]Activate"
+msgstr "激活"
+
+#: .\purchase.xml
+msgid "[PurchaseHandler]Activate Purchased Items"
+msgstr "激活购买产品"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorConflictPopup]Assign"
+msgstr "分配"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorOption]Assign"
+msgstr "分配"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorConflictPopup]Assign and go to Conflict"
+msgstr "分配并跳转到冲突处"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Back to Log in"
+msgstr "返回登录"
+
+#: .\backup.xml
+msgid "[BackupManager]Backup"
+msgstr " 备份"
+
+#: .\backup.xml
+msgid "[BackupManager]Backup Now"
+msgstr " 立即备份"
+
+#: .\backup.xml
+msgid "[BackupManager]Backup and Restore"
+msgstr " 备份和储存"
+
+#: .\backup.xml
+msgid "[BackupManager]Backup settings to $CLOUDNAME"
+msgstr " 将设置备份至 $CLOUDNAME"
+
+#: .\backup.xml
+msgid "[BackupManager]Backup will be restored next time you start $APPNAME."
+msgstr " 当您下一次启动 $APPNAME 时，将恢复备份。"
+
+#: .\backup.xml
+msgid "[BackupManager]Cancel"
+msgstr "取消"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorConflictPopup]Cancel"
+msgstr "取消"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Country/Region"
+msgstr " 国家/地区"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Create $APPCOMPANY Account"
+msgstr "创建 $APPCOMPANY 帐户"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Don&apos;t have a $APPCOMPANY Account yet?"
+msgstr "尚未拥有一个$APPCOMPANY 帐户?"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Email"
+msgstr "电子邮件"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Email or username"
+msgstr "电子邮件或用户名"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorOption]Enter key:"
+msgstr "按下键:"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]First Name"
+msgstr "名字"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Forgot your password?"
+msgstr "忘记密码了吗？"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]I have read and agree to the latest Terms of Use."
+msgstr " 本人已阅读并同意最新的使用条款。"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]I would like to receive occasional updates from $APPCOMPANY via e-mail."
+msgstr "我愿意通过电子邮件接受来自 $APPCOMPANY 的不定期更新。"
+
+#: .\purchase.xml
+msgid "[PurchaseHandler]If your computer is not connected to the Internet, please download the License File from your $APPCOMPANY Account separately and select it here or drag it onto this window."
+msgstr "如果您的电脑未连接至网络，则请单独从您的$APPCOMPANY 帐户下载许可证文件并在此选择它，或将其拖曳至此窗口。"
+
+#: .\cclcommon.xml
+msgid "[CommandSchemeOption]Keyboard mapping scheme"
+msgstr "键盘映射方案"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorOption]Keyboard mapping scheme"
+msgstr "键盘映射方案"
+
+#: .\cclcommon.xml
+msgid "[LocaleOption]Language"
+msgstr "语言"
+
+#: .\uux.xml
+msgid "[LanguageSelection]Language"
+msgstr "语言"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Last Name"
+msgstr "姓"
+
+#: .\backup.xml
+msgid "[BackupManager]Last backup:"
+msgstr " 最新备份"
+
+#: .\backup.xml
+msgid "[BackupManager]Learn more about $CLOUDNAME"
+msgstr " 了解更多 $CLOUDNAME 的详情"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Login"
+msgstr "登录"
+
+#: .\backup.xml
+msgid "[BackupManager]Manage Backups"
+msgstr " 管理备份"
+
+#: .\subscription.xml
+msgid "[SubscriptionStatus]Next license update:"
+msgstr " 下一个许可更新："
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Password"
+msgstr "密码"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Please enter your contact data to sign up now. An e-mail will be sent to you with a link to activate your account."
+msgstr "请输入您的联系方式进行注册。一封带有激活帐户链接的电子邮件将发送至您的邮箱。"
+
+#: .\backup.xml
+msgid "[BackupManager]Refresh"
+msgstr "刷新"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Remember my credentials"
+msgstr "记住我的凭证"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorOption]Remove"
+msgstr "移除"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Repeat Password"
+msgstr "再次输入密码"
+
+#: .\backup.xml
+msgid "[BackupManager]Restore"
+msgstr "还原"
+
+#: .\backup.xml
+msgid "[BackupManager]Restore Options"
+msgstr " 恢复选项"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorOption]Search:"
+msgstr "搜索:"
+
+#: .\backup.xml
+msgid "[BackupManager]Select Backup"
+msgstr " 选择备份"
+
+#: .\purchase.xml
+msgid "[PurchaseHandler]Select License File..."
+msgstr "选择许可文件..."
+
+#: .\cclcommon.xml
+msgid "[CommandEditorConflictPopup]Show"
+msgstr "显示"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorOption]Show"
+msgstr "显示"
+
+#: .\transfers.xml
+msgid "[TransferManager]Show when new transfer starts"
+msgstr "当新传输开始时显示"
+
+#: .\purchase.xml
+msgid "[PurchaseHandler]Thank you for your purchase. Your purchased items are ready to be activated on this computer."
+msgstr "感谢您的购买。您的购买产品现已可以在此台电脑上激活。"
+
+#: .\transfers.xml
+msgid "[TransferManager]Transfers"
+msgstr "传输"
+
+#: .\subscription.xml
+msgid "[SubscriptionStatus]Update Now"
+msgstr "立即更新"
+
+#: .\uux.xml
+msgid "[UserSelection]User Account"
+msgstr " 用户账户"
+
+#~ msgid "[LicenseServerLogin]Country"
+#~ msgstr "国家/地区"
+

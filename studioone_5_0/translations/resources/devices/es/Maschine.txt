@@ -1,0 +1,1 @@
+﻿Cargue el archivo Studio One.ncm dentro del NI Control Editor. Pulse y retenga Shift-Control en el Maschine y elija la plantilla Studio One.

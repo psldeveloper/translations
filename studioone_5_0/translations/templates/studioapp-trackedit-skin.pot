@@ -1,0 +1,68 @@
+#: .\skin.xml
+msgid "[AddTrackDialog]Add Tracks"
+msgstr ""
+
+#: .\skin.xml
+msgid "[AddTrackDialog.AudioOptions]Ascending"
+msgstr ""
+
+#: .\skin.xml
+msgid "[AddTrackDialog.InstrumentOptions]Ascending"
+msgstr ""
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Auto-Color"
+msgstr ""
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Color"
+msgstr ""
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Count"
+msgstr ""
+
+#: .\skin.xml
+msgid "[AddTrackDialog.InstrumentOptions]Existing Instrument"
+msgstr ""
+
+#: .\skin.xml
+msgid "[AddTrackDialog.AudioOptions]Format"
+msgstr ""
+
+#: .\skin.xml
+msgid "[AddTrackDialog.AudioOptions]Input"
+msgstr ""
+
+#: .\skin.xml
+msgid "[AddTrackDialog.InstrumentOptions]Input"
+msgstr ""
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Name"
+msgstr ""
+
+#: .\skin.xml
+msgid "[AddTrackDialog.InstrumentOptions]New Instrument"
+msgstr ""
+
+#: .\skin.xml
+msgid "[AddTrackDialog.AudioOptions]Output"
+msgstr ""
+
+#: .\skin.xml
+msgid "[AddTrackDialog.InstrumentOptions]Output"
+msgstr ""
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Pack Folder"
+msgstr ""
+
+#: .\skin.xml
+msgid "[AddTrackDialog.AudioOptions]Preset"
+msgstr ""
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Type"
+msgstr ""
+

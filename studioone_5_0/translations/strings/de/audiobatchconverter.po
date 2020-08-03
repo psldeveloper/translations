@@ -1,0 +1,389 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Add Files"
+msgstr "Dateien hinzufügen"
+
+#: .\processes\gain.cpp
+msgid "[AudioProcess]Adjust volume of audio file"
+msgstr "Lautstärke der Audiodatei anpassen"
+
+#: .\plugversion.h
+msgid "[AudioBatchConverter]Audio Batch Converter"
+msgstr "Audio Batch Converter"
+
+#: .\plugversion.h
+msgid "[AudioBatchConverter]Audio Processing and File Conversion Tool"
+msgstr "Audioverarbeitungs- und Konvertierungswerkzeug"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Bit Depth"
+msgstr "Bittiefe"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Cancel"
+msgstr "Abbrechen"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Channels"
+msgstr "Kanäle"
+
+#: .\outputlocation.cpp
+msgid "[OuputLocationComponent]Clear History"
+msgstr "Verlauf löschen"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Collapse"
+msgstr "Ausblenden"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]Collapse All"
+msgstr "Alle einklappen"
+
+#: .\processes\fade.cpp
+msgid "[Fade]Concave"
+msgstr "Konkav"
+
+#: .\processes\fileformat.cpp
+msgid "[AudioProcess]Convert Format"
+msgstr "Format konvertieren"
+
+#: .\processes\fileformat.cpp
+msgid "[AudioProcess]Convert type, rate, resolution, and channels"
+msgstr "Konvertieren von Typ, Rate, Auflösung und Kanälen"
+
+#: .\processes\fade.cpp
+msgid "[Fade]Convex"
+msgstr "Konvex"
+
+#: .\processes\filesplitter.cpp
+msgid "[AudioProcess]Create mono files from stereo file"
+msgstr "Monodateien aus Stereodatei erzeugen"
+
+#: .\processes\filemerger.cpp
+msgid "[AudioProcess]Create stereo file from mono files"
+msgstr "Stereodatei aus Monodateien erzeugen"
+
+#: .\processes\declicker.cpp
+msgid "[Declicker]Declicker"
+msgstr "Declicker"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Delete"
+msgstr "Löschen"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Deleting Files..."
+msgstr "Lösche Dateien..."
+
+#: .\converter.cpp
+msgid "[AudioBatchConverter]Desktop"
+msgstr "Desktop"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Do you want to delete all result files?"
+msgstr "Möchten Sie alle Ausgabedateien löschen?"
+
+#: .\filelist.cpp
+msgid "[Command]Edit"
+msgstr "Bearbeiten"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Edit"
+msgstr "Bearbeiten"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]Effects"
+msgstr "Effekte"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Expand"
+msgstr "Einblenden"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]Expand All"
+msgstr "Alle ausklappen"
+
+#: .\processes\extractor.cpp
+msgid "[AudioProcess]Extract Section"
+msgstr "Bereich ausschneiden"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]FX Chains"
+msgstr "FX Chains"
+
+#: .\processes\fade.cpp
+msgid "[AudioProcess]Fade"
+msgstr "Fade"
+
+#: .\processes\fade.cpp
+msgid "[AudioProcess]Fade in or fade out"
+msgstr "Fade-in oder Fade-out"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Failed"
+msgstr "Fehlgeschlagen"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]File"
+msgstr "Datei"
+
+#: .\converter.cpp
+msgid "[AudioBatchConverter]File conversion finished."
+msgstr "Dateikonvertierung abgeschlossen."
+
+#: .\converter.cpp
+msgid "[AudioBatchConverter]Files"
+msgstr "Dateien"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Folder"
+msgstr "Ordner"
+
+#: .\plugmain.cpp
+msgid "[AudioProcessCategory]Format"
+msgstr "Format"
+
+#: .\processes\gain.cpp
+msgid "[AudioProcess]Gain"
+msgstr "Lautstärke"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Insert Process"
+msgstr "Prozess einfügen"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Insertion Order"
+msgstr "Einfügereihenfolge"
+
+#: .\processes\phase.cpp
+msgid "[AudioProcess]Invert Phase"
+msgstr "Phase umkehren"
+
+#: .\processes\phase.cpp
+msgid "[AudioProcess]Invert audio channel phase"
+msgstr "Audiokanalphase umkehren"
+
+#: .\processes\concatenator.cpp
+msgid "[AudioProcess]Join Files"
+msgstr "Dateien zusammenfügen"
+
+#: .\processes\concatenator.cpp
+msgid "[AudioProcess]Join all input files sequentially"
+msgstr "Eingangsdateien aufeinanderfolgend zusammenfügen"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Length"
+msgstr "Länge"
+
+#: .\processes\fade.cpp
+msgid "[Fade]Linear"
+msgstr "Linear"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Load Preset"
+msgstr "Preset laden"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Load Process Chain"
+msgstr "Prozesskette laden"
+
+#: .\processes\extractor.cpp
+msgid "[FileExtractor]Loop Range"
+msgstr "Loopbereich"
+
+#: .\processes\filemerger.cpp
+msgid "[AudioProcess]Merge Mono Files"
+msgstr "Monodateien zusammenfügen"
+
+#: .\processes\normalize.cpp
+msgid "[Normalize]Metanormalize"
+msgstr "Metanormalisieren"
+
+#: .\processes\normalize.cpp
+msgid "[Normalize]Normal"
+msgstr "Normal"
+
+#: .\processes\normalize.cpp
+msgid "[AudioProcess]Normalize"
+msgstr "Normalisieren"
+
+#: .\processes\normalize.cpp
+msgid "[AudioProcess]Normalize volume of audio file"
+msgstr "Lautstärke der Audiodatei normalisieren"
+
+#: .\filelist.cpp
+msgid "[Command]Paste"
+msgstr "Einfügen"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Peak"
+msgstr "Spitzenpegel"
+
+#: .\processes\normalize.cpp
+msgid "[Normalize]Peak of all files"
+msgstr "Spitzenpegel aller Dateien"
+
+#: .\converter.cpp
+msgid "[AudioBatchConverter]Please select a valid output location."
+msgstr "Bitte wählen Sie einen gültigen Ausgabeordner."
+
+#: .\converter.cpp
+msgid "[AudioBatchConverter]Processes"
+msgstr "Prozesse"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]Processes"
+msgstr "Prozesse"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Processing..."
+msgstr "Verarbeite..."
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]RMS"
+msgstr "RMS"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Rack Preset"
+msgstr "Rack-Preset"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]Rack Presets"
+msgstr "Rack-Presets"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Rate"
+msgstr "Rate"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Remove"
+msgstr "Entfernen"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]Remove All"
+msgstr "Alle entfernen"
+
+#: .\processes\dcoffset.cpp
+msgid "[AudioProcess]Remove DC Offset"
+msgstr "Gleichspannungsversatz entfernen"
+
+#: .\processes\dcoffset.cpp
+msgid "[AudioProcess]Remove DC offset from files"
+msgstr "Gleichspannungsversatz aus Dateien entfernen"
+
+#: .\processes\declicker.cpp
+msgid "[Declicker]Remove clicks and pops"
+msgstr "Knistern und Popp-Geräusche entfernen"
+
+#: .\plugmain.cpp
+msgid "[AudioProcessCategory]Repair"
+msgstr "Reparatur"
+
+#: .\processes\repairsamplerate.cpp
+msgid "[AudioProcess]Repair Sample Rate"
+msgstr "Samplerate reparieren"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Replace Process"
+msgstr "Prozess ersetzen"
+
+#: .\processes\repairsamplerate.cpp
+msgid "[AudioProcess]Replace sample rate information"
+msgstr "Information über Samplerate reparieren"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Result Files"
+msgstr "Ausgabedateien"
+
+#: .\preview.cpp
+msgid "[Command]Return to Zero"
+msgstr "Zum Anfang"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]Save Rack Preset"
+msgstr "Rack-Preset speichern"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Scanning Files..."
+msgstr "Dateien untersuchen..."
+
+#: .\outputlocation.cpp
+msgid "[OuputLocationComponent]Select..."
+msgstr "Auswählen..."
+
+#: .\browserextension.cpp
+msgid "[AudioBatchConverter]Send to $APPNAME"
+msgstr "An $APPNAME senden"
+
+#: .\outputlocation.cpp
+msgid "[OuputLocationComponent]Show in Explorer"
+msgstr "Im Explorer anzeigen"
+
+#: .\outputlocation.cpp
+msgid "[OuputLocationComponent]Show in Finder"
+msgstr "Im Finder anzeigen"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Source Files"
+msgstr "Quelldateien"
+
+#: .\processes\extractor.cpp
+msgid "[FileExtractor]Specify Section"
+msgstr "Angegebener Bereich"
+
+#: .\processes\filesplitter.cpp
+msgid "[AudioProcess]Split Multichannel Files"
+msgstr "Multikanaldateien aufteilen"
+
+#: .\preview.cpp
+msgid "[Command]Start"
+msgstr "An den Anfang"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]State"
+msgstr "Status"
+
+#: .\preview.cpp
+msgid "[Command]Stop"
+msgstr "Stopp"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Success"
+msgstr "Erfolgreich"
+
+#: .\preview.cpp
+msgid "[Command]Toggle Start"
+msgstr "Start/Stopp umschalten"
+
+#: .\preview.cpp
+msgid "[Command]Transport"
+msgstr "Transport"
+
+#: .\processes\extractor.cpp
+msgid "[AudioProcess]Trim audio file"
+msgstr "Audiodatei zuschneiden"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Type"
+msgstr "Typ"
+
+#: .\processes\extractor.cpp
+msgid "[FileExtractor]Until Loop End"
+msgstr "Bis Loopende"
+
+#: .\plugmain.cpp
+msgid "[AudioProcessCategory]Volume"
+msgstr "Lautstärke"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]analyzing..."
+msgstr "Analysiere..."
+
+#~ msgid "[AudioBatchConverter]Audio Files"
+#~ msgstr "Audiodateien"
+

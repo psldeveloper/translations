@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CCL\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-18 15:39+0200\n"
+"PO-Revision-Date: 2009-06-16 16:28+0100\n"
+"Last-Translator: \n"
+"Language-Team: MiTi-Studio <tibetprincess@163.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: smartCAT.ai\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"Language: zh_CN\n"
+
+#: .\translation.js
+msgid "[ProjectEdit]Create Crossfades"
+msgstr "创建交叉淡化"
+

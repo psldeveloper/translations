@@ -1,0 +1,1 @@
+﻿Utilize as atribuições padrão de controlador impressas no UMX e configure os botões B5 a 8 para CC 80 a 83. Utilize a memória de usuário para armazenar isso.

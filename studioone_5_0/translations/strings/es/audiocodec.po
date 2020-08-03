@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\aac\aacaudiocodec.cpp
+msgid "[FileType]AAC File"
+msgstr "Archivo AAC"
+
+#: .\caf\cafaudiocodec.cpp
+msgid "[FileType]CAF File"
+msgstr "Archivo CAF"
+
+#: .\flac\flacaudiocodec.cpp
+msgid "[FileType]FLAC File"
+msgstr "Archivo FLAC"
+
+#: .\m4a\m4aaudiocodec.cpp
+msgid "[FileType]M4A File"
+msgstr "Archivo M4A"
+
+#: .\ogg\oggaudiocodec.cpp
+msgid "[FileType]Ogg Vorbis File"
+msgstr "Archivo Ogg Vorbis "
+

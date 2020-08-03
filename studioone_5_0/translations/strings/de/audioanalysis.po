@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\silencedetectioncomponent.cpp
+msgid "[SilenceDetection]Little Silence"
+msgstr "Wenig Stille"
+
+#: .\silencedetectioncomponent.cpp
+msgid "[SilenceDetection]Lots of Silence"
+msgstr "Viel Stille"
+
+#: .\silencedetectioncomponent.cpp
+msgid "[SilenceDetection]Manual"
+msgstr "Manuell"
+
+#: .\silencedetectioncomponent.cpp
+msgid "[SilenceDetection]Noise Floor"
+msgstr "Grundrauschen"
+
+#: .\transientdetectioncomponent.cpp
+msgid "[TransientDetection]Sensitive"
+msgstr "Sensitiv"
+
+#: .\transientdetectioncomponent.cpp
+msgid "[TransientDetection]Standard"
+msgstr "Standard"

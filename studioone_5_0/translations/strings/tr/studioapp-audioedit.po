@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\translation.js
+msgid "[AudioEdit]Add Insert to Selected Channels"
+msgstr "Seçili kanallara 'Insert' Ekle"
+
+#: .\translation.js
+msgid "[AudioEdit]Add Instrument to Selected Tracks"
+msgstr ""
+
+#: .\translation.js
+msgid "[AudioEdit]Add Note FX to Selected Tracks"
+msgstr ""
+
+#: .\translation.js
+msgid "[AudioEdit]Decrease Volume"
+msgstr "Ses Seviyesini azalt"
+
+#: .\translation.js
+msgid "[AudioEdit]Decrease Volume Fine"
+msgstr "Ses Seviyesini hassas azalt"
+
+#: .\translation.js
+msgid "[AudioEdit]Edit Volume"
+msgstr "Ses Seviyesini düzenle"
+
+#: .\translation.js
+msgid "[AudioEdit]Increase Volume"
+msgstr "Ses Seviyesini arttır"
+
+#: .\translation.js
+msgid "[AudioEdit]Increase Volume Fine"
+msgstr "Ses Seviyesini hassas azalt"
+
+#: .\translation.js
+msgid "[AudioEdit]Insert Event FX"
+msgstr "Klip FX'i ekle"
+
+#: .\translation.js
+msgid "[AudioEdit]Level"
+msgstr "Seviye"
+
+#: .\translation.js
+msgid "[AudioEdit]Relative"
+msgstr "İzafi"
+
+#: .\translation.js
+msgid "[AudioEdit]Select in Pool"
+msgstr "Havuz'dan seç"

@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\skin.xml
+msgid "[ReWireDevicePanel]Allow tempo/signature changes"
+msgstr "Temno/Signature değişimlerine imkan tanı"
+
+#: .\skin.xml
+msgid "[ReWireDevicePanel]Close Application"
+msgstr "Uygulamayı Kapat"
+
+#: .\skin.xml
+msgid "[ReWireDevicePanel]Multiple MIDI Outputs"
+msgstr "Çoklu MIDI çıkışları"
+
+#: .\skin.xml
+msgid "[ReWireDevicePanel]Open Application"
+msgstr "Uygulamayı Aç"
+

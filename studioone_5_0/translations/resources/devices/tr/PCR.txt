@@ -1,0 +1,1 @@
+Lütfen PCR üzerinde preset 0'ı seçin. A ve M modelleri de desteklenmektedir.

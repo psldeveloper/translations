@@ -1,0 +1,430 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\audiofile\audiocodecs\aiffaudiocodec.cpp
+msgid "[FileType]AIFC File"
+msgstr "AIFC文件"
+
+#: .\audiofile\audiocodecs\aiffaudiocodec.cpp
+msgid "[FileType]AIFF File"
+msgstr "AIFF文件"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Add Note Controller \"%(1)\""
+msgstr " 增加音符控制器\"%(1)\""
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Add Pattern"
+msgstr "添加模式"
+
+#: .\audiofile\audiocodecs\aiffaudiocodec.cpp
+msgid "[FileType]Apple Impulse File"
+msgstr "Apple脉冲响应文件"
+
+#: .\audiofile\audiocodecs\audioloopinfo.cpp
+msgid "[FileType]Audioloop"
+msgstr "Audioloop"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]Augmented"
+msgstr "增和弦"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Bars"
+msgstr "小节"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Beat-Linear"
+msgstr "节拍-线性"
+
+#: .\envelopes\envelopeactions.cpp
+msgid "[EnvelopeActions]Bend Points"
+msgstr "弯音点"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Blues"
+msgstr "布鲁斯音阶"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Chromatic"
+msgstr "半音阶"
+
+#: .\audiofile\audiofileconverter.cpp
+msgid "[AudioFileConverter]Converting %(1)"
+msgstr "正在转换%(1)"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Copy Event"
+msgstr "复制事件"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Copy Events"
+msgstr "复制事件"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Delete Event"
+msgstr "删除事件"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Delete Events"
+msgstr "删除事件"
+
+#: .\envelopes\envelopeactions.cpp
+msgid "[EnvelopeActions]Delete Point"
+msgstr "删除点"
+
+#: .\envelopes\envelopefunctions.cpp
+msgid "[Events]Delete Points"
+msgstr "删除点"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]Diminished"
+msgstr "减和弦"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Dorian"
+msgstr "多利亚音阶"
+
+#: .\music\beatlistparam.cpp
+msgid "[Resolution]Dotted"
+msgstr "符点"
+
+#: .\envelopes\envelopefunctions.cpp
+msgid "[Events]Edit Value"
+msgstr "编辑值"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Frames"
+msgstr "帧"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Freeze Quantize"
+msgstr "冻结量化"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Freeze Velocity"
+msgstr "冻结力度"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Harmonic Minor"
+msgstr "和声小调"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Insert Event"
+msgstr "插入事件"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Insert Events"
+msgstr "插入事件"
+
+#: .\envelopes\envelopeactions.cpp
+msgid "[EnvelopeActions]Insert Point"
+msgstr "插入点"
+
+#: .\envelopes\envelopefunctions.cpp
+msgid "[Events]Insert Points"
+msgstr "插入点"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Insert Tempo"
+msgstr "插入速度"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Insert Time Signature"
+msgstr "插入拍号"
+
+#: .\music\pitchnamelist.cpp
+msgid "[FileType]Key Switches"
+msgstr " 音调切换"
+
+#: .\music\musicparams.cpp
+msgid "[Media.Music]MIDI"
+msgstr "MIDI"
+
+#: .\music\midifileparser.cpp
+msgid "[FileType]MIDI File"
+msgstr "MIDI文件"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]Major"
+msgstr "大调"
+
+#: .\music\keysignature.cpp
+msgid "[KeySignature]Major"
+msgstr "大调"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Major"
+msgstr "大调"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Major Pentatonic"
+msgstr "五声大调"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Melodic Minor"
+msgstr "旋律小调"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]Minor"
+msgstr "小调"
+
+#: .\music\keysignature.cpp
+msgid "[KeySignature]Minor"
+msgstr "小调"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Minor Pentatonic"
+msgstr "五声小调"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Mixolydian"
+msgstr "混合利底亚音阶"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Accent"
+msgstr "更改重音"
+
+#: .\music\chordfunctions.cpp
+msgid "[Edit]Modify Chord"
+msgstr "更改和弦"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Modify Event"
+msgstr "更改事件"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Pattern Accent Strength"
+msgstr "更改模式重音强度"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Pattern Gate"
+msgstr "更改模式门"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Pattern Resolution"
+msgstr "更改模式分辨率"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Pattern Swing"
+msgstr "更改模式音律"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Pattern Type"
+msgstr "更改模式类型"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Probability"
+msgstr "更改概率"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Repeat"
+msgstr "更改重复"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Step Count"
+msgstr "更改步数"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Modify Tempo"
+msgstr "更改速度"
+
+#: .\time\tempomanipulator.cpp
+msgid "[TempoManipulator]Modify Tempo"
+msgstr "更改速度"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Velocity"
+msgstr "更改力度"
+
+#: .\public\mediaformatter.cpp
+msgid "[Media]Mono"
+msgstr "单声道"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Move Event"
+msgstr "移动事件"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Move Events"
+msgstr "移动事件"
+
+#: .\envelopes\envelopeactions.cpp
+msgid "[EnvelopeActions]Move Point"
+msgstr "移动点"
+
+#: .\envelopes\envelopeactions.cpp
+msgid "[EnvelopeActions]Move Points"
+msgstr "移动点"
+
+#: .\music\musicperformance.cpp
+msgid "[FileType]Music File"
+msgstr "音乐文件"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Mute Event"
+msgstr "事件静音"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Natural Minor"
+msgstr "自然小调音阶"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Note Controller"
+msgstr " 音符管理器"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Nudge"
+msgstr "微调"
+
+#: .\public\mediaformatter.cpp
+msgid "[Media]Off"
+msgstr "关"
+
+#: .\public\mediaformatter.cpp
+msgid "[Media]Pad %(1)"
+msgstr "Pad %(1)"
+
+#: .\music\patternperformance.cpp
+msgid "[FileType]Pattern File"
+msgstr "模式文件"
+
+#: .\music\musicparams.cpp
+msgid "[Media.Music]Percent"
+msgstr "百分比"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Phrygian"
+msgstr "佛里吉亚音阶"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Pitch"
+msgstr "音高"
+
+#: .\music\pitchnamelist.cpp
+msgid "[FileType]Pitch Names"
+msgstr "音高名称"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]Power Chord"
+msgstr "强力和弦"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Pressure"
+msgstr " 压力"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Quantize"
+msgstr "量化"
+
+#: .\music\beatlistparam.cpp
+msgid "[Resolution]Quintuplet"
+msgstr "五连音"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Remove Note Controller \"%(1)\""
+msgstr " 移除音符控制器 \"%(1)\""
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Remove Pattern"
+msgstr "移除模式"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Remove Tempo"
+msgstr "移除速度"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Remove Time Signature"
+msgstr "移除拍号"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Rename Pattern"
+msgstr "重命名模式"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Reorder Pattern"
+msgstr "录制模式"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Resize Event"
+msgstr "调整事件大小"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Resize Events"
+msgstr "调整事件大小"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Samples"
+msgstr "采样"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Seconds"
+msgstr "秒"
+
+#: .\music\beatlistparam.cpp
+msgid "[Resolution]Septuplet"
+msgstr "七连音"
+
+#: .\time\tempoenvelopefunctions.cpp
+msgid "[Tempo]Set BPM Range"
+msgstr "设置 BPM 范围"
+
+#: .\audiofile\audiofileconverter.cpp
+msgid "[AudioFileConverter]Some files could not be converted."
+msgstr "某些文件无法转换。"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Split Event"
+msgstr "拆分事件"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Split Events"
+msgstr "拆分事件"
+
+#: .\public\mediaformatter.cpp
+msgid "[Media]Stereo"
+msgstr "立体声"
+
+#: .\music\beatlistparam.cpp
+msgid "[Resolution]Straight"
+msgstr "直线"
+
+#: .\envelopes\envelopefunctions.cpp
+msgid "[Events]Straighten Curve"
+msgstr "伸直曲线"
+
+#: .\time\tempoenvelope.cpp
+msgid "[Tempo]Tempo"
+msgstr "速度"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Timbre"
+msgstr " 音色"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Time-Linear"
+msgstr "时间-线性"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Transpose"
+msgstr "移调"
+
+#: .\music\beatlistparam.cpp
+msgid "[Resolution]Triplet"
+msgstr "三连音"
+
+#: .\audiofile\audiocodecs\waveaudiocodec.cpp
+msgid "[FileType]Wave File"
+msgstr "Wave文件"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]sus2"
+msgstr "sus2"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]sus4"
+msgstr "sus4"
+

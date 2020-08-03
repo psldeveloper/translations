@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Arranger Section from Selection"
+msgstr "選択範囲からアレンジセクションを追加"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Audio Track (mono)"
+msgstr "オーディオトラックを追加（モノ）"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Audio Track (stereo)"
+msgstr "オーディオトラックを追加（ステレオ）"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Automation Track"
+msgstr "オートメーショントラックを追加"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Bus for Selected Channels"
+msgstr "選択されているチャンネルのバスを追加"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Folder Track"
+msgstr "フォルダートラックを追加"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Instrument Track"
+msgstr "インストゥルメントトラックを追加"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Tracks"
+msgstr "トラックを追加"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Tracks for all Inputs"
+msgstr "すべての入力のトラックを追加"
+
+#: .\translation.js
+msgid "[TrackEdit]Add VCA for Selected Channels"
+msgstr "選択されているチャンネルのVCAを追加"
+
+#: .\translation.js
+msgid "[TrackEdit]Add numbers"
+msgstr "番号を追加"
+
+#: .\translation.js
+msgid "[TrackEdit]Apply Track Names to Channels"
+msgstr "トラック名をチャンネルに適用"
+
+#: .\translation.js
+msgid "[TrackEdit]Arm All Audio Tracks"
+msgstr "全てのオーディオトラックをアーム"
+
+#: .\translation.js
+msgid "Audio"
+msgstr "オーディオ"
+
+#: .\translation.js
+msgid "Automation"
+msgstr "オートメーション"
+
+#: .\translation.js
+msgid "[TrackEdit]Bounce Selection"
+msgstr "選択をバウンス"
+
+#: .\translation.js
+msgid "[TrackEdit]Bounce To New Track"
+msgstr "新規トラックにバウンス"
+
+#: .\translation.js
+msgid "[TrackEdit]Collapse All Tracks"
+msgstr "すべてのトラックを折りたたむ"
+
+#: .\translation.js
+msgid "[TrackEdit]Copy Ranges to Track"
+msgstr "範囲をトラックへコピー"
+
+#: .\translation.js
+msgid "Default"
+msgstr "デフォルト"
+
+#: .\translation.js
+msgid "[TrackEdit]Extract to Chord Track"
+msgstr "コードトラックに抽出"
+
+#: .\translation.js
+msgid "Folder"
+msgstr "フォルダー"
+
+#: .\translation.js
+msgid "[TrackEdit]Insert Instrument Part"
+msgstr "インストゥルメントパートを挿入"
+
+#: .\translation.js
+msgid "[TrackEdit]Insert Pattern"
+msgstr "パターンを挿入"
+
+#: .\translation.js
+msgid "Instrument"
+msgstr "インストゥルメント"
+
+#: .\translation.js
+msgid "[TrackEdit]Invert Track Selection"
+msgstr "トラック選択を反転"
+
+#: .\translation.js
+msgid "[TrackEdit]Merge Events"
+msgstr "イベントを結合"
+
+#: .\translation.js
+msgid "Mono"
+msgstr "モノ"
+
+#: .\translation.js
+msgid "[TrackEdit]Mute Events"
+msgstr "イベントをミュート"
+
+#: .\translation.js
+msgid "[TrackEdit]New Name"
+msgstr "新規名前"
+
+#: .\translation.js
+msgid "[TrackEdit]Pack Folder"
+msgstr "フォルダーにパック"
+
+#: .\translation.js
+msgid "[TrackEdit]Quantize"
+msgstr "クオンタイズ"
+
+#: .\translation.js
+msgid "[TrackEdit]Quantize 50%"
+msgstr "クオンタイズ 50%"
+
+#: .\translation.js
+msgid "[TrackEdit]Quantize on Track"
+msgstr "トラック上でクオンタイズ"
+
+#: .\translation.js
+msgid "[TrackEdit]Remove Part Automation"
+msgstr "パートオートメーションを削除"
+
+#: .\translation.js
+msgid "[TrackEdit]Remove Track Automation"
+msgstr "トラックオートメーションを削除"
+
+#: .\translation.js
+msgid "[TrackEdit]Rename Events"
+msgstr "イベント名を変更"
+
+#: .\translation.js
+msgid "[TrackEdit]Replace Event With Next Layer"
+msgstr "イベントを次のレイヤーと置換"
+
+#: .\translation.js
+msgid "[TrackEdit]Replace Event With Previous Layer"
+msgstr "イベントを前のレイヤーと置換"
+
+#: .\translation.js
+msgid "[TrackEdit]Restore Timing"
+msgstr "タイミングを復元"
+
+#: .\translation.js
+msgid "[TrackEdit]Select Muted Events"
+msgstr "ミュートされたイベントを選択"
+
+#: .\translation.js
+msgid "[TrackEdit]Select Muted Tracks"
+msgstr "ミュート状態のトラックを選択"
+
+#: .\translation.js
+msgid "[TrackEdit]Send to Back"
+msgstr "背面に表示"
+
+#: .\translation.js
+msgid "[TrackEdit]Send to Front"
+msgstr "前面に表示"
+
+#: .\translation.js
+msgid "[TrackEdit]Separate Shared Copies"
+msgstr "共有コピーを分割"
+
+#: .\translation.js
+msgid "[TrackEdit]Split at Grid"
+msgstr "グリッドで分割"
+
+#: .\translation.js
+msgid "Stereo"
+msgstr "ステレオ"
+
+#: .\Split.js
+msgid "This would create too many events and will be cancelled."
+msgstr "作成されるイベントが多すぎるため、キャンセルされます。"
+
+#: .\translation.js
+msgid "[TrackEdit]Toggle Mute"
+msgstr "ミュートを切り替え"
+
+#: .\translation.js
+msgid "Track"
+msgstr "トラック"
+
+#: .\translation.js
+msgid "[TrackEdit]Transpose"
+msgstr "トランスポーズ"
+
+#: .\translation.js
+msgid "[TrackEdit]Transpose Events Down"
+msgstr "イベントを下へトランスポーズ"
+
+#: .\translation.js
+msgid "[TrackEdit]Transpose Events Up"
+msgstr "イベントを上へトランスポーズ"
+
+#: .\translation.js
+msgid "[TrackEdit]Transpose Instrument Tracks"
+msgstr "インストゥルメントトラックをトランスポーズ"
+
+#: .\translation.js
+msgid "[TrackEdit]Unmute Events"
+msgstr "イベントのミュートを解除"
+

@@ -1,0 +1,1 @@
+﻿Si prega di selezionare impostazione di fabbrica 1 e  Gruppo Encoder 1 sul dispositivo. Le file di pulsanti Encoder 1, 2, 3 controllano la Console.

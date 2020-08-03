@@ -1,0 +1,640 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\skin.xml
+msgid "[TransposeDialog]+1 Oct"
+msgstr "+1 Oct"
+
+#: .\skin.xml
+msgid "[TransposeDialog]+2 Oct"
+msgstr "+2 Oct"
+
+#: .\skin.xml
+msgid "[TransposeDialog]-1 Oct"
+msgstr "-1 Oct"
+
+#: .\skin.xml
+msgid "[TransposeDialog]-2 Oct"
+msgstr "-2 Oct"
+
+#: .\skin.xml
+msgid "[TransposeDialog]0"
+msgstr "0"
+
+#: .\skin.xml
+msgid "[SelectDialog]0"
+msgstr "0"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]1/1"
+msgstr "1/1"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]1/1"
+msgstr "1/1"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]1/1"
+msgstr "1/1"
+
+#: .\skin.xml
+msgid "[LengthDialog]1/16"
+msgstr "1/16"
+
+#: .\skin.xml
+msgid "[SelectDialog]1/16"
+msgstr "1/16"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]1/16"
+msgstr "1/16"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]1/16"
+msgstr "1/16"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]1/16"
+msgstr "1/16"
+
+#: .\skin.xml
+msgid "[LengthDialog]1/2"
+msgstr "1/2"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]1/2"
+msgstr "1/2"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]1/2"
+msgstr "1/2"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]1/2"
+msgstr "1/2"
+
+#: .\skin.xml
+msgid "[LengthDialog]1/32"
+msgstr "1/32"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]1/32"
+msgstr "1/32"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]1/32"
+msgstr "1/32"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]1/32"
+msgstr "1/32"
+
+#: .\skin.xml
+msgid "[LengthDialog]1/4"
+msgstr "1/4"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]1/4"
+msgstr "1/4"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]1/4"
+msgstr "1/4"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]1/4"
+msgstr "1/4"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]1/64"
+msgstr "1/64"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]1/64"
+msgstr "1/64"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]1/64"
+msgstr "1/64"
+
+#: .\skin.xml
+msgid "[LengthDialog]1/8"
+msgstr "1/8"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]1/8"
+msgstr "1/8"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]1/8"
+msgstr "1/8"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]1/8"
+msgstr "1/8"
+
+#: .\skin.xml
+msgid "[VelocityDialog]Add"
+msgstr "Ekle"
+
+#: .\skin.xml
+msgid "[LengthDialog]Add"
+msgstr "Ekle"
+
+#: .\skin.xml
+msgid "[HumanizeDialog]Add note start range"
+msgstr "Nota Başlangıç Alanı Ekle"
+
+#: .\skin.xml
+msgid "[HumanizeDialog]Add velocity range"
+msgstr "Velocity (Hız) Alanı Ekle"
+
+#: .\skin.xml
+msgid "[TransposeDialog]Add/Subtract"
+msgstr "Ekle/Çıkar"
+
+#: .\skin.xml
+msgid "[DistributeNotesDialog]Amount"
+msgstr "Miktar"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]Amount"
+msgstr "Miktar"
+
+#: .\skin.xml
+msgid "[RandomizeNotesDialog]Apply Scale"
+msgstr "Diziyi Uygula"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Apply Scale"
+msgstr "Diziyi Uygula"
+
+#: .\skin.xml
+msgid "[SelectDialog]At interval..."
+msgstr ""
+
+#: .\skin.xml
+msgid "[SelectDialog]Beat"
+msgstr "Beat"
+
+#: .\skin.xml
+msgid "[SelectDialog]Beat grid"
+msgstr "Vuruş Izgarası (Grid)"
+
+#: .\skin.xml
+msgid "[RandomizeNotesDialog]Custom pitch range"
+msgstr "Özel Perde aralığı"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Custom pitch range"
+msgstr "Özel Perde aralığı"
+
+#: .\skin.xml
+msgid "[DeleteNotesDialog]Delete Notes"
+msgstr "Notaları Sil"
+
+#: .\skin.xml
+msgid "[DeleteNotesDialog]Delete double notes"
+msgstr "Çift Notaları Sil"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]Delete notes randomly"
+msgstr "Notaları rastgele sil"
+
+#: .\skin.xml
+msgid "[DeleteNotesDialog]Delete notes shorter than"
+msgstr "Daha Küçük Notaları Sil: "
+
+#: .\skin.xml
+msgid "[SelectDialog]Deselect"
+msgstr ""
+
+#: .\skin.xml
+msgid "[DistributeNotesDialog]Distribute Notes"
+msgstr "Notaları Dağıt"
+
+#: .\skin.xml
+msgid "[StretchDialog]Double Tempo"
+msgstr "Çift Kat Tempo"
+
+#: .\skin.xml
+msgid ""
+"[LengthDialog]Enlarge event length until it overlaps with the next event"
+msgstr "Kliplerin uzunluğunu bir sonraki klip ile çakışana dek uzat"
+
+#: .\skin.xml
+msgid ""
+"[LengthDialog]Enlarge or reduce event length until it aligns with the next "
+"event"
+msgstr "Kliplerin uzunluğunu bir sonraki klipe dek uzat veya kısalt"
+
+#: .\skin.xml
+msgid "[SelectDialog]Event count"
+msgstr "Klip Sayısı"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Fill between selected notes"
+msgstr "Seçili notaların arasını doldur"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Fill loop range"
+msgstr "Loop aralığını doldur"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Fill whole part"
+msgstr "Tüm bölümü doldur"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Fill with Notes"
+msgstr "Nota ile doldur"
+
+#: .\skin.xml
+msgid "[StretchDialog]Free"
+msgstr "Serbest"
+
+#: .\skin.xml
+msgid "[SelectDialog]From Note length"
+msgstr "Nota Uzunluğundan itibaren"
+
+#: .\skin.xml
+msgid "[SelectDialog]From Pitch"
+msgstr "Perdeden itibaren"
+
+#: .\skin.xml
+msgid "[SelectDialog]From Velocity"
+msgstr "Hızdan itibaren"
+
+#: .\skin.xml
+msgid "[HumanizeDialog]From Velocity"
+msgstr "Hızdan itibaren"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]Grid"
+msgstr "Izgara"
+
+#: .\skin.xml
+msgid "[StretchDialog]Half Tempo"
+msgstr "Yarı Tempo"
+
+#: .\skin.xml
+msgid "[SelectDialog]Highest notes"
+msgstr ""
+
+#: .\skin.xml
+msgid "[HumanizeDialog]Humanize"
+msgstr "İnsanlaştır"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Include dotted notes"
+msgstr "Uzatılmış notaları dahil et"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Insert Range"
+msgstr "Alan Ekle"
+
+#: .\skin.xml
+msgid "[SelectDialog]Interval"
+msgstr "Aralık"
+
+#: .\skin.xml
+msgid "[LengthDialog]Legato"
+msgstr "Legato"
+
+#: .\skin.xml
+msgid "[LengthDialog]Legato + Overlap Correction"
+msgstr "Legato + Overlap Correction"
+
+#: .\skin.xml
+msgid "[LengthDialog]Length"
+msgstr "Uzunluk"
+
+#: .\skin.xml
+msgid "[SelectDialog]Lowest notes"
+msgstr ""
+
+#: .\skin.xml
+msgid "[DeleteNotesDialog]Minimum note length"
+msgstr "Minimum Nota Uzunluğu"
+
+#: .\skin.xml
+msgid "[MirrorNotesDialog]Mirror Notes"
+msgstr "Notaları Yansıt"
+
+#: .\skin.xml
+msgid "[MirrorNotesDialog]Mirror notes horizontally"
+msgstr "Notaları Yatayda Yansıt"
+
+#: .\skin.xml
+msgid "[MirrorNotesDialog]Mirror notes vertically"
+msgstr "Notaları Düşeyde Yansıt"
+
+#: .\skin.xml
+msgid "[MirrorNotesDialog]Mirror on custom note"
+msgstr "Özel notadan yansıt"
+
+#: .\skin.xml
+msgid "[MirrorNotesDialog]Mirror on first note"
+msgstr "İlk notadan yansıt"
+
+#: .\skin.xml
+msgid "[MirrorNotesDialog]Mirror on middle"
+msgstr "Ortadan yansıt"
+
+#: .\skin.xml
+msgid "[VelocityDialog]Multiply"
+msgstr "Çarp"
+
+#: .\skin.xml
+msgid "[LengthDialog]Multiply by"
+msgstr "Çarpı"
+
+#: .\skin.xml
+msgid "[SelectDialog]Muted notes"
+msgstr ""
+
+#: .\skin.xml
+msgid "[SelectDialog]Note length"
+msgstr "Nota Uzunluğu"
+
+#: .\skin.xml
+msgid "[RandomizeNotesDialog]Note length"
+msgstr "Nota Uzunluğu"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Only insert notes into free steps"
+msgstr "Sadece boş adımlara nota yerleştir"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Options"
+msgstr "Seçenekler"
+
+#: .\skin.xml
+msgid "[LengthDialog]Overlap"
+msgstr "Çakışma"
+
+#: .\skin.xml
+msgid "[LengthDialog]Overlap Correction"
+msgstr "Çakışma Düzeltmesi"
+
+#: .\skin.xml
+msgid "[SelectDialog]Pitch"
+msgstr "Perde"
+
+#: .\skin.xml
+msgid "[RandomizeNotesDialog]Pitch"
+msgstr "Perde"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Pitch"
+msgstr "Perde"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Quantize Notes"
+msgstr "Notaları Quantize Et"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Quantize grid"
+msgstr "Quantize Grid"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Quantize note end"
+msgstr "Nota Sonunu Quantize"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Quantize note start"
+msgstr "Nota Başını Quantize"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Quantize type"
+msgstr "Quantize Tip"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Quintuplet"
+msgstr "Quintuplet"
+
+#: .\skin.xml
+msgid "[RandomizeNotesDialog]Randomize Notes"
+msgstr "Notaları Karıştır"
+
+#: .\skin.xml
+msgid "[RandomizeNotesDialog]Range"
+msgstr "Alan"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Range"
+msgstr "Alan"
+
+#: .\skin.xml
+msgid "[SelectDialog]Range..."
+msgstr ""
+
+#: .\skin.xml
+msgid "[LengthDialog]Reduce event length until overlaps are removed"
+msgstr "Çakışmalar kaldırılıncaya dek klipin uzunluğunu azalt"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Rhythm"
+msgstr "Ritim"
+
+#: .\skin.xml
+msgid "[SelectDialog]Select"
+msgstr ""
+
+#: .\skin.xml
+msgid "[SelectDialog]Select Notes"
+msgstr "Notaları seç"
+
+#: .\skin.xml
+msgid "[SelectDialog]Select at every n-th position"
+msgstr "Her n. pozisyonda seç"
+
+#: .\skin.xml
+msgid "[SelectDialog]Selection interval: number of beats"
+msgstr "Seçim aralığı: Beat sayısı"
+
+#: .\skin.xml
+msgid "[SelectDialog]Selection tolerance (+/-)"
+msgstr "Seçim Toleransı (+/-)"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Septuplet"
+msgstr "Septuplet"
+
+#: .\skin.xml
+msgid "[VelocityDialog]Set all to"
+msgstr "Tümünü Şuna Ayarla"
+
+#: .\skin.xml
+msgid "[TransposeDialog]Set all to"
+msgstr "Tümünü Şuna Ayarla"
+
+#: .\skin.xml
+msgid "[LengthDialog]Set all to"
+msgstr "Tümünü Şuna Ayarla"
+
+#: .\skin.xml
+msgid "[HumanizeDialog]Shift Note start from"
+msgstr "Nota Başlangıcını Buradan Kaydır"
+
+#: .\skin.xml
+msgid "[HumanizeDialog]Shift Note start to"
+msgstr "Nota Başlangıcını Buraya Kaydır"
+
+#: .\skin.xml
+msgid "[RandomizeNotesDialog]Shuffle notes"
+msgstr "Noataları karıştır"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]Simplify"
+msgstr "Basitleştir"
+
+#: .\skin.xml
+msgid "[SelectDialog]Start"
+msgstr "Başlangıç"
+
+#: .\skin.xml
+msgid "[SelectDialog]Start offset: number of beats"
+msgstr "Başlangıç Offset: Vuruş sayısıı"
+
+#: .\skin.xml
+msgid "[SelectDialog]Start selection at n-th position"
+msgstr "Seçimi n. pozisyondan başlat"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Step length"
+msgstr "Adım uzunluğu"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Straight"
+msgstr "Düzelt"
+
+#: .\skin.xml
+msgid "[RandomizeNotesDialog]Strength"
+msgstr "Kuvvet"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Strength"
+msgstr "Kuvvet"
+
+#: .\skin.xml
+msgid "[StretchDialog]Stretch"
+msgstr "Uzat"
+
+#: .\skin.xml
+msgid "[LengthDialog]Subtract"
+msgstr "Eksilt"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Swing"
+msgstr "Swing"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]Thin out Notes"
+msgstr "Notaları seyrekleştir"
+
+#: .\skin.xml
+msgid "[SelectDialog]To Note length"
+msgstr "Nota uzunluğuna"
+
+#: .\skin.xml
+msgid "[SelectDialog]To Pitch"
+msgstr "Perdeye"
+
+#: .\skin.xml
+msgid "[SelectDialog]To Velocity"
+msgstr "Sürata"
+
+#: .\skin.xml
+msgid "[HumanizeDialog]To Velocity"
+msgstr "Sürata"
+
+#: .\skin.xml
+msgid "[SelectDialog]Tolerance"
+msgstr "Tolerans"
+
+#: .\skin.xml
+msgid "[TransposeDialog]Transpose"
+msgstr "Transpoze"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Triplet"
+msgstr "Triplet"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Triplet"
+msgstr "Triplet"
+
+#: .\skin.xml
+msgid "[RandomizeNotesDialog]Use original pitch range"
+msgstr "Orijinal perde alanını kullan"
+
+#: .\skin.xml
+msgid "[RandomizeNotesDialog]Use original pitches only"
+msgstr "Sadece orijinal perdeleri kullan"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Use pitch range of existing notes"
+msgstr "Varolan notaların perde alanını kullan"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Use pitches of existing notes only"
+msgstr "Varolan notaların perdelerini kullan"
+
+#: .\skin.xml
+msgid "[VelocityDialog]Value"
+msgstr "Değer"
+
+#: .\skin.xml
+msgid "[TransposeDialog]Value"
+msgstr "Değer"
+
+#: .\skin.xml
+msgid "[LengthDialog]Value"
+msgstr "Değer"
+
+#: .\skin.xml
+msgid "[StretchDialog]Value"
+msgstr "Değer"
+
+#: .\skin.xml
+msgid "[VelocityDialog]Velocity"
+msgstr "Hız"
+
+#: .\skin.xml
+msgid "[SelectDialog]Velocity"
+msgstr "Hız"
+
+#: .\skin.xml
+msgid "[RandomizeNotesDialog]Velocity"
+msgstr "Hız"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Velocity"
+msgstr "Hız"
+
+#~ msgid "[SelectDialog]Deselect matching notes"
+#~ msgstr "Eşleşen Notaların Seçimini Kaldır"
+
+#~ msgid "[SelectDialog]From"
+#~ msgstr "-den itibaren"
+
+#~ msgid "[SelectDialog]Select at interval..."
+#~ msgstr "Aralık içinde seç..."
+
+#~ msgid "[SelectDialog]Select highest notes"
+#~ msgstr "En yüksek notaları seç"
+
+#~ msgid "[SelectDialog]Select lowest notes"
+#~ msgstr "En düşük notaları seç"
+
+#~ msgid "[SelectDialog]Select matching notes"
+#~ msgstr "Eşleşen notaları seç"
+
+#~ msgid "[SelectDialog]Select range..."
+#~ msgstr "Alan seç..."
+
+#~ msgid "[SelectDialog]To"
+#~ msgstr "-ya"

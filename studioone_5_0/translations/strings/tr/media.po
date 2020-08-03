@@ -1,0 +1,429 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\audiofile\audiocodecs\aiffaudiocodec.cpp
+msgid "[FileType]AIFC File"
+msgstr "AIFC Dosyası"
+
+#: .\audiofile\audiocodecs\aiffaudiocodec.cpp
+msgid "[FileType]AIFF File"
+msgstr "AIFF Dosyası"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Add Note Controller \"%(1)\""
+msgstr ""
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Add Pattern"
+msgstr "Kalıp Ekle"
+
+#: .\audiofile\audiocodecs\aiffaudiocodec.cpp
+msgid "[FileType]Apple Impulse File"
+msgstr "Apple Impulse Dosyası"
+
+#: .\audiofile\audiocodecs\audioloopinfo.cpp
+msgid "[FileType]Audioloop"
+msgstr "Ses Loop'u"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]Augmented"
+msgstr "Arttırılmış"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Bars"
+msgstr "Bars"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Beat-Linear"
+msgstr "Vuruş-Lineer"
+
+#: .\envelopes\envelopeactions.cpp
+msgid "[EnvelopeActions]Bend Points"
+msgstr "Büküm noktaları"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Blues"
+msgstr "Blues"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Chromatic"
+msgstr "Chromatic"
+
+#: .\audiofile\audiofileconverter.cpp
+msgid "[AudioFileConverter]Converting %(1)"
+msgstr "Dönüştürülen %(1)"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Copy Event"
+msgstr "Klip Kopyala"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Copy Events"
+msgstr "Klipleri Kopyala"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Delete Event"
+msgstr "Klipi Sil"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Delete Events"
+msgstr "Klipleri Sil"
+
+#: .\envelopes\envelopeactions.cpp
+msgid "[EnvelopeActions]Delete Point"
+msgstr "Noktayı Sil"
+
+#: .\envelopes\envelopefunctions.cpp
+msgid "[Events]Delete Points"
+msgstr "Noktaları Sil"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]Diminished"
+msgstr "Azaltılmış"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Dorian"
+msgstr "Dorian"
+
+#: .\music\beatlistparam.cpp
+msgid "[Resolution]Dotted"
+msgstr "Noktalı"
+
+#: .\envelopes\envelopefunctions.cpp
+msgid "[Events]Edit Value"
+msgstr "Değeri Düzenle"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Frames"
+msgstr "Pencereler"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Freeze Quantize"
+msgstr "Quantize'yi Dondur"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Freeze Velocity"
+msgstr "Hızı (Volocity) Dondur"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Harmonic Minor"
+msgstr "Harmonik Minor"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Insert Event"
+msgstr "Klip Ekle"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Insert Events"
+msgstr "Klipler Ekle"
+
+#: .\envelopes\envelopeactions.cpp
+msgid "[EnvelopeActions]Insert Point"
+msgstr "Nokta Ekle"
+
+#: .\envelopes\envelopefunctions.cpp
+msgid "[Events]Insert Points"
+msgstr "Noktalar Ekle"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Insert Tempo"
+msgstr "Tempo Ekle"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Insert Time Signature"
+msgstr "Zaman İşareti Ekle"
+
+#: .\music\pitchnamelist.cpp
+msgid "[FileType]Key Switches"
+msgstr ""
+
+#: .\music\musicparams.cpp
+msgid "[Media.Music]MIDI"
+msgstr ""
+
+#: .\music\midifileparser.cpp
+msgid "[FileType]MIDI File"
+msgstr "MIDI Dosyası"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]Major"
+msgstr "Major"
+
+#: .\music\keysignature.cpp
+msgid "[KeySignature]Major"
+msgstr "Major"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Major"
+msgstr "Major"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Major Pentatonic"
+msgstr "Major Pentatonic"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Melodic Minor"
+msgstr "Melodic Minor"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]Minor"
+msgstr "Minör"
+
+#: .\music\keysignature.cpp
+msgid "[KeySignature]Minor"
+msgstr "Minör"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Minor Pentatonic"
+msgstr "Minor Pentatonic"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Mixolydian"
+msgstr "Mixolydian"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Accent"
+msgstr "Aksanı Değişitir"
+
+#: .\music\chordfunctions.cpp
+msgid "[Edit]Modify Chord"
+msgstr "Akoru Değiştir"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Modify Event"
+msgstr "Klipi Düzenle"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Pattern Accent Strength"
+msgstr "Kalıp Aksanının Şiddetini Değiştir"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Pattern Gate"
+msgstr "Kalıp Gate'i ni Değiştir"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Pattern Resolution"
+msgstr "Kalıp Çözünürlüğünü Değiştir"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Pattern Swing"
+msgstr "Kalıp Kaymasını (Swing) Değiştir"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Pattern Type"
+msgstr "Kalıp Tipini Değiştir"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Probability"
+msgstr "Olasılıkları Değiştir"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Repeat"
+msgstr "Tekrarı Değişitir"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Step Count"
+msgstr "Adım Sayınsını Değiştir"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Modify Tempo"
+msgstr "Tempo'yu Düzenle"
+
+#: .\time\tempomanipulator.cpp
+msgid "[TempoManipulator]Modify Tempo"
+msgstr "Tempo'yu Düzenle"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Modify Velocity"
+msgstr "Hızı Düsenle"
+
+#: .\public\mediaformatter.cpp
+msgid "[Media]Mono"
+msgstr "Mono"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Move Event"
+msgstr "Klipi Taşı"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Move Events"
+msgstr "Klipleri Taşı"
+
+#: .\envelopes\envelopeactions.cpp
+msgid "[EnvelopeActions]Move Point"
+msgstr "Noktayı Taşı"
+
+#: .\envelopes\envelopeactions.cpp
+msgid "[EnvelopeActions]Move Points"
+msgstr "Noktaları Taşı"
+
+#: .\music\musicperformance.cpp
+msgid "[FileType]Music File"
+msgstr "Müzik Dosyası"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Mute Event"
+msgstr "Klipi Sustur"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Natural Minor"
+msgstr "Natural Minor"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Note Controller"
+msgstr ""
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Nudge"
+msgstr "İttir (Nudge)"
+
+#: .\public\mediaformatter.cpp
+msgid "[Media]Off"
+msgstr "Off"
+
+#: .\public\mediaformatter.cpp
+msgid "[Media]Pad %(1)"
+msgstr "Pad %(1)"
+
+#: .\music\patternperformance.cpp
+msgid "[FileType]Pattern File"
+msgstr "Kalıp Dosyası"
+
+#: .\music\musicparams.cpp
+msgid "[Media.Music]Percent"
+msgstr ""
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Phrygian"
+msgstr "Phrygian"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Pitch"
+msgstr ""
+
+#: .\music\pitchnamelist.cpp
+msgid "[FileType]Pitch Names"
+msgstr "Pitch (Ton) İsimleri"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]Power Chord"
+msgstr "Power Akor"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Pressure"
+msgstr ""
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Quantize"
+msgstr "Quantize"
+
+#: .\music\beatlistparam.cpp
+msgid "[Resolution]Quintuplet"
+msgstr "Quintuplet"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Remove Note Controller \"%(1)\""
+msgstr ""
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Remove Pattern"
+msgstr "Kalıbı Kaldır"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Remove Tempo"
+msgstr "Tempo Kaldır"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Remove Time Signature"
+msgstr "Zaman İşareti Kaldır"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Rename Pattern"
+msgstr "Kalıbın Adını Değiştir."
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Reorder Pattern"
+msgstr "Kalıbı Yeniden Düzenle"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Resize Event"
+msgstr "Klipi yeniden boyutlandır"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Resize Events"
+msgstr "Klipleri yeniden boyutlandır"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Samples"
+msgstr "Örnekler"
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Seconds"
+msgstr "Saniye"
+
+#: .\music\beatlistparam.cpp
+msgid "[Resolution]Septuplet"
+msgstr "Septuplet"
+
+#: .\time\tempoenvelopefunctions.cpp
+msgid "[Tempo]Set BPM Range"
+msgstr "BPM Aralığı Tanımla"
+
+#: .\audiofile\audiofileconverter.cpp
+msgid "[AudioFileConverter]Some files could not be converted."
+msgstr "Bazı dosyalar dönüştürülemedi."
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Split Event"
+msgstr "Klipi böl"
+
+#: .\events\eventfunctions.cpp
+msgid "[EventFunctions]Split Events"
+msgstr "Klipleri Böl"
+
+#: .\public\mediaformatter.cpp
+msgid "[Media]Stereo"
+msgstr "Stereo"
+
+#: .\music\beatlistparam.cpp
+msgid "[Resolution]Straight"
+msgstr "Düzelt"
+
+#: .\envelopes\envelopefunctions.cpp
+msgid "[Events]Straighten Curve"
+msgstr "Eğriyi Düzleştir"
+
+#: .\time\tempoenvelope.cpp
+msgid "[Tempo]Tempo"
+msgstr "Tempo"
+
+#: .\music\notecontroller.cpp
+msgid "[NoteController]Timbre"
+msgstr ""
+
+#: .\time\mediatimeparams.cpp
+msgid "[MediaTime]Time-Linear"
+msgstr "Lineer Zaman"
+
+#: .\music\musicactions.cpp
+msgid "[ActionDescriptions]Transpose"
+msgstr "Transpoze"
+
+#: .\music\beatlistparam.cpp
+msgid "[Resolution]Triplet"
+msgstr "Triplet"
+
+#: .\audiofile\audiocodecs\waveaudiocodec.cpp
+msgid "[FileType]Wave File"
+msgstr "Wave Dosyası"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]sus2"
+msgstr "sus2"
+
+#: .\music\chordclassifier.cpp
+msgid "[Chords]sus4"
+msgstr "sus4"

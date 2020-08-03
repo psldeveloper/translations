@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\skin.xml
+msgid "[VSTUserOption]Add..."
+msgstr "Hinzufügen..."
+
+#: .\skin.xml
+msgid "[VSTUserOption]Locations"
+msgstr "Ordner"
+
+#: .\skin.xml
+msgid "[Command]Presets"
+msgstr "Presets"
+
+#: .\skin.xml
+msgid "[VSTUserOption]Remove"
+msgstr "Entfernen"
+
+#: .\skin.xml
+msgid "[VSTUserOption]Reset Blocklist"
+msgstr "Blocklist zurücksetzen"
+
+#: .\skin.xml
+msgid "[Command]Reset Blocklist"
+msgstr "Blocklist zurücksetzen"
+
+#: .\skin.xml
+msgid "[VSTUserOption]Scan at startup"
+msgstr "Beim Programmstart nach neuen Plug-ins suchen"
+
+#~ msgid "[VSTUserOption]Reset Blacklist"
+#~ msgstr "Blacklist zurücksetzen"
+
+#~ msgid "[Command]Reset Blacklist"
+#~ msgstr "Blacklist zurücksetzen"
+

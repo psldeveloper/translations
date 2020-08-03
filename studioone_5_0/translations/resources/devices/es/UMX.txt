@@ -1,0 +1,1 @@
+﻿Por favor utilice la asignación por defecto del controlador impresa en el UMX y ajuste los botones B5-8 para CC80-83. Utilice la memoria de usuario para almacenar los cambios.

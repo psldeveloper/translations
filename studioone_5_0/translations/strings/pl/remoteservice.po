@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\remoteuseroption.cpp
+msgid "[Remote]Network"
+msgstr "Sieć"
+
+#: .\plugversion.h
+msgid "[Remote]Remote Control Support"
+msgstr "Obsługa zdalnego sterowania"
+
+#: .\plugmain.cpp
+msgid "[Remote]Support for remote control apps via UCNET"
+msgstr "Wsparcie dla aplikacji zdalnego sterowania poprzez UCNET"
+

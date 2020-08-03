@@ -1,0 +1,1 @@
+﻿Configure "Receber De" para Yamaha KX-1. Para controle do Studio One, utilize o dispositivo KX-DAW Remote.

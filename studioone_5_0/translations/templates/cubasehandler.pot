@@ -1,0 +1,8 @@
+#: .\cubasebuilder.cpp
+msgid "[CubaseHandler]Finalizing..."
+msgstr ""
+
+#: .\cubasebuilder.cpp
+msgid "[CubaseHandler]Importing Track %(1)..."
+msgstr ""
+

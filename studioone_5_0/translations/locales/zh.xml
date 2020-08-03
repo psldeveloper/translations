@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocaleInfo	language="zh" title="简体中文">
+	<String x:id="dateFormat" text="%int(1)/%int(2)/%int(3)"/>				<!-- 2008/3/9 -->
+	<String x:id="friendlyDateFormat" text="%int(1)年%int(4)%int(3)日"/>	<!-- 2010年9月3日 -->
+	<String x:id="timeFormat" text="%int(1:2):%int(2:2):%int(3:2)"/>		<!-- 01:42:00 -->
+
+	<Attributes x:id="weekdays">
+		<Association key="Sun" value="星期日"/>
+		<Association key="Mon" value="星期一"/>
+		<Association key="Tue" value="星期二"/>
+		<Association key="Wed" value="星期三"/>
+		<Association key="Thu" value="星期四"/>
+		<Association key="Fri" value="星期五"/>
+		<Association key="Sat" value="星期六"/>
+	</Attributes>	
+
+	<Attributes x:id="months">
+		<Association key="Jan" value="一月"/>
+		<Association key="Feb" value="二月"/>
+		<Association key="Mar" value="三月"/>
+		<Association key="Apr" value="四月"/>
+		<Association key="May" value="五月"/>
+		<Association key="Jun" value="六月"/>
+		<Association key="Jul" value="七月"/>
+		<Association key="Aug" value="八月"/>
+		<Association key="Sep" value="九月"/>
+		<Association key="Oct" value="十月"/>
+		<Association key="Nov" value="十一月"/>
+		<Association key="Dec" value="十二月"/>
+	</Attributes>
+</LocaleInfo>

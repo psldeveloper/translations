@@ -1,0 +1,1 @@
+﻿Conecte seu Mackie HUI e escolha as portas MIDI utilizadas.

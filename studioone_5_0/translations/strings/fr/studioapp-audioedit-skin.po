@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\skin.xml
+msgid "[PluginPresetSelector]$title"
+msgstr "$title"
+
+#: .\skin.xml
+msgid "[InsertChannelFXDialog]Add Insert to Selected Channels"
+msgstr "Ajouter un insert aux canaux sélectionnés"
+
+#: .\skin.xml
+msgid "[InsertInstrumentDialog]Add Instrument to Selected Tracks"
+msgstr "Ajouter un instrument aux pistes sélectionnées"
+
+#: .\skin.xml
+msgid "[InsertNoteFXDialog]Add Note FX to Selected Tracks"
+msgstr "Ajouter un effet de note aux pistes sélectionnées"
+
+#: .\skin.xml
+msgid "[PluginPresetFxChainSelector]Device"
+msgstr "Périphérique"
+
+#: .\skin.xml
+msgid "[PluginPresetFxChainSelector]FX Chain"
+msgstr "Chaîne d'effets"
+
+#: .\skin.xml
+msgid "[InsertEventFXDialog]Insert Event FX"
+msgstr "Insérer l'effet d'événement"
+
+#: .\skin.xml
+msgid "[InsertInstrumentDialog]Instrument"
+msgstr "Instrument"
+
+#: .\skin.xml
+msgid "[InsertNoteFXDialog]Note FX"
+msgstr "Effet de note"
+
+#: .\skin.xml
+msgid "[InsertEventFXDialog]Tail"
+msgstr "Queue"
+
+#~ msgid "[PluginPresetSelector]Device"
+#~ msgstr "Périphérique"
+
+#~ msgid "[PluginPresetSelector]FX Chain"
+#~ msgstr "Chaîne d'effets"
+
+#~ msgid "[InsertEventFXDialog]Device"
+#~ msgstr "Périphérique"
+
+#~ msgid "[InsertEventFXDialog]FX Chain"
+#~ msgstr "Chaîne d'effets"
+

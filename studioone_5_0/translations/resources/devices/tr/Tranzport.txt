@@ -1,0 +1,1 @@
+Shift Wheel kalan ses seviyesini kontrol eder. In / Out Zoom yapar. Shift Record parçayı kaydeder. Shift Mute global Mute'tır. Shift Solo Global Solo'dur. Shift Add Marker siler.

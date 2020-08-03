@@ -1,0 +1,672 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\projectdocument.cpp
+msgid "[FileType]$APPNAME Project"
+msgstr "Projeto do $APPNAME "
+
+#: .\showdocument.cpp
+msgid "[FileType]$APPNAME Show"
+msgstr "$APPNAME Show"
+
+#: .\showdocument.cpp
+msgid "[FileType]$APPNAME Show Template"
+msgstr "$APPNAME Modelo de Show"
+
+#: .\songdocument.cpp
+msgid "[FileType]$APPNAME Song"
+msgstr "Song do $APPNAME"
+
+#: .\songdocument.cpp
+msgid "[FileType]$APPNAME Song Template"
+msgstr "Modelo de Song do $APPNAME"
+
+#: .\showenvironment.cpp
+msgid "[Show]16 Buttons"
+msgstr "16 Botões"
+
+#: .\showenvironment.cpp
+msgid "[Show]16 Faders"
+msgstr "16 Faders"
+
+#: .\showenvironment.cpp
+msgid "[Show]16 Knobs"
+msgstr "16 Potenciômetros"
+
+#: .\showenvironment.cpp
+msgid "[Show]8 Buttons + 8 Knobs + 8 Faders"
+msgstr "8 Botões + 8 Potenciômetros + 8 Faders"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Add Device"
+msgstr "Adicionar Dispositivo"
+
+#: .\documenthandler.cpp
+msgid "[StudioApp]Add to Project"
+msgstr "Adicionar ao Projeto"
+
+#: .\documenthandler.cpp
+msgid "[Command]Add to Project"
+msgstr "Adicionar ao Projeto"
+
+#: .\documenthandler.cpp
+msgid "[StudioApp]Add to Show"
+msgstr "Adicionar ao Show"
+
+#: .\documenthandler.cpp
+msgid "[Command]Add to Show"
+msgstr "Adicionar ao Show"
+
+#: .\appoptions.cpp
+msgid "[Options]Advanced"
+msgstr "Avançado"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]Application"
+msgstr "Aplicação"
+
+#: .\studioapp.cpp
+msgid "[StudioApp]Artist Profile"
+msgstr "Perfil do Artista"
+
+#: .\appoptions.cpp
+msgid "[Options]Audio"
+msgstr "Áudio"
+
+#: .\sidebar.filetypes.cpp
+msgid "[FileType]Audio Files"
+msgstr "Arquivos de Áudio"
+
+#: .\appoptions.cpp
+msgid "[Options]Automation"
+msgstr "Automação"
+
+#: .\appoptions.cpp
+msgid "[Options]Basic"
+msgstr "Básico"
+
+#: .\sidebar.cpp
+msgid "[Command]Browser"
+msgstr "Navegador (Browser)"
+
+#: .\showenvironment.cpp
+msgid "[Show]Button"
+msgstr "Botão"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]CPU Cores"
+msgstr "Núcleos do Processador"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]CPU Model"
+msgstr "Modelo do Processador"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]CPU Speed"
+msgstr "Velocidade do Processador"
+
+#: .\soundsethandler.cpp
+msgid "[Tags]Character"
+msgstr "Características"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Cloud"
+msgstr "Núvem"
+
+#: .\appoptions.cpp
+msgid "[Options]Console"
+msgstr "Console"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Construction Kits"
+msgstr "Construction Kits"
+
+#: .\appoptions.cpp
+msgid "[Options]Create a New Song"
+msgstr "Criar um Novo Song"
+
+#: .\showdocument.cpp
+msgid "[StudioApp]Create an empty Show"
+msgstr "Criar Show vazio"
+
+#: .\songdocument.cpp
+msgid "[StudioApp]Create an empty song"
+msgstr "Criar um Song Vazio"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]Disk"
+msgstr "Disco"
+
+#: .\appoptions.cpp
+msgid "[Options]Do Nothing"
+msgstr "Não fazer nada"
+
+#: .\projectdocument.cpp
+msgid "[StudioApp]Do you want to make the current I/O Setup the default for new Projects?"
+msgstr "Deseja tornar a configuração de E/S atual o padrão para novos Projetos?"
+
+#: .\showdocument.cpp
+msgid "[StudioApp]Do you want to make the current I/O Setup the default for new Shows?"
+msgstr "Deseja tornar a atual configuracão de E/S o padrão para novos Shows?"
+
+#: .\songdocument.cpp
+msgid "[StudioApp]Do you want to make the current I/O Setup the default for new Songs?"
+msgstr "Deseja tornar a configuração de E/S atual o padrão para novos Songs?"
+
+#: .\documenthandler.cpp
+msgid "[Command]Document"
+msgstr "Documento"
+
+#: .\studioapp.cpp
+msgid "[Installer]Documentation"
+msgstr "Documentação"
+
+#: .\sidebar.filetypes.cpp
+msgid "[FileType]Documents"
+msgstr "Documentos"
+
+#: .\appoptions.cpp
+msgid "[Command]Edit"
+msgstr "Edição"
+
+#: .\melodyneextension.cpp
+msgid "[StudioApp]Edit with Melodyne"
+msgstr "Editar com o Melodyne"
+
+#: .\revoiceextension.cpp
+msgid "[StudioApp]Edit with Revoice Pro"
+msgstr "Editar com o Revoice Pro"
+
+#: .\vocalignextension.cpp
+msgid "[StudioApp]Edit with VocALign"
+msgstr "Editar com o VocALign"
+
+#: .\appoptions.cpp
+msgid "[Options]Editing"
+msgstr "Edição"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Effects"
+msgstr "Efeitos"
+
+#: .\showdocument.cpp
+msgid "[StudioApp]Empty Show"
+msgstr "Show Vazio"
+
+#: .\songdocument.cpp
+msgid "[StudioApp]Empty Song"
+msgstr "Song Vazio"
+
+#: .\devicepresetrevealer.cpp
+msgid "[MPE]Enable MPE"
+msgstr "Ativar EPM"
+
+#: .\devicepresetrevealer.cpp
+msgid "[SystemScaling]Enable System DPI Scaling"
+msgstr "Ativar dimensionamento DPI do Sistema"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]Ethernet Adapter"
+msgstr "Adaptador Ethernet"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]External Instruments"
+msgstr "Instrumentos Externos"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]FX Chains"
+msgstr "Cadeias de Efeitos"
+
+#: .\showenvironment.cpp
+msgid "[Show]Fader"
+msgstr "Fader"
+
+#: .\documenthandler.cpp
+msgid "[Command]File"
+msgstr "Arquivo"
+
+#: .\appoptions.cpp
+msgid "[Options]File Types"
+msgstr "Tipos de Arquivos"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Files"
+msgstr "Arquivos"
+
+#: .\devicepresetrevealer.cpp
+msgid "[SystemScaling]For complete high-DPI compatibility the plug-in needs to be updated by the vendor."
+msgstr "Para compatibilidade de alto DPI completa, o plug-in precisa ser atualizado pelo fabricante."
+
+#: .\studioapp.cpp
+msgid "[Command]Help"
+msgstr "Ajuda"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Home"
+msgstr "Início"
+
+#: .\songdataimporter.cpp
+msgid "[SongDataImporter]Import Song Data"
+msgstr "Importar Dados do Song"
+
+#: .\songdataimporter.cpp
+msgid "[Command]Import Song Data"
+msgstr "Importar Dados do Song"
+
+#: .\studioapp.cpp
+msgid "[Installer]Impulse Responses"
+msgstr "Respostas de Impulso"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Install Content"
+msgstr "Instalar Conteúdo"
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]Install Sound Set"
+msgstr "Instalar Sound Set"
+
+#: .\soundsethandler.cpp
+msgid "[Tags]Instrument"
+msgstr "Instrumento"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Instruments"
+msgstr "Instrumentos"
+
+#: .\studioapp.cpp
+msgid "[Installer]Instruments"
+msgstr "Instrumentos"
+
+#: .\showenvironment.cpp
+msgid "[Show]Knob"
+msgstr "Potenciômetro"
+
+#: .\studioapp.cpp
+msgid "[Installer]Legacy and Compatibility"
+msgstr "Legado e Compatibilidade"
+
+#: .\studioapp.cpp
+msgid "[Installer]Loop Libraries"
+msgstr "Bibliotecas de Loops"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Loops"
+msgstr "Loops"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]MAC Address"
+msgstr "Endereço MAC"
+
+#: .\appoptions.cpp
+msgid "[Options]MIDI"
+msgstr "MIDI"
+
+#: .\studioapp.cpp
+msgid "[StudioApp]Macros"
+msgstr "Macros"
+
+#: .\projectdocument.cpp
+msgid "[StudioApp]Master"
+msgstr "Master"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Mix FX"
+msgstr "Mix FX"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Multi Instruments"
+msgstr "Multi Instrumentos"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Multitrack Files"
+msgstr "Arquivos Multipista"
+
+#: .\sidebar.filetypes.cpp
+msgid "[FileType]Musical Files"
+msgstr "Arquivos Musicais"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]New Multi Instrument"
+msgstr "Novo Multi Instrumento"
+
+#: .\documenthandler.cpp
+msgid "[Command]New Project"
+msgstr "Novo Projeto"
+
+#: .\projectdocument.cpp
+msgid "[StudioApp]New Project"
+msgstr "Novo Projeto"
+
+#: .\documenthandler.cpp
+msgid "[StudioApp]New Project \"%(1)\"..."
+msgstr "Novo Projeto \"%(1)\"..."
+
+#: .\documenthandler.cpp
+msgid "[Command]New Show"
+msgstr "Novo Show"
+
+#: .\showdocument.cpp
+msgid "[StudioApp]New Show"
+msgstr "Novo Show"
+
+#: .\documenthandler.cpp
+msgid "[StudioApp]New Show \"%(1)\"..."
+msgstr "Novo Show \"%(1)\"..."
+
+#: .\documenthandler.cpp
+msgid "[Command]New Song"
+msgstr "Novo Song"
+
+#: .\songdocument.cpp
+msgid "[StudioApp]New Song"
+msgstr "Novo Song"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Note FX"
+msgstr "FX de Nota"
+
+#: .\appoptions.cpp
+msgid "[Options]Open Default Song/Project/Show"
+msgstr "Abrir Song/Projeto/Show Padrão"
+
+#: .\appoptions.cpp
+msgid "[Options]Open Last Song/Project/Show"
+msgstr "Abrir Último Song/Projeto/Show"
+
+#: .\devicepresetrevealer.cpp
+msgid "[SystemScaling]Please note that System DPI Scaling might cause graphical glitches in third-party plug-ins that $APPNAME can't fix."
+msgstr "Observe que o dimensionamento DPI pelo Sistema pode causar falhas gráficas em plug-ins de terceiros que o $APPNAME não pode resolver."
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Pool"
+msgstr "Pool"
+
+#: .\soundsethandler.cpp
+msgid "[Tags]Product"
+msgstr "Produto"
+
+#: .\documenthandler.cpp
+msgid "[StudioApp]Projects"
+msgstr "Projetos"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]RAM"
+msgstr "RAM"
+
+#: .\melodyneextension.cpp
+msgid "[StudioApp]Remove Melodyne"
+msgstr "Remover Melodyne"
+
+#: .\revoiceextension.cpp
+msgid "[StudioApp]Remove Revoice Pro"
+msgstr "Remover o Revoice Pro"
+
+#: .\vocalignextension.cpp
+msgid "[StudioApp]Remove VocALign"
+msgstr "Remover VocALign"
+
+#: .\documenthandler.cpp
+msgid "[Command]Save As Template"
+msgstr "Salvar Como Modelo"
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]Scanning Sound Sets..."
+msgstr "Escaneando Sound Sets..."
+
+#: .\samplerextension.cpp
+msgid "[StudioApp]Send To new Impact"
+msgstr "Enviar para novo Impact"
+
+#: .\samplerextension.cpp
+msgid "[StudioApp]Send To new SampleOne"
+msgstr "Enviar para novo SampleOne"
+
+#: .\notionexportcomponent.cpp
+msgid "[NotionExportComponent]Send to Notion"
+msgstr "Enviar ao Notion"
+
+#: .\notionexportcomponent.cpp
+msgid "[Command]Send to Notion"
+msgstr "Enviar ao Notion"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Shop"
+msgstr "Loja"
+
+#: .\automationhandler.cpp
+msgid "[AutomationHandler]Show Automation"
+msgstr "Exibir Automação"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Cloud"
+msgstr "Exibir Nuvem"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Effects"
+msgstr "Exibir Efeitos"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Files"
+msgstr "Exibir Arquivos"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Home Page"
+msgstr "Exibir Página Inicial"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Instruments"
+msgstr "Exibir Instrumentos"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Loops"
+msgstr "Exibir Loops"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Pool"
+msgstr "Exibir Pool"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Shop"
+msgstr "Exibir Loja"
+
+#: .\devicepresetrevealer.cpp
+msgid "[DevicePresets]Show in Browser"
+msgstr "Mostrar no Navegador"
+
+#: .\devicepresetrevealer.cpp
+msgid "[DevicePresets]Show in Console"
+msgstr "Exibir no Console"
+
+#: .\devicepresetrevealer.cpp
+msgid "[DevicePresets]Show in Routing"
+msgstr "Mostrar no Direcionamento"
+
+#: .\documenthandler.cpp
+msgid "[StudioApp]Shows"
+msgstr "Shows"
+
+#: .\notionexportcomponent.cpp .\songdataimporter.cpp
+msgid "[Command]Song"
+msgstr "Song"
+
+#: .\documenthandler.cpp
+msgid "[StudioApp]Songs"
+msgstr "Songs"
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]Sound Set \"%(1)\" failed to install."
+msgstr "O Sound Set \"%(1)\" falhou ao instalar."
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]Sound Set \"%(1)\" has been updated to version %(2)."
+msgstr "O Sound Set \"%(1)\" foi atualizado para a versão %(2)."
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]Sound Set \"%(1)\" is already installed."
+msgstr "O Sound Set \"%(1)\" já está instalado."
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Sound Sets"
+msgstr "Sound Sets"
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]Sound Sets"
+msgstr "Sound Sets"
+
+#: .\documenthandler.cpp
+msgid "[Command]Start Page"
+msgstr "Página Inicial"
+
+#: .\soundsethandler.cpp
+msgid "[Tags]Style"
+msgstr "Estilo"
+
+#: .\documenthandler.cpp
+msgid "[Command]Switch To Project"
+msgstr "Alternar para Projeto"
+
+#: .\documenthandler.cpp
+msgid "[Command]Switch To Show"
+msgstr "Alternar para Show"
+
+#: .\documenthandler.cpp
+msgid "[Command]Switch To Song"
+msgstr "Alternar para Song"
+
+#: .\appoptions.cpp
+msgid "[Options]Synchronization"
+msgstr "Sincronização"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]System"
+msgstr "Sistema"
+
+#: .\devicepresetrevealer.cpp
+msgid "[SystemScaling]System DPI Scaling for third-party plug-ins requires Windows 10 version 1803 or later."
+msgstr "O dimensionamento DPI pelo Sistema para plug-ins de terceiros requer a versão 1803 ou posterior do Windows 10."
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]System ID"
+msgstr "ID do Sistema"
+
+#: .\studioapp.cpp
+msgid "[StudioApp]System Information"
+msgstr "Informação do sistema"
+
+#: .\studioapp.cpp
+msgid "[Command]System Information"
+msgstr "Informação do sistema"
+
+#: .\songdataimporter.cpp
+msgid "[SongDataImporter]Tempo & Time Signature"
+msgstr "Andamento e Fórmula de Compasso"
+
+#: .\studioapp.cpp
+msgid "[StudioApp]Thank you for checking out $APPNAME. You have %(1) program starts left."
+msgstr "Obrigado por experimentar o $APPNAME. Você tem %(1) utilização do programa restando."
+
+#: .\studioapp.cpp
+msgid "[StudioApp]The $APPNAME Reference Manual has not been installed yet."
+msgstr "O Manual de Referência do $APPNAME ainda não foi instalado."
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]The following Sound Sets failed to install or are installed multiple times on your system. This can be caused by incomplete file downloads. Do you want to delete these files now?"
+msgstr "Os seguintes Sound Sets falharam na instalação ou foram instalados diversas vezes em seu sistema. Isso pode ter sido causado por downloads incompletos. Deseja excluir esses arquivos agora?"
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]The package \"%(1)\" is still in use (%(2) files open)!"
+msgstr "O pacote \"%(1)\" ainda está em uso (%(2) arquivos abertos)!"
+
+#: .\notionexportcomponent.cpp
+msgid "[NotionExportComponent]This computer"
+msgstr "Este computador"
+
+#: .\appoptions.cpp
+msgid "[Command]Toggle No Overlap"
+msgstr "Alternar Não-Sobreposição"
+
+#: .\appoptions.cpp
+msgid "[Command]Toggle Range Tool in upper event area"
+msgstr "Alternar Ferramenta Faixa na parte superior dos eventos"
+
+#: .\appoptions.cpp
+msgid "[Command]Toolbar"
+msgstr "Barra de Ferramentas"
+
+#: .\soundsethandler.cpp
+msgid "[Tags]Type"
+msgstr "Tipo"
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]Uninstall"
+msgstr "Desinstalar"
+
+#: .\devicepresetrevealer.cpp
+msgid "[DevicePresets]Update Plug-in Thumbnail"
+msgstr "Atualizar Miniatura de Plug-in"
+
+#: .\devicebrowserextension.cpp
+msgid "[StudioApp]Used by"
+msgstr "Utilizado por"
+
+#: .\sidebar.filetypes.cpp
+msgid "[FileType]User Files"
+msgstr "Arquivos de Usuário"
+
+#: .\soundsethandler.cpp
+msgid "[Tags]Vendor"
+msgstr "Fabricante"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]Version"
+msgstr "Versão"
+
+#: .\sidebar.filetypes.cpp
+msgid "[FileType]Video Files"
+msgstr "Arquivos de Vídeo"
+
+#: .\appfeatures.cpp
+msgid "[Command]Video Player"
+msgstr "Player de Vídeo"
+
+#: .\appfeatures.cpp .\documenthandler.cpp
+msgid "[Command]View"
+msgstr "Visualizar"
+
+#: .\projectdocument.cpp .\showdocument.cpp .\songdocument.cpp
+msgid "[StudioApp]Workspace"
+msgstr "Espaço de Trabalho"
+
+#~ msgid "[Options]Open Default Song/Project"
+#~ msgstr "Abrir Song/Projeto Padrão"
+
+#~ msgid "[Options]Open Last Song/Project"
+#~ msgstr "Abrir Último Song/Projeto"
+
+#~ msgid "[FileType]Presets"
+#~ msgstr "Presets"
+
+#~ msgid "[Command]Show Project"
+#~ msgstr "Mostrar Projeto"
+
+#~ msgid "[Command]Show Song"
+#~ msgstr "Mostrar Song"
+
+#~ msgid "[StudioApp]Recent Files"
+#~ msgstr "Trabalhos Recentes"
+
+#~ msgid "[StudioApp]An older version of $APPNAME has been found on this computer."
+#~ msgstr "Uma versão anterior do $APPNAME foi encontrada neste computador."
+
+#~ msgid "[StudioApp]Do you want to import the settings from the old version of $APPNAME?"
+#~ msgstr "Deseja importar as configurações da versão antiga do $APPNAME?"
+
+#~ msgid "[StudioApp]$APPNAME can not shutdown right now!"
+#~ msgstr "O $APPNAME não pode encerrar-se agora!"
+
+#~ msgid "[StudioApp]Files are being transferred in background."
+#~ msgstr "Arquivos estão sendo transferidos em segundo plano."
+

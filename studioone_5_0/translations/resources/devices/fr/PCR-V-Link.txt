@@ -1,0 +1,1 @@
+Veuillez activer "V-Link" sur votre PCR et régler "Reçoit de" sur EDIROL PCR 2. C1 est Quantifier, C2 est Supprimer et C3 est Solo de piste. Fonctionne avec les modèles 300, 500 et 800.

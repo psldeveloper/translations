@@ -1,0 +1,1 @@
+eKeys'in herhangi bir kontroller'ı yoktur. Velocity (Şiddet) her zaman 100'dür.

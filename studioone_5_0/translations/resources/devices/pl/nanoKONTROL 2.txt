@@ -1,0 +1,1 @@
+﻿Wybierz tryb operacyjny Mackie Control (wciśnij SET MARKER i REW podczas podłączania kabla USB).

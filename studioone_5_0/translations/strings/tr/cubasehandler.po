@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\cubasebuilder.cpp
+msgid "[CubaseHandler]Finalizing..."
+msgstr "Bitiriliyor..."
+
+#: .\cubasebuilder.cpp
+msgid "[CubaseHandler]Importing Track %(1)..."
+msgstr "%(1)  iz içe aktarılıyor."
+

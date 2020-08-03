@@ -1,0 +1,184 @@
+﻿UMOWA LICENCYJNA UŻYTKOWNIKA KOŃCOWEGO
+NAJNOWSZA WERSJA – Grudzień 2019 r.
+PreSonus Audio Electronics, Inc., 18011 Grand Bay Court, Baton Rouge, LA 70809
+
+1. WARUNKI OGÓLNE
+
+1.1 Niniejsza umowa przedstawia zasady i warunki („Warunki”) z niej wynikające pomiędzy Tobą („Użytkownikiem”), a PreSonus Audio Electronics Inc, PreSonus Europe Limited i/lub PreSonus Software Limited i jego przedstawicielstwami i oddziałami (wspólnie „PreSonus”, „my”,) dotyczące używania produktów PreSonus, w tym, bez ograniczeń, wszelkich (a) informacji, danych, dokumentów, obrazów, zdjęć, grafik, dźwięku, filmów lub webcastów (transmisje w internecie) i (b) Licencjonowanego Oprogramowania (określonego poniżej), w tym związanych z nim mediów, dokumentacji (np. opisów programu lub instrukcji obsługi) oraz wszelkich innych dokumentów i materiałów wyprodukowanych przez PreSonus („Produkt/Produkty”)
+
+1.2 PreSonus zastrzega sobie prawo do zmiany, modyfikowania, dodawania lub usuwania części niniejszych Warunków według własnego uznania i w dowolnym czasie. Do Użytkownika należy okresowe sprawdzanie, czy w niniejszych Warunkach zaszły jakieś zmiany. Jeśli Użytkownik nadal korzysta z Produktu/Produktów po ogłoszeniu zmian Warunków, oznacza to, że je akceptuje i zgadza się na te zmiany. PreSonus udostępni aktualną wersję Warunków na stronie www.presonus.com/EULA („Strona”). Korzystanie przez Użytkownika z Produktu podlega pod najbardziej aktualną wersję Warunków w czasie używania produktu. Korzystanie ze Strony uregulowane jest przez niniejszą Umowę Licencyjną Użytkownika Końcowego (Umowa Licencyjna) i Zasady Użytkowania PreSonus (Terms of Use), które są również dostępne na stronie www.presonus.com/Terms-of-Use.
+
+2. REJESTRACJA/AKTYWACJA
+
+2.1 W celu otrzymania klucza aktywacyjnego, umożliwiającego korzystanie z Produktu/Produktów na komputerze, wymagana jest rejestracja Produktu/Produktów. Nie ma możliwości korzystania z produktów PreSonus, które nie są aktywowane.
+
+2.2 Przy rejestracji Użytkownik będzie musiał wpisać swoje imię, adres e-mail i adres pocztowy. Informacje dotyczące konta Użytkownika (określone poniżej) zapisywane są razem z numerem seryjnym PreSonus w naszej rejestracyjnej bazie danych. PreSonus używa bezpiecznego połączenia SSL z szyfrowaniem 128-bit, spełniającym aktualne standardy bezpieczeństwa w zakresie przesyłania danych w sieci. Aby uzyskać więcej informacji o obsłudze danych osobistych przez PreSonus, proszę odwiedzić stronę: www.presonus.com/Privacy-Policy.
+
+3. AKCEPTACJA WARUNKÓW
+
+3.1 Poprzez instalację i rejestrację Produktu na swoim komputerze Użytkownik wyraża zgodę na niniejsze Zasady. Jeśli Użytkownik nie zgadza się na niniejsze Warunki, nie może instalować Produktu.
+
+3.2 Użytkownik nie może używać Produktu/Produktów, jeśli (a) prawo zabrania mu otrzymywania lub używania Produktu/Produktów, (b) nie jest w pełni zdolny i kompetentny do zawarcia umowy z PreSonus, np. jest niepełnoletni i/lub nie uzyskał możliwej do potwierdzenia zgodny rodziców. W szczególności, akceptując niniejsze Warunki Użytkownik potwierdza, że ma więcej niż 13 lat, i przyznaje, że Produkty nie są przeznaczone dla dzieci poniżej 13 roku życia.
+
+3.3 PreSonus może wymagać od Użytkownika wyrażenia zgody na aktualizację Zasad przed dalszym użytkowaniem Produktu lub Usługi. W innym przypadku dalsze użytkowanie każdego Produktu, Strony lub Usługi stanowi akceptację zamian.
+
+4. DEFINICJE
+
+O ile nie zdefiniowano ich inaczej, terminy pisane wielkimi literami w niniejszych Warunkach mają następujące znaczenia:
+
+4.1 „Informacje o Koncie” (Account Information) oznaczają informacje dostarczane przez Użytkownika firmie PreSonus przy rejestracji Produktu/Produktów na Stronie, w tym PreSonus ID Użytkownika i dane do logowania.
+
+4.2 „Pakiet” (Bundle) oznacza produkt wprowadzony na rynek i sprzedawany przez PreSonus lub osoby trzecie, w markowym opakowaniu osoby trzeciej, użytkownikom końcowym przez sklep internetowy lub przez sprzedawców detalicznych. Pakiet zawiera pewne Licencjonowane Oprogramowanie.
+
+4.3 „Prawa Własności Intelektualnej”, oznaczają prawo autorskie, autorskie prawa osobiste, znak towarowy, wizerunek handlowy, patent, tajemnicę handlową, ochronę przed nieuczciwą konkurencją oraz wszelkie inne prawa intelektualne lub własności.
+
+4.4 „Prawo” (Law) oznacza wszelkie obowiązujące przepisy lub ogólnie przyjęte zwyczaje lub wytyczne w każdej odpowiedniej jurysdykcji, takie jak wszelkie przepisy dotyczące eksportu danych lub oprogramowania do i ze Stanów Zjednoczonych lub innych odpowiednich państw. 
+
+4.5 „Klucz Licencyjny” oznacza unikalny kod dostarczany przez PreSonus, który identyfikuje typ licencji oraz odblokowuje lub włącza pewne funkcje w Licencjonowanym Oprogramowaniu.
+
+4.6 „Licencjonowane Oprogramowanie” oznacza oprogramowanie komputerowe w wersji kodu obiektowego oraz związaną z nim dokumentację dla każdego Produktu, w tym między innymi modyfikacje i dodatki dostarczane przez PreSonus.
+
+4.7 „Udostępnić” oznacza przesłać e-mailem, zamieścić, przesłać, wysłać na serwer lub w inny sposób udostępniać przez Użytkownika przy użyciu Produktu/Produktów.
+
+4.8 „Znaki” oznacza znaki towarowe, logotypy i znaki usługowe widoczne na Produkcie/Produktach i związanej z nim/nimi dokumentacji.
+
+4.9 „Usługa/Usługi” oznacza wszystkie typy usług wsparcia technicznego oferowanego Użytkownikowi przez PreSonus, w tym między innymi pomoc zdalną i wsparcie telefoniczne.
+
+4.10 „Treści Udostępnione” („Shared Content”) oznacza treści, które zostały Udostępnione przez Użytkownika lub przez inne osoby.
+
+4.11 „Użytkownik” oznacza użytkownika Produktu/Produktów.
+
+4.12 „Treści użytkownika” oznaczają (a) Treści Licencjobiorcy i (b) Treści udostępnione, wysłane na serwer przez innych Użytkowników. 
+
+4.12 „Twoje Treści” oznacza wszelkie Treści Użytkownika, które udostępniłeś przy wykorzystaniu Produktu/Produktów i poprzez Stronę.
+
+5. ZAKRES UŻYTKOWANIA/LICENCJI.
+
+O ile spełnione zostaną Warunki niniejszej Umowy Licencyjnej, PreSonus przyznaje Użytkownikowi niewyłączne, niezbywalne, odwołalne prawo do uzyskania dostępu i używania Produktu/Produktów pod następującymi warunkami:
+
+5.1 Produkty firmy PreSonus są prawnie chronione. Prawa Własności Intelektualnej dotyczące Produktów zachowuje PreSonus. Użytkownik nie może kopiować ani zlecać kopiowania, de-kompilować ani zlecać de-kompilowania, stosować ani zlecać inżynierii odwrotnej Produktu. Użytkownik nie może: (a) odtwarzać, powielać ani naśladować części ani całości projektu, układu (layoutu) ani wyglądu i działania (tzw. look and feel) Produktu/Produktów; (b), dzierżawić, wynajmować, licencjonować ani sprzedawać Produktu/Produktów ani prawa do używania i uzyskania dostępu do Produktu/Produktów; ani (c) usuwać, zakrywać, zmieniać ani modyfikować żadnego tekstu, zastrzeżenia praw autorskich ani innych informacji dotyczących prawa własności zawartych w Produkcie/Produktach. Poprzez odpowiednie i rozsądne działania Użytkownik musi zapewnić, że osoby trzecie, w tym pracownicy Użytkownika, nie będą mogli korzystać z Produktu/Produktów w sposób nielegalny. Użytkownik będzie odpowiedzialny w stosunku do PreSonus za wszelki straty lub szkody powstałe w tym kontekście.
+
+Dla produktów zawierających MPEG Layer 3:  Korzystanie z takiego produktu nie nadaje licencji ani praw do dystrybucji zawartości zgodnej z MPEG Layer 3 utworzonej z pomocą tego produktu w systemach transmisji generujących dochody (transmisja naziemna, satelitarna, kablowa i/lub inne kanały dystrybucji), aplikacjach  transmisji strumieniowych (poprzez internet, intranet i/lub inne sieci), innych systemach dystrybucji (aplikacje z płatnym audio lub audio na żądanie itp.) lub fizycznych nośnikach  (płyty CD, płyty cyfrowe z różnorodną zawartością, układy scalone, dyski twarde, karty pamięci itp.). Dla takiego użycia wymagana jest niezależna licencja. Aby uzyskać więcej informacji, proszę odwiedzić stronę internetową:  http://mp3licensing.com.
+
+Technologia kodowania audio MPEG Layer-3 jest oparta na licencji Fraunhofer IIS and Thomson Licensing.
+
+5.2 Licencjonowane Oprogramowanie z linii produktów STUDIO ONE:
+
+(a)  Licencjobiorcy jest przyznawana jedna (1) licencja do instalacji i użytkowania Licencjonowanego Oprogramowania na na  pojedynczym komputerze w tym samym czasie. Licencjobiorca może zainstalować i użytkować Licencjonowane Oprogramowanie na innym komputerze, ale oprogramowanie nie może być użytkowane w tym samym czasie na więcej niż jednym komputerze, chyba że zostały zakupione dodatkowe licencje. W przypadku gdy Licencjobiorca utraci możliwość aktywacji na pojedynczym komputerze, Licencjobiorca  ma dostępne cztery (4) dodatkowe aktywacje. Te aktywacje dostarczane do użytkowania Studio One nie ma zastosowania do oprogramowania firm trzecich, które zależy od licencji producenta i warunków i użytkowania. W przypadku wprowadzeniu większych zmian w konfiguracji komputera Licencjobiorcy (np. zmiana pamięci RAM, dysku twardego lub systemu operacyjnego) całe oprogramowanie Studio One musi zostać ponownie aktywowane. Pełna cyfrowa kopia zapasowa oprogramowania i treści dostępna jest online przez konto Użytkownika PreSonus. Pod warunkiem, że Użytkownik nie zachowuje kopii Licencjonowanego Oprogramowania, może trwale przenieść swoją licencję na użytkowanie Licencjonowanego Oprogramowania na osobę trzecią, która od chwili przeniesienia licencji będzie automatycznie związana Warunkami niniejszej Umowy. Jeśli Użytkownik zaktualizował Licencjonowane Oprogramowanie do nowszej wersji, nie może osobno przenieść poprzedniej (oryginalnej) wersji Licencjonowanego Oprogramowania i zaktualizowanego Licencjonowanego Oprogramowania na osobę trzecią. Licencjobiorca ma prawo do tworzenia kopii zapasowych Licencjonowanego Oprogramowania w celach archiwizacyjnych. 
+
+(b) Korzystanie z Licencjonowanego Oprogramowania z Kluczem Licencyjnym otrzymanym z innego źródła niż PreSonus jest wyraźnie i surowo zabronione. PreSonus zastrzega sobie prawo do podejmowania wszelkich działań, które uzna za niezbędne, do ochrony przed nielegalnymi Kluczami Licencyjnymi, w tym monitorowania i kontroli korzystania z Licencjonowanego Oprogramowania.
+
+5.3 Odnośnie do korzystania z usługi STUDIO ONE EXCHANGE proszę zapoznać się z warunkami korzystania z usług PreSonus Exchange na stronie internetowej www.presonus.com/Exchange-Terms-of-Service
+
+5.4 Dla Licencjonowanego Oprogramowania z linii produktów STUDIO ONE PRIME:
+
+(a) Licencjobiorca może instalować i użytkować Licencjonowane Oprogramowanie na dowolnej liczbie komputerów. Zachęca się użytkowników do kopiowania i udostępniania STUDIO ONE PRIME. Użytkownik ma pozwolenie na instalację i korzystanie z Licencjonowanego Oprogramowania na różnych komputerach. Użytkownik ma pozwolenie na tworzenie kopii zapasowych Licencjonowanego Oprogramowania do celów archiwalnych. Nie można dodawać STUDIO ONE PRIME do innych komercyjnych produktów lub rozpowszechniać go bez umowy licencyjnej OEM. Wszyscy Użytkownicy STUDIO ONE PRIME muszą stosować się do Warunków niniejszej Umowy. PreSonus nie oferuje Usług Wsparcia dla STUDIO ONE PRIME. Licencje STUDIO ONE PRIME nie mogą być przenoszone na osoby trzecie.
+
+
+5.5 Dla Licencjonowanego Oprogramowania z linii produktów NOTION:
+
+(a) Licencjobiorcy jest przyznawana jedna (1) licencja do instalacji i użytkowania Licencjonowanego Oprogramowania na na  pojedynczym komputerze w tym samym czasie. Licencjobiorca może zainstalować i użytkować Licencjonowane Oprogramowanie na innym komputerze, ale oprogramowanie nie może być użytkowane w tym samym czasie na więcej niż jednym komputerze, chyba że zostały zakupione dodatkowe licencje. W przypadku gdy Licencjobiorca utraci możliwość aktywacji na pojedynczym komputerze, Licencjobiorca  ma dostępne cztery (4) dodatkowe aktywacje.  Licencjobiorca ma prawo do tworzenia kopii zapasowych Licencjonowanego Oprogramowania w celach archiwizacyjnych
+
+(b) Prawa do niektórych części Produktu, w tym niektórych dźwięków lub próbek muzycznych i krojów czcionki, stanowiące element procesu instalacji, są własnością osób trzecich i są licencjonowane do wykorzystania tylko z Produktem. Wszelkie pod-licencjonowanie, dystrybucja lub inne wykorzystanie tych składników, z wyjątkiem korzystania w połączeniu z Produktem, stanowi pogwałcenie niniejszej Umowy. 
+
+(c) Licencjobiorca zgadza się na opisywanie Londyńskiej Orkiestry Symfonicznej we wszelkich materiałach towarzyszącym nagraniom (w tym okładkach płyt), dokonanym przy użyciu Notion, następującym stwierdzeniem: „Nagranie to powstało przy użyciu próbek orkiestrowych nagranych przez Londyńską Orkiestrę Symfoniczną”.
+
+5.6 Dla Licencjonowanego Oprogramowania z linii produktów wtyczek:
+(a) Licencjobiorcy jest przyznawana jedna (1) licencja do instalacji i użytkowania Licencjonowanego Oprogramowania na na  pojedynczym komputerze w tym samym czasie. Licencjobiorca może zainstalować i użytkować Licencjonowane Oprogramowanie na innym komputerze, ale oprogramowanie nie może być użytkowane w tym samym czasie na więcej niż jednym komputerze, chyba że zostały zakupione dodatkowe licencje. W przypadku gdy Licencjobiorca utraci możliwość aktywacji na pojedynczym komputerze, Licencjobiorca  ma dostępne cztery (4) dodatkowe aktywacje. W przypadku wprowadzeniu większych zmian w konfiguracji komputera Licencjobiorcy (np. zmiana pamięci RAM, dysku twardego lub systemu operacyjnego) całe oprogramowanie wtyczek musi zostać ponownie aktywowane. Pełna cyfrowa kopia zapasowa oprogramowania i treści dostępna jest online przez konto Użytkownika PreSonus. Pod warunkiem, że Użytkownik nie zachowuje kopii Licencjonowanego Oprogramowania, może trwale przenieść swoją licencję na użytkowanie Licencjonowanego Oprogramowania na osobę trzecią, która od chwili przeniesienia licencji będzie automatycznie związana Warunkami niniejszej Umowy. Jeśli Użytkownik zaktualizował Licencjonowane Oprogramowanie do nowszej wersji, nie może osobno przenieść poprzedniej (oryginalnej) wersji Licencjonowanego Oprogramowania i zaktualizowanego Licencjonowanego Oprogramowania na osobę trzecią. Licencjobiorca ma prawo do tworzenia kopii zapasowych Licencjonowanego Oprogramowania w celach archiwizacyjnych.
+
+(b) Korzystanie z Licencjonowanego Oprogramowania z Kluczem Licencyjnym otrzymanym z innego źródła niż PreSonus jest wyraźnie i surowo zabronione. PreSonus zastrzega sobie prawo do podejmowania wszelkich działań, które uzna za niezbędne, do ochrony przed nielegalnymi Kluczami Licencyjnymi, w tym monitorowania i kontroli korzystania z Licencjonowanego Oprogramowania.
+
+(c) PreSonus nie gwarantuje poprawnego działania wtyczek z aplikacjami innych producentów obsługującymi te formaty wtyczek.
+
+5.7 Dla Licencjonowanego Oprogramowania z linii produktów Pakietów:
+
+(a) Dla niektórych Produktów PreSonus stosuje się poniższe zasady: W przypadku pakietów składających się ze sprzętu i dołączonego do niego oprogramowania, oprogramowanie jest licencjonowane tylko dla zarejestrowanych, oryginalnych użytkowników. Jeżeli użytkownik zakupuje lub sprzedaje  używany sprzętowy produkt firmy PreSonus, to dołączone oprogramowanie nie będzie licencjonowane automatycznie dla nowego użytkownika sprzętu. Oprogramowanie i sprzęt są oddzielnymi elementami danego produktu. Jadnak, można przekazać licencję oprogramowania PreSonus, jeżeli licencja dla danego oprogramowania może być przekazywana.
+
+(b) Dla niektórych Produktów PreSonus stosuje się poniższe zasady: W przypadku pakietów składających się wyłącznie z  oprogramowania, te mogą być przekazywane tylko w całości. Poszczególne komponenty pakietu składającego się tylko z oprogramowania nie mogą być przekazywane oddzielnie, chyba że wyraża na to zgodę współtworzący pakiet zewnętrzny producent.
+
+5.8 Użytkownik zgadza się na używanie Produktu/Produktów tylko zgodnie z niniejszymi Warunkami i wszelkimi przepisami Prawa.
+
+5.9 PreSonus może zmodyfikować lub wycofać tymczasowo lub na stałe Produkt/Produkty lub Usługi lub dowolną ich część, z lub bez ostrzeżenia. Użytkownik zgadza się na brak odpowiedzialności PreSonus w stosunku do Użytkownika lub kogokolwiek innego w przypadku, gdy PreSonus tak uczyni.
+
+6. POLITYKA PRYWATNOŚCI.
+
+6.1 Aby uzyskać więcej informacji o sposobie ochrony i zbierania danych przez Presonus, proszę zapoznać się z Polityką Prywatności PreSonus („Privacy Policy”), którą można znaleźć na Stronie, i która została włączona do Umowy na mocy niniejszego odwołania. Niniejszym Użytkownik wyraża zgodę na wykorzystanie jego danych przez PreSonus zgodnie z Polityką Prywatności zamieszczoną pod adresem www.presonus.com/Privacy Policy.
+
+7. WŁASNOŚĆ.
+
+7.1 Produkt/Produkty
+ 
+Wszystkie Produkty, ich asortyment i przygotowanie/rozmieszczenie są chronione przez Prawa Własności Intelektualnej. Z wyjątkiem praw wyrażonych w niniejszej Umowie PreSonus nie udziela żadnych wyraźnych ani dorozumianych praw do korzystania z Produktu/Produktów. Wszystkie prawa, tytuły i udziały w Produkcie/Produktach, we wszystkich językach, formatach i mediach na całym świecie, są i będą nadal wyłączną własnością PreSonus i nic w Warunkach nie będzie interpretowane jako przyznanie licencji lub prawa przez domniemanie, ani w inny sposób, na mocy praw autorskich lub innych praw własności intelektualnej, Użytkownikowi lub osobom trzecim. 
+
+7.2 Znaki towarowe
+
+Znaki są własnością PreSonus. Użytkownik nie ma pozwolenia na wykorzystywanie Znaków bez uprzedniej pisemnej zgodny PreSonus. PreSonus i logo PreSonus są znakami towarowymi PreSonus. Aby zobaczyć aktualną listę Znaków PreSonus, proszę zapoznać się z informacjami o znakach towarowych, zamieszczonymi na Stronie.
+
+7.3 Treści Użytkownika
+
+Użytkownik indywidualny dysponuje pełnym prawem, tytułem i prawami własności do Treści Użytkownika. Proszę zobaczyć Rozdział 9 i 10, aby poznać gwarancje dotyczące Treści Użytkownika.
+
+8. PRAWO AUTORSKIE:
+
+8.1 Produkty są chronione przez prawo autorskie obowiązujące w USA oraz innych krajach i PreSonus zachowuje wszystkie Intelektualne Prawa Własności w Produkcie/Produktach. Użytkownik nie może osobno publikować, sprzedawać, wprowadzać na rynek, dzierżawić, wypożyczać ani udzielać pod-licencji na kod Produktu/Produktów. Jednak licencja ta nie może być interpretowana jako zakaz lub ograniczenie wszelkiego uczciwego wykorzystania usankcjonowanego prawem autorskim, takiego jak wykorzystanie go w bibliotekach i salach lekcyjnych.
+
+9. GWARANCJA UŻYTKOWNIKA, OBOWIĄZEK ODSZKODOWAWCZY i ZRZECZENIE SIĘ: 
+
+9.1 Użytkownik jest odpowiedzialny za Treści Użytkownika i gwarantuje w związku z nimi, że: (a) ma Prawa Własności Intelektualnej lub uzyskał wszystkie niezbędne licencje i pozwolenia na korzystanie z Treści Użytkownika razem z Produktem/Produktami lub w inny sposób określony w Zasadach; (b) otrzymał zgodę od wszystkich osób przedstawionych w Teściach Użytkownika do wykorzystania w Treściach Użytkownika zgodnie z niniejszymi Warunkami, w tym dystrybucji, wystawiania na widok publiczny, wykonywania i odtwarzania Treści Użytkownika; i (c) Treści Użytkownika nie naruszają żadnych praw własności intelektualnej ani innych praw własności, w tym praw reklamowych i praw do prywatności żadnych osób, firm, podmiotów ani innych osób trzecich.
+
+9.2 Użytkownik będzie zabezpieczać i chronić PreSonus oraz jego oddziały, agentów, pracowników, podmioty posiadające prawo do tej marki lub innych partnerów i licencjodawców przed wszelkimi roszczeniami, w tym kosztami obsługi prawnej związanymi lub powstałymi w związku z Treściami Użytkownika, korzystaniem przez Użytkownika z Produktu/Produktów, Usług lub Strony, w związku z Produktem/Produktami, Usługami lub Stroną, dostępem Użytkownika do danych osobistych innych Użytkowników i ich wykorzystywania, działaniami podejmowanymi przez wszystkich członków grup Użytkownika, dostępem Użytkownika do stron internetowych, korzystaniem z nich oraz połączeń z nimi, wszelkich roszczeń, wynikających z faktu, iż Treści Użytkownika wyrządziły szkody komuś innemu, wszelkich transakcji zawieranych przez Użytkownika dotyczących promocji lub reklamy poprzez Produkt/Produkty, Usługi lub Stronę, naruszenia przez Użytkownika Warunków lub wszelkich praw innych osób lub podmiotów, w tym Praw Własności Intelektualnej.
+
+10. OGRANICZONA GWARANCJA: 
+
+10.1 Gwarantujemy, że Produkt/Produkty będzie miał cechy i funkcje ogólnie opisane w specyfikacji produktu na naszej Stronie, od daty pobrania z sieci Produktu przez Użytkownika, lub jak opisano na fizycznym opakowaniu produktu w chwili zakupu i jako opisano w dokumentach dostarczonych razem z Produktem/Produktami w chwili zakupu. 
+
+10.2 PreSonus nie daje żadnych gwarancji, że Produkt lub umiejętności/zdolności Użytkownika do korzystania z niego będą nieprzerwane i pozbawione błędów. PreSouns podjął wszystkie niezbędne kroki, aby uchronić Produkty od wirusów, programów szpiegujących, tzw. backdoorów lub innego szkodliwego kodu. Produkt nie będzie pobierać ani instalować poprawek, uaktualnień ani produktów innych producentów bez uzyskania zgody Użytkownika. PreSonus nie będzie celowo pozbawiać Użytkownika możliwości korzystania z jakiejkolwiek funkcji Produktu/Produktów ani dostępu do Treści Użytkownika. 
+
+10.3 PRODUKT JEST DOSTARCZANY „TAKI, JAKI JEST”. PRESONUS NIE UDZIELA ŻADNYCH WYRAŻONYCH ANI DOPOWIEDZIANYCH GWARANCJI, W TYM MIĘDZY INNYMI DOPOWIEDZIANYCH GWARANCJI PRZYDATNOŚCI DO HANDLU I PRZYDATNOŚCI DO OKREŚLONEGO CELU. PRESONUS W ŻADNYM WYPADKU NIE BĘDZIE PONOSIĆ ODPOWIEDZIALNOŚCI ZA ŻADNE SZKODY BEZPOŚREDNIE, POŚREDNIE, PRZYPADKOWE, SZKODY WYNIKAJĄCE Z TYTUŁU ZASĄDZENIA ODSZKODOWANIA RETORSYJNEGO, SZKODY CELOWE, I „NASTĘPCZE” (W TYM MIĘDZY INNYMI WYNIKAJĄCE Z TYTUŁU ZDOBYCIA TOWARÓW LUB USŁUG ZASTĘPCZYCH; UTRATY DANYCH LUB ZYSKÓW LUB PRZERWY W DZIAŁALNOŚCI), NIEZALEŻNIE OD ICH PRZYCZYNY I BEZ WZGLĘDU NA DOKTRYNĘ PRAWNĄ DOTYCZĄCĄ ODPOWIEDZIALNOŚCI, Z TYTUŁU ODPOWIEDZIALNOŚCI UMOWNEJ, OBIEKTYWNEJ CZY DELIKTOWEJ, (WŁĄCZAJĄC W TO ZANIEDBANIE) W ZWIĄZKU Z WYKORZYSTANIEM NINIEJSZEGO OPROGRAMOWANIA, NAWET W PRZYPADKU WIEDZY NA TEMAT MOŻLIWOŚCI WYSTĄPIENIA WSPOMNIANYCH SZKÓD.
+
+10.4 Z WSZELKIEGO POBIERANEGO OPROGRAMOWANIA LUB TREŚCI, UDOSTĘPNIONYCH LUB UZYSKANYCH W INNY SPOSÓB PRZY UŻYCIU PRODUKTÓW UŻYTKOWNIK KORZYSTA NA WŁASNĄ ODPOWIEDZIALNOŚĆ I WŁASNE RYZYKO I PONOSI WYŁĄCZNĄ ODPOWIEDZIALNOŚĆ ZA WSZELKIE SZKODY WYRZĄDZONE W SWOIM SYSTEMIE KOMPUTEROWYM LUB ZA UTRATĘ DANYCH SPOWODOWANĄ POBRANIEM TAKICH MATERIAŁÓW. PRESONUS NIE BIERZE NA SIEBIE ŻADNEJ ODPOWIEDZIALNOŚCI ZA ŻADNE SZKODY WYRZĄDZONE PRZEZ WIRUSY KOMPUTEROWE ANI PODOBNE KODY, KTÓRE ZOSTAŁY POBRANE ZE STRONY NA KOMPUTER UŻYTKOWNIKA.
+
+11. OGRANICZENIA ODPOWIEDZIALNOŚCI:
+
+11.1 Jedynym wyłącznym zadośćuczynieniem dla Użytkownika z tytułu ograniczonej gwarancji jest według uznania PreSonus pełny zwrot ceny zakupu lub naprawa wadliwego Produktu/Produktów.
+
+12. PRZEPISY EKSPORTOWE:
+
+12.1 Użytkownik przyjmuje do wiadomości, że Produkty i Usługi podlegają amerykańskiemu prawu kontroli eksportu i sankcjom prawnym (w tym Export Administration Regulations) („Kontrola Eksportu”) i że będzie przestrzegać Kontroli Eksportu. Użytkownik nie będzie eksportować, re-eksportować ani importować Produktu/Produktów bezpośrednio lub pośrednio do, ani używać Produktu/Produktów w połączeniu z: (a) wszystkimi państwami, które podlegają amerykańskim restrykcjom eksportowym (w tym między innymi Kubą, Iranem, Koreą Północną, Sudanem i Syrią) lub (b) wszelkimi Użytkownikami, którym uczestnictwa w amerykańskich transakcjach eksportowych zabroniła jakakolwiek agencja federalna rządu amerykańskiego. Ponadto, Użytkownik musi podporządkować się prawu lokalnemu w swojej jurysdykcji, która może wpływać na jego prawa do importu, eksportu lub korzystania z Produktów lub Usług. Jeśli PreSonus dowie się, że wystąpiło naruszenie takich przepisów, to może uniemożliwić dostarczanie Produktów i/lub Usług.
+
+13. ROZSTRZYGANIE SPORÓW:
+
+13.1 Miejsce:
+
+(a) Użytkownik zgadza się, że wszelkie roszczenia lub spory wnoszone przeciwko PreSonus będą rozstrzygane przez sąd z siedzibą w East Baton Rouge Parish, Luizjana, Stany Zjednoczone, chyba, że Strony uzgodnią inaczej lub tak, jak opisano poniżej w Rozdziale 13.2. Użytkownik wyraża zgodę na poddanie się jurysdykcji sądów znajdujących się w East Baton Rouge Parish, Luizjana, Stany Zjednoczone, w przypadku gdy zastosowanie ma prawo Luizjany, w celu rozstrzygnięcia takich roszczeń i sporów w postępowaniu sądowym.
+
+(b) Użytkownik wyraża zgodę na poddanie się jurysdykcji sądów w Irlandii, w przypadku gdy zastosowanie ma prawo irlandzkie, w celu rozstrzygnięcia takich roszczeń i sporów w postępowaniu sądowym. Strony w szczególności wyłączają Konwencję Narodów Zjednoczonych o umowach międzynarodowej sprzedaży towarów.
+
+13.2 Alternatywne sposoby rozstrzygania sporów:
+
+(a) Gdy zastosowanie ma Prawo Stanu Luizjana, wszelkie spory i kontrowersje wynikające z, związane z lub powstałe w związku z interpretacją, ważnością, konstrukcją, wykonaniem, naruszeniem lub rozwiązaniem niniejszej Umowy będą rozstrzygane przez wiążący arbitraż, który odbędzie się w Baton Rouge, Luizjana, zgodnie z wówczas obowiązującymi zasadami Amerykańskiego Stowarzyszenia Arbitrażowego (American Arbitration Association) („Reguły”). W takim sporze lub kontrowersji arbiter może udzielić upomnienia lub innego wsparcia. Decyzje sędziego rozjemczego są ostateczne, rozstrzygające i wiążące dla stron postępowania arbitrażowego. Wyrok w oparciu o decyzję arbitra może być wydany przed dowolny właściwy sąd. Sędzia/sędziowie rozjemczy powinni stosować się do prawa stanu Luizjana w zakresie meritum sporu lub roszczenia, bez odniesienia do konfliktu przepisów prawa. Postępowanie arbitrażowe powinno zostać przeprowadzone zgodnie z federalnym prawem arbitrażowym i Regułami, bez odniesienia do stanowego prawa arbitrażowego. Niniejszym Użytkownik poddaje się osobistej jurysdykcji stanowych i federalnych sądów znajdujących się w Luizjanie na wszelkie działania lub postępowanie wynikające z, lub związane z Warunkami niniejszej Umowy, lub odnoszące się do arbitrażu, w którym uczestniczą strony Umowy. 
+
+(b) Gdy zastosowanie ma prawo irlandzkie, wszelkie spory będą rozstrzygane wyłącznie i ostatecznie przez wiążący arbitraż na podstawie ustawy arbitrażowej 2010 (Arbitration Act 2010) przez jednego (1) wzajemnie uzgodnione sędziego rozjemczego, który prowadzi postępowanie w Dublinie w Irlandii. Postępowanie będzie prowadzone w języku angielskim i zostanie zakończone pisemnym oświadczeniem opisującym stan faktyczny i argumentację prawną wspomagającą decyzję arbitra, na wniosek każdej ze stron. O wydanie orzeczenia na podstawie decyzji arbitra można zwrócić się do sądu właściwej jurysdykcji. 
+
+14. POSTANOWIENIA OGÓLNE:
+
+14.1 Rozwiązanie umowy: W zakresie dozwolonym przez prawo, i bez uszczerbku dla wszelkich innych praw, PreSonus może wypowiedzieć umowę, jeśli Użytkownik w istotny sposób narusza jej Warunki.
+
+14.2 Wiadomości wysyłane do PreSonus: Wszelkie zawiadomienia wysyłane do PreSonus, zgodnie z Warunkami powinny być wysyłane pod adres: PreSonus Audio Electronics, Inc., 18011 Grand Bay Court, Baton Rouge, LA 70809, Attn: Legal Department. W przypadku PreSonus Software Limited lub PreSonus Europe Limited, prosimy wysyłać wiadomości na adres: Unit 1 & 2 Cavan Enterprise Centre, Dublin Road, Killygarry, Cavan, Co Cavan, Ireland Attn: Eugene Greenan.
+
+14.3 Wiadomości wysyłane do Użytkownika: PreSonus może dostarczać Użytkownikowi wiadomości, w tym te dotyczące zmian Warunków, przez pocztę elektroniczną (e-mail), pocztę tradycyjną, wiadomości zamieszczane na Stronie lub na inne sposoby znane obecnie lub wprowadzone w przyszłości.
+
+14.4 Całość Umowy: Warunki niniejszej Umowy stanowią całość porozumienia pomiędzy PreSonus a Użytkownikiem odnośnie do dostępu do lub korzystania ze Strony, Usług i Produktu/Produktów i zastępują wszelkie wcześniejsze umowy między Użytkownikiem a PreSonus w tym zakresie.
+
+ 14.5 Zakaz cesji: Użytkownik nie może cedować ani w inny sposób przenosić Warunków ani innych praw przyznanych poniżej, bez pisemnej zgody PreSonus. Prawa PreSonus wynikające z Warunków są zbywalne przez PreSonus.
+
+14.6 Rozdzielność: Jeśli z jakiegokolwiek powodu właściwy sąd uzna za niewykonalne którekolwiek z postanowień niniejszych Warunków lub jego część, postanowienie to zostanie zrealizowane w maksymalnym dopuszczalnym stopniu, tak aby wpłynąć na zamiar stron odzwierciedlony w tym przepisie, a pozostała część Warunków będzie nadal w pełni obowiązywać.
+
+14.7 Zrzeczenie się: Niepodjęcie się przez PreSonus wyegzekwowania lub skorzystania z postanowień Warunków, lub jakiegokolwiek związanego z tym prawa, nie stanowi zrzeczenia się tego postanowienia lub prawa.
+
+14.8 Zobowiązanie Użytkownika: Użytkownik ponosi wyłączną odpowiedzialność za znajomość i przestrzeganie wszelkich przepisów, które mogą uniemożliwiać udział lub używanie jakiejkolwiek części Produktu/Produktów, Strony lub Usług.
+
+14.9 Potwierdzenie: Użytkownik potwierdza, że przeczytał niniejszą Umowę Licencyjną, rozumie ją i zgadza się na przestrzeganie Warunków. Jeśli Użytkownik nie zgadza się z Warunkami zawartymi w niniejszej Umowie Licencyjnej lub jest niezadowolony z Produktu/Produktów, w ciągu trzydziestu (30) dni od daty zakupu powinien odinstalować Produkt/Produkty, usunąć wszystkie kopie i zaprzestać korzystania z Produktu/Produktów.
+
+(KONIEC)
+

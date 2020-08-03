@@ -1,0 +1,16 @@
+#: .\overlays.xml
+msgid "[ProgressDialogView]Cancel"
+msgstr ""
+
+#: .\overlays.xml
+msgid "[UserOptionDialog]Options"
+msgstr ""
+
+#: .\overlays.xml
+msgid "[ProgressDialogView]Please wait..."
+msgstr ""
+
+#: .\overlays.xml
+msgid "[ProgressStepView]Time remaining:"
+msgstr ""
+

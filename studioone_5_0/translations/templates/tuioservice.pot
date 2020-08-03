@@ -1,0 +1,12 @@
+#: .\plugmain.cpp
+msgid "[TUIO]Support for multi-touch via TUIO protocol"
+msgstr ""
+
+#: .\plugversion.h
+msgid "[TUIO]TUIO Support"
+msgstr ""
+
+#: .\tuiouseroption.cpp
+msgid "[TUIO]Touch Input"
+msgstr ""
+

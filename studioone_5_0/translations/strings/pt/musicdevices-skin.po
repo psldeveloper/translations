@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\editors.xml
+msgid "[InstrumentDevice]Controller Setup"
+msgstr "Configuração do Controlador"
+
+#: .\editors.xml
+msgid "[ControllerSetup]Controller Setup"
+msgstr "Configuração do Controlador"
+
+#: .\editors.xml
+msgid "[ControllerSetup]Select All"
+msgstr "Selecionar Tudo"
+
+#: .\editors.xml
+msgid "[ControllerSetup]Select None"
+msgstr "Selecionar Nada"
+
+#~ msgid "[KeyboardDevice]Modulation"
+#~ msgstr "Modulação"
+
+#~ msgid "[KeyboardDevice]Pitchbend"
+#~ msgstr "Pitchbend"

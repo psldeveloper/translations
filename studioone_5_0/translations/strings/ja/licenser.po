@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]$APPCOMPANY Account"
+msgstr "$APPCOMPANY アカウント"
+
+#: .\application\purchasehandler.cpp
+msgid "[Licenser]$APPNAME is authorized for a different user. Do you want to reauthorize $APPNAME?"
+msgstr "$APPNAME は別のユーザーに対してオーソライズされています。 $APPNAME を再オーソライズしますか？"
+
+#: .\application\eulacomponent.cpp
+msgid "[Licenser]%(1) End User License Agreement"
+msgstr "%(1) エンドユーザー使用許諾契約"
+
+#: .\application\eulacomponent.cpp
+msgid "[Licenser]%(1) Terms of Service"
+msgstr "%(1) サービス利用規約"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Accessing remote storage"
+msgstr "リモートストレージにアクセスしています"
+
+#: .\application\purchasedpackages.cpp
+msgid "[PackageActions]Activate"
+msgstr "アクティベート"
+
+#: .\application\purchasedpackages.cpp
+msgid "[PackageActions]Activate All"
+msgstr "すべてをアクティベート"
+
+#: .\application\purchasehandler.cpp
+msgid "[Command]Activate Purchased Items"
+msgstr "購入済みアイテムをアクティベート"
+
+#: .\application\purchasedpackages.cpp
+msgid "[PackageActions]Activated"
+msgstr "アクティベート済み"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Activating product"
+msgstr "製品をアクティベートしています"
+
+#: .\application\usercomponent.cpp
+msgid "[Command]Activation"
+msgstr "アクティベーション"
+
+#: .\application\usercomponent.cpp
+msgid "[Licenser]Additional License Information:\n"
+msgstr "その他のライセンス情報:\r\n"
+
+#: .\application\purchasehandler.cpp
+msgid "[Licenser]All installed items are activated."
+msgstr "インストール済みアイテムはすべてアクティベートされています。"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]An error occurred at the server (Status %(1))."
+msgstr "サーバーにエラーが発生しました（ステータス %(1) ）。"
+
+#: .\application\loginhandler.cpp .\application\purchasehandler.cpp
+#: .\application\usercomponent.cpp
+msgid "[Command]Application"
+msgstr "アプリケーション"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Authorization"
+msgstr "オーソライズ"
+
+#: .\application\usercomponent.cpp
+msgid "[Licenser]Copy to Clipboard"
+msgstr "クリップボードにコピー"
+
+#: .\application\loginhandler.cpp
+msgid "[Credentials]Credential Manager"
+msgstr "資格情報マネージャー"
+
+#: .\application\purchasehandler.cpp
+msgid "[Licenser]Do you want to download new purchases from your $APPCOMPANY Account now?"
+msgstr "購入製品を $APPCOMPANY アカウントから今すぐダウンロードしますか？"
+
+#: .\application\purchasehandler.cpp
+msgid "[Licenser]Download"
+msgstr "ダウンロード"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Failed to connect to the server.\nPlease check your Internet connection and try again."
+msgstr "サーバーへの接続に失敗しました。\nインターネット接続を確認し、再試行してください。"
+
+#: .\application\userlicense.cpp
+msgid "[FileType]Invalid License File!"
+msgstr "無効なライセンスファイルです。"
+
+#: .\application\loginhandler.cpp
+msgid "[Credentials]Keychain Access"
+msgstr "キーチェーンアクセス"
+
+#: .\application\userlicense.cpp
+msgid "[FileType]License File"
+msgstr "ライセンスファイル"
+
+#: .\application\userlicense.cpp
+msgid "[FileType]License too old. Please activate $APPNAME again."
+msgstr "ライセンスが古すぎます。$APPNAME を再アクティベートしてください。"
+
+#: .\application\loginhandler.cpp
+msgid "[Command]Login"
+msgstr "ログイン"
+
+#: .\application\licensehandler.cpp
+msgid "[Licenser]Manage Activations"
+msgstr "アクティベーションを管理"
+
+#: .\application\loginhandler.cpp
+msgid "[Credentials]No permissions to change application passwords."
+msgstr "アプリケーションパスワードを変更する権限がありません。"
+
+#: .\application\purchasehandler.cpp
+msgid "[Licenser]No purchased items installed."
+msgstr "購入済みアイテムはひとつもインストールされていません。"
+
+#: .\schemes\splice\splicelease.cpp
+msgid "[Licenser]Please check your Rent-to-Own status in the Splice App."
+msgstr "Spliceアプリで購入券付きレンタルのステータスを確認してください。"
+
+#: .\application\activationhandler.cpp
+msgid "[Licenser]Please enter the Product Key of the $APPNAME version you have purchased."
+msgstr "ご購入いただきましたバージョンの $APPNAME のプロダクトキーを入力してください。"
+
+#: .\application\loginhandler.cpp
+msgid "[Licenser]Please fill in the form completely."
+msgstr "フォームに記入してください。"
+
+#: .\application\loginhandler.cpp
+msgid "[Credentials]Please use %(1) to delete passwords."
+msgstr " %(1) を使用してパスワードを削除してください。"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Registering product"
+msgstr "製品を登録しています"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Registration"
+msgstr "登録"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Retrieving product list"
+msgstr "製品一覧を検索しています"
+
+#: .\application\loginhandler.cpp
+msgid "[Licenser]Select Country"
+msgstr "国を選択"
+
+#: .\application\activationhandler.cpp
+msgid "[Licenser]Show my existing Product Keys"
+msgstr "既存のプロダクトキーを表示"
+
+#: .\application\loginhandler.cpp
+msgid "[Licenser]Sign in"
+msgstr "サインイン"
+
+#: .\application\loginhandler.cpp
+msgid "[Licenser]Sign out"
+msgstr "サインアウト"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Signing in"
+msgstr "サインインしています"
+
+#: .\application\purchasehandler.cpp
+msgid "[Licenser]Some items failed to activate."
+msgstr "一部のアイテムのアクティベートに失敗しました。"
+
+#: .\application\licensehandler.cpp
+msgid "[Licenser]Thank You! $APPNAME has been activated on this computer."
+msgstr "ありがとうございました。$APPNAME はこのコンピューターで実行できるようアクティベートされました。"
+
+#: .\application\loginhandler.cpp
+msgid "[Licenser]Thank You! An e-mail has been sent to you with a link to activate your account."
+msgstr "ありがとうございました。アカウントのアクティベート用リンクを記載したメールが送信されました。"
+
+#: .\application\userlicense.cpp
+msgid "[FileType]The License has expired!"
+msgstr "ライセンスの期限が切れています。"
+
+#: .\application\userlicense.cpp
+msgid "[FileType]The License has not been issued for this computer!"
+msgstr "ライセンスはこのコンピューターに対して発行されていません。"
+
+#: .\application\userlicense.cpp
+msgid "[FileType]The License has not been issued for this user!"
+msgstr "ライセンスはこのユーザーに対して発行されていません。"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]The request failed (%(1))."
+msgstr "リクエストは失敗しました（%(1) ）。"
+
+#: .\application\licensehandler.cpp
+msgid "[Licenser]This computer has been de-activated for use with $APPNAME."
+msgstr "このコンピューターは $APPNAME で使用するためのアクティベーションが解除されています。"
+
+#: .\application\usercomponent.cpp
+msgid "[Licenser]This copy is licensed to %(1)"
+msgstr "このコピーは %(1) に対してライセンスされています"
+
+#: .\application\userlicense.cpp
+msgid "[FileType]This product key requires an additional license that could not be found on this computer."
+msgstr "このプロダクトキーには追加ライセンスが必要ですが、このコンピューター上に見つかりません。"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Updating subscription"
+msgstr "サブスクリプションを更新しています"
+
+#: .\application\usercomponent.cpp
+msgid "[Licenser]User License not found! Please select a new License File."
+msgstr "ユーザーライセンスが見つかりません。新規ライセンスファイルを選択してください。"
+
+#: .\application\usercomponent.cpp
+msgid "[Licenser]Verifying User License..."
+msgstr "ユーザーライセンスを検証しています..."
+
+#: .\application\licensehandler.cpp
+msgid "[Licenser]You can manage activations in your $APPCOMPANY Account."
+msgstr "アクティベーションはお客様の $APPCOMPANY アカウントで管理できます。"
+
+#: .\schemes\splice\splicelease.cpp
+msgid "[Licenser]Your Splice license for $APPNAME is invalid."
+msgstr "お客様の$APPNAME用Spliceライセンスは無効です。"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Your authorization has expired. Please log in again."
+msgstr "オーソライズの期限が切れています。再度ログインしてください。"
+
+#: .\application\purchasehandler.cpp
+msgid "[Licenser]Your purchased items have been activated."
+msgstr "購入済みアイテムはアクティベートされました。"
+
+#~ msgid "[Licenser]$APPCOMPANY Account"
+#~ msgstr "$APPCOMPANY アカウント"
+
+#~ msgid "[WebAPI]An error occured at the server (Status %(1))."
+#~ msgstr "サーバーにエラーが発生しました（ステータス %(1) ）。"
+
+#~ msgid "[Licenser]Please fill out the form completely."
+#~ msgstr "フォームに記入してください。"
+
+#~ msgid "[Licenser]Invalid License File!"
+#~ msgstr "無効なライセンスファイルです。"
+
+#~ msgid "[Licenser]License too old. Please activate $APPNAME again."
+#~ msgstr "ライセンスが古すぎます。$APPNAME を再アクティベートしてください。"
+
+#~ msgid "[Licenser]Please restart $APPNAME for the changes to take effect."
+#~ msgstr "変更を有効にするには $APPNAME を再起動してください。"
+
+#~ msgid "[Licenser]Thank You! $APPNAME has been activated to run on this computer."
+#~ msgstr "ありがとうございました。$APPNAME はこのコンピューターで実行できるようアクティベートされました。"
+
+#~ msgid "[Licenser]The License has expired!"
+#~ msgstr "ライセンスの期限が切れています。"
+
+#~ msgid "[Licenser]The License has not been issued for this computer!"
+#~ msgstr "ライセンスはこのコンピューターに対して発行されていません。"
+
+#~ msgid "[Licenser]The License has not been issued for this user!"
+#~ msgstr "ライセンスはこのユーザーに対して発行されていません。"
+
+#~ msgid "[Licenser]This computer has been de-activated for use with $APPNAME. You can manage activations in your $APPCOMPANY Account."
+#~ msgstr "このコンピューターは $APPNAME で使用するためのアクティベーションが解除されています。アクティベーションはお客様の $APPCOMPANY アカウントで管理できます。"
+
+#~ msgid "[Licenser]This product key requires an additional license that could not be found on this computer."
+#~ msgstr "このプロダクトキーには追加ライセンスが必要ですが、このコンピューター上に見つかりません。"
+
+#~ msgid "[Licenser]Activation failed."
+#~ msgstr "アップロードに失敗しました。"
+

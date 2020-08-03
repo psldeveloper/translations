@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\toolhelp.js
+msgid "Add Chord"
+msgstr "コードを追加"
+
+#: .\toolhelp.js
+msgid "Add Marker"
+msgstr "マーカーを追加"
+
+#: .\toolhelp.js
+msgid "Add Point"
+msgstr "ポイントを追加"
+
+#: .\toolhelp.js
+msgid "Add Ranges to Track"
+msgstr "範囲をトラックに追加"
+
+#: .\musictools.js .\projecttool.js .\tempotools.js .\toolhelp.js
+#: .\toolsets.js
+msgid "Arrow Tool"
+msgstr "矢印ツール"
+
+#: .\toolhelp.js
+msgid "Bend"
+msgstr "ベンド"
+
+#: .\toolhelp.js
+msgid "Bend Curve"
+msgstr "ベンドカーブ"
+
+#: .\audiobendtool.js .\toolhelp.js
+msgid "Bend Tool"
+msgstr "ベンドツール"
+
+#: .\toolhelp.js
+msgid "Chord Selector"
+msgstr "コードセレクター"
+
+#: .\toolhelp.js
+msgid "Copy Ranges to Track"
+msgstr "範囲をトラックにコピー"
+
+#: .\toolhelp.js
+msgid "Create Range"
+msgstr "範囲を作成"
+
+#: .\toolhelp.js
+msgid "Define tempo"
+msgstr "テンポを定義"
+
+#: .\toolhelp.js
+msgid "Delete"
+msgstr "削除"
+
+#: .\toolhelp.js
+msgid "Delete Note"
+msgstr "ノートを削除"
+
+#: .\toolhelp.js
+msgid "Delete Objects"
+msgstr "オブジェクトを削除"
+
+#: .\toolhelp.js
+msgid "Delete Point"
+msgstr "ポイントを削除"
+
+#: .\envelopeactions.js .\toolhelp.js
+msgid "Distort"
+msgstr "変形"
+
+#: .\toolhelp.js
+msgid "Distort Symmetrically"
+msgstr "対称に変形"
+
+#: .\toolhelp.js
+msgid "Drag"
+msgstr "ドラッグ"
+
+#: .\toolhelp.js
+msgid "Draw"
+msgstr "描画"
+
+#: .\toolhelp.js
+msgid "Draw Part"
+msgstr "パートを描画"
+
+#: .\toolhelp.js
+msgid "Draw Selection"
+msgstr "選択を描画"
+
+#: .\toolhelp.js
+msgid "Draw Selection (add)"
+msgstr "選択を描画（追加）"
+
+#: .\toolhelp.js
+msgid "Draw Selection Freely"
+msgstr "選択を自由に描画"
+
+#: .\toolhelp.js
+msgid "Draw Tempo Change"
+msgstr "テンポ変更を描画"
+
+#: .\toolhelp.js
+msgid "Edit Fade Length"
+msgstr "フェード長さを編集"
+
+#: .\toolhelp.js
+msgid "Edit Fade Length & Type"
+msgstr "フェード長さとタイプを編集"
+
+#: .\toolhelp.js
+msgid "Edit Fade Type"
+msgstr "フェードタイプを編集"
+
+#: .\toolhelp.js
+msgid "Edit Level"
+msgstr "レベルを編集"
+
+#: .\toolhelp.js
+msgid "Edit Tempo"
+msgstr "テンポを編集"
+
+#: .\toolhelp.js
+msgid "Edit Tempo & Position"
+msgstr "テンポと位置を編集"
+
+#: .\toolhelp.js
+msgid "Edit Tempo Change Position"
+msgstr "テンポと変更位置を編集"
+
+#: .\toolhelp.js
+msgid "Edit Value"
+msgstr "値を編集"
+
+#: .\toolhelp.js
+msgid "Edit Velocity"
+msgstr "ベロシティを編集"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Eraser Tool"
+msgstr "消しゴムツール"
+
+#: .\toolhelp.js
+msgid "Exclude Range"
+msgstr "範囲を除外"
+
+#: .\toolsets.js
+msgid "Freehand"
+msgstr "フリーハンド"
+
+#: .\toolhelp.js
+msgid "Include Range"
+msgstr "範囲を含める"
+
+#: .\toolhelp.js
+msgid "Insert"
+msgstr "挿入"
+
+#: .\toolhelp.js
+msgid "Layer Tool"
+msgstr "レイヤーツール"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Line"
+msgstr "直線"
+
+#: .\listentool.js .\toolhelp.js
+msgid "Listen Tool"
+msgstr "リッスンツール"
+
+#: .\eventactions.js .\toolhelp.js
+msgid "Merge Events"
+msgstr "イベントを結合"
+
+#: .\envelopeactions.js .\toolhelp.js
+msgid "Move"
+msgstr "移動"
+
+#: .\toolhelp.js
+msgid "Move Crossfade"
+msgstr "クロスフェードを移動"
+
+#: .\toolhelp.js
+msgid "Move Event"
+msgstr "イベントを移動"
+
+#: .\toolhelp.js
+msgid "Move Marker"
+msgstr "マーカーを移動"
+
+#: .\toolhelp.js
+msgid "Move Note"
+msgstr "ノートを移動"
+
+#: .\toolhelp.js
+msgid "Move Points"
+msgstr "ポイントを移動"
+
+#: .\toolhelp.js
+msgid "Move Track"
+msgstr "トラックを移動"
+
+#: .\mutetool.js
+msgid "Mute"
+msgstr "ミュート"
+
+#: .\mutetool.js
+msgid "Mute Events"
+msgstr "イベントをミュート"
+
+#: .\mutetool.js .\toolhelp.js
+msgid "Mute Tool"
+msgstr "ミュートツール"
+
+#: .\toolhelp.js
+msgid "Only clicked event"
+msgstr "クリックしたイベントのみ"
+
+#: .\musictools.js .\tempotools.js .\toolhelp.js .\toolsets.js
+msgid "Paint Tool"
+msgstr "ペイントツール"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Parabola"
+msgstr "放物線"
+
+#: .\toolhelp.js
+msgid "Play"
+msgstr "再生"
+
+#: .\toolhelp.js
+msgid "Play in Loop"
+msgstr "ループで再生"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Range Tool"
+msgstr "範囲ツール"
+
+#: .\toolhelp.js
+msgid "Remove Ranges from Track"
+msgstr "範囲をトラックから削除"
+
+#: .\toolhelp.js
+msgid "Replace Range on Track"
+msgstr "トラックの範囲を置換"
+
+#: .\toolhelp.js
+msgid "Replace With Next Layer"
+msgstr "次のレイヤーと置換"
+
+#: .\toolhelp.js
+msgid "Reset"
+msgstr "リセット"
+
+#: .\toolhelp.js
+msgid "Reset All"
+msgstr "すべてをリセット"
+
+#: .\toolhelp.js
+msgid "Reset Fade Length"
+msgstr "フェード長さをリセット"
+
+#: .\toolhelp.js
+msgid "Reset Level"
+msgstr "レベルをリセット"
+
+#: .\toolhelp.js
+msgid "Reset Point"
+msgstr "ポイントをリセット"
+
+#: .\toolhelp.js
+msgid "Resize Event"
+msgstr "イベントのサイズを変更"
+
+#: .\envelopeactions.js .\toolhelp.js
+msgid "Resize Frame"
+msgstr "フレームのサイズを変更"
+
+#: .\toolhelp.js
+msgid "Resize Part"
+msgstr "パートのサイズを変更"
+
+#: .\toolhelp.js
+msgid "Resize Range"
+msgstr "範囲のサイズを変更"
+
+#: .\toolhelp.js
+msgid "Resize Track"
+msgstr "トラックのサイズを変更"
+
+#: .\toolhelp.js
+msgid "Resize adjacent Events"
+msgstr "隣り合うイベントのサイズを変更"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Saw"
+msgstr "ノコギリ"
+
+#: .\toolhelp.js
+msgid "Scale Time"
+msgstr "時間をスケール"
+
+#: .\toolhelp.js
+msgid "Select"
+msgstr "選択"
+
+#: .\toolsets.js
+msgid "Select Alternative Tool"
+msgstr "代替ツールを選択"
+
+#: .\toolhelp.js
+msgid "Select Event Range"
+msgstr "イベント範囲を選択"
+
+#: .\toolhelp.js
+msgid "Select Objects"
+msgstr "オブジェクトを選択"
+
+#: .\toolhelp.js
+msgid "Select Points up to End"
+msgstr "ポイントをエンドまで選択"
+
+#: .\toolhelp.js
+msgid "Select Range to Copy to Track"
+msgstr "範囲を選択してトラックにコピー"
+
+#: .\toolhelp.js
+msgid "Select all Chords"
+msgstr "すべてのコードを選択"
+
+#: .\toolhelp.js
+msgid "Select all on Track"
+msgstr "トラックのすべてを選択"
+
+#: .\toolhelp.js
+msgid "Set End Marker"
+msgstr "エンドマーカーを設定"
+
+#: .\toolhelp.js
+msgid "Set Loop Range"
+msgstr "ループ範囲を設定"
+
+#: .\toolhelp.js
+msgid "Set Start Marker"
+msgstr "スタートマーカーを設定"
+
+#: .\toolhelp.js
+msgid "Set Track Pause"
+msgstr "トラックの一時停止を設定"
+
+#: .\toolhelp.js
+msgid "Shift Root"
+msgstr "ルートをシフト"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Sine"
+msgstr "正弦"
+
+#: .\envelopeactions.js .\toolhelp.js
+msgid "Skew"
+msgstr "傾斜"
+
+#: .\toolhelp.js
+msgid "Slip Event"
+msgstr "イベントをスリップ"
+
+#: .\toolhelp.js
+msgid "Split Deep"
+msgstr "詳細分割"
+
+#: .\toolhelp.js
+msgid "Split Events"
+msgstr "イベントを分割"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Split Tool"
+msgstr "分割ツール"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Square"
+msgstr "方形"
+
+#: .\toolhelp.js
+msgid "Straighten Curve"
+msgstr "カーブを直線に"
+
+#: .\envelopeactions.js .\toolhelp.js
+msgid "Stretch"
+msgstr "ストレッチ"
+
+#: .\toolhelp.js
+msgid "Stretch Event"
+msgstr "イベントをストレッチ"
+
+#: .\toolhelp.js
+msgid "Stretch Symmetrically"
+msgstr "対称にストレッチ"
+
+#: .\mutetool.js
+msgid "Toggle Mute"
+msgstr "ミュートを切り替え"
+
+#: .\toolhelp.js
+msgid "Toggle Select"
+msgstr "選択を切り替え"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Transform"
+msgstr "変形"
+
+#: .\toolhelp.js
+msgid "Transformation"
+msgstr "変形"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Triangle"
+msgstr "三角"
+
+#: .\envelopeactions.js .\toolhelp.js
+msgid "Trim"
+msgstr "トリム"
+
+#: .\toolhelp.js
+msgid "Undo Zoom"
+msgstr "ズームを取り消す"
+
+#: .\mutetool.js
+msgid "Unmute"
+msgstr "ミュートを解除"
+
+#: .\toolhelp.js
+msgid "Velocity Accent"
+msgstr "ベロシティアクセント"
+
+#: .\toolhelp.js
+msgid "Zoom in"
+msgstr "ズームイン"
+
+#: .\toolhelp.js
+msgid "x: Resize Note"
+msgstr "x: ノートのサイズを変更"
+
+#: .\toolhelp.js
+msgid "y: Edit Velocity"
+msgstr "y: ベロシティを編集"
+

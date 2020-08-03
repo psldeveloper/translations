@@ -1,0 +1,1 @@
+Verbinden Sie das Komplete Kontrol Keyboard mit dem Computer und wählen Sie den zugehörigen, nicht 'DAW' benannten MIDI Port aus um es als Instrument in Studio One zu verwenden.

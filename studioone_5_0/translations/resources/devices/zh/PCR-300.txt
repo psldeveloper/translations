@@ -1,0 +1,2 @@
+将"获取，从..."设置到EDIROL PCR 1。工作在300、500和800模块下。而后使用PCR-V-Link设备控制Studio one。
+

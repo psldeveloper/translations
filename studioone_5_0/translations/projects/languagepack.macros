@@ -1,0 +1,12 @@
+; Macro definitions for building Language Packs
+
+#beginMacro: copyTable
+
+setFilter: true
+loadFilter: ../../tables/$(table).in
+setInputDir: ../../strings/$(language)
+setOutputDir: ./$(TempDir)/$(LanguagePack)/tables/$(table)
+copyFolder
+resetFilter
+
+#endMacro

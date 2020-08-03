@@ -1,0 +1,1 @@
+﻿Il tasto 1 apre la Console -  I tasti 4 e 5 alternano la pagina sinistra e destra.

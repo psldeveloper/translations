@@ -1,0 +1,1 @@
+Przycisk Output przypisuje tłumik do głównego wyjścia. Bank przypisuje tłumik do zdalnego banku. Przycisk User przełącza solo. Shift przełącza enkoder na funkcję kontrolera transportu. Footswitch przełącza nagrywanie 

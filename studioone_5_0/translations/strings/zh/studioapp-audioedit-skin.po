@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\skin.xml
+msgid "[PluginPresetSelector]$title"
+msgstr "$title"
+
+#: .\skin.xml
+msgid "[InsertChannelFXDialog]Add Insert to Selected Channels"
+msgstr "添加插入至所选通道"
+
+#: .\skin.xml
+msgid "[InsertInstrumentDialog]Add Instrument to Selected Tracks"
+msgstr " 将乐器加入选定曲目中"
+
+#: .\skin.xml
+msgid "[InsertNoteFXDialog]Add Note FX to Selected Tracks"
+msgstr " 将音符 FX 加入选定曲目中"
+
+#: .\skin.xml
+msgid "[PluginPresetFxChainSelector]Device"
+msgstr "设备"
+
+#: .\skin.xml
+msgid "[PluginPresetFxChainSelector]FX Chain"
+msgstr "FX链"
+
+#: .\skin.xml
+msgid "[InsertEventFXDialog]Insert Event FX"
+msgstr "插入事件FX"
+
+#: .\skin.xml
+msgid "[InsertInstrumentDialog]Instrument"
+msgstr "乐器"
+
+#: .\skin.xml
+msgid "[InsertNoteFXDialog]Note FX"
+msgstr "Note FX"
+
+#: .\skin.xml
+msgid "[InsertEventFXDialog]Tail"
+msgstr "尾部"
+
+#~ msgid "[PluginPresetSelector]Device"
+#~ msgstr "设备"
+
+#~ msgid "[PluginPresetSelector]FX Chain"
+#~ msgstr "FX链"
+
+#~ msgid "[InsertEventFXDialog]Device"
+#~ msgstr "设备"
+
+#~ msgid "[InsertEventFXDialog]FX Chain"
+#~ msgstr "效果链"
+

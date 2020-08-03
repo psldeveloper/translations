@@ -1,0 +1,1 @@
+﻿Podłącz klawiaturę Komplete Kontrol do komputera i wybierz porty inne niż DAW MIDI, aby używać jej z Studio One.

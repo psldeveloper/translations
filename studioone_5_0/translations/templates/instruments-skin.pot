@@ -1,0 +1,12 @@
+#: .\useroption.xml
+msgid "[SampleLibraryOption]Add..."
+msgstr ""
+
+#: .\useroption.xml
+msgid "[SampleLibraryOption]Locations"
+msgstr ""
+
+#: .\useroption.xml
+msgid "[SampleLibraryOption]Remove"
+msgstr ""
+

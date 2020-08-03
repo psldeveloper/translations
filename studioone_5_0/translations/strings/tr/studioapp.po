@@ -1,0 +1,691 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\projectdocument.cpp
+msgid "[FileType]$APPNAME Project"
+msgstr "$APPNAME Proje"
+
+#: .\showdocument.cpp
+msgid "[FileType]$APPNAME Show"
+msgstr ""
+
+#: .\showdocument.cpp
+msgid "[FileType]$APPNAME Show Template"
+msgstr ""
+
+#: .\songdocument.cpp
+msgid "[FileType]$APPNAME Song"
+msgstr "$APPNAME Şarkı"
+
+#: .\songdocument.cpp
+msgid "[FileType]$APPNAME Song Template"
+msgstr "$APPNAME Şarkı Şablonu"
+
+#: .\showenvironment.cpp
+msgid "[Show]16 Buttons"
+msgstr ""
+
+#: .\showenvironment.cpp
+msgid "[Show]16 Faders"
+msgstr ""
+
+#: .\showenvironment.cpp
+msgid "[Show]16 Knobs"
+msgstr ""
+
+#: .\showenvironment.cpp
+msgid "[Show]8 Buttons + 8 Knobs + 8 Faders"
+msgstr ""
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Add Device"
+msgstr ""
+
+#: .\documenthandler.cpp
+msgid "[StudioApp]Add to Project"
+msgstr "Projeye Ekle"
+
+#: .\documenthandler.cpp
+msgid "[Command]Add to Project"
+msgstr "Projeye Ekle"
+
+#: .\documenthandler.cpp
+msgid "[StudioApp]Add to Show"
+msgstr ""
+
+#: .\documenthandler.cpp
+msgid "[Command]Add to Show"
+msgstr ""
+
+#: .\appoptions.cpp
+msgid "[Options]Advanced"
+msgstr "Gelişmiş"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]Application"
+msgstr ""
+
+#: .\studioapp.cpp
+msgid "[StudioApp]Artist Profile"
+msgstr "Sanatçı Profili"
+
+#: .\appoptions.cpp
+msgid "[Options]Audio"
+msgstr "Ses"
+
+#: .\sidebar.filetypes.cpp
+msgid "[FileType]Audio Files"
+msgstr "Ses Dosyaları"
+
+#: .\appoptions.cpp
+msgid "[Options]Automation"
+msgstr "Otomasyon"
+
+#: .\appoptions.cpp
+msgid "[Options]Basic"
+msgstr "Temel"
+
+#: .\sidebar.cpp
+msgid "[Command]Browser"
+msgstr "Seçici"
+
+#: .\showenvironment.cpp
+msgid "[Show]Button"
+msgstr ""
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]CPU Cores"
+msgstr "CPU Çekirdekleri"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]CPU Model"
+msgstr "CPU Modeli"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]CPU Speed"
+msgstr "CPU Hızı"
+
+#: .\soundsethandler.cpp
+msgid "[Tags]Character"
+msgstr "Karakter"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Cloud"
+msgstr "Bulut"
+
+#: .\appoptions.cpp
+msgid "[Options]Console"
+msgstr "Konsol"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Construction Kits"
+msgstr "İnşa Parçaları"
+
+#: .\appoptions.cpp
+msgid "[Options]Create a New Song"
+msgstr "Yeni Bir Şarkı Olurtur"
+
+#: .\showdocument.cpp
+msgid "[StudioApp]Create an empty Show"
+msgstr ""
+
+#: .\songdocument.cpp
+msgid "[StudioApp]Create an empty song"
+msgstr "Boş Bir Şarkı Oluştur"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]Disk"
+msgstr "Dİsk"
+
+#: .\appoptions.cpp
+msgid "[Options]Do Nothing"
+msgstr "Hiç Bir Şey Yapma"
+
+#: .\projectdocument.cpp
+msgid ""
+"[StudioApp]Do you want to make the current I/O Setup the default for new "
+"Projects?"
+msgstr ""
+"Şu anki G/Ç ayarlarını yeni Projeler için varsayılan hale getirmek "
+"istiyormusunuz ?"
+
+#: .\showdocument.cpp
+msgid ""
+"[StudioApp]Do you want to make the current I/O Setup the default for new "
+"Shows?"
+msgstr ""
+
+#: .\songdocument.cpp
+msgid ""
+"[StudioApp]Do you want to make the current I/O Setup the default for new "
+"Songs?"
+msgstr ""
+"Şu anki G/Ç ayarlarını yeni Şarkılar için varsayılan hale getirmek "
+"istiyormusunuz ?"
+
+#: .\documenthandler.cpp
+msgid "[Command]Document"
+msgstr "Belge"
+
+#: .\studioapp.cpp
+msgid "[Installer]Documentation"
+msgstr "Açıklamalar"
+
+#: .\sidebar.filetypes.cpp
+msgid "[FileType]Documents"
+msgstr "Belgeler"
+
+#: .\appoptions.cpp
+msgid "[Command]Edit"
+msgstr ""
+
+#: .\melodyneextension.cpp
+msgid "[StudioApp]Edit with Melodyne"
+msgstr "Melodyne ile Düzenle"
+
+#: .\revoiceextension.cpp
+msgid "[StudioApp]Edit with Revoice Pro"
+msgstr "Revoice Pro ile Düzenle"
+
+#: .\vocalignextension.cpp
+msgid "[StudioApp]Edit with VocALign"
+msgstr "VocALign ile Düzenle"
+
+#: .\appoptions.cpp
+msgid "[Options]Editing"
+msgstr "Düzenleme"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Effects"
+msgstr "Efektler"
+
+#: .\showdocument.cpp
+msgid "[StudioApp]Empty Show"
+msgstr ""
+
+#: .\songdocument.cpp
+msgid "[StudioApp]Empty Song"
+msgstr "Boş Şarkı"
+
+#: .\devicepresetrevealer.cpp
+msgid "[MPE]Enable MPE"
+msgstr ""
+
+#: .\devicepresetrevealer.cpp
+msgid "[SystemScaling]Enable System DPI Scaling"
+msgstr "Sistem DIP Ölçeklemesini Etkinleştir"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]Ethernet Adapter"
+msgstr "Ethernet Adaptörü"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]External Instruments"
+msgstr ""
+
+#: .\sidebar.cpp
+msgid "[Sidebar]FX Chains"
+msgstr "FX Zinciri"
+
+#: .\showenvironment.cpp
+msgid "[Show]Fader"
+msgstr ""
+
+#: .\documenthandler.cpp
+msgid "[Command]File"
+msgstr "Dosya"
+
+#: .\appoptions.cpp
+msgid "[Options]File Types"
+msgstr "Dosya Tipleri"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Files"
+msgstr "Dosyalar"
+
+#: .\devicepresetrevealer.cpp
+msgid ""
+"[SystemScaling]For complete high-DPI compatibility the plug-in needs to be "
+"updated by the vendor."
+msgstr ""
+"Yüksek DPI uyumluluğu için bu plug-in'in üretici tarafından güncellenmesi "
+"gerekmektedir."
+
+#: .\studioapp.cpp
+msgid "[Command]Help"
+msgstr "Yardım"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Home"
+msgstr "AnaSayfa"
+
+#: .\songdataimporter.cpp
+msgid "[SongDataImporter]Import Song Data"
+msgstr "Parça Bilgisi İçeri Aktar"
+
+#: .\songdataimporter.cpp
+msgid "[Command]Import Song Data"
+msgstr "Parça Bilgisi İçeri Aktar"
+
+#: .\studioapp.cpp
+msgid "[Installer]Impulse Responses"
+msgstr "Impulse Cevapları"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Install Content"
+msgstr "İçerik Kur"
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]Install Sound Set"
+msgstr "Ses Seti Kur"
+
+#: .\soundsethandler.cpp
+msgid "[Tags]Instrument"
+msgstr "Enstrüman"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Instruments"
+msgstr "Enstrümanlar"
+
+#: .\studioapp.cpp
+msgid "[Installer]Instruments"
+msgstr "Enstrümanlar"
+
+#: .\showenvironment.cpp
+msgid "[Show]Knob"
+msgstr ""
+
+#: .\studioapp.cpp
+msgid "[Installer]Legacy and Compatibility"
+msgstr "Eski Sürümler ve Uyumluluk"
+
+#: .\studioapp.cpp
+msgid "[Installer]Loop Libraries"
+msgstr "Loop Kütüphaneleri"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Loops"
+msgstr "Loop'lar"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]MAC Address"
+msgstr "MAC Adresi"
+
+#: .\appoptions.cpp
+msgid "[Options]MIDI"
+msgstr "MIDI"
+
+#: .\studioapp.cpp
+msgid "[StudioApp]Macros"
+msgstr ""
+
+#: .\projectdocument.cpp
+msgid "[StudioApp]Master"
+msgstr "Ana"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Mix FX"
+msgstr "Miks FX"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Multi Instruments"
+msgstr "Çoklu Enstrümanlar"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Multitrack Files"
+msgstr "Çoklu İz Dosyaları"
+
+#: .\sidebar.filetypes.cpp
+msgid "[FileType]Musical Files"
+msgstr "Müzikal Dosyalar"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]New Multi Instrument"
+msgstr "Yeni Çoklu Enstrüman"
+
+#: .\documenthandler.cpp
+msgid "[Command]New Project"
+msgstr "Yeni Proje"
+
+#: .\projectdocument.cpp
+msgid "[StudioApp]New Project"
+msgstr "Yeni Proje"
+
+#: .\documenthandler.cpp
+msgid "[StudioApp]New Project \"%(1)\"..."
+msgstr "Yeni Proje \"%(1)\"..."
+
+#: .\documenthandler.cpp
+msgid "[Command]New Show"
+msgstr ""
+
+#: .\showdocument.cpp
+msgid "[StudioApp]New Show"
+msgstr ""
+
+#: .\documenthandler.cpp
+msgid "[StudioApp]New Show \"%(1)\"..."
+msgstr ""
+
+#: .\documenthandler.cpp
+msgid "[Command]New Song"
+msgstr "Yeni Şarkı"
+
+#: .\songdocument.cpp
+msgid "[StudioApp]New Song"
+msgstr "Yeni Şarkı"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Note FX"
+msgstr "Nota FX"
+
+#: .\appoptions.cpp
+msgid "[Options]Open Default Song/Project/Show"
+msgstr ""
+
+#: .\appoptions.cpp
+msgid "[Options]Open Last Song/Project/Show"
+msgstr ""
+
+#: .\devicepresetrevealer.cpp
+msgid ""
+"[SystemScaling]Please note that System DPI Scaling might cause graphical "
+"glitches in third-party plug-ins that $APPNAME can't fix."
+msgstr ""
+"Sistem DPI ölçeklemesi bazı üçüncü parti plug-in'lerde $APPNAME'in "
+"gideremeyeceği grafik sorunları yaratabilir.  "
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Pool"
+msgstr "Havuz"
+
+#: .\soundsethandler.cpp
+msgid "[Tags]Product"
+msgstr "Ürün"
+
+#: .\documenthandler.cpp
+msgid "[StudioApp]Projects"
+msgstr "Projeler"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]RAM"
+msgstr "RAM"
+
+#: .\melodyneextension.cpp
+msgid "[StudioApp]Remove Melodyne"
+msgstr "Melodyne'ı Kaldır"
+
+#: .\revoiceextension.cpp
+msgid "[StudioApp]Remove Revoice Pro"
+msgstr "Revoice Pro'yu kaldır"
+
+#: .\vocalignextension.cpp
+msgid "[StudioApp]Remove VocALign"
+msgstr "VocALign'ı Kaldır"
+
+#: .\documenthandler.cpp
+msgid "[Command]Save As Template"
+msgstr "Şablon olarak Kaydet"
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]Scanning Sound Sets..."
+msgstr "Ses Setleri Taranıyor..."
+
+#: .\samplerextension.cpp
+msgid "[StudioApp]Send To new Impact"
+msgstr "Yeni \"Impact\" a yolla"
+
+#: .\samplerextension.cpp
+msgid "[StudioApp]Send To new SampleOne"
+msgstr "Yeni SampleOne'a Yolla"
+
+#: .\notionexportcomponent.cpp
+msgid "[NotionExportComponent]Send to Notion"
+msgstr "Notion'a Yolla"
+
+#: .\notionexportcomponent.cpp
+msgid "[Command]Send to Notion"
+msgstr "Notion'a Yolla"
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Shop"
+msgstr ""
+
+#: .\automationhandler.cpp
+msgid "[AutomationHandler]Show Automation"
+msgstr "Otomasyonu Göster"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Cloud"
+msgstr "Bulutu Göster"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Effects"
+msgstr "Efektleri Göster"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Files"
+msgstr "Dosyaları Göster"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Home Page"
+msgstr "Ana Sayfayı Göster"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Instruments"
+msgstr "Enstrümanları Göster"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Loops"
+msgstr "Loop'ları Göster"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Pool"
+msgstr "Havuzu Göster"
+
+#: .\sidebar.cpp
+msgid "[Command]Show Shop"
+msgstr ""
+
+#: .\devicepresetrevealer.cpp
+msgid "[DevicePresets]Show in Browser"
+msgstr "Tarayıcıda Göster"
+
+#: .\devicepresetrevealer.cpp
+msgid "[DevicePresets]Show in Console"
+msgstr "Konsolda Göster"
+
+#: .\devicepresetrevealer.cpp
+msgid "[DevicePresets]Show in Routing"
+msgstr "Yönlendirmede Göster"
+
+#: .\documenthandler.cpp
+msgid "[StudioApp]Shows"
+msgstr ""
+
+#: .\notionexportcomponent.cpp .\songdataimporter.cpp
+msgid "[Command]Song"
+msgstr "Şarkı"
+
+#: .\documenthandler.cpp
+msgid "[StudioApp]Songs"
+msgstr "Şarkılar"
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]Sound Set \"%(1)\" failed to install."
+msgstr "\"%(1)\" Ses Seti kurulamadı."
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]Sound Set \"%(1)\" has been updated to version %(2)."
+msgstr "\"%(1)\" ci Sound Set %(2)'ci sürüme güncellendi."
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]Sound Set \"%(1)\" is already installed."
+msgstr "\"%(1)\" Ses Seti zaten Kurulu."
+
+#: .\sidebar.cpp
+msgid "[Sidebar]Sound Sets"
+msgstr "Ses Setleri"
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]Sound Sets"
+msgstr "Ses Setleri"
+
+#: .\documenthandler.cpp
+msgid "[Command]Start Page"
+msgstr "Başlangıç Sayfası"
+
+#: .\soundsethandler.cpp
+msgid "[Tags]Style"
+msgstr "Stil"
+
+#: .\documenthandler.cpp
+msgid "[Command]Switch To Project"
+msgstr ""
+
+#: .\documenthandler.cpp
+msgid "[Command]Switch To Show"
+msgstr ""
+
+#: .\documenthandler.cpp
+msgid "[Command]Switch To Song"
+msgstr ""
+
+#: .\appoptions.cpp
+msgid "[Options]Synchronization"
+msgstr ""
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]System"
+msgstr "Sistem"
+
+#: .\devicepresetrevealer.cpp
+msgid ""
+"[SystemScaling]System DPI Scaling for third-party plug-ins requires Windows "
+"10 version 1803 or later."
+msgstr ""
+"Üçüncü parti Plug-IN'ler için DPI ölçekleme Windows 10 versiyon 1803 ve "
+"sonrasını gerektirir."
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]System ID"
+msgstr "Sistem ID"
+
+#: .\studioapp.cpp
+msgid "[StudioApp]System Information"
+msgstr "Sistem Bilgisi"
+
+#: .\studioapp.cpp
+msgid "[Command]System Information"
+msgstr "Sistem Bilgisi"
+
+#: .\songdataimporter.cpp
+msgid "[SongDataImporter]Tempo & Time Signature"
+msgstr "Tempo ve Zaman Belirteci"
+
+#: .\studioapp.cpp
+msgid ""
+"[StudioApp]Thank you for checking out $APPNAME. You have %(1) program starts "
+"left."
+msgstr ""
+"$APPNAME'i denediğiniz için teşekkür ederiz. Geriye %(1) adet program "
+"başlatma hakkınız kaldı."
+
+#: .\studioapp.cpp
+msgid "[StudioApp]The $APPNAME Reference Manual has not been installed yet."
+msgstr "$APPNAME'in kullanım klavuzu henüz kurulmadı."
+
+#: .\soundsethandler.cpp
+msgid ""
+"[StudioApp]The following Sound Sets failed to install or are installed "
+"multiple times on your system. This can be caused by incomplete file "
+"downloads. Do you want to delete these files now?"
+msgstr ""
+"Aşağıdaki Ses Setleri kurulamadı veya sistemde birden fazla kez kurulmuş. Bu "
+"tamamlanmamış indirmelerden kaynaklanabilir. Bu dosyaları silmek "
+"istiyormusunuz ?"
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]The package \"%(1)\" is still in use (%(2) files open)!"
+msgstr "\"%(1)\" pateki halen kullanımda. (%(2) adet dosya açık!"
+
+#: .\notionexportcomponent.cpp
+msgid "[NotionExportComponent]This computer"
+msgstr "Bu Bilgisayar"
+
+#: .\appoptions.cpp
+msgid "[Command]Toggle No Overlap"
+msgstr ""
+
+#: .\appoptions.cpp
+msgid "[Command]Toggle Range Tool in upper event area"
+msgstr ""
+
+#: .\appoptions.cpp
+msgid "[Command]Toolbar"
+msgstr "Araç çubuğu"
+
+#: .\soundsethandler.cpp
+msgid "[Tags]Type"
+msgstr "Tip"
+
+#: .\soundsethandler.cpp
+msgid "[StudioApp]Uninstall"
+msgstr "Kaldır"
+
+#: .\devicepresetrevealer.cpp
+msgid "[DevicePresets]Update Plug-in Thumbnail"
+msgstr "Plug-In önizleme fotosunu güncelle"
+
+#: .\devicebrowserextension.cpp
+msgid "[StudioApp]Used by"
+msgstr "Şu tarafından kullanılıyor:"
+
+#: .\sidebar.filetypes.cpp
+msgid "[FileType]User Files"
+msgstr "Kullanıcı Dosyaları"
+
+#: .\soundsethandler.cpp
+msgid "[Tags]Vendor"
+msgstr "Satıcı"
+
+#: .\studioapp.cpp
+msgid "[SystemInfo]Version"
+msgstr "Varsiyon"
+
+#: .\sidebar.filetypes.cpp
+msgid "[FileType]Video Files"
+msgstr "Video Dosyaları"
+
+#: .\appfeatures.cpp
+msgid "[Command]Video Player"
+msgstr "Video Oynatıcı"
+
+#: .\appfeatures.cpp .\documenthandler.cpp
+msgid "[Command]View"
+msgstr "Görünüm"
+
+#: .\projectdocument.cpp .\showdocument.cpp .\songdocument.cpp
+msgid "[StudioApp]Workspace"
+msgstr "Çalışma Alanı"
+
+#~ msgid "[Options]Open Default Song/Project"
+#~ msgstr "Varsayılan Şarkı/Projeyi Aç"
+
+#~ msgid "[Options]Open Last Song/Project"
+#~ msgstr "Sonuncu Şarkı/Projeyi Aç"
+
+#~ msgid "[FileType]Presets"
+#~ msgstr "Preset'ler"
+
+#~ msgid "[Command]Show Project"
+#~ msgstr "Projeyi Göster"
+
+#~ msgid "[Command]Show Song"
+#~ msgstr "Şarkıyı Göster"
+
+#~ msgid "[StudioApp]Recent Files"
+#~ msgstr "Geçmiş Dosyalar"

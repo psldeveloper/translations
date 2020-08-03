@@ -1,0 +1,389 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Add Files"
+msgstr "ファイルを追加"
+
+#: .\processes\gain.cpp
+msgid "[AudioProcess]Adjust volume of audio file"
+msgstr "オーディオファイルのボリュームを調整"
+
+#: .\plugversion.h
+msgid "[AudioBatchConverter]Audio Batch Converter"
+msgstr "オーディオバッチコンバーター"
+
+#: .\plugversion.h
+msgid "[AudioBatchConverter]Audio Processing and File Conversion Tool"
+msgstr "オーディオ処理およびファイル変換ツール"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Bit Depth"
+msgstr "ビット深度"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Cancel"
+msgstr "キャンセル"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Channels"
+msgstr "チャンネル"
+
+#: .\outputlocation.cpp
+msgid "[OuputLocationComponent]Clear History"
+msgstr "履歴をクリア"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Collapse"
+msgstr "折りたたむ"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]Collapse All"
+msgstr "すべて折りたたむ"
+
+#: .\processes\fade.cpp
+msgid "[Fade]Concave"
+msgstr "凹"
+
+#: .\processes\fileformat.cpp
+msgid "[AudioProcess]Convert Format"
+msgstr "フォーマットを変換"
+
+#: .\processes\fileformat.cpp
+msgid "[AudioProcess]Convert type, rate, resolution, and channels"
+msgstr "タイプ、レート、解像度、チャンネルを変換"
+
+#: .\processes\fade.cpp
+msgid "[Fade]Convex"
+msgstr "凸"
+
+#: .\processes\filesplitter.cpp
+msgid "[AudioProcess]Create mono files from stereo file"
+msgstr "モノファイルをステレオファイルから作成"
+
+#: .\processes\filemerger.cpp
+msgid "[AudioProcess]Create stereo file from mono files"
+msgstr "ステレオファイルをモノファイルから作成"
+
+#: .\processes\declicker.cpp
+msgid "[Declicker]Declicker"
+msgstr "Declicker"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Delete"
+msgstr "削除"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Deleting Files..."
+msgstr "ファイルを削除しています…"
+
+#: .\converter.cpp
+msgid "[AudioBatchConverter]Desktop"
+msgstr "デスクトップ"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Do you want to delete all result files?"
+msgstr "すべての結果ファイルを削除しますか？"
+
+#: .\filelist.cpp
+msgid "[Command]Edit"
+msgstr "編集"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Edit"
+msgstr "編集"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]Effects"
+msgstr "エフェクト"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Expand"
+msgstr "展開"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]Expand All"
+msgstr "すべて展開"
+
+#: .\processes\extractor.cpp
+msgid "[AudioProcess]Extract Section"
+msgstr "セクションを抽出"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]FX Chains"
+msgstr "FXチェーン"
+
+#: .\processes\fade.cpp
+msgid "[AudioProcess]Fade"
+msgstr "フェード"
+
+#: .\processes\fade.cpp
+msgid "[AudioProcess]Fade in or fade out"
+msgstr "フェードインまたはフェードアウト"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Failed"
+msgstr "失敗"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]File"
+msgstr "ファイル"
+
+#: .\converter.cpp
+msgid "[AudioBatchConverter]File conversion finished."
+msgstr "ファイル変換が完了しました。"
+
+#: .\converter.cpp
+msgid "[AudioBatchConverter]Files"
+msgstr "ファイル"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Folder"
+msgstr "フォルダー"
+
+#: .\plugmain.cpp
+msgid "[AudioProcessCategory]Format"
+msgstr "フォーマット"
+
+#: .\processes\gain.cpp
+msgid "[AudioProcess]Gain"
+msgstr "ゲイン"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Insert Process"
+msgstr "プロセスをインサート"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Insertion Order"
+msgstr "インサート順序"
+
+#: .\processes\phase.cpp
+msgid "[AudioProcess]Invert Phase"
+msgstr "位相を反転"
+
+#: .\processes\phase.cpp
+msgid "[AudioProcess]Invert audio channel phase"
+msgstr "オーディオチャンネル位相を反転"
+
+#: .\processes\concatenator.cpp
+msgid "[AudioProcess]Join Files"
+msgstr "ファイルを結合"
+
+#: .\processes\concatenator.cpp
+msgid "[AudioProcess]Join all input files sequentially"
+msgstr "すべての入力ファイルを順に結合"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Length"
+msgstr "長さ"
+
+#: .\processes\fade.cpp
+msgid "[Fade]Linear"
+msgstr "リニア"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Load Preset"
+msgstr "プリセットを読み込む"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Load Process Chain"
+msgstr "プロセスチェーンをロード"
+
+#: .\processes\extractor.cpp
+msgid "[FileExtractor]Loop Range"
+msgstr "ループ範囲"
+
+#: .\processes\filemerger.cpp
+msgid "[AudioProcess]Merge Mono Files"
+msgstr "モノファイルを結合"
+
+#: .\processes\normalize.cpp
+msgid "[Normalize]Metanormalize"
+msgstr "メタノーマライズ"
+
+#: .\processes\normalize.cpp
+msgid "[Normalize]Normal"
+msgstr "標準"
+
+#: .\processes\normalize.cpp
+msgid "[AudioProcess]Normalize"
+msgstr "ノーマライズ"
+
+#: .\processes\normalize.cpp
+msgid "[AudioProcess]Normalize volume of audio file"
+msgstr "オーディオファイルのボリュームをノーマライズ"
+
+#: .\filelist.cpp
+msgid "[Command]Paste"
+msgstr "ペースト"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Peak"
+msgstr "Peak"
+
+#: .\processes\normalize.cpp
+msgid "[Normalize]Peak of all files"
+msgstr "すべてのファイルのピーク"
+
+#: .\converter.cpp
+msgid "[AudioBatchConverter]Please select a valid output location."
+msgstr "有効な出力先を選択してください。"
+
+#: .\converter.cpp
+msgid "[AudioBatchConverter]Processes"
+msgstr "プロセス"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]Processes"
+msgstr "プロセス"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Processing..."
+msgstr "プロセスしています…"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]RMS"
+msgstr "RMS"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Rack Preset"
+msgstr "ラックプリセット"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]Rack Presets"
+msgstr "ラックプリセット"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Rate"
+msgstr "レート"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Remove"
+msgstr "削除"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]Remove All"
+msgstr "すべてを削除"
+
+#: .\processes\dcoffset.cpp
+msgid "[AudioProcess]Remove DC Offset"
+msgstr "DCオフセットを削除"
+
+#: .\processes\dcoffset.cpp
+msgid "[AudioProcess]Remove DC offset from files"
+msgstr "DCオフセットをファイルから削除"
+
+#: .\processes\declicker.cpp
+msgid "[Declicker]Remove clicks and pops"
+msgstr "クリックとポップを削除"
+
+#: .\plugmain.cpp
+msgid "[AudioProcessCategory]Repair"
+msgstr "修復"
+
+#: .\processes\repairsamplerate.cpp
+msgid "[AudioProcess]Repair Sample Rate"
+msgstr "サンプルレートを修復"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Replace Process"
+msgstr "プロセスを修復"
+
+#: .\processes\repairsamplerate.cpp
+msgid "[AudioProcess]Replace sample rate information"
+msgstr "サンプルレート情報を置換"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Result Files"
+msgstr "結果ファイル"
+
+#: .\preview.cpp
+msgid "[Command]Return to Zero"
+msgstr "ゼロに戻る"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]Save Rack Preset"
+msgstr "ラックプリセットを保存"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Scanning Files..."
+msgstr "ファイルをスキャンしています…"
+
+#: .\outputlocation.cpp
+msgid "[OuputLocationComponent]Select..."
+msgstr "選択..."
+
+#: .\browserextension.cpp
+msgid "[AudioBatchConverter]Send to $APPNAME"
+msgstr " $APPNAME に送信"
+
+#: .\outputlocation.cpp
+msgid "[OuputLocationComponent]Show in Explorer"
+msgstr "エクスプローラーに表示"
+
+#: .\outputlocation.cpp
+msgid "[OuputLocationComponent]Show in Finder"
+msgstr "Finderに表示"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Source Files"
+msgstr "ソースファイル"
+
+#: .\processes\extractor.cpp
+msgid "[FileExtractor]Specify Section"
+msgstr "セクションを指定"
+
+#: .\processes\filesplitter.cpp
+msgid "[AudioProcess]Split Multichannel Files"
+msgstr "マルチチャンネルファイルを分割"
+
+#: .\preview.cpp
+msgid "[Command]Start"
+msgstr "スタート"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]State"
+msgstr "状態"
+
+#: .\preview.cpp
+msgid "[Command]Stop"
+msgstr "停止"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Success"
+msgstr "完了"
+
+#: .\preview.cpp
+msgid "[Command]Toggle Start"
+msgstr "スタートを切り替え"
+
+#: .\preview.cpp
+msgid "[Command]Transport"
+msgstr "トランスポート"
+
+#: .\processes\extractor.cpp
+msgid "[AudioProcess]Trim audio file"
+msgstr "オーディオファイルをトリム"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Type"
+msgstr "タイプ"
+
+#: .\processes\extractor.cpp
+msgid "[FileExtractor]Until Loop End"
+msgstr "ループエンドまで"
+
+#: .\plugmain.cpp
+msgid "[AudioProcessCategory]Volume"
+msgstr "ボリューム"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]analyzing..."
+msgstr "分析しています..."
+
+#~ msgid "[AudioBatchConverter]Audio Files"
+#~ msgstr "オーディオファイル"
+

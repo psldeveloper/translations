@@ -1,0 +1,1 @@
+﻿Button 1 öffnet die Console. Button 4 und 5 verschieben die Kanäle seitenweise nach links bzw. rechts.

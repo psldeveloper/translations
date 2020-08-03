@@ -1,0 +1,1 @@
+﻿Connectez l'Xkey à votre ordinateur pour l'utiliser avec Studio One.

@@ -1,0 +1,1 @@
+﻿Por favor utilice las configuraciones por defecto para los Faders 1-16 y establezca KN 1-8 para controladores 14, 15, 16, 17, 18, 19, 20 y 21.

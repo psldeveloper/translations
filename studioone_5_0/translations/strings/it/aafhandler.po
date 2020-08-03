@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\aafhandler.cpp
+msgid "[FileType]AAF File"
+msgstr "File AAF"
+
+#: .\aafhandler.cpp
+msgid "[AAF]An audio event has modifications and needs to be bounced."
+msgstr "Un evento audio ha subito modifiche e necessita del bounce"
+
+#: .\aafhandler.cpp
+msgid "[AAF]An audio image is not ready."
+msgstr "Un'immagine audio non è pronta"
+
+#: .\aafhandler.cpp
+msgid "[AAF]An audio part needs to be bounced."
+msgstr "Una parte audio necessita del bounce"
+
+#: .\aafhandler.cpp
+msgid "[AAF]An event has unrendered Event FX."
+msgstr "Un evento ha un Evento FX non modificato"
+
+#: .\aafhandler.cpp
+msgid "[AAF]Audio files from content packages can not be exported."
+msgstr "I file audio non possono essere esportati dai pacchetti di contenuto"
+
+#: .\aafwriter.cpp
+msgid "[AAF]Converting %(1)"
+msgstr "Sto convertendo %(1)"
+
+#: .\aafwriter.cpp
+msgid "[AAF]Embedding %(1)"
+msgstr "Incorporando %(1)"
+
+#: .\aafwriter.cpp
+msgid "[AAF]Step %(1) of %(2)"
+msgstr "Passo %(1) di %(2)"
+
+#: .\aafhandler.cpp
+msgid "[AAF]The AAF export has the following issues:"
+msgstr "L'esportazione AAF presenta i seguenti problemi:"
+
+#: .\aafhandler.cpp
+msgid "[AAF]The event is not a plain audio event."
+msgstr "L'evento non è un semplice evento audio."
+
+#: .\aafhandler.cpp
+msgid "[AAF]The file is not on your disk."
+msgstr "Il file non è sull'hard disk."
+
+#~ msgid "[AAF]Only Wave and AIFF audio files can be exported."
+#~ msgstr "È possibile esportare solo i file audio Wave e AIFF."
+

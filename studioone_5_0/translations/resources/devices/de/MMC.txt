@@ -1,0 +1,1 @@
+﻿Dieses Gerät empfängt MIDI Machine Control Transportbefehle.

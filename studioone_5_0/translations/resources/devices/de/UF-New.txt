@@ -1,0 +1,1 @@
+﻿Bitte benutzen Sie die Standard-Einstellung. Zurücksetzen: Octave-Buttons beim Einschalten des UF gedrückt halten.

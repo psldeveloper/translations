@@ -1,0 +1,1 @@
+﻿Supporto per le applicazioni di controllo remoto via UCNET. Questo dispositivo viene automaticamente aggiunto.

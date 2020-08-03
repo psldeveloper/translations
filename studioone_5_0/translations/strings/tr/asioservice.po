@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\plugversion.h
+msgid "[ASIO]ASIO Driver Support"
+msgstr "ASIO sürücü desteği"
+
+#: .\asiomain.cpp
+msgid "[ASIO]Support for ASIO-compatible low latency Audio Devices"
+msgstr "ASIO uyumlu düşük gecikmeli ses kartı desteği"
+

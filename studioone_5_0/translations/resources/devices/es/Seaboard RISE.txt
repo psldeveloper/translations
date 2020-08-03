@@ -1,0 +1,1 @@
+﻿Conecte el Seaboard RISE a su ordenador para usarlo con Studio One.

@@ -1,0 +1,1 @@
+Mackie Control操作モードを選択してください（Ch1 + Ch2 SELECTを押したまま電源を入れる）。

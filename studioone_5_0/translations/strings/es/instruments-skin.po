@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\useroption.xml
+msgid "[SampleLibraryOption]Add..."
+msgstr "Agregar..."
+
+#: .\useroption.xml
+msgid "[SampleLibraryOption]Locations"
+msgstr "Ubicaciones"
+
+#: .\useroption.xml
+msgid "[SampleLibraryOption]Remove"
+msgstr "Quitar"
+

@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: smartCAT.ai\n"
+
+#: .\aafhandler.cpp
+msgid "[FileType]AAF File"
+msgstr "AAF文件"
+
+#: .\aafhandler.cpp
+msgid "[AAF]An audio event has modifications and needs to be bounced."
+msgstr "一个音频事件包含更改，需要混缩。"
+
+#: .\aafhandler.cpp
+msgid "[AAF]An audio image is not ready."
+msgstr "音频映像未就绪。"
+
+#: .\aafhandler.cpp
+msgid "[AAF]An audio part needs to be bounced."
+msgstr "一个音频片段需要混缩。"
+
+#: .\aafhandler.cpp
+msgid "[AAF]An event has unrendered Event FX."
+msgstr "一个事件包含未渲染的事件特效。"
+
+#: .\aafhandler.cpp
+msgid "[AAF]Audio files from content packages can not be exported."
+msgstr "内容包内的音频文件无法导出。"
+
+#: .\aafwriter.cpp
+msgid "[AAF]Converting %(1)"
+msgstr "正在转换%(1)"
+
+#: .\aafwriter.cpp
+msgid "[AAF]Embedding %(1)"
+msgstr "正在嵌入 %(1)"
+
+#: .\aafwriter.cpp
+msgid "[AAF]Step %(1) of %(2)"
+msgstr "步骤%(1)/%(2)"
+
+#: .\aafhandler.cpp
+msgid "[AAF]The AAF export has the following issues:"
+msgstr "AAF导出存在下列问题："
+
+#: .\aafhandler.cpp
+msgid "[AAF]The event is not a plain audio event."
+msgstr "此事件并非纯音频事件。"
+
+#: .\aafhandler.cpp
+msgid "[AAF]The file is not on your disk."
+msgstr "文件不在硬盘上。"
+
+#~ msgid "[AAF]Only Wave and AIFF audio files can be exported."
+#~ msgstr "只有Wave和AIFF音频文件可被导出。"
+

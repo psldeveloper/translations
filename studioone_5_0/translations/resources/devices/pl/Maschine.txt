@@ -1,0 +1,1 @@
+Wczytaj plik Studio One.ncm do NI Control Editor . Przytrzymaj Shift-Control na Maschine i wybierz szablon Studio One. Odnośnik pobierania: http://download.presonussoftware.com/Machine.zip

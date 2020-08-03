@@ -1,0 +1,644 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\skin.xml
+msgid "[TransposeDialog]+1 Oct"
+msgstr "+1 oct."
+
+#: .\skin.xml
+msgid "[TransposeDialog]+2 Oct"
+msgstr "+2 oct."
+
+#: .\skin.xml
+msgid "[TransposeDialog]-1 Oct"
+msgstr "-1 oct."
+
+#: .\skin.xml
+msgid "[TransposeDialog]-2 Oct"
+msgstr "-2 oct."
+
+#: .\skin.xml
+msgid "[TransposeDialog]0"
+msgstr "0"
+
+#: .\skin.xml
+msgid "[SelectDialog]0"
+msgstr "0"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]1/1"
+msgstr "1/1"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]1/1"
+msgstr "1/1"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]1/1"
+msgstr "1/1"
+
+#: .\skin.xml
+msgid "[LengthDialog]1/16"
+msgstr "1/16"
+
+#: .\skin.xml
+msgid "[SelectDialog]1/16"
+msgstr "1/16"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]1/16"
+msgstr "1/16"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]1/16"
+msgstr "1/16"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]1/16"
+msgstr "1/16"
+
+#: .\skin.xml
+msgid "[LengthDialog]1/2"
+msgstr "1/2"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]1/2"
+msgstr "1/2"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]1/2"
+msgstr "1/2"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]1/2"
+msgstr "1/2"
+
+#: .\skin.xml
+msgid "[LengthDialog]1/32"
+msgstr "1/32"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]1/32"
+msgstr "1/32"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]1/32"
+msgstr "1/32"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]1/32"
+msgstr "1/32"
+
+#: .\skin.xml
+msgid "[LengthDialog]1/4"
+msgstr "1/4"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]1/4"
+msgstr "1/4"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]1/4"
+msgstr "1/4"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]1/4"
+msgstr "1/4"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]1/64"
+msgstr "1/64"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]1/64"
+msgstr "1/64"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]1/64"
+msgstr "1/64"
+
+#: .\skin.xml
+msgid "[LengthDialog]1/8"
+msgstr "1/8"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]1/8"
+msgstr "1/8"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]1/8"
+msgstr "1/8"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]1/8"
+msgstr "1/8"
+
+#: .\skin.xml
+msgid "[VelocityDialog]Add"
+msgstr "Ajouter"
+
+#: .\skin.xml
+msgid "[LengthDialog]Add"
+msgstr "Ajouter"
+
+#: .\skin.xml
+msgid "[HumanizeDialog]Add note start range"
+msgstr "Ajouter une plage de débuts de note"
+
+#: .\skin.xml
+msgid "[HumanizeDialog]Add velocity range"
+msgstr "Ajouter une plage de vélocité"
+
+#: .\skin.xml
+msgid "[TransposeDialog]Add/Subtract"
+msgstr "Ajouter/Soustraire"
+
+#: .\skin.xml
+msgid "[DistributeNotesDialog]Amount"
+msgstr "Quantité"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]Amount"
+msgstr "Quantité"
+
+#: .\skin.xml
+msgid "[RandomizeNotesDialog]Apply Scale"
+msgstr "Appliquer la gamme"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Apply Scale"
+msgstr "Appliquer la gamme"
+
+#: .\skin.xml
+msgid "[SelectDialog]At interval..."
+msgstr "À l'intervalle..."
+
+#: .\skin.xml
+msgid "[SelectDialog]Beat"
+msgstr "Battement"
+
+#: .\skin.xml
+msgid "[SelectDialog]Beat grid"
+msgstr "Grille de temps"
+
+#: .\skin.xml
+msgid "[RandomizeNotesDialog]Custom pitch range"
+msgstr "Plage de hauteur personnalisée"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Custom pitch range"
+msgstr "Plage de hauteur personnalisée"
+
+#: .\skin.xml
+msgid "[DeleteNotesDialog]Delete Notes"
+msgstr "Supprimer des notes"
+
+#: .\skin.xml
+msgid "[DeleteNotesDialog]Delete double notes"
+msgstr "Supprimer les notes doubles "
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]Delete notes randomly"
+msgstr "Supprimer aléatoirement des notes"
+
+#: .\skin.xml
+msgid "[DeleteNotesDialog]Delete notes shorter than"
+msgstr "Supprimer les notes plus courtes que"
+
+#: .\skin.xml
+msgid "[SelectDialog]Deselect"
+msgstr "Désélectionner"
+
+#: .\skin.xml
+msgid "[DistributeNotesDialog]Distribute Notes"
+msgstr "Distribuer les notes"
+
+#: .\skin.xml
+msgid "[StretchDialog]Double Tempo"
+msgstr "Double tempo"
+
+#: .\skin.xml
+msgid "[LengthDialog]Enlarge event length until it overlaps with the next event"
+msgstr "Agrandir l'événement pour qu'il chevauche le suivant"
+
+#: .\skin.xml
+msgid "[LengthDialog]Enlarge or reduce event length until it aligns with the next event"
+msgstr "Agrandir ou réduire l'événement pour l'aligner avec le suivant"
+
+#: .\skin.xml
+msgid "[SelectDialog]Event count"
+msgstr "Nombre d'événements"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Fill between selected notes"
+msgstr "Remplir entre les notes sélectionnées"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Fill loop range"
+msgstr "Remplir la plage de bouclage"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Fill whole part"
+msgstr "Remplir toute la partie"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Fill with Notes"
+msgstr "Remplir de notes"
+
+#: .\skin.xml
+msgid "[StretchDialog]Free"
+msgstr "Libre"
+
+#: .\skin.xml
+msgid "[SelectDialog]From Note length"
+msgstr "De la durée de note"
+
+#: .\skin.xml
+msgid "[SelectDialog]From Pitch"
+msgstr "De la hauteur"
+
+#: .\skin.xml
+msgid "[SelectDialog]From Velocity"
+msgstr "Depuis vélocité"
+
+#: .\skin.xml
+msgid "[HumanizeDialog]From Velocity"
+msgstr "Depuis vélocité"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]Grid"
+msgstr "Grille"
+
+#: .\skin.xml
+msgid "[StretchDialog]Half Tempo"
+msgstr "Demi-tempo"
+
+#: .\skin.xml
+msgid "[SelectDialog]Highest notes"
+msgstr "Notes les plus hautes"
+
+#: .\skin.xml
+msgid "[HumanizeDialog]Humanize"
+msgstr "Humaniser"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Include dotted notes"
+msgstr "Inclure les notes pointées"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Insert Range"
+msgstr "Plage d'insertion"
+
+#: .\skin.xml
+msgid "[SelectDialog]Interval"
+msgstr "Intervalle"
+
+#: .\skin.xml
+msgid "[LengthDialog]Legato"
+msgstr "Legato"
+
+#: .\skin.xml
+msgid "[LengthDialog]Legato + Overlap Correction"
+msgstr "Legato + Correction de chevauchement"
+
+#: .\skin.xml
+msgid "[LengthDialog]Length"
+msgstr "Durée"
+
+#: .\skin.xml
+msgid "[SelectDialog]Lowest notes"
+msgstr "Notes les plus basses"
+
+#: .\skin.xml
+msgid "[DeleteNotesDialog]Minimum note length"
+msgstr "Longueur de note minimale"
+
+#: .\skin.xml
+msgid "[MirrorNotesDialog]Mirror Notes"
+msgstr "Miroir des notes"
+
+#: .\skin.xml
+msgid "[MirrorNotesDialog]Mirror notes horizontally"
+msgstr "Miroir horizontal des notes"
+
+#: .\skin.xml
+msgid "[MirrorNotesDialog]Mirror notes vertically"
+msgstr "Miroir vertical des notes"
+
+#: .\skin.xml
+msgid "[MirrorNotesDialog]Mirror on custom note"
+msgstr "Miroir sur note définie"
+
+#: .\skin.xml
+msgid "[MirrorNotesDialog]Mirror on first note"
+msgstr "Miroir sur la première note"
+
+#: .\skin.xml
+msgid "[MirrorNotesDialog]Mirror on middle"
+msgstr "Miroir au milieu"
+
+#: .\skin.xml
+msgid "[VelocityDialog]Multiply"
+msgstr "Multiplier"
+
+#: .\skin.xml
+msgid "[LengthDialog]Multiply by"
+msgstr "Multiplier par"
+
+#: .\skin.xml
+msgid "[SelectDialog]Muted notes"
+msgstr "Notes muettes"
+
+#: .\skin.xml
+msgid "[SelectDialog]Note length"
+msgstr "Longueur de note"
+
+#: .\skin.xml
+msgid "[RandomizeNotesDialog]Note length"
+msgstr "Longueur de note"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Only insert notes into free steps"
+msgstr "N'insérer des notes que dans les pas libres"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Options"
+msgstr "Options"
+
+#: .\skin.xml
+msgid "[LengthDialog]Overlap"
+msgstr "Chevauchement"
+
+#: .\skin.xml
+msgid "[LengthDialog]Overlap Correction"
+msgstr "Correction de chevauchement"
+
+#: .\skin.xml
+msgid "[SelectDialog]Pitch"
+msgstr "Hauteur"
+
+#: .\skin.xml
+msgid "[RandomizeNotesDialog]Pitch"
+msgstr "Hauteur"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Pitch"
+msgstr "Hauteur"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Quantize Notes"
+msgstr "Quantifier les notes"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Quantize grid"
+msgstr "Grille de quantification"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Quantize note end"
+msgstr "Quantifier la fin de note"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Quantize note start"
+msgstr "Quantifier le début de note"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Quantize type"
+msgstr "Type de quantification"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Quintuplet"
+msgstr "Quintolet"
+
+#: .\skin.xml
+msgid "[RandomizeNotesDialog]Randomize Notes"
+msgstr "Randomiser les notes"
+
+#: .\skin.xml
+msgid "[RandomizeNotesDialog]Range"
+msgstr "Plage"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Range"
+msgstr "Plage"
+
+#: .\skin.xml
+msgid "[SelectDialog]Range..."
+msgstr "Plage..."
+
+#: .\skin.xml
+msgid "[LengthDialog]Reduce event length until overlaps are removed"
+msgstr "Réduire la longueur d'événement jusqu'à suppression des chevauchements"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Rhythm"
+msgstr "Rythme"
+
+#: .\skin.xml
+msgid "[SelectDialog]Select"
+msgstr "Sélectionner"
+
+#: .\skin.xml
+msgid "[SelectDialog]Select Notes"
+msgstr "Sélectionner des notes"
+
+#: .\skin.xml
+msgid "[SelectDialog]Select at every n-th position"
+msgstr "Sélectionner toutes les nièmes positions"
+
+#: .\skin.xml
+msgid "[SelectDialog]Selection interval: number of beats"
+msgstr "Intervalle de sélection: nombre de temps"
+
+#: .\skin.xml
+msgid "[SelectDialog]Selection tolerance (+/-)"
+msgstr "Tolérance de sélection (+/-)"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Septuplet"
+msgstr "Septolet"
+
+#: .\skin.xml
+msgid "[VelocityDialog]Set all to"
+msgstr "Tout régler sur"
+
+#: .\skin.xml
+msgid "[TransposeDialog]Set all to"
+msgstr "Tout régler sur"
+
+#: .\skin.xml
+msgid "[LengthDialog]Set all to"
+msgstr "Tout régler sur"
+
+#: .\skin.xml
+msgid "[HumanizeDialog]Shift Note start from"
+msgstr "Décaler le début des notes depuis"
+
+#: .\skin.xml
+msgid "[HumanizeDialog]Shift Note start to"
+msgstr "Décaler le début des notes jusqu'à"
+
+#: .\skin.xml
+msgid "[RandomizeNotesDialog]Shuffle notes"
+msgstr "Mélanger les notes"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]Simplify"
+msgstr "Simplifier"
+
+#: .\skin.xml
+msgid "[SelectDialog]Start"
+msgstr "Début"
+
+#: .\skin.xml
+msgid "[SelectDialog]Start offset: number of beats"
+msgstr "Décalage du début: nombre de temps"
+
+#: .\skin.xml
+msgid "[SelectDialog]Start selection at n-th position"
+msgstr "Démarrer la sélection à la nième position"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Step length"
+msgstr "Longueur de pas"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Straight"
+msgstr "Binaire"
+
+#: .\skin.xml
+msgid "[RandomizeNotesDialog]Strength"
+msgstr "Rigueur"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Strength"
+msgstr "Rigueur"
+
+#: .\skin.xml
+msgid "[StretchDialog]Stretch"
+msgstr "Étirer"
+
+#: .\skin.xml
+msgid "[LengthDialog]Subtract"
+msgstr "Soustraire"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Swing"
+msgstr "Swing"
+
+#: .\skin.xml
+msgid "[ThinOutNotesDialog]Thin out Notes"
+msgstr "Espacer les notes"
+
+#: .\skin.xml
+msgid "[SelectDialog]To Note length"
+msgstr "À la durée de note"
+
+#: .\skin.xml
+msgid "[SelectDialog]To Pitch"
+msgstr "À la hauteur"
+
+#: .\skin.xml
+msgid "[SelectDialog]To Velocity"
+msgstr "Vers vélocité"
+
+#: .\skin.xml
+msgid "[HumanizeDialog]To Velocity"
+msgstr "Vers vélocité"
+
+#: .\skin.xml
+msgid "[SelectDialog]Tolerance"
+msgstr "Tolérance"
+
+#: .\skin.xml
+msgid "[TransposeDialog]Transpose"
+msgstr "Transposer"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Triplet"
+msgstr "Triolet"
+
+#: .\skin.xml
+msgid "[QuantizeNotesCustomDialog]Triplet"
+msgstr "Triolet"
+
+#: .\skin.xml
+msgid "[RandomizeNotesDialog]Use original pitch range"
+msgstr "Utiliser la plage de hauteur d'origine"
+
+#: .\skin.xml
+msgid "[RandomizeNotesDialog]Use original pitches only"
+msgstr "N'utiliser que les hauteurs d'origine"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Use pitch range of existing notes"
+msgstr "Utiliser la plage de hauteur des notes existantes"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Use pitches of existing notes only"
+msgstr "N'utiliser que des hauteurs de note existantes"
+
+#: .\skin.xml
+msgid "[VelocityDialog]Value"
+msgstr "Valeur"
+
+#: .\skin.xml
+msgid "[TransposeDialog]Value"
+msgstr "Valeur"
+
+#: .\skin.xml
+msgid "[LengthDialog]Value"
+msgstr "Valeur"
+
+#: .\skin.xml
+msgid "[StretchDialog]Value"
+msgstr "Valeur"
+
+#: .\skin.xml
+msgid "[VelocityDialog]Velocity"
+msgstr "Vélocité"
+
+#: .\skin.xml
+msgid "[SelectDialog]Velocity"
+msgstr "Vélocité"
+
+#: .\skin.xml
+msgid "[RandomizeNotesDialog]Velocity"
+msgstr "Vélocité"
+
+#: .\skin.xml
+msgid "[FillWithNotesDialog]Velocity"
+msgstr "Vélocité"
+
+#~ msgid "[SelectDialog]Deselect matching notes"
+#~ msgstr "Désélectionner les notes correspondantes"
+
+#~ msgid "[SelectDialog]From"
+#~ msgstr "De"
+
+#~ msgid "[SelectDialog]Select at interval..."
+#~ msgstr "Sélectionner à intervalle…"
+
+#~ msgid "[SelectDialog]Select highest notes"
+#~ msgstr "Sélectionner les notes les plus hautes"
+
+#~ msgid "[SelectDialog]Select lowest notes"
+#~ msgstr "Sélectionner les notes les plus basses"
+
+#~ msgid "[SelectDialog]Select matching notes"
+#~ msgstr "Sélectionner les notes qui correspondent"
+
+#~ msgid "[SelectDialog]Select muted notes"
+#~ msgstr "Sélectionner les notes muettes"
+
+#~ msgid "[SelectDialog]Select range..."
+#~ msgstr "Sélectionner la plage…"
+
+#~ msgid "[SelectDialog]To"
+#~ msgstr "À"
+
+#~ msgid "[VelocityDialog]Compress"
+#~ msgstr "Compresser"
+

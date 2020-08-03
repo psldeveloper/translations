@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]%(1) days ago"
+msgstr "%(1) dias atrás"
+
+#: .\plugins\servicemanager.cpp
+msgid "[ServiceManager]%(1) failed!"
+msgstr "%(1) falhou!"
+
+#: .\plugins\plugcollect.cpp
+msgid "[PlugIns]%(1) has been blocked."
+msgstr "%(1) ignorado pois está na lista negra."
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]%(1) months ago"
+msgstr "%(1) meses atrás"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]%(1) weeks ago"
+msgstr "%(1) semanas atrás"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]%(1) years ago"
+msgstr "%(1) anos atrás"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]Access is denied"
+msgstr "Acesso negado"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Application"
+msgstr "Aplicação"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Application Extension"
+msgstr "Extensão do Aplicativo"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Binary File"
+msgstr "Arquivo Binário"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]GB"
+msgstr "GB"
+
+#: .\fileutilities.cpp
+msgid "[FileType]HTML File"
+msgstr "Arquivo HTML"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In %(1) days"
+msgstr "Em %(1) dias"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In %(1) hours"
+msgstr "Em %(1) horas"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In less than one hour"
+msgstr "Em menos de uma hora"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In one day"
+msgstr "Em um dia"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In one hour"
+msgstr "Em uma hora"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]Invalid Argument"
+msgstr "Argumento Inválido"
+
+#: .\fileutilities.cpp
+msgid "[FileType]JSON File"
+msgstr "Arquivo JSON"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Java Properties File"
+msgstr "Arquivo de Propriedades Java"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]KB"
+msgstr "KB"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]KB/sec"
+msgstr "KB/seg"
+
+#: .\localization\languagepack.cpp
+msgid "[FileType]Language Pack"
+msgstr "Pacote de Idioma"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Last month"
+msgstr "Último mes"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Last week"
+msgstr "Última semana"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Last year"
+msgstr "Último ano"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]MB"
+msgstr "MB"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]MB/sec"
+msgstr "MB/seg"
+
+#: .\fileutilities.cpp
+msgid "[FileType]PDF File"
+msgstr "Arquivo PDF"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Package File"
+msgstr "Arquivo de Pacote"
+
+#: .\packaging\filearchive.cpp
+msgid "[PackageFile]Packaging: %(1)"
+msgstr "Empacotando: %(1)"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Rich Text Format"
+msgstr "Formato Rich Text"
+
+#: .\plugins\servicemanager.cpp
+msgid "[ServiceManager]Starting %(1)..."
+msgstr "Iniciando %(1)..."
+
+#: .\plugins\servicemanager.cpp
+msgid "[ServiceManager]Stopping %(1)..."
+msgstr "Parando %(1)..."
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]TB"
+msgstr "TB"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Text File"
+msgstr "Arquivo de Texto"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]The file exists"
+msgstr "O arquivo existe"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]The file is in use"
+msgstr "O arquivo está em uso"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]The file is write protected"
+msgstr "O arquivo é protegido contra gravação"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]The system cannot find the file specified"
+msgstr "O sistema não pode encontrar o arquivo especificado"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]There is not enough space on the disk"
+msgstr "Não há espaço no disco"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Today"
+msgstr "Hoje"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]Too many open files"
+msgstr "Muitos arquivos abertos"
+
+#: .\fileutilities.cpp
+msgid "[FileType]UBJSON File"
+msgstr "Arquívo UBJSON"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]Unknown Error"
+msgstr "Erro Desconhecido"
+
+#: .\fileutilities.cpp
+msgid "[FileType]XML File"
+msgstr "Arquivo XML"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Yesterday"
+msgstr "Ontem"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Zip File"
+msgstr "Arquivo Zip"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]bytes"
+msgstr "bytes"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]days"
+msgstr "dias"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]hours"
+msgstr "horas"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]min"
+msgstr "min"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]sec"
+msgstr "seg"
+
+#~ msgid "[PlugIns]%(1) ignored because it is blacklisted."
+#~ msgstr "%(1) ignorado pois está na lista negra."
+
+#~ msgid "[PlugIns]%(1) ignored, because it crashed before."
+#~ msgstr "%(1) ignorado, devido a ter falhado anteriormente. "
+

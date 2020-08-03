@@ -1,0 +1,1 @@
+﻿Si prega di utilizzare le impostazioni predefinite per i Fader 1-16 e impostare KN 1-8 al controller 14, 15, 16, 17, 18, 19, 20 e 21. I Fader Banks controllano i canali del mixer 1-16.

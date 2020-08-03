@@ -1,0 +1,1 @@
+﻿Conecte el EM1 a su ordenador para usarlo con Studio One.

@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\skin.xml
+msgid "[VSTUserOption]Add..."
+msgstr "追加..."
+
+#: .\skin.xml
+msgid "[VSTUserOption]Locations"
+msgstr "ロケーション"
+
+#: .\skin.xml
+msgid "[Command]Presets"
+msgstr "プリセット"
+
+#: .\skin.xml
+msgid "[VSTUserOption]Remove"
+msgstr "削除"
+
+#: .\skin.xml
+msgid "[VSTUserOption]Reset Blocklist"
+msgstr "ブラックリストをリセット"
+
+#: .\skin.xml
+msgid "[Command]Reset Blocklist"
+msgstr "ブラックリストをリセット"
+
+#: .\skin.xml
+msgid "[VSTUserOption]Scan at startup"
+msgstr "起動時にスキャン"
+
+#~ msgid "[VSTUserOption]Reset Blacklist"
+#~ msgstr "ブラックリストをリセット"
+
+#~ msgid "[Command]Reset Blacklist"
+#~ msgstr "ブラックリストをリセット"
+

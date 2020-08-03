@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\sampler\storage\presethandler.cpp
+msgid "[Sampler]%(1) programs"
+msgstr "%(1)个音色"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler](Press 'Shift' to insert slices)"
+msgstr "(按’Shift’插入切片)"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Add Sample"
+msgstr "添加采样"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Add Samples"
+msgstr "添加采样"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Add Slices"
+msgstr "添加切片"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Chromatic"
+msgstr "半音阶"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[FileType]EXS24 File"
+msgstr "EXS24文件"
+
+#: .\sampler\gui\wavedisplay.cpp
+msgid "[WaveDisplay]File not found"
+msgstr "未找到文件"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Full Range"
+msgstr "全范围"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[FileType]Giga File"
+msgstr "千兆文件"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[Sampler]Importing..."
+msgstr "导入中..."
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Insert Sample"
+msgstr "插入采样"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Insert Samples"
+msgstr "插入采样"
+
+#: .\sampler\impact\impactviews.cpp
+msgid "[DrumPadInsertHandler]Insert to next free pad"
+msgstr "插入下一个空闲键盘"
+
+#: .\sampler\storage\settings.cpp
+msgid "[SamplerUserOption]Instrument Library"
+msgstr "乐器库"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[FileType]Kontakt File"
+msgstr "Kontakt文件"
+
+#: .\sampler\storage\bitwigcodec.cpp
+msgid "[FileType]Multisample File"
+msgstr "多重采样文件"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[Sampler]Not supported %(1)"
+msgstr "不支持%(1)"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Octave Mode"
+msgstr "八度模式"
+
+#: .\sampler\gui\keyswitchcomponent.cpp
+msgid "[KeySwitchList]Pitch"
+msgstr "音高"
+
+#: .\sampler\storage\presethandler.cpp
+msgid "[Sampler]Preset in %(1)"
+msgstr "%(1)中的预置"
+
+#: .\sampler\samplerutils.cpp
+msgid "[SamplerUtitlities]Render Slices"
+msgstr "渲染切片"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Replace Sample"
+msgstr "替换采样"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Replace Samples"
+msgstr "替换采样"
+
+#: .\sampler\storage\presonuscodec.cpp .\sampler\storage\soundfontcodec.cpp
+msgid "[FileType]Sampler File"
+msgstr "采样器文件"
+
+#: .\sampler\storage\usfcodec.cpp
+msgid "[Sampler]Searching Samples"
+msgstr "搜索采样"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Set Root/Hi/Low Key to %(1)"
+msgstr "设置根/高/低音至%(1)"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]Slice"
+msgstr "切片"
+
+#: .\sampler\impact\impactviews.cpp
+msgid "[DrumPadInsertHandler]Slice and spread across multiple pads"
+msgstr "切片并在多块垫子上散播"
+
+#: .\sampler\samplerutils.cpp
+msgid "[SamplerUtitlities]Slice detection"
+msgstr "切片检测"
+
+#: .\sampler\storage\soundfontcodec.cpp .\sampler\storage\usfcodec.cpp
+msgid "[FileType]SoundFont"
+msgstr "音色库"
+
+#: .\sampler\impact\impactviews.cpp
+msgid "[DrumPadInsertHandler]Spread samples across multiple pads"
+msgstr "在多块垫子上散播采样"
+
+#: .\sampler\gui\keyswitchcomponent.cpp
+msgid "[KeySwitchList]Title"
+msgstr "标题"
+
+#: .\sampler\insertsamplehandler.cpp
+msgid "[SampleDragHandler]White Keys"
+msgstr "白键"
+

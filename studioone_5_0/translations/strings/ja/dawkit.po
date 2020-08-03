@@ -1,0 +1,1571 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\song\publisherselector.cpp
+msgid "[Engine]\"%(1)\" does not support the selected file format."
+msgstr "\"%(1)\" は選択されているファイルフォーマットに対応していません。"
+
+#: .\song\stemrenderer.cpp
+msgid "[StemRenderer](Disabled)"
+msgstr "（無効）"
+
+#: .\song\stemrenderer.cpp
+msgid "[StemRenderer](Empty)"
+msgstr "（空）"
+
+#: .\song\stemrenderer.cpp
+msgid "[StemRenderer](Muted)"
+msgstr "（ミュート）"
+
+#: .\song\stemrenderer.cpp
+msgid "[StemRenderer](Protected)"
+msgstr "(保護)"
+
+#: .\project\publish\audiofilepublisher.cpp
+msgid "[AudioFilePublisher](Unknown Artist)"
+msgstr "（不明なアーティスト）"
+
+#: .\project\publish\audiofilepublisher.cpp
+msgid "[AudioFilePublisher](Unknown Title)"
+msgstr "（不明なタイトル）"
+
+#: .\project\publish\burnerdialog.cpp
+msgid "[BurnerDialog]A blank CD is found and you can start to burn"
+msgstr "空のCDが見つかりました。書き込みを開始できます。"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]A patch with this name already exists."
+msgstr "この名前のパッチはすでに存在します。"
+
+#: .\show\editing\showdraghandler.cpp
+msgid "[ShowDragHandler]Add Backing Track"
+msgstr "バッキングトラックを追加"
+
+#: .\show\editing\showplayerlistcomponent.cpp
+msgid "[Command]Add Backing Track Player"
+msgstr "バッキングトラックのプレイヤーを追加"
+
+#: .\show\editing\showplayerview.cpp
+msgid "[Player]Add Backing Track Player"
+msgstr "バッキングトラックのプレイヤーを追加"
+
+#: .\project\editing\projectdraghandler.cpp
+msgid "[ProjectEditHandler]Add Event to Track"
+msgstr "イベントをトラックに追加"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Add Marker"
+msgstr "マーカーを追加"
+
+#: .\show\editing\showplayerlistcomponent.cpp
+msgid "[Command]Add Player"
+msgstr "プレイヤーを追加"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Add Player"
+msgstr "プレイヤーを追加"
+
+#: .\show\editing\showplayerview.cpp
+msgid "[Player]Add Player..."
+msgstr "プレイヤーを追加..."
+
+#: .\show\editing\showplayerlistcomponent.cpp
+msgid "[Command]Add Real Instrument Player"
+msgstr "リアルインストゥルメントのプレイヤーを追加"
+
+#: .\show\editing\showplayerview.cpp
+msgid "[Player]Add Real Instrument Player"
+msgstr "リアルインストゥルメントのプレイヤーを追加"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Add Setlist Item"
+msgstr "セットリスト項目を追加"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Add Setlist Item"
+msgstr "セットリスト項目を追加"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Add Track"
+msgstr "トラックを追加"
+
+#: .\show\editing\showplayerlistcomponent.cpp
+msgid "[Command]Add Virtual Instrument Player"
+msgstr "バーチャルインストゥルメントのプレイヤーを追加"
+
+#: .\show\editing\showplayerview.cpp
+msgid "[Player]Add Virtual Instrument Player"
+msgstr "バーチャルインストゥルメントのプレイヤーを追加"
+
+#: .\song\songbrowsable.cpp
+msgid "[SongBrowser]Append Track"
+msgstr "トラックを追加"
+
+#: .\show\editing\showplayerinspector.cpp
+msgid "[Command]Apply Patch"
+msgstr "パッチを適用"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Arranger"
+msgstr "編曲者"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Arrow Tool"
+msgstr "矢印ツール"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Artist / Performer"
+msgstr "アーティスト/演奏者"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Assign Backing Track"
+msgstr "バッキングトラックをアサイン"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Assign Patch"
+msgstr "パッチをアサイン"
+
+#: .\show\editing\showeditcomponent.cpp
+msgid "[Command]Audio"
+msgstr "オーディオ"
+
+#: .\song\songrenderer.cpp
+msgid "[SongRenderer]Audio Export"
+msgstr "オーディオエクスポート"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Backing Track"
+msgstr "バッキングトラック"
+
+#: .\project\editing\projectedittasks.cpp
+msgid "[ProjectEdit]Bounce Track"
+msgstr "トラックをバウンス"
+
+#: .\project\publish\projectburner.cpp
+msgid "[Command]Burn Audio CD"
+msgstr "オーディオCDを書き込み"
+
+#: .\project\publish\projectburner.cpp
+msgid "[ProjectBurner]Burning failed."
+msgstr "書き込みに失敗しました。"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]CD Burning Service not installed."
+msgstr "CD書き込みサービスがインストールされていません。"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]CD Protocol"
+msgstr "CDプロトコル"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]CD Title"
+msgstr "CDタイトル"
+
+#: .\show\document\performancecomponent.cpp
+msgid "[Command]Cancel"
+msgstr "キャンセル"
+
+#: .\song\songrenderer.cpp
+msgid "[SongRenderer]Cannot create mixdown with protected content."
+msgstr "保護されたコンテンツでミックスダウンを作成することはできません。"
+
+#: .\song\stemrenderer.cpp
+msgid "[StemRenderer]Channels"
+msgstr "チャンネル"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Colorize Player"
+msgstr "プレイヤーに色を付ける"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Colorize Setlist Item"
+msgstr "セットリスト項目に色を付ける"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Colorize Track"
+msgstr "トラックに色を付ける"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Combine Tracks"
+msgstr "トラックを結合"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Project]Combine with next Track"
+msgstr "次のトラックと結合"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Command]Combine with next Track"
+msgstr "次のトラックと結合"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Comment"
+msgstr "コメント"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Composer"
+msgstr "作曲者"
+
+#: .\show\editing\setlistiteminspector.cpp
+msgid "[PatchList]Content"
+msgstr "コンテンツ"
+
+#: .\show\editing\setlistitemcomponent.cpp
+msgid "[SetListItem]Continue"
+msgstr "続行"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Convert to Grand Staff"
+msgstr "大譜表に変換"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Convert to Single Staff"
+msgstr "単一譜表に変換"
+
+#: .\song\songcontroller.cpp
+msgid "[Command]Copy"
+msgstr "コピー"
+
+#: .\project\editing\projectedittasks.cpp
+msgid "[ProjectEdit]Copy Metadata to all Tracks"
+msgstr "メタデータをすべてのトラックにコピー"
+
+#: .\project\publish\audiofilepublisher.cpp
+msgid "[AudioFilePublisher]Could not create audio files."
+msgstr "オーディオファイルを作成できませんでした。"
+
+#: .\project\publish\burnerdialog.cpp
+msgid "[BurnerDialog]Could not find a CD burner"
+msgstr "CDバーナーが見つかりません"
+
+#: .\song\songcontroller.cpp
+msgid "[Song]Could not import file!"
+msgstr "ファイルをインポートできませんでした。"
+
+#: .\project\document\projectcomponent.cpp
+msgid "[Project]Could not import file! The file format is unsupported."
+msgstr "ファイルをインポートできませんでした。このファイルフォーマットには対応していません。"
+
+#: .\project\publish\ddpimagemaker.cpp
+msgid "[DDPImageMaker]DDP image failed."
+msgstr "DDPイメージに失敗しました。"
+
+#: .\show\editing\showplayerlistcomponent.cpp
+msgid "[PlayerList]Default"
+msgstr "デフォルト"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Default Patch: %(1)"
+msgstr "デフォルトのパッチ: %(1)"
+
+#: .\song\songvideohandler.cpp
+msgid "[Video]Default Size"
+msgstr "デフォルトサイズ"
+
+#: .\show\editing\showeditcomponent.cpp .\song\songmarker.cpp
+msgid "[Command]Delete"
+msgstr "削除"
+
+#: .\song\songmarker.cpp
+msgid "[Marker]Delete Marker"
+msgstr "マーカーを削除"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Deselect All"
+msgstr "すべての選択を解除"
+
+#: .\project\editing\projectedittasks.cpp
+msgid "[ProjectEdit]Detect Loudness"
+msgstr "ラウドネスを検出"
+
+#: .\project\document\projectdocument.cpp
+msgid "[Project]Devices"
+msgstr "デバイス"
+
+#: .\show\document\showdocument.cpp
+msgid "[Show]Devices"
+msgstr "デバイス"
+
+#: .\song\songdocument.cpp
+msgid "[Engine]Devices"
+msgstr "デバイス"
+
+#: .\project\publish\audiofilepublisher.cpp
+msgid "[Command]Digital Release"
+msgstr "デジタルリリース"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Disable Setlist Item"
+msgstr "セットリスト項目を無効化"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Disable Setlist Item"
+msgstr "セットリスト項目を無効化"
+
+#: .\project\document\projectcomponent.cpp
+msgid "[Command]Disable Track"
+msgstr "トラックを無効化"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Disable Track"
+msgstr "トラックを無効化"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Disable Tracks"
+msgstr "トラックを無効化"
+
+#: .\song\publisherselector.cpp
+msgid "[Engine]Do not publish"
+msgstr "公開しない"
+
+#: .\project\editing\projecttrackcomponent.cpp
+msgid "[ProjectTrack]Do you want to apply incrementing ISRC codes for all tracks?"
+msgstr "昇順のISRCコードをすべてのトラックに適用しますか？"
+
+#: .\project\publish\ddpimagemaker.cpp
+msgid "[DDPImageMaker]Do you want to create a DDP image?\n\nImage: %(1)\nLocation: %(2)"
+msgstr "DDPイメージを作成しますか？\n\nイメージ: %(1)\nロケーション: %(2)"
+
+#: .\song\songrenderer.cpp
+msgid "[SongRenderer]Do you want to delete the exported file?"
+msgstr "エクスポートされたファイルを削除しますか？"
+
+#: .\song\songrenderer.cpp
+msgid "[SongRenderer]Do you want to delete the exported files?"
+msgstr "エクスポートされたファイルを削除しますか？"
+
+#: .\song\songvideohandler.cpp
+msgid "[Video]Do you want to extract the audio to a new track?"
+msgstr "オーディオを新規トラックへ抽出しますか？"
+
+#: .\project\document\projectcomponent.cpp .\show\document\showcomponent.cpp
+#: .\song\songcontroller.cpp
+msgid "[Command]Document Setup"
+msgstr "ドキュメント設定"
+
+#: .\song\songvideohandler.cpp
+msgid "[Video]Double Size"
+msgstr "ダブルサイズ"
+
+#: .\show\document\performancecomponent.cpp
+msgid "[Command]Down"
+msgstr "下"
+
+#: .\song\songcontroller.cpp
+msgid "[Command]Duplicate"
+msgstr "複製"
+
+#: .\song\songcontroller.cpp
+msgid "[Command]Duplicate (complete)"
+msgstr "複製（完全）"
+
+#: .\show\editing\showplayerlistcomponent.cpp
+msgid "[Command]Duplicate Player"
+msgstr "プレイヤーを複製"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Duplicate Player"
+msgstr "プレイヤーを複製"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Duplicate Setlist Item"
+msgstr "セットリスト項目を複製"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Duplicate Setlist Item"
+msgstr "セットリスト項目を複製"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]EAN/UPC"
+msgstr "EAN/UPC"
+
+#: .\score\scoreeditor.cpp
+msgid "[Command]Edit"
+msgstr "編集"
+
+#: .\project\document\projectpoolbrowser.cpp
+msgid "[Project]Edit Song"
+msgstr "ソングを編集"
+
+#: .\project\editing\projecttrackcomponent.cpp
+msgid "[ProjectTrack]Edit Song"
+msgstr "ソングを編集"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Enable Setlist Item"
+msgstr "セットリスト項目を有効化"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Enable Setlist Item"
+msgstr "セットリスト項目を有効化"
+
+#: .\project\document\projectcomponent.cpp
+msgid "[Command]Enable Track"
+msgstr "トラックを有効化"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Enable Track"
+msgstr "トラックを有効化"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Enable Tracks"
+msgstr "トラックを有効化"
+
+#: .\project\publish\burnerdialog.cpp
+msgid "[BurnerDialog]Erasing failed."
+msgstr "消去に失敗しました:"
+
+#: .\song\songcontroller.cpp
+msgid "[Command]Export Mixdown"
+msgstr "ミックスダウンをエクスポート"
+
+#: .\song\songcontroller.cpp
+msgid "[Command]Export Stems"
+msgstr "ステムをエクスポート"
+
+#: .\song\songvideohandler.cpp
+msgid "[Command]Export Video"
+msgstr "ビデオをエクスポート"
+
+#: .\song\songrenderer.cpp
+msgid "[SongRenderer]Exporting..."
+msgstr "エクスポートしています..."
+
+#: .\song\stemrenderer.cpp
+msgid "[StemRenderer]Exporting:"
+msgstr "エクスポートしています:"
+
+#: .\song\songvideohandler.cpp
+msgid "[Command]Extract Audio"
+msgstr "オーディオを抽出"
+
+#: .\song\songvideohandler.cpp
+msgid "[Video]Extracted Audio Track"
+msgstr "抽出されたオーディオトラック"
+
+#: .\song\songrenderer.cpp
+msgid "[SongRenderer]Failed to export audio file."
+msgstr "オーディオファイルのエクスポートに失敗しました。"
+
+#: .\song\stemrenderer.cpp
+msgid "[StemRenderer]Failed to export audio file."
+msgstr "オーディオファイルのエクスポートに失敗しました。"
+
+#: .\song\songvideorenderer.cpp
+msgid "[Video]Failed to write video."
+msgstr "ビデオの書き込みに失敗しました。"
+
+#: .\project\document\projectcomponent.cpp .\show\document\showcomponent.cpp
+#: .\song\songcontroller.cpp
+msgid "[Command]File"
+msgstr "ファイル"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Command]First Track"
+msgstr "最初のトラック"
+
+#: .\project\publish\audiofilepublisher.cpp
+msgid "[AudioFilePublisher]Generating audio files (%(1) of %(2))"
+msgstr "オーディオファイルを生成しています（ %(2) 中 %(1) ）"
+
+#: .\project\publish\imagemaker.cpp
+msgid "[ImageMaker]Generating image file..."
+msgstr "イメージファイルを生成しています..."
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Generator"
+msgstr "ジェネレーター"
+
+#: .\song\songmarker.cpp
+msgid "[Command]Goto Next Marker"
+msgstr "次のマーカーへ移動"
+
+#: .\song\songmarker.cpp
+msgid "[Command]Goto Previous Marker"
+msgstr "前のマーカーへ移動"
+
+#: .\song\songvideohandler.cpp
+msgid "[Video]Half Size"
+msgstr "ハーフサイズ"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]ISRC"
+msgstr "ISRC"
+
+#: .\project\publish\ddpdocumenthandler.cpp
+msgid "[DDP]Import DDP"
+msgstr "DDPをインポート"
+
+#: .\project\document\projectcomponent.cpp .\show\document\showcomponent.cpp
+#: .\song\songcontroller.cpp
+msgid "[Command]Import File"
+msgstr "ファイルをインポート"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Import File"
+msgstr "ファイルをインポート"
+
+#: .\song\songvideohandler.cpp
+msgid "[Command]Import Video"
+msgstr "ビデオをインポート"
+
+#: .\song\poolimportextension.cpp
+msgid "[Browser]Import to Pool"
+msgstr "プールへインポート"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Index"
+msgstr "索引"
+
+#: .\project\model\projectmodel.cpp
+msgid "[ProjectMarker]Index %(1)"
+msgstr "Index %(1)"
+
+#: .\project\publish\burnerdialog.cpp
+msgid "[BurnerDialog]Initializing..."
+msgstr "初期化しています..."
+
+#: .\project\editing\projecteditcomponent.cpp
+#: .\show\editing\showeditcomponent.cpp .\song\songmarker.cpp
+msgid "[Command]Insert"
+msgstr "挿入"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Insert Marker"
+msgstr "マーカーを挿入"
+
+#: .\show\editing\showeditcomponent.cpp .\song\songmarker.cpp
+msgid "[Command]Insert Named"
+msgstr "名前の付いたマーカーを挿入"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[SetList]Item"
+msgstr "歌"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Command]Last Track"
+msgstr "最後のトラック"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Length"
+msgstr "時間"
+
+#: .\project\editing\projectedithandler.cpp
+msgid "[ProjectEditHandler]Length: %(1)"
+msgstr "長さ: %(1)"
+
+#: .\show\editing\showeditmodel.cpp
+msgid "[EventEditHandler]Length: %(1)"
+msgstr "長さ: %(1)"
+
+#: .\project\editing\projectedithandler.cpp
+msgid "[ProjectEditHandler]Length: %(1)  Pause: %(2)"
+msgstr "長さ: %(1)  一時停止: %(2)"
+
+#: .\project\document\projectcomponent.cpp .\show\document\showcomponent.cpp
+#: .\song\songcontroller.cpp
+msgid "[Command]Locate Missing Devices"
+msgstr "行方不明のデバイスを検索"
+
+#: .\show\editing\setlistitemcomponent.cpp
+msgid "[SetListItem]Loop"
+msgstr "ループ"
+
+#: .\show\editing\showeditcomponent.cpp
+msgid "[Command]Loop Setlist Item"
+msgstr "セットリスト項目をループ"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Lyrics"
+msgstr "歌詞"
+
+#: .\project\publish\ddpimagemaker.cpp
+msgid "[Command]Make DDP Image"
+msgstr "DDPイメージを作成"
+
+#: .\project\publish\imagemaker.cpp
+msgid "[Command]Make Image"
+msgstr "イメージを作成"
+
+#: .\project\editing\projecteditcomponent.cpp
+#: .\show\editing\showeditcomponent.cpp .\song\songmarker.cpp
+msgid "[Command]Marker"
+msgstr "マーカー"
+
+#: .\show\document\showsetup.cpp
+msgid "[ShowSetup]Meta Information"
+msgstr "メタ情報"
+
+#: .\song\songsetup.cpp
+msgid "[SongSetup]Meta Information"
+msgstr "メタ情報"
+
+#: .\application\song\mixdowntask.cpp
+msgid "[Edit]Mixdown Selection"
+msgstr "ミックスダウン選択"
+
+#: .\project\publish\projectburner.cpp
+msgid "[ProjectBurner]Mixdown Speed: %float(1:1)"
+msgstr "ミックスダウンスピード: %float(1:1)"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Modify Attribute"
+msgstr "属性を変更"
+
+#: .\project\editing\projectedithandler.cpp
+msgid "[ProjectEditHandler]Move End Marker"
+msgstr "エンドマーカーを移動"
+
+#: .\project\editing\projectedithandler.cpp
+msgid "[ProjectEditHandler]Move End Marker only"
+msgstr "エンドマーカーのみを移動"
+
+#: .\project\editing\projectedithandler.cpp
+msgid "[ProjectEditHandler]Move Event and Resize Track"
+msgstr "イベントを移動してトラックのサイズを変更"
+
+#: .\project\editing\projectedithandler.cpp
+msgid "[ProjectEditHandler]Move Event and Track Start"
+msgstr "イベントとトラックスタートを移動"
+
+#: .\project\editing\projectedithandler.cpp
+msgid "[ProjectEditHandler]Move Event only"
+msgstr "イベントのみを移動"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Move Marker"
+msgstr "マーカーを移動"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Move Marker"
+msgstr "マーカーを移動"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Move Player"
+msgstr "プレイヤーを移動"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Move Setlist Item"
+msgstr "セットリスト項目を移動"
+
+#: .\project\editing\projectedithandler.cpp
+msgid "[ProjectEditHandler]Move Start Marker"
+msgstr "スタートマーカーを移動"
+
+#: .\project\editing\projectedithandler.cpp
+msgid "[ProjectEditHandler]Move Start Marker only"
+msgstr "スタートマーカーのみを移動"
+
+#: .\project\editing\projectedithandler.cpp
+msgid "[ProjectEditHandler]Move Start and End Marker"
+msgstr "スタートマーカーとエンドマーカーを移動"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ActionDescriptions]Move Track"
+msgstr "トラックを移動"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Mute"
+msgstr "ミュート"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Mute"
+msgstr "ミュート"
+
+#: .\project\editing\projecteditcomponent.cpp
+#: .\show\document\performancecomponent.cpp
+#: .\show\editing\showeditcomponent.cpp
+msgid "[Command]Navigation"
+msgstr "ナビゲーション"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Next Patch"
+msgstr "次のパッチ"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Next Player"
+msgstr "次のプレイヤー"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Next Setlist Item"
+msgstr "次のセットリスト項目"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Command]Next Track"
+msgstr "次のトラック"
+
+#: .\song\songmaster.cpp
+msgid "[SongMaster]No"
+msgstr "いいえ"
+
+#: .\project\publish\burnerdialog.cpp
+msgid "[BurnerDialog]No Device"
+msgstr "デバイスなし"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]None"
+msgstr "なし"
+
+#: .\project\editing\projectedittasks.cpp
+msgid "[AudioEdit]Normalize Audio"
+msgstr "オーディオをノーマライズ"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Not all tracks could be added to the audio disc, because an audio disc can only be 80 minutes long."
+msgstr "オーディオディスクには80分しか収録できないため、すべてのトラックをオーディオディスクに追加できませんでした。"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Not all tracks could be added to the audio disc, because an audio disc can only contain up to 99 tracks."
+msgstr "オーディオディスクには最大99トラックしか収録できないため、すべてのトラックをオーディオディスクに追加できませんでした。"
+
+#: .\song\stemrenderer.cpp
+msgid "[StemRenderer]Nothing to export. Please select one or more tracks and set Loop or Markers."
+msgstr "エクスポートするものがありません。1つまたは複数のトラックを選択してループまたはマーカーを設定してください。"
+
+#: .\song\songrenderer.cpp
+msgid "[SongRenderer]Nothing to export. Please set Loop or Markers first."
+msgstr "エクスポートするものがありません。まずループまたはマーカーを設定してください。"
+
+#: .\show\editing\globaltracklistcomponent.cpp
+msgid "[Command]Open Arranger Track"
+msgstr "アレンジトラックを開く"
+
+#: .\show\editing\globaltracklistcomponent.cpp
+msgid "[Command]Open Chord Track"
+msgstr "コードトラックを開く"
+
+#: .\show\editing\globaltracklistcomponent.cpp .\song\songmarker.cpp
+msgid "[Command]Open Marker Track"
+msgstr "マーカートラックを開く"
+
+#: .\show\editing\globaltracklistcomponent.cpp
+msgid "[Command]Open Tempo Track"
+msgstr "テンポトラックを開く"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Opening the CD Burning Engine failed."
+msgstr "CD書き込みエンジンを開くのに失敗しました。"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Paint Tool"
+msgstr "ペイントツール"
+
+#: .\song\songcontroller.cpp
+msgid "[Command]Paste"
+msgstr "ペースト"
+
+#: .\show\editing\setlistiteminspector.cpp
+#: .\show\editing\showplayerinspector.cpp
+msgid "[PatchList]Patch"
+msgstr "パッチ"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Patch"
+msgstr "パッチ"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Pause"
+msgstr "一時停止"
+
+#: .\show\document\performancecomponent.cpp
+msgid "[Command]Perform"
+msgstr "演奏"
+
+#: .\show\editing\setlistiteminspector.cpp
+msgid "[PatchList]Player"
+msgstr "プレイヤー"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Player"
+msgstr "プレイヤー"
+
+#: .\show\editing\showdraghandler.cpp
+msgid "[ShowDragHandler]Player \"%(1)\""
+msgstr "プレイヤー \"%(1)\""
+
+#: .\project\document\songupdater.cpp
+msgid "[SongUpdater]Please ensure that no files or devices are missing!"
+msgstr "行方不明のファイルまたはデバイスがないことを確認してください。"
+
+#: .\project\publish\burnerdialog.cpp
+msgid "[BurnerDialog]Please erase the CD or insert a blank one"
+msgstr "CDを消去するか空のCDを挿入してください"
+
+#: .\project\publish\burnerdialog.cpp
+msgid "[BurnerDialog]Please insert a blank CD"
+msgstr "空のCDを挿入してください"
+
+#: .\project\document\projectdocument.cpp
+msgid "[Project]Pool"
+msgstr "プール"
+
+#: .\show\document\showdocument.cpp
+msgid "[Show]Pool"
+msgstr "プール"
+
+#: .\song\songdocument.cpp
+msgid "[Engine]Pool"
+msgstr "プール"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Preparing..."
+msgstr "準備しています..."
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Previous Patch"
+msgstr "前のパッチ"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Previous Player"
+msgstr "前のプレイヤー"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Previous Setlist Item"
+msgstr "前のセットリスト項目"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Command]Previous Track"
+msgstr "前のトラック"
+
+#: .\project\document\projectcomponent.cpp
+#: .\project\editing\projecteditcomponent.cpp
+#: .\project\publish\audiofilepublisher.cpp
+#: .\project\publish\ddpimagemaker.cpp .\project\publish\imagemaker.cpp
+#: .\project\publish\projectburner.cpp
+msgid "[Command]Project"
+msgstr "プロジェクト"
+
+#: .\project\document\projectdocument.cpp
+msgid "[Project]Project"
+msgstr "プロジェクト"
+
+#: .\project\editing\projectedittasks.cpp
+msgid "[ProjectEdit]Project"
+msgstr "プロジェクト"
+
+#: .\project\document\projectcomponent.cpp
+msgid "[Project]Project Setup"
+msgstr "プロジェクト設定"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Real Instrument"
+msgstr "リアルインストゥルメント"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Remove Backing Track"
+msgstr "バッキングトラックを削除"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Remove Marker"
+msgstr "マーカーを削除"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Remove Marker"
+msgstr "マーカーを削除"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Remove Patch"
+msgstr "パッチを削除"
+
+#: .\show\editing\showplayerlistcomponent.cpp
+msgid "[Command]Remove Player"
+msgstr "プレイヤーを削除"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Remove Player"
+msgstr "プレイヤーを削除"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Remove Setlist Item"
+msgstr "セットリスト項目を削除"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Remove Setlist Item"
+msgstr "セットリスト項目を削除"
+
+#: .\project\document\projectcomponent.cpp .\song\songcontroller.cpp
+msgid "[Command]Remove Track"
+msgstr "トラックを削除"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Remove Track"
+msgstr "トラックを削除"
+
+#: .\song\songvideohandler.cpp
+msgid "[Command]Remove Video"
+msgstr "ビデオを削除"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Rename Patch"
+msgstr "パッチ名を変更"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Rename Patch"
+msgstr "パッチ名を変更"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Rename Patch \"%(1)\"..."
+msgstr "パッチ名 \"%(1)\" を変更..."
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Rename Player"
+msgstr "プレイヤー名を変更"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Rename Track"
+msgstr "トラック名を変更"
+
+#: .\song\clickrenderer.cpp
+msgid "[ClickRenderer]Render Click"
+msgstr "クリックをレンダー"
+
+#: .\song\songcontroller.cpp
+msgid "[Command]Render Click"
+msgstr "クリックをレンダー"
+
+#: .\song\songvideorenderer.cpp
+msgid "[Video]Rendering Audio..."
+msgstr "オーディオをレンダリングしています…"
+
+#: .\song\clickrenderer.cpp
+msgid "[ClickRenderer]Rendering Click"
+msgstr "クリックをレンダーしています"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Replace File"
+msgstr "ファイルを置換"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Reset Default Patch"
+msgstr "デフォルトパッチをリセット"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Reset Default Patch"
+msgstr "デフォルトパッチをリセット"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Project]Reset Pause"
+msgstr "一時停止をリセット"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Command]Reset Pause"
+msgstr "一時停止をリセット"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Project]Reset Track Markers to Content"
+msgstr "トラックマーカーをコンテンツにリセット"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Command]Reset Track Markers to Content"
+msgstr "トラックマーカーをコンテンツにリセット"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Resize Track"
+msgstr "トラックのサイズを変更"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Save Patch"
+msgstr "パッチを保存"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Save Patch"
+msgstr "パッチを保存"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Save Patch..."
+msgstr "パッチを保存…"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Select All"
+msgstr "すべてを選択"
+
+#: .\score\scoreeditor.cpp
+msgid "[Command]Select All"
+msgstr "すべてを選択"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Select All in Staff"
+msgstr "譜表内のすべてを選択"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Select All on Tracks"
+msgstr "トラック上のすべてを選択"
+
+#: .\score\scoreeditor.cpp
+msgid "[Command]Select All on Tracks"
+msgstr "トラック上のすべてを選択"
+
+#: .\show\editing\showeditcomponent.cpp
+msgid "[ShowEditComponent]Select In Pool"
+msgstr "プールで選択"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Select Mute Patch"
+msgstr "ミュートパッチを選択"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Select Patch 1"
+msgstr "パッチ1を選択"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Select Patch 10"
+msgstr "パッチ10を選択"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Select Patch 2"
+msgstr "パッチ2を選択"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Select Patch 3"
+msgstr "パッチ3を選択"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Select Patch 4"
+msgstr "パッチ4を選択"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Select Patch 5"
+msgstr "パッチ5を選択"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Select Patch 6"
+msgstr "パッチ6を選択"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Select Patch 7"
+msgstr "パッチ7を選択"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Select Patch 8"
+msgstr "パッチ8を選択"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Select Patch 9"
+msgstr "パッチ9を選択"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Select Player 1"
+msgstr "プレイヤー1を選択"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Select Player 10"
+msgstr "プレイヤー10を選択"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Select Player 2"
+msgstr "プレイヤー2を選択"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Select Player 3"
+msgstr "プレイヤー3を選択"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Select Player 4"
+msgstr "プレイヤー4を選択"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Select Player 5"
+msgstr "プレイヤー5を選択"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Select Player 6"
+msgstr "プレイヤー6を選択"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Select Player 7"
+msgstr "プレイヤー7を選択"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Select Player 8"
+msgstr "プレイヤー8を選択"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Select Player 9"
+msgstr "プレイヤー9を選択"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Select Setlist Item 1"
+msgstr "セットリスト項目1を選択"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Select Setlist Item 10"
+msgstr "セットリスト項目10を選択"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Select Setlist Item 2"
+msgstr "セットリスト項目2を選択"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Select Setlist Item 3"
+msgstr "セットリスト項目3を選択"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Select Setlist Item 4"
+msgstr "セットリスト項目4を選択"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Select Setlist Item 5"
+msgstr "セットリスト項目5を選択"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Select Setlist Item 6"
+msgstr "セットリスト項目6を選択"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Select Setlist Item 7"
+msgstr "セットリスト項目7を選択"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Select Setlist Item 8"
+msgstr "セットリスト項目8を選択"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Select Setlist Item 9"
+msgstr "セットリスト項目9を選択"
+
+#: .\show\editing\showeditcomponent.cpp
+msgid "[Command]Select in Pool"
+msgstr "プールで選択"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Set \"%(1)\" as Default Patch"
+msgstr "\"%(1)\" をデフォルトパッチとして設定"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Set Current as Default Patch"
+msgstr "現行をデフォルトパッチとして設定"
+
+#: .\song\songmarker.cpp
+msgid "[Marker]Set Markers"
+msgstr "マーカーを設定"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Set Meta Info"
+msgstr "メタ情報を設定"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Set Playback Mode Continue"
+msgstr "再生モードを続行に設定"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Set Playback Mode Loop"
+msgstr "再生モードをループに設定"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Set Playback Mode Stop at End"
+msgstr "再生モードをエンドで停止に設定"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Set Player"
+msgstr "プレイヤーを設定"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Set Setlist Item Duration"
+msgstr "セットリスト項目のデュレーションを設定"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Set Setlist Item Key Signature"
+msgstr "セットリスト項目のキーを設定"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Set Setlist Item Pause"
+msgstr "セットリスト項目の一時停止を設定"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Set Setlist Item Playback Mode"
+msgstr "セットリスト項目の再生モードを設定"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Set Setlist Item Tempo"
+msgstr "セットリスト項目のテンポを設定"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Set Setlist Item Time Signature"
+msgstr "セットリスト項目の拍子を設定"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Set Setlist Item Title"
+msgstr "セットリスト項目のタイトルを設定"
+
+#: .\song\songmarker.cpp
+msgid "[Command]Set Start and End to Selection"
+msgstr "スタートとエンドを選択に設定"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Set Track Pause"
+msgstr "トラックの一時停止を設定"
+
+#: .\song\songvideohandler.cpp
+msgid "[Command]Set Video Offset"
+msgstr "ビデオオフセットを設定"
+
+#: .\show\document\performancecomponent.cpp .\show\document\showcomponent.cpp
+#: .\show\editing\setlistcomponent.cpp .\show\editing\showeditcomponent.cpp
+#: .\show\editing\showeditmodel.cpp .\show\editing\showplayerinspector.cpp
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+msgid "[Command]Show"
+msgstr " ショー"
+
+#: .\show\document\showdocument.cpp
+msgid "[Show]Show"
+msgstr " ショー"
+
+#: .\show\document\showcomponent.cpp
+msgid "[Show]Show Setup"
+msgstr "ショー設定"
+
+#: .\song\songcontroller.cpp
+msgid "[Command]Show in Explorer/Finder"
+msgstr "エクスプローラー/Finderに表示"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Solo"
+msgstr "ソロ"
+
+#: .\song\songcontroller.cpp .\song\songmaster.cpp
+msgid "[Command]Song"
+msgstr "ソング"
+
+#: .\song\songdocument.cpp
+msgid "[Engine]Song"
+msgstr "ソング"
+
+#: .\song\songcontroller.cpp
+msgid "[Song]Song Setup"
+msgstr "ソング設定"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Project]Split Event at Cursor"
+msgstr "イベントをカーソル位置で分割"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Split Track"
+msgstr "トラックを分割"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Project]Split Track and Event at Cursor"
+msgstr "トラックとイベントをカーソル位置で分割"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Command]Split Track and Event at Cursor"
+msgstr "トラックとイベントをカーソル位置で分割"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Project]Split Track at Cursor"
+msgstr "トラックをカーソルで分割"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Command]Split Track at Cursor"
+msgstr "トラックをカーソルで分割"
+
+#: .\project\publish\projectburner.cpp
+msgid "[ProjectBurner]Start to burn audio disc at %(1) times"
+msgstr " %(1) 倍速でオーディオディスクの書き込みを開始"
+
+#: .\project\publish\ddpimagemaker.cpp
+msgid "[DDPImageMaker]Start to write DDP image at %(1) times"
+msgstr " %(1) 倍速でオーディオディスクの書き込みを開始"
+
+#: .\show\editing\showeditmodel.cpp
+msgid "[EventEditHandler]Start: %(1) (%(2))\nPause: %(3)"
+msgstr "開始: %(1) (%(2))\n一時停止: %(3)"
+
+#: .\show\editing\setlistitemcomponent.cpp
+msgid "[SetListItem]Stop at End"
+msgstr "エンドで停止"
+
+#: .\song\songdocument.cpp
+msgid "[Engine]THIS SONG CONTAINS COPYRIGHTED MATERIAL. YOU MUST NOT USE ANY MATERIAL WITHOUT THE AUTHORS AGREEMENT."
+msgstr "このソングには著作権で保護されている素材が含まれています。著作権者の了解なく素材を使用することはできません。"
+
+#: .\project\editing\projecteditcomponent.cpp
+msgid "[Project]The EAN code is not formatted correctly.\n\nIt should be 13 characters long and should only contain numeric characters.\n\nExample: 036000291452\n\nIf you have a UPC, you just need to add 0 at the beginning to form a valid EAN code."
+msgstr "EANコードが正しくフォーマットされていません。\n\nコードは13文字で、数字のみで構成されています。\n\n例: 036000291452\n\nUPCがある場合、先頭に0を加えれば有効なEANコードになります。"
+
+#: .\project\editing\projecttrackcomponent.cpp
+msgid "[ProjectTrack]The ISRC code is not formatted correctly.\n\nIt should be 12 characters long and should only contain alphanumeric characters.\n\nExample: USPR37300012"
+msgstr "ISRCコードが正しくフォーマットされていません。\r\n\r\nコードは12文字で、英数字のみで構成されています。\r\n\r\n例: USPR37300012"
+
+#: .\song\songvideorenderer.cpp
+msgid "[Video]The audio codec does not support the current sample rate. The rate will be converted to %(1) kHz."
+msgstr "このオーディオコーデックは現行のサンプルレートに対応していません。レートは %(1) kHz に変換されます。"
+
+#: .\project\publish\burnerdialog.cpp
+msgid "[BurnerDialog]The device could not be opened"
+msgstr "デバイスを開けませんでした"
+
+#: .\song\publisherselector.cpp
+msgid "[Engine]The file format will be reset to \"%(1)\"."
+msgstr "ファイルフォーマットは \"%(1)\" にリセットされます。"
+
+#: .\project\document\songupdater.cpp
+msgid "[SongUpdater]The following files failed to update:"
+msgstr "次のファイルの更新に失敗しました:"
+
+#: .\song\songrenderer.cpp
+msgid "[SongRenderer]The following issues occurred during export:"
+msgstr "次の問題がエクスポート中に生じました:"
+
+#: .\song\songmaster.cpp
+msgid "[SongMaster]The mastering file of this song is up-to-date."
+msgstr "このソングのマスタリングファイルは最新です。"
+
+#: .\project\document\songupdater.cpp
+msgid "[SongUpdater]The mastering files are up-to-date."
+msgstr "マスタリングファイルは最新です。"
+
+#: .\song\songmaster.cpp
+msgid "[SongMaster]The song will be saved first.\n"
+msgstr "まずソングが保存されます。\r\n"
+
+#: .\project\publish\imagemaker.cpp
+msgid "[ImageMaker]There was an error during the image creation!"
+msgstr "イメージ作成中にエラーが発生しました。"
+
+#: .\project\publish\projectpublisher.cpp
+msgid "[ProjectPublisher]This project does not contain any enabled tracks."
+msgstr "このプロジェクトには有効なトラックがひとつも含まれていません。"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Title"
+msgstr "タイトル"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Toggle Playback Mode Loop / Continue"
+msgstr "再生モードをループ/続行に切り替え"
+
+#: .\show\editing\setlistcomponent.cpp
+msgid "[Command]Toggle Playback Mode Loop / Stop at End"
+msgstr "再生モードをループ/エンドで停止に切り替え"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Total Playing Time"
+msgstr "合計再生時間"
+
+#: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
+#: .\song\songcontroller.cpp
+msgid "[Command]Track"
+msgstr "トラック"
+
+#: .\song\songbrowsable.cpp
+msgid "[SongBrowser]Track"
+msgstr "トラック"
+
+#: .\project\model\projectmodel.cpp
+msgid "[ProjectMarker]Track %(1)"
+msgstr "Track %(1)"
+
+#: .\project\publish\audiodiscpublisher.cpp
+msgid "[AudioDiscPublisher]Track %(1)"
+msgstr "Track %(1)"
+
+#: .\project\document\projectdocumentinfo.cpp
+msgid "[ProjectInfo]Tracks"
+msgstr "トラック"
+
+#: .\project\publish\projectpublisher.cpp
+msgid "[ProjectPublisher]Tracks"
+msgstr "トラック"
+
+#: .\song\songdocumentinfo.cpp
+msgid "[SongInfo]Tracks"
+msgstr "トラック"
+
+#: .\song\stemrenderer.cpp
+msgid "[StemRenderer]Tracks"
+msgstr "トラック"
+
+#: .\show\document\performancecomponent.cpp
+msgid "[Command]Up"
+msgstr "上"
+
+#: .\project\document\projectpoolbrowser.cpp
+msgid "[Project]Update Mastering File"
+msgstr "マスタリングファイルを更新"
+
+#: .\project\editing\projecttrackcomponent.cpp
+msgid "[ProjectTrack]Update Mastering File"
+msgstr "マスタリングファイルを更新"
+
+#: .\song\songmaster.cpp
+msgid "[Command]Update Mastering File"
+msgstr "マスタリングファイルを更新"
+
+#: .\project\document\projectcomponent.cpp
+msgid "[Command]Update Mastering Files"
+msgstr "マスタリングファイルを更新"
+
+#: .\show\model\showfunctions.cpp
+msgid "[ShowFunctions]Update Patch"
+msgstr "パッチを更新"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Update Patch"
+msgstr "パッチを更新"
+
+#: .\show\model\showplayer.cpp
+msgid "[Command]Update Patch"
+msgstr "パッチを更新"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Update Patch \"%(1)\""
+msgstr "パッチ \"%(1)\" を更新"
+
+#: .\project\model\projectfunctions.cpp
+msgid "[ProjectFunctions]Update Title"
+msgstr "タイトルを更新"
+
+#: .\song\songmaster.cpp
+msgid "[SongMaster]Update the mastering file of this song:\n%(6)\nOutput: %(1)\nDuration: %(3)\nResolution: %(4)\nRealtime Processing: %(5)\nInclude Master Effects: %(7)\nFilename: %(2)"
+msgstr "このソングのマスタリングファイルを更新します:\n%(6)\n出力: %(1)\n長さ: %(3)\n解像度: %(4)\nリアルタイムプロセッシング: %(5)\nマスターエフェクトを含める: %(7)\nファイル名: %(2)"
+
+#: .\project\document\songupdater.cpp
+msgid "[SongUpdater]Update was canceled."
+msgstr "更新はキャンセルされました。"
+
+#: .\project\document\songupdater.cpp
+msgid "[SongUpdater]Updated %(1) of %(2) mastering files in %(3)."
+msgstr "%(3) のマスタリングファイル %(2) つのうち %(1) つを更新しました。"
+
+#: .\song\songvideorenderer.cpp
+msgid "[Video]Using different codecs might affect the export speed."
+msgstr "別のコーデックを使用するとエクスポート速度に影響する場合があります。"
+
+#: .\song\songvideohandler.cpp
+msgid "[Command]Video"
+msgstr "ビデオ"
+
+#: .\song\songvideohandler.cpp
+msgid "[Command]Video Size Default"
+msgstr "ビデオサイズ デフォルト"
+
+#: .\song\songvideohandler.cpp
+msgid "[Command]Video Size Double"
+msgstr "ビデオサイズ ダブル"
+
+#: .\song\songvideohandler.cpp
+msgid "[Command]Video Size Half"
+msgstr "ビデオサイズ ハーフ"
+
+#: .\show\editing\globaltracklistcomponent.cpp .\song\songmarker.cpp
+msgid "[Command]View"
+msgstr "表示"
+
+#: .\show\model\showplayer.cpp
+msgid "[Player]Virtual Instrument"
+msgstr "バーチャルインストゥルメント"
+
+#: .\song\songvideorenderer.cpp
+msgid "[Video]Writing Video File..."
+msgstr "ビデオファイルを書き込んでいます…"
+
+#: .\song\songmaster.cpp
+msgid "[SongMaster]Yes"
+msgstr "はい"
+
+#: .\show\editing\showplayerlistcomponent.cpp
+msgid "[Command]Zoom"
+msgstr "ズーム"
+
+#: .\show\editing\showdraghandler.cpp
+msgid "[ShowDragHandler]new Player"
+msgstr "新規プレイヤー"
+
+#~ msgid "[Marker]Insert Marker"
+#~ msgstr "マーカーを挿入"
+
+#~ msgid "[Marker]Marker %(1)"
+#~ msgstr "マーカー %(1)"
+
+#~ msgid "[Marker]Name"
+#~ msgstr "名前"
+
+#~ msgid "[Command]Project Setup"
+#~ msgstr "プロジェクト設定"
+
+#~ msgid "[Command]Recall Marker"
+#~ msgstr "マーカーを呼び出す"
+
+#~ msgid "[Command]Recall Marker 1"
+#~ msgstr "マーカー1を呼び出す"
+
+#~ msgid "[Command]Recall Marker 10"
+#~ msgstr "マーカー10を呼び出す"
+
+#~ msgid "[Command]Recall Marker 11"
+#~ msgstr "マーカー11を呼び出す"
+
+#~ msgid "[Command]Recall Marker 12"
+#~ msgstr "マーカー12を呼び出す"
+
+#~ msgid "[Command]Recall Marker 13"
+#~ msgstr "マーカー13を呼び出す"
+
+#~ msgid "[Command]Recall Marker 14"
+#~ msgstr "マーカー14を呼び出す"
+
+#~ msgid "[Command]Recall Marker 15"
+#~ msgstr "マーカー15を呼び出す"
+
+#~ msgid "[Command]Recall Marker 16"
+#~ msgstr "マーカー16を呼び出す"
+
+#~ msgid "[Command]Recall Marker 17"
+#~ msgstr "マーカー17を呼び出す"
+
+#~ msgid "[Command]Recall Marker 18"
+#~ msgstr "マーカー18を呼び出す"
+
+#~ msgid "[Command]Recall Marker 19"
+#~ msgstr "マーカー19を呼び出す"
+
+#~ msgid "[Command]Recall Marker 2"
+#~ msgstr "マーカー2を呼び出す"
+
+#~ msgid "[Command]Recall Marker 20"
+#~ msgstr "マーカー20を呼び出す"
+
+#~ msgid "[Command]Recall Marker 3"
+#~ msgstr "マーカー3を呼び出す"
+
+#~ msgid "[Command]Recall Marker 4"
+#~ msgstr "マーカー4を呼び出す"
+
+#~ msgid "[Command]Recall Marker 5"
+#~ msgstr "マーカー5を呼び出す"
+
+#~ msgid "[Command]Recall Marker 6"
+#~ msgstr "マーカー6を呼び出す"
+
+#~ msgid "[Command]Recall Marker 7"
+#~ msgstr "マーカー7を呼び出す"
+
+#~ msgid "[Command]Recall Marker 8"
+#~ msgstr "マーカー8を呼び出す"
+
+#~ msgid "[Command]Recall Marker 9"
+#~ msgstr "マーカー9を呼び出す"
+
+#~ msgid "[Command]Song Setup"
+#~ msgstr "ソング設定"
+
+#~ msgid "[SongRenderer]The following problems occured during export:"
+#~ msgstr "次の問題がエクスポート中に生じました。"
+
+#~ msgid "[Command]Combine Tracks"
+#~ msgstr "トラックを結合"
+
+#~ msgid "[Command]Split Track"
+#~ msgstr "トラックを分割"
+
+#~ msgid "[Command]Split Track and Event"
+#~ msgstr "トラックとインストゥルメントを分割"
+
+#~ msgid "[Edit]Split at Cursor"
+#~ msgstr "カーソル位置で分割"
+
+#~ msgid "[Project]Reset Marker"
+#~ msgstr "マーカーをリセット"
+

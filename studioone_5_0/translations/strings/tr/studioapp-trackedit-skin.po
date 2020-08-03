@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Add Tracks"
+msgstr "İz Ekle"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.AudioOptions]Ascending"
+msgstr "Artan Sıralama"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.InstrumentOptions]Ascending"
+msgstr "Artan Sıralama"
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Auto-Color"
+msgstr "Otomatik Renk"
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Color"
+msgstr "Renk"
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Count"
+msgstr "Adet"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.InstrumentOptions]Existing Instrument"
+msgstr "Mevcut Enstrüman"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.AudioOptions]Format"
+msgstr "Format"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.AudioOptions]Input"
+msgstr "Giriş"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.InstrumentOptions]Input"
+msgstr "Giriş"
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Name"
+msgstr "İsim"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.InstrumentOptions]New Instrument"
+msgstr "Yeni Enstrüman"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.AudioOptions]Output"
+msgstr "Çıkış"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.InstrumentOptions]Output"
+msgstr "Çıkış"
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Pack Folder"
+msgstr "Klasörü Paketle"
+
+#: .\skin.xml
+msgid "[AddTrackDialog.AudioOptions]Preset"
+msgstr "Preset"
+
+#: .\skin.xml
+msgid "[AddTrackDialog]Type"
+msgstr "Tip"
+

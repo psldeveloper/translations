@@ -1,0 +1,1 @@
+﻿Configure seu VirusTI no modo remoto (SHIFT + CONFIG) e utilize um conjunto de modelos padrão.

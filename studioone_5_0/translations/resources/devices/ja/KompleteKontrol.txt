@@ -1,0 +1,1 @@
+﻿Komplete KontrolキーボードをStudio Oneで使用するにはコンピューターに接続して非DAW MIDIポートを選択します。

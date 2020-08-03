@@ -1,0 +1,1 @@
+Użyj domyślnego przypisania kontrolera wydrukowanego na UMX i ustaw przyciski B5-8 na CC 80-83. Użyj User Memory do zapisania go.

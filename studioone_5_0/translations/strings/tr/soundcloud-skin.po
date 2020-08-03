@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\client.xml
+msgid "[SoundCloudManager]Add Tracks..."
+msgstr "İz Ekle..."
+
+#: .\client.xml
+msgid "[TrackPropertyView]Allow external streams at 128 kbps"
+msgstr "128 kbps'de harici akışlara izin ver"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Artwork"
+msgstr "Grafik Görsel"
+
+#: .\client.xml
+msgid "[SoundCloudAuthorization]Attempt to connect with SoundCloud failed!"
+msgstr "SoundClound bağlantısı başarısız oldu!"
+
+#: .\client.xml
+msgid "[TrackPropertyView]BPM"
+msgstr "BPM"
+
+#: .\client.xml
+msgid "[SoundCloudAuthorization]Cancel"
+msgstr "İptal"
+
+#: .\browser.xml
+msgid "[ClientPreview]Connect with SoundCloud"
+msgstr "SoundCloud ile bağlan"
+
+#: .\client.xml
+msgid "[NotSignedInView]Connect with SoundCloud"
+msgstr "SoundCloud ile bağlan"
+
+#: .\client.xml
+msgid "[SoundCloudManager]Connect with SoundCloud"
+msgstr "SoundCloud ile bağlan"
+
+#: .\client.xml
+msgid "[SoundCloudConnectDialog]Connect with SoundCloud"
+msgstr "SoundCloud ile bağlan"
+
+#: .\client.xml
+msgid "[SoundCloudManager]De-Authorize"
+msgstr "Ot"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Description"
+msgstr "Açıklama"
+
+#: .\browser.xml
+msgid "[TrackPreview]Download"
+msgstr "İndir"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Genre"
+msgstr "Tür"
+
+#: .\client.xml
+msgid "[TrackPropertyView]ISRC"
+msgstr "ISRC"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Key"
+msgstr "Key"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Keywords"
+msgstr "Anahtar Kelimeler"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Label Name"
+msgstr "Label Adı"
+
+#: .\client.xml
+msgid "[TrackPropertyView]License"
+msgstr "Lisans"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Make original downloadable"
+msgstr "Orijinalini indirebilir kıl"
+
+#: .\client.xml
+msgid "[TrackPropertyView]More info"
+msgstr "Daa fazla bilgi"
+
+#: .\client.xml
+msgid "[ActivityFeedItems]No recent activity."
+msgstr "Yakın geçmişte faaliyet yok"
+
+#: .\client.xml
+msgid "[SoundCloudManager]No track selected"
+msgstr "Seçili iz yok"
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Comments"
+msgstr "Yorum Adedi"
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Downloads"
+msgstr "İndirme Adedi"
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Favorites"
+msgstr "Favori Adedi"
+
+#: .\browser.xml
+msgid "[UserPreview]Number of Followers"
+msgstr "Takipçi Adedi"
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Followers"
+msgstr "Takipçi Adedi"
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Playbacks"
+msgstr "Çalma Adedi"
+
+#: .\browser.xml
+msgid "[UserPreview]Number of Tracks"
+msgstr "İz Adedi"
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Tracks"
+msgstr "İz Adedi"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Purchase URL"
+msgstr "URL satın al"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Release Name"
+msgstr "Yayın İsmi"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Release date"
+msgstr "Yayın tarihi"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Remove Image"
+msgstr "Görseli Kaldır"
+
+#: .\client.xml
+msgid "[SoundCloudManager]Remove all"
+msgstr "Hepsini Kaldır"
+
+#: .\client.xml
+msgid "[SoundCloudAuthorization]Retry"
+msgstr "Tekrar dene"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Select Image"
+msgstr "Görsel Seç"
+
+#: .\browser.xml
+msgid "[ClientPreview]SoundCloud Client"
+msgstr "SoundCloud Alıcısı"
+
+#: .\client.xml
+msgid "[SoundCloudManager]SoundCloud Client"
+msgstr "SoundCloud Alıcısı"
+
+#: .\client.xml
+msgid "[TrackPropertyView]This track is available publicly"
+msgstr "Bu iz herkese açık"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Title"
+msgstr "Başlık"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Track Type"
+msgstr "İz Tipi"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Track info"
+msgstr "İz Bilgisi"
+
+#: .\client.xml
+msgid "[SoundCloudManager]Upload"
+msgstr "Yükle"
+
+#: .\client.xml
+msgid "[TrackPropertyView]Video URL"
+msgstr "Video URL"
+
+#: .\client.xml
+msgid "[SoundCloudAuthorization]Waiting for SoundCloud to respond..."
+msgstr "SoundCloud'dan cevap bekleniyor..."
+
+#: .\client.xml
+msgid "[SoundCloudAuthorization]You are now connected to SoundCloud."
+msgstr "SoundCloud'a bağlandınız."
+

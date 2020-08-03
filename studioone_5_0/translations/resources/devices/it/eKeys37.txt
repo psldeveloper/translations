@@ -1,0 +1,1 @@
+﻿eKeys non ha alcun controller. La velocity è sempre 100.

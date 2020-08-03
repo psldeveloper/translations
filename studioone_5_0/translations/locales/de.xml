@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocaleInfo	language="de" title="Deutsch">
+	<String x:id="dateFormat" text="%int(3).%int(2).%int(1)"/>				<!-- 9.3.2008 -->
+	<String x:id="friendlyDateFormat" text="%(5), %int(3). %(4) %int(1)"/>	<!-- Sonntag, 9. März 2008 -->
+	<String x:id="timeFormat" text="%int(1:2):%int(2:2):%int(3:2)"/>		<!-- 01:42:00 -->
+	
+	<Attributes x:id="weekdays">
+		<Association key="Sun" value="Sonntag"/>
+		<Association key="Mon" value="Montag"/>
+		<Association key="Tue" value="Dienstag"/>
+		<Association key="Wed" value="Mittwoch"/>
+		<Association key="Thu" value="Donnerstag"/>
+		<Association key="Fri" value="Freitag"/>
+		<Association key="Sat" value="Samstag"/>
+	</Attributes>
+	
+	<Attributes x:id="months">
+		<Association key="Jan" value="Januar"/>
+		<Association key="Feb" value="Februar"/>
+		<Association key="Mar" value="März"/>
+		<Association key="Apr" value="April"/>
+		<Association key="May" value="Mai"/>
+		<Association key="Jun" value="Juni"/>
+		<Association key="Jul" value="Juli"/>
+		<Association key="Aug" value="August"/>
+		<Association key="Sep" value="September"/>
+		<Association key="Oct" value="Oktober"/>
+		<Association key="Nov" value="November"/>
+		<Association key="Dec" value="Dezember"/>
+	</Attributes>
+</LocaleInfo>

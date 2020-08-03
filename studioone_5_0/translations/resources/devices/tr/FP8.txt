@@ -1,0 +1,1 @@
+Studio One ile kullanmak için FaderPort 8'i native mode'a geçirin.

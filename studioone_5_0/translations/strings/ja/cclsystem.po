@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]%(1) days ago"
+msgstr "%(1) 日前"
+
+#: .\plugins\servicemanager.cpp
+msgid "[ServiceManager]%(1) failed!"
+msgstr "%(1) に失敗しました。"
+
+#: .\plugins\plugcollect.cpp
+msgid "[PlugIns]%(1) has been blocked."
+msgstr "%(1) はブラックリストに登録されているため無視されました。"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]%(1) months ago"
+msgstr "%(1) ヵ月前"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]%(1) weeks ago"
+msgstr "%(1) 週間前"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]%(1) years ago"
+msgstr "%(1) 年前"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]Access is denied"
+msgstr "アクセスが拒否されました"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Application"
+msgstr "アプリケーション"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Application Extension"
+msgstr "アプリケーション拡張"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Binary File"
+msgstr "バイナリファイル"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]GB"
+msgstr "GB"
+
+#: .\fileutilities.cpp
+msgid "[FileType]HTML File"
+msgstr "HTMLファイル"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In %(1) days"
+msgstr "%(1) 日以内"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In %(1) hours"
+msgstr "%(1) 時間以内"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In less than one hour"
+msgstr "1時間以内"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In one day"
+msgstr "1日以内"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In one hour"
+msgstr "1時間"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]Invalid Argument"
+msgstr "無効な引数です"
+
+#: .\fileutilities.cpp
+msgid "[FileType]JSON File"
+msgstr "JSONファイル"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Java Properties File"
+msgstr "Java Propertiesファイル"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]KB"
+msgstr "KB"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]KB/sec"
+msgstr "KB/秒"
+
+#: .\localization\languagepack.cpp
+msgid "[FileType]Language Pack"
+msgstr "言語パック"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Last month"
+msgstr "先月"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Last week"
+msgstr "先週"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Last year"
+msgstr "昨年"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]MB"
+msgstr "MB"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]MB/sec"
+msgstr "MB/秒"
+
+#: .\fileutilities.cpp
+msgid "[FileType]PDF File"
+msgstr "PDFファイル"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Package File"
+msgstr "パッケージファイル"
+
+#: .\packaging\filearchive.cpp
+msgid "[PackageFile]Packaging: %(1)"
+msgstr "パッケージ中: %(1)"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Rich Text Format"
+msgstr "リッチテキストフォーマット"
+
+#: .\plugins\servicemanager.cpp
+msgid "[ServiceManager]Starting %(1)..."
+msgstr "%(1) をスタートしています..."
+
+#: .\plugins\servicemanager.cpp
+msgid "[ServiceManager]Stopping %(1)..."
+msgstr "%(1) を停止しています..."
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]TB"
+msgstr "TB"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Text File"
+msgstr "テキストファイル"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]The file exists"
+msgstr "このファイルは存在します"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]The file is in use"
+msgstr "このファイルは使用中です"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]The file is write protected"
+msgstr "このファイルは書き込み保護されています"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]The system cannot find the file specified"
+msgstr "システムは指定のファイルを見つけることができません"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]There is not enough space on the disk"
+msgstr "ディスクに十分な空き領域がありません"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Today"
+msgstr "今日"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]Too many open files"
+msgstr "開いているファイルが多すぎます"
+
+#: .\fileutilities.cpp
+msgid "[FileType]UBJSON File"
+msgstr "UBJSONファイル"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]Unknown Error"
+msgstr "不明なエラーです"
+
+#: .\fileutilities.cpp
+msgid "[FileType]XML File"
+msgstr "XMLファイル"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Yesterday"
+msgstr "昨日"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Zip File"
+msgstr "Zipファイル"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]bytes"
+msgstr "bytes"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]days"
+msgstr "日"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]hours"
+msgstr "時間"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]min"
+msgstr "分"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]sec"
+msgstr "秒"
+
+#~ msgid "[PlugIns]%(1) ignored because it is blacklisted."
+#~ msgstr "%(1) はブラックリストに登録されているため無視されました。"
+
+#~ msgid "[PlugIns]%(1) ignored, because it crashed before."
+#~ msgstr "%(1) は以前クラッシュしたため無視されました。 "
+

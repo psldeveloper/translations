@@ -1,0 +1,1 @@
+﻿Shift e rotella del mouse è il volume del canale. Zoom dentro / fuori (con Shift è verticale ). Shift e Record salva la song. Shift e Mute è Global Mute. Shift e Solo è Global Solo. Shift e Add cancella i Marker.

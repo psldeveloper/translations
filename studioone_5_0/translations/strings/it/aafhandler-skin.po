@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\option.xml
+msgid "[ExportDialog]Convert audio files"
+msgstr "Converti i file audio"
+
+#: .\option.xml
+msgid "[ExportDialog]Convert stereo tracks to mono pairs. This ensures compatibilty with applications which do not support import of stereo tracks."
+msgstr "Converti le tracce stereo in coppie mono. Questo garantisce la compatibilità con le applicazioni che non supportano l'importazione di tracce stereo."
+
+#: .\option.xml
+msgid "[ExportDialog]Create copies of all audio data in another format for export."
+msgstr "Crea copie di tutti i dati audio per l'esportazione in un altro formato."
+
+#: .\option.xml
+msgid "[ExportDialog]Discard unused regions in audio files."
+msgstr "Scarta le regioni inutilizzate nei file audio."
+
+#: .\option.xml
+msgid "[ExportDialog]Embed audio"
+msgstr "Incorpora audio"
+
+#: .\option.xml
+msgid "[ExportDialog]Export AAF"
+msgstr "Esporta AAF"
+
+#: .\option.xml
+msgid "[ExportDialog]Export pan"
+msgstr "Esporta pan"
+
+#: .\option.xml
+msgid "[ExportDialog]Head/Tail"
+msgstr "Testa/Coda"
+
+#: .\option.xml
+msgid "[ExportDialog]Improve compatibility with older applications."
+msgstr "Migliora la compatibilità con le vecchie applicazioni."
+
+#: .\option.xml
+msgid "[ExportDialog]Include pan automation in export. Disengaging may improve compatibility with applications which do not recognize pan data."
+msgstr "Includi l'automazione del pan nell'esportazione. Non abilitandolo è possibile migliorare la compatibilità con le applicazioni che non riconoscono i dati di pan."
+
+#: .\option.xml
+msgid "[ExportDialog]Legacy mode"
+msgstr "Legacy mode"
+
+#: .\option.xml
+msgid "[AudioCodecSelector]Resolution:"
+msgstr "Risoluzione:"
+
+#: .\option.xml
+msgid "[AudioCodecSelector]Sample Rate:"
+msgstr "Sample Rate:"
+
+#: .\option.xml
+msgid "[ExportDialog]Split stereo tracks"
+msgstr "Dividi tracce stereo"
+
+#: .\option.xml
+msgid "[ExportDialog]Store Wave and AIFF data in the exported file. If disengaged, references to audio files are used instead."
+msgstr "Memorizza i dati Wave e AIFF nel file esportato. Non abilitandolo si farà riferimento ai file audio originali."
+
+#: .\option.xml
+msgid "[ExportDialog]Trim audio files"
+msgstr "Taglia i file audio"
+

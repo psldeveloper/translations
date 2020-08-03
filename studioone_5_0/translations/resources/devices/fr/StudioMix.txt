@@ -1,0 +1,1 @@
+Le bouton 1 ouvre la console - Les boutons 4 et 5 passent en revue les pages de canaux à gauche et à droite.

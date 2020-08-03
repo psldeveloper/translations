@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\scoreedittasks.xml
+msgid "[MakeTupletDialog]Auto"
+msgstr "Automatico"
+
+#: .\scoreedittasks.xml
+msgid "[MakeTupletDialog]Brackets"
+msgstr "Parentesi"
+
+#: .\scoreedittasks.xml
+msgid "[MakeTupletDialog]Fit"
+msgstr "Adatta"
+
+#: .\scoreedittasks.xml
+msgid "[MakeTupletDialog]Hide"
+msgstr "Nascondi"
+
+#: .\scoreedittasks.xml
+msgid "[TransposeDialog]Interval"
+msgstr "Intervallo"
+
+#: .\scoreedittasks.xml
+msgid "[TransposeDialog]Interval quality"
+msgstr "Tipologia Intervallo"
+
+#: .\scoreedittasks.xml
+msgid "[MakeTupletDialog]Into"
+msgstr "In"
+
+#: .\scoreedittasks.xml
+msgid "[MakeTupletDialog]Make Custom Tuplet"
+msgstr "Crea un gruppo irregolare personalizzato"
+
+#: .\scoreedittasks.xml
+msgid "[TransposeDialog]Octave"
+msgstr "Ottava"
+
+#: .\scoreedittasks.xml
+msgid "[MakeTupletDialog]Show"
+msgstr "Show"
+
+#: .\scoreedittasks.xml
+msgid "[MakeTupletDialog]Show as ratio"
+msgstr "Mostra come ratio"
+
+#: .\scoreedittasks.xml
+msgid "[TransposeDialog]Transpose"
+msgstr "Trasponi"
+
+#: .\scoreedittasks.xml
+msgid "[TransposeDialog]Transpose Down"
+msgstr "Trasponi giù"
+
+#: .\scoreedittasks.xml
+msgid "[TransposeDialog]Transpose Up"
+msgstr "Trasponi su"
+

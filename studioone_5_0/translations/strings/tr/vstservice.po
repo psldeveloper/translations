@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\vstloaderbase.cpp
+msgid "[VST]Adding VST Plug-In %(1)..."
+msgstr "Eklenen VST Plug-IN: %(1)..."
+
+#: .\vstservicemain.cpp
+msgid "[VST]Support for VST 2.4 Audio Processors and Instruments"
+msgstr "VST 2.4 ses işlemcileri ve enstrümanlar için destek"
+
+#: .\vstservicemain.cpp
+msgid "[VST]Support for VST 3.0 Audio Processors and Instruments"
+msgstr "VST 3.0 ses işlemcileri ve enstrümanlar için destek"
+
+#: .\plugversion.h
+msgid "[VST]VST 2.4 Plug-In Support"
+msgstr "VST 2.4 Plug-in desteği"
+
+#: .\plugversion.h
+msgid "[VST]VST 3 Plug-In Support"
+msgstr "VST 3 Plug-in desteği"
+
+#: .\vstuseroption.cpp
+msgid "[VSTUserOption]VST Plug-Ins"
+msgstr "VST Plug-in'ler"
+
+#: .\vst2\vstpresetfile.cpp
+msgid "[FileType]VST2 Bank"
+msgstr "VST2 Banka"
+
+#: .\vst2\vstpresetfile.cpp
+msgid "[FileType]VST2 Program"
+msgstr "VST2 Program"
+
+#: .\vst3\vst3presethandler.cpp
+msgid "[FileType]VST3 Preset"
+msgstr "VST3 Preset"
+

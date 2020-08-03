@@ -1,0 +1,44 @@
+#: .\soundsetbuilder.cpp
+msgid "[StudioApp]A Sound Set with the identifier \"%(1)\" already exists!"
+msgstr ""
+
+#: .\soundsetproperties.cpp
+msgid "[StudioApp]Are you sure you want to modify the Sound Set identifier?"
+msgstr ""
+
+#: .\plugversion.h
+msgid "[StudioApp]Build your own Sound Sets for Studio One"
+msgstr ""
+
+#: .\soundsetbuilder.cpp
+msgid "[StudioApp]Failed to create Sound Set!"
+msgstr ""
+
+#: .\browserextension.cpp
+msgid "[StudioApp]Mount Folder as Sound Set"
+msgstr ""
+
+#: .\browserextension.cpp
+msgid "[StudioApp]Pack Sound Set from Folder"
+msgstr ""
+
+#: .\plugversion.h
+msgid "[StudioApp]Sound Set Builder"
+msgstr ""
+
+#: .\soundsetbuilder.cpp
+msgid "[StudioApp]Sound Set meta information is incomplete!"
+msgstr ""
+
+#: .\soundsetbuilder.cpp
+msgid "[StudioApp]The Sound Set \"%(1)\" is still in use (%(2) files open)!"
+msgstr ""
+
+#: .\soundsetproperties.cpp
+msgid "[StudioApp]The Sound Set identifier is used to store references to files from the Sound Set inside documents. It has to be globally unique to avoid conflicts with Sound Sets from other users."
+msgstr ""
+
+#: .\browserextension.cpp
+msgid "[StudioApp]Unmount Sound Set Folder"
+msgstr ""
+

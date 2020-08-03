@@ -1,0 +1,1 @@
+Wybierz zestaw fabryczny 1 grupę enkoderów 1 na urządzeniu. 1 i 2 wiersz enkoderów oraz 3 wiersze przycisków kontrolują konsoletę.

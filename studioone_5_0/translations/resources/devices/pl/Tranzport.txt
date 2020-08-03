@@ -1,0 +1,1 @@
+Shift Wheel to poziom głośności kanału. In / Out to powiększenie (Shift - pionowo). Shift Record zapisuje utwór. Shift Mute to globalne wyciszenie. Shift Solo to globalne solo. Shift Add usuwa markera.

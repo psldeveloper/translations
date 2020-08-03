@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\vstloaderbase.cpp
+msgid "[VST]Adding VST Plug-In %(1)..."
+msgstr "VSTプラグイン %(1) を追加しています..."
+
+#: .\vstservicemain.cpp
+msgid "[VST]Support for VST 2.4 Audio Processors and Instruments"
+msgstr "VST 2.4オーディオプロセッサーとインストゥルメント対応"
+
+#: .\vstservicemain.cpp
+msgid "[VST]Support for VST 3.0 Audio Processors and Instruments"
+msgstr "VST 3.0オーディオプロセッサーとインストゥルメント対応"
+
+#: .\plugversion.h
+msgid "[VST]VST 2.4 Plug-In Support"
+msgstr "VST 2.4プラグイン対応"
+
+#: .\plugversion.h
+msgid "[VST]VST 3 Plug-In Support"
+msgstr "VST 3プラグイン対応"
+
+#: .\vstuseroption.cpp
+msgid "[VSTUserOption]VST Plug-Ins"
+msgstr "VSTプラグイン"
+
+#: .\vst2\vstpresetfile.cpp
+msgid "[FileType]VST2 Bank"
+msgstr "VST2バンク"
+
+#: .\vst2\vstpresetfile.cpp
+msgid "[FileType]VST2 Program"
+msgstr "VST2プログラム"
+
+#: .\vst3\vst3presethandler.cpp
+msgid "[FileType]VST3 Preset"
+msgstr "VST3プリセット"
+
+#~ msgid "[VST]Adding VST3 Plug-In %(1)..."
+#~ msgstr "VST3プラグイン %(1) を追加しています..."
+
+#~ msgid "[VSTUserOption]Do you want to rescan VST Plug-Ins which failed to initialize on next startup?"
+#~ msgstr "初期化に失敗したVSTプラグインを次回起動時に再スキャンしますか？"
+
+#~ msgid "[VST]Found Plug-In Shell %(1)..."
+#~ msgstr "プラグインシェル %(1) が見つかりました..."
+
+#~ msgid "[VST]Scan failed for %(1) Plug-In %(2)..."
+#~ msgstr "プラグイン %(2) の %(1) のスキャンに失敗しました..."
+
+#~ msgid "[VST]Scanning %(1) Plug-In %(2)..."
+#~ msgstr "プラグイン %(2) の %(1) をスキャンしています..."
+
+#~ msgid "[VST]Scanning VST Plug-In %(1)..."
+#~ msgstr "VSTプラグイン %(1) をスキャンしています..."
+
+#~ msgid "[VST]VST Plug-In %(1) failed to load!"
+#~ msgstr "プラグイン %(1) の読み込みに失敗しました。"
+
+#~ msgid "[VST]%(1) ignored, because it crashed before. "
+#~ msgstr "%(1) は以前クラッシュしたため無視されました。 "
+

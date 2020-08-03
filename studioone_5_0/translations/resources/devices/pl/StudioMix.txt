@@ -1,0 +1,1 @@
+Przycisk 1 otwiera konsoletę - przyciski 4 i 5 strony lewego i prawego kanału.

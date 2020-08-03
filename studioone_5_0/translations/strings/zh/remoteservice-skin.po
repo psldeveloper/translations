@@ -1,0 +1,12 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: smartCAT.ai\n"
+
+#: .\option.xml
+msgid "[RemoteUserOption]Allow remote control apps to discover this DAW"
+msgstr "允许远程控制应用发现此DAW"
+

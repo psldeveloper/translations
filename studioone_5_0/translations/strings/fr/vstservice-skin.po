@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\skin.xml
+msgid "[VSTUserOption]Add..."
+msgstr "Ajouter..."
+
+#: .\skin.xml
+msgid "[VSTUserOption]Locations"
+msgstr "Emplacements"
+
+#: .\skin.xml
+msgid "[Command]Presets"
+msgstr "Presets"
+
+#: .\skin.xml
+msgid "[VSTUserOption]Remove"
+msgstr "Retirer"
+
+#: .\skin.xml
+msgid "[VSTUserOption]Reset Blocklist"
+msgstr "Réinitialiser la liste noire"
+
+#: .\skin.xml
+msgid "[Command]Reset Blocklist"
+msgstr "Réinitialiser la liste noire"
+
+#: .\skin.xml
+msgid "[VSTUserOption]Scan at startup"
+msgstr "Analyser au lancement"
+
+#~ msgid "[VSTUserOption]Reset Blacklist"
+#~ msgstr "Réinitialiser la liste noire"
+
+#~ msgid "[Command]Reset Blacklist"
+#~ msgstr "Réinitialiser la liste noire"
+

@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]12th Octave"
+msgstr "Zwölftel"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]EBU R128"
+msgstr "EBU R128"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]FFT"
+msgstr "FFT"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]FFT Curve"
+msgstr "FFT-Kurve"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Fast"
+msgstr "Schnell"
+
+#: .\gui\spectrum\sonopainter.cpp .\gui\spectrum\spectrumpainter.cpp
+msgid "[SpectrumDisplay]Freq"
+msgstr "Freq"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]Hold Length"
+msgstr "Haltelänge"
+
+#: .\gui\level\levelmeterdisplay.cpp
+msgid "[LevelMeterDisplay]Integrated: %(1:1) LU"
+msgstr "Integriert: %(1:1) LU"
+
+#: .\gui\level\levelmeterdisplay.cpp
+msgid "[LevelMeterDisplay]Integrated: %(1:1) LUFS"
+msgstr "Integriert: %(1:1) LUFS"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]K-12"
+msgstr "K-12"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]K-14"
+msgstr "K-14"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]K-20"
+msgstr "K-20"
+
+#: .\gui\spectrum\spectrumpainter.cpp
+msgid "[SpectrumDisplay]Level"
+msgstr "Pegel"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Long"
+msgstr "Lang"
+
+#: .\gui\level\levelmeterdisplay.cpp
+msgid "[LevelMeterDisplay]Loudness Range: %(1:1) LU"
+msgstr "Loudness-Bereich: %(1:1) LU"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Medium"
+msgstr "Mittel"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]None"
+msgstr "Nein"
+
+#: .\gui\spectrum\spectrumpainter.cpp
+msgid "[SpectrumDisplay]Note"
+msgstr "Note"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Octave"
+msgstr "Oktave"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]Peak"
+msgstr "Spitzenpegel"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]Peak Hold"
+msgstr "Peak Hold"
+
+#: .\gui\level\levelmeterdisplay.cpp
+msgid "[LevelMeterDisplay]Peak Hold L: %(1:1) dB - R: %(2:1) dB"
+msgstr "Spitzenpegel L: %(1:1) dB - R: %(2:1) dB"
+
+#: .\gui\level\levelmeterdisplay.cpp
+msgid "[LevelMeterDisplay]Peak Hold: %(1:1) dB"
+msgstr "Spitzenpegel: %(1:1) dB"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]Peak/RMS"
+msgstr "Peak/RMS"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]RMS Length"
+msgstr "RMS-Länge"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Segments"
+msgstr "Segmente"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Short"
+msgstr "Kurz"
+
+#: .\gui\level\levelmeterdisplay.cpp
+msgid "[LevelMeterDisplay]Short-Term | Momentary"
+msgstr "Kurzzeit | Momentan"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Slow"
+msgstr "Langsam"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Sonogram"
+msgstr "Sonogramm"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Third Octave"
+msgstr "Terz"
+
+#: .\gui\spectrum\sonopainter.cpp
+msgid "[SpectrumDisplay]Time"
+msgstr "Zeit"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Waterfall"
+msgstr "Wasserfall"
+
+#~ msgid "[LevelMeterComponent]VU Hold"
+#~ msgstr "VU Halten"
+
+#~ msgid "[Sampler]%(1) programs"
+#~ msgstr "%(1) Programme"
+
+#~ msgid "[FileType]EXS24 File"
+#~ msgstr "EXS24-Datei"
+
+#~ msgid "[WaveDisplay]File not found"
+#~ msgstr "Datei nicht gefunden"
+
+#~ msgid "[FileType]Giga File"
+#~ msgstr "Giga-Datei"
+
+#~ msgid "[Sampler]Importing..."
+#~ msgstr "Import..."
+
+#~ msgid "[SamplerUserOption]Instrument Library"
+#~ msgstr "Instrumenten-Bibliothek"
+
+#~ msgid "[FileType]Kontakt File"
+#~ msgstr "Kontakt-Datei"
+
+#~ msgid "[FileType]Multisample File"
+#~ msgstr "Multisample-Datei"
+
+#~ msgid "[Sampler]Not supported %(1)"
+#~ msgstr "Nicht unterstützt %(1)"
+
+#~ msgid "[KeySwitchList]Pitch"
+#~ msgstr "Tonhöhe"
+
+#~ msgid "[Sampler]Preset in %(1)"
+#~ msgstr "Preset in %(1)"
+
+#~ msgid "[FileType]Sampler File"
+#~ msgstr "Sampler-Datei"
+
+#~ msgid "[Sampler]Searching Samples"
+#~ msgstr "Samples suchen"
+
+#~ msgid "[FileType]SoundFont"
+#~ msgstr "SoundFont"
+
+#~ msgid "[KeySwitchList]Title"
+#~ msgstr "Titel"
+

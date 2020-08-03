@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]%(1) days ago"
+msgstr "%(1) gün önce"
+
+#: .\plugins\servicemanager.cpp
+msgid "[ServiceManager]%(1) failed!"
+msgstr "%(1) başarısız oldu!"
+
+#: .\plugins\plugcollect.cpp
+msgid "[PlugIns]%(1) has been blocked."
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]%(1) months ago"
+msgstr "%(1) ay önce"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]%(1) weeks ago"
+msgstr "%(1) hafta önce"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]%(1) years ago"
+msgstr "%(1) yıl önce"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]Access is denied"
+msgstr "Erişim Engellendi"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Application"
+msgstr "Uygulama"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Application Extension"
+msgstr "Uygulama Genişletmesi"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Binary File"
+msgstr "Binary Dosya"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]GB"
+msgstr "GB"
+
+#: .\fileutilities.cpp
+msgid "[FileType]HTML File"
+msgstr "HTML Dosya"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In %(1) days"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In %(1) hours"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In less than one hour"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In one day"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In one hour"
+msgstr ""
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]Invalid Argument"
+msgstr "Geçersiz Argüman"
+
+#: .\fileutilities.cpp
+msgid "[FileType]JSON File"
+msgstr "JSON Dosyası"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Java Properties File"
+msgstr "Java  Özellik Dosyası"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]KB"
+msgstr "KB"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]KB/sec"
+msgstr "KB/Sec"
+
+#: .\localization\languagepack.cpp
+msgid "[FileType]Language Pack"
+msgstr "Dil Paketi"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Last month"
+msgstr "Geçen ay"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Last week"
+msgstr "Geçen Hafta"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Last year"
+msgstr "Geçen yıl"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]MB"
+msgstr "MB"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]MB/sec"
+msgstr "MB/Sec"
+
+#: .\fileutilities.cpp
+msgid "[FileType]PDF File"
+msgstr "PDF Dosyası"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Package File"
+msgstr "Paket DOsyası"
+
+#: .\packaging\filearchive.cpp
+msgid "[PackageFile]Packaging: %(1)"
+msgstr "Paketlenen: %(1)..."
+
+#: .\fileutilities.cpp
+msgid "[FileType]Rich Text Format"
+msgstr "Zengin Text Dosyası"
+
+#: .\plugins\servicemanager.cpp
+msgid "[ServiceManager]Starting %(1)..."
+msgstr "%(1) Başlatılıyor..."
+
+#: .\plugins\servicemanager.cpp
+msgid "[ServiceManager]Stopping %(1)..."
+msgstr "%(1) Durduruluyor..."
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]TB"
+msgstr "TB"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Text File"
+msgstr "Text Dosyası"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]The file exists"
+msgstr "Bu dosya mevcut"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]The file is in use"
+msgstr "Bu dosya kullanılıyor"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]The file is write protected"
+msgstr "Bu dosya yazma korumalı"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]The system cannot find the file specified"
+msgstr "Sistem istenen dosyayı bulamadı"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]There is not enough space on the disk"
+msgstr "Disk üzerinde yeterli alan yok"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Today"
+msgstr "Bugün"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]Too many open files"
+msgstr "Çok fazla açık dosya mevcut"
+
+#: .\fileutilities.cpp
+msgid "[FileType]UBJSON File"
+msgstr "UBJSON Dosyası"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]Unknown Error"
+msgstr "Bilinmeyen hata"
+
+#: .\fileutilities.cpp
+msgid "[FileType]XML File"
+msgstr "XML Dosyası"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Yesterday"
+msgstr "Dün"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Zip File"
+msgstr "Zip Dosyası"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]bytes"
+msgstr "bytes"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]days"
+msgstr "gün"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]hours"
+msgstr "saat"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]min"
+msgstr "dak"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]sec"
+msgstr "sn"
+
+#~ msgid "[PlugIns]%(1) ignored because it is blacklisted."
+#~ msgstr "%(1) kara listede olduğundan görmezden gelindi."

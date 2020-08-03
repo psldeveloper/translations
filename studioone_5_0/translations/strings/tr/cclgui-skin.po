@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\skin.xml
+msgid "[ProgressDialogView]Cancel"
+msgstr "Vazgeç"
+
+#: .\skin.xml
+msgid "[MenuEditor]Edit Menu"
+msgstr "Menüyü Düzenle"
+
+#: .\skin.xml
+msgid "[FontSelectorDialog]Font"
+msgstr ""
+
+#: .\skin.xml
+msgid "[HelpViewer]Help Viewer"
+msgstr "Yardım Görüntüleyici"
+
+#: .\skin.xml
+msgid "[CommandEditorDialog]Keyboard Shortcuts"
+msgstr "Klavye kısayolları"
+
+#: .\skin.xml
+msgid "[UserOptionDialog]Options"
+msgstr "Seçenekler"
+
+#: .\skin.xml
+msgid "[ProgressDialogView]Please wait..."
+msgstr "Lütfen bekleyiniz..."
+
+#: .\skin.xml
+msgid "[CommandSelectorDialog]Search:"
+msgstr "Arama:"
+
+#: .\skin.xml
+msgid "[CommandSelectorDialog]Select Command"
+msgstr "Komut Seçiniz"
+
+#: .\skin.xml
+msgid "[FontSelectorDialog]Select Font"
+msgstr ""
+
+#: .\skin.xml
+msgid "[FontSelectorDialog]Size"
+msgstr "Boyut"
+
+#: .\skin.xml
+msgid "[FontSelectorDialog]Style"
+msgstr "Stil"
+

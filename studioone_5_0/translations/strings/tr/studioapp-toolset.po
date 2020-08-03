@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\toolhelp.js
+msgid "Add Chord"
+msgstr "Akor Ekle"
+
+#: .\toolhelp.js
+msgid "Add Marker"
+msgstr "İşaret Ekle"
+
+#: .\toolhelp.js
+msgid "Add Point"
+msgstr "Nokta Ekle"
+
+#: .\toolhelp.js
+msgid "Add Ranges to Track"
+msgstr "İze Alan Ekle"
+
+#: .\musictools.js .\projecttool.js .\tempotools.js .\toolhelp.js
+#: .\toolsets.js
+msgid "Arrow Tool"
+msgstr "Ok Aracı"
+
+#: .\toolhelp.js
+msgid "Bend"
+msgstr "Bük"
+
+#: .\toolhelp.js
+msgid "Bend Curve"
+msgstr "Büküm Eğrisi"
+
+#: .\audiobendtool.js .\toolhelp.js
+msgid "Bend Tool"
+msgstr "Büküm Aracı"
+
+#: .\toolhelp.js
+msgid "Chord Selector"
+msgstr "Akor Seçici"
+
+#: .\toolhelp.js
+msgid "Copy Ranges to Track"
+msgstr "Alanları İze Kopyala"
+
+#: .\toolhelp.js
+msgid "Create Range"
+msgstr "Alan Yarat"
+
+#: .\toolhelp.js
+msgid "Define tempo"
+msgstr "Tempo Belirle"
+
+#: .\toolhelp.js
+msgid "Delete"
+msgstr "Sil"
+
+#: .\toolhelp.js
+msgid "Delete Note"
+msgstr "Nota Sil"
+
+#: .\toolhelp.js
+msgid "Delete Objects"
+msgstr "Nesne Sil"
+
+#: .\toolhelp.js
+msgid "Delete Point"
+msgstr "Nokta Sil"
+
+#: .\envelopeactions.js .\toolhelp.js
+msgid "Distort"
+msgstr "Çarpıt"
+
+#: .\toolhelp.js
+msgid "Distort Symmetrically"
+msgstr "Simetrik Olarak Çarpıt"
+
+#: .\toolhelp.js
+msgid "Drag"
+msgstr "Sürükle"
+
+#: .\toolhelp.js
+msgid "Draw"
+msgstr "Çiz"
+
+#: .\toolhelp.js
+msgid "Draw Part"
+msgstr "Part Çiz"
+
+#: .\toolhelp.js
+msgid "Draw Selection"
+msgstr "Seçim Çiz"
+
+#: .\toolhelp.js
+msgid "Draw Selection (add)"
+msgstr "Seçim Çiz (Ekleyerek)"
+
+#: .\toolhelp.js
+msgid "Draw Selection Freely"
+msgstr "Seçim Çiz (Serbestçe)"
+
+#: .\toolhelp.js
+msgid "Draw Tempo Change"
+msgstr "Tempo Değişimi Çiz"
+
+#: .\toolhelp.js
+msgid "Edit Fade Length"
+msgstr "Fade Uzunluğunu Düzenle"
+
+#: .\toolhelp.js
+msgid "Edit Fade Length & Type"
+msgstr "Fade Uzunluğunu ve Tipini Düzenle"
+
+#: .\toolhelp.js
+msgid "Edit Fade Type"
+msgstr "Fade Tipini Düzenle"
+
+#: .\toolhelp.js
+msgid "Edit Level"
+msgstr "Seviye Düzenle"
+
+#: .\toolhelp.js
+msgid "Edit Tempo"
+msgstr "Tempo Düzenle"
+
+#: .\toolhelp.js
+msgid "Edit Tempo & Position"
+msgstr "Tempo ve Pozisyon Düzenle"
+
+#: .\toolhelp.js
+msgid "Edit Tempo Change Position"
+msgstr "Tempo Değişim Pozisyonunu Düzenle"
+
+#: .\toolhelp.js
+msgid "Edit Value"
+msgstr "Değer Düzenle"
+
+#: .\toolhelp.js
+msgid "Edit Velocity"
+msgstr "Hız (Velocity) Düzenle"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Eraser Tool"
+msgstr "Silgi Aracı"
+
+#: .\toolhelp.js
+msgid "Exclude Range"
+msgstr "Alanı Hariç Tut"
+
+#: .\toolsets.js
+msgid "Freehand"
+msgstr "Serbest"
+
+#: .\toolhelp.js
+msgid "Include Range"
+msgstr "Alanı Dahil Et"
+
+#: .\toolhelp.js
+msgid "Insert"
+msgstr "Ekle"
+
+#: .\toolhelp.js
+msgid "Layer Tool"
+msgstr "Katman Aracı"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Line"
+msgstr "Çizgi"
+
+#: .\listentool.js .\toolhelp.js
+msgid "Listen Tool"
+msgstr "Dinleme Aracı"
+
+#: .\eventactions.js .\toolhelp.js
+msgid "Merge Events"
+msgstr "Klipleri Birleştir"
+
+#: .\envelopeactions.js .\toolhelp.js
+msgid "Move"
+msgstr "Taşı"
+
+#: .\toolhelp.js
+msgid "Move Crossfade"
+msgstr "Crossfade Taşı"
+
+#: .\toolhelp.js
+msgid "Move Event"
+msgstr "Klipi Taşı"
+
+#: .\toolhelp.js
+msgid "Move Marker"
+msgstr "İşaret taşı"
+
+#: .\toolhelp.js
+msgid "Move Note"
+msgstr "Nota Taşı"
+
+#: .\toolhelp.js
+msgid "Move Points"
+msgstr "Nokta Taşı"
+
+#: .\toolhelp.js
+msgid "Move Track"
+msgstr "İz Taşı"
+
+#: .\mutetool.js
+msgid "Mute"
+msgstr "Mute"
+
+#: .\mutetool.js
+msgid "Mute Events"
+msgstr "Klipleri Sustur"
+
+#: .\mutetool.js .\toolhelp.js
+msgid "Mute Tool"
+msgstr "Mute Aracı"
+
+#: .\toolhelp.js
+msgid "Only clicked event"
+msgstr "Sedece tıklanan klip"
+
+#: .\musictools.js .\tempotools.js .\toolhelp.js .\toolsets.js
+msgid "Paint Tool"
+msgstr "Boyama Aracı"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Parabola"
+msgstr "Parabola"
+
+#: .\toolhelp.js
+msgid "Play"
+msgstr "Çal"
+
+#: .\toolhelp.js
+msgid "Play in Loop"
+msgstr "Loop İçinde Çal"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Range Tool"
+msgstr "Alan Aracı"
+
+#: .\toolhelp.js
+msgid "Remove Ranges from Track"
+msgstr "İzin İçinden Alanları Çıkar"
+
+#: .\toolhelp.js
+msgid "Replace Range on Track"
+msgstr "İz İçindeki Alanları Değiştir"
+
+#: .\toolhelp.js
+msgid "Replace With Next Layer"
+msgstr "Yeni Katman ile Değiştir"
+
+#: .\toolhelp.js
+msgid "Reset"
+msgstr "Sıfırla"
+
+#: .\toolhelp.js
+msgid "Reset All"
+msgstr "Hepsini Sıfırla"
+
+#: .\toolhelp.js
+msgid "Reset Fade Length"
+msgstr "Fade Uzunluğunu Sıfırla"
+
+#: .\toolhelp.js
+msgid "Reset Level"
+msgstr "Seviye Sıfırla"
+
+#: .\toolhelp.js
+msgid "Reset Point"
+msgstr "Noktayı Sıfırla"
+
+#: .\toolhelp.js
+msgid "Resize Event"
+msgstr "klipi Yeniden Boyutlandır"
+
+#: .\envelopeactions.js .\toolhelp.js
+msgid "Resize Frame"
+msgstr "Çerçeveyi Yeniden Boyutlandır"
+
+#: .\toolhelp.js
+msgid "Resize Part"
+msgstr "Bölümü Yeniden Boyutlandır"
+
+#: .\toolhelp.js
+msgid "Resize Range"
+msgstr "Alanı Yeniden Boyutlandır"
+
+#: .\toolhelp.js
+msgid "Resize Track"
+msgstr "İzi Yeniden Boyutlandır"
+
+#: .\toolhelp.js
+msgid "Resize adjacent Events"
+msgstr "Bitişik Klipleri Yeniden Boyutlandır"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Saw"
+msgstr "Testere"
+
+#: .\toolhelp.js
+msgid "Scale Time"
+msgstr "Dizi Zamanlaması"
+
+#: .\toolhelp.js
+msgid "Select"
+msgstr "Seç"
+
+#: .\toolsets.js
+msgid "Select Alternative Tool"
+msgstr "Alternatif Araç Seç"
+
+#: .\toolhelp.js
+msgid "Select Event Range"
+msgstr "Klip Bölgesi Seç"
+
+#: .\toolhelp.js
+msgid "Select Objects"
+msgstr "Nesneleri Seç"
+
+#: .\toolhelp.js
+msgid "Select Points up to End"
+msgstr "Sona kadar olan Noktaları Seç"
+
+#: .\toolhelp.js
+msgid "Select Range to Copy to Track"
+msgstr "İze kopyalamak için Alan Seç"
+
+#: .\toolhelp.js
+msgid "Select all Chords"
+msgstr "Tüm Akorları Seç"
+
+#: .\toolhelp.js
+msgid "Select all on Track"
+msgstr "İz üzerindeki tümünü Seç"
+
+#: .\toolhelp.js
+msgid "Set End Marker"
+msgstr "Son İşaretini Belirle"
+
+#: .\toolhelp.js
+msgid "Set Loop Range"
+msgstr "Loop Alanı Belirler"
+
+#: .\toolhelp.js
+msgid "Set Start Marker"
+msgstr "Başlangıç İşaretini Belirle"
+
+#: .\toolhelp.js
+msgid "Set Track Pause"
+msgstr "İz Duraklamasını Belirle"
+
+#: .\toolhelp.js
+msgid "Shift Root"
+msgstr "Root'u Kaydır"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Sine"
+msgstr "Sine"
+
+#: .\envelopeactions.js .\toolhelp.js
+msgid "Skew"
+msgstr "Eğri"
+
+#: .\toolhelp.js
+msgid "Slip Event"
+msgstr "Klipi Kaydır"
+
+#: .\toolhelp.js
+msgid "Split Deep"
+msgstr "Split Deep"
+
+#: .\toolhelp.js
+msgid "Split Events"
+msgstr "Klipleri Böl"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Split Tool"
+msgstr "Bölme Aracı"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Square"
+msgstr "Kare"
+
+#: .\toolhelp.js
+msgid "Straighten Curve"
+msgstr "Eğriyi Düzelt"
+
+#: .\envelopeactions.js .\toolhelp.js
+msgid "Stretch"
+msgstr "Sıkıştır"
+
+#: .\toolhelp.js
+msgid "Stretch Event"
+msgstr "Klipi Uzat"
+
+#: .\toolhelp.js
+msgid "Stretch Symmetrically"
+msgstr "Simetrik olarak Sıkıştır"
+
+#: .\mutetool.js
+msgid "Toggle Mute"
+msgstr "Mute Aç/Kapa"
+
+#: .\toolhelp.js
+msgid "Toggle Select"
+msgstr "Seçimi Aç/Kapa"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Transform"
+msgstr "Transform"
+
+#: .\toolhelp.js
+msgid "Transformation"
+msgstr "Transformasyon"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Triangle"
+msgstr "Üçgen"
+
+#: .\envelopeactions.js .\toolhelp.js
+msgid "Trim"
+msgstr "Düzelt"
+
+#: .\toolhelp.js
+msgid "Undo Zoom"
+msgstr "Zoom'u geri al"
+
+#: .\mutetool.js
+msgid "Unmute"
+msgstr "Unmute"
+
+#: .\toolhelp.js
+msgid "Velocity Accent"
+msgstr "Sürat Aksanları"
+
+#: .\toolhelp.js
+msgid "Zoom in"
+msgstr "Yakınlaştır"
+
+#: .\toolhelp.js
+msgid "x: Resize Note"
+msgstr "x: Notayı Boyutlandır"
+
+#: .\toolhelp.js
+msgid "y: Edit Velocity"
+msgstr "y: Hızı Düzenle"
+

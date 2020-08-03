@@ -1,0 +1,1 @@
+﻿Bitte schließen sie Ihre Mackie HUI an und wählen sie die verwendeten MIDI-Anschlüsse aus.

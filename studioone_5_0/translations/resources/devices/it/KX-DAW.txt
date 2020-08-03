@@ -1,0 +1,1 @@
+﻿Si prega di utilizzare le impostazioni di fabbrica e selezionare la porta di ingresso KX MIDI 2 alla ricezione da selettore per la DAW remota. Assegna 1 è quantizzazione, Assegna 2 è Elimina. A apre Editor e B apre Console.

@@ -1,0 +1,1 @@
+Wybierz domyślny zestaw fabryczny 10 na Keystation. Tłumiki C1-C8, gałki B11-B17 i przyciski C52-C59 są mapowane do konsolety. Tłumik 9 to głośność sumy. Przycisk C60 przełącza metronom.

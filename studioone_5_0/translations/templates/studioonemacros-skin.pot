@@ -1,0 +1,88 @@
+#: .\skin.xml
+msgid "[CommandBarItem]$title"
+msgstr ""
+
+#: .\skin.xml
+msgid "[MacroEditor]&lt;&lt; Remove"
+msgstr ""
+
+#: .\skin.xml
+msgid "[CommandBarItem]@cmd.title[]"
+msgstr ""
+
+#: .\skin.xml
+msgid "[MacroEditor]Add &gt;&gt;"
+msgstr ""
+
+#: .\skin.xml
+msgid "[MacroEditor]Commands"
+msgstr ""
+
+#: .\skin.xml
+msgid "[MacroOrganizer]Delete"
+msgstr ""
+
+#: .\skin.xml
+msgid "[MacroEditor]Description"
+msgstr ""
+
+#: .\skin.xml
+msgid "[MacroEditor]Down"
+msgstr ""
+
+#: .\skin.xml
+msgid "[MacroEditor]Edit"
+msgstr ""
+
+#: .\skin.xml
+msgid "[MacroEditor]Edit Macro"
+msgstr ""
+
+#: .\skin.xml
+msgid "[EventNameEditor]Edit Names"
+msgstr ""
+
+#: .\skin.xml
+msgid "[MacroOrganizer]Edit..."
+msgstr ""
+
+#: .\skin.xml
+msgid "[MacroEditor]Group"
+msgstr ""
+
+#: .\skin.xml
+msgid "[MacroEditor]Macro"
+msgstr ""
+
+#: .\skin.xml
+msgid "[MacroOrganizer]Macro Organizer"
+msgstr ""
+
+#: .\skin.xml
+msgid "[MacroPanel]Macros"
+msgstr ""
+
+#: .\skin.xml
+msgid "[MacroOrganizer]New..."
+msgstr ""
+
+#: .\skin.xml
+msgid "[MacroOrganizer]Refresh"
+msgstr ""
+
+#: .\skin.xml
+msgid "[MacroEditor]Search:"
+msgstr ""
+
+#: .\skin.xml
+msgid "[MacroOrganizer]Show Macros Folder in Explorer/Finder"
+msgstr ""
+
+#: .\skin.xml
+msgid "[MacroEditor]Title"
+msgstr ""
+
+#: .\skin.xml
+msgid "[MacroEditor]Up"
+msgstr ""
+

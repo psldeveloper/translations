@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\option.xml
+msgid "[ExportDialog]Convert audio files"
+msgstr "Converter arquivos de áudio"
+
+#: .\option.xml
+msgid "[ExportDialog]Convert stereo tracks to mono pairs. This ensures compatibilty with applications which do not support import of stereo tracks."
+msgstr "Converter pistas estéreo em pares mono. Garante compatibilidade com aplicativos que não suportam arquivos estéreo."
+
+#: .\option.xml
+msgid "[ExportDialog]Create copies of all audio data in another format for export."
+msgstr "Criar cópias dos dados de áudio em outro formato para exportação."
+
+#: .\option.xml
+msgid "[ExportDialog]Discard unused regions in audio files."
+msgstr "Descartar regiões não utilizadas em arquivos de áudio."
+
+#: .\option.xml
+msgid "[ExportDialog]Embed audio"
+msgstr "Áudio incluso"
+
+#: .\option.xml
+msgid "[ExportDialog]Export AAF"
+msgstr "Exportar AAF"
+
+#: .\option.xml
+msgid "[ExportDialog]Export pan"
+msgstr "Exportar pan"
+
+#: .\option.xml
+msgid "[ExportDialog]Head/Tail"
+msgstr "Início/Fim"
+
+#: .\option.xml
+msgid "[ExportDialog]Improve compatibility with older applications."
+msgstr "Melhorar compatibilidade com aplicativos antigos."
+
+#: .\option.xml
+msgid "[ExportDialog]Include pan automation in export. Disengaging may improve compatibility with applications which do not recognize pan data."
+msgstr "Incluir automação de pan na exportação. Desmarcar pode melhorar a compatibilidade com aplicativos que não reconhecem dados de pan."
+
+#: .\option.xml
+msgid "[ExportDialog]Legacy mode"
+msgstr "Modo Legado"
+
+#: .\option.xml
+msgid "[AudioCodecSelector]Resolution:"
+msgstr "Resolução:"
+
+#: .\option.xml
+msgid "[AudioCodecSelector]Sample Rate:"
+msgstr "Amostragem"
+
+#: .\option.xml
+msgid "[ExportDialog]Split stereo tracks"
+msgstr "Dividir pistas estéreo"
+
+#: .\option.xml
+msgid "[ExportDialog]Store Wave and AIFF data in the exported file. If disengaged, references to audio files are used instead."
+msgstr "Armazenar dados Wave e AIFF no arquivo exportado. Se desmarcado, serão utilizadas as referências aos arquivos de áudio."
+
+#: .\option.xml
+msgid "[ExportDialog]Trim audio files"
+msgstr "Aparar arquivos de áudio"
+

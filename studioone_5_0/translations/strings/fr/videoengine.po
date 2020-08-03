@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\shared\videofiletypes.cpp
+msgid "[FileType]3GP Video"
+msgstr "Vidéo 3GP"
+
+#: .\shared\videofiletypes.cpp
+msgid "[FileType]AVI Video"
+msgstr "Vidéo AVI"
+
+#: .\shared\videofiletypes.cpp
+msgid "[FileType]M4V Video"
+msgstr "Vidéo M4V"
+
+#: .\shared\videofiletypes.cpp
+msgid "[FileType]MKV Video"
+msgstr "Vidéo MKV"
+
+#: .\shared\videofiletypes.cpp
+msgid "[FileType]MPEG Video"
+msgstr "Vidéo MPEG"
+
+#: .\shared\videofiletypes.cpp
+msgid "[FileType]MPEG-4 Video"
+msgstr "Vidéo MPEG-4"
+
+#: .\shared\videofiletypes.cpp
+msgid "[FileType]QuickTime Video"
+msgstr "Vidéo QuickTime"
+
+#: .\shared\videomain.cpp
+msgid "[VideoEngine]Support for video playback"
+msgstr "Prise en charge de la lecture vidéo"
+
+#: .\plugversion.h
+msgid "[VideoEngine]Video Support"
+msgstr "Prise en charge de la vidéo"
+
+#: .\shared\videofiletypes.cpp
+msgid "[FileType]Windows Media Video"
+msgstr "Vidéo Windows Media"
+
+#~ msgid "[FileType]MPEG 4 Video"
+#~ msgstr "Vidéo MPEG 4"
+
+#~ msgid "[FileType]Windows Video"
+#~ msgstr "Vidéo Windows"
+
+#~ msgid "[CoreAudio]QuickTime Video Support"
+#~ msgstr "Prise en charge de la vidéo QuickTime"
+
+#~ msgid "[QuickTime]Support for video playback with QuickTime"
+#~ msgstr "Prise en charge de la lecture vidéo avec QuickTime"
+

@@ -1,0 +1,985 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\menubar.xml
+msgid "[Menu]$APPCOMPANY Shop"
+msgstr "Tienda de $APPCOMPANY"
+
+#: .\menubar.xml
+msgid "[Menu]$APPNAME"
+msgstr "$APPNAME"
+
+#: .\menubar.xml
+msgid "[Menu]$APPNAME Activation"
+msgstr "Activar $APPNAME"
+
+#: .\menubar.xml
+msgid "[Menu]$APPNAME Extensions"
+msgstr "Extensiones de $APPNAME "
+
+#: .\menubar.xml
+msgid "[Menu]$APPNAME Installation"
+msgstr "Instalación de $APPNAME "
+
+#: .\menubar.xml
+msgid "[Menu]$APPNAME Packages"
+msgstr "$APPNAME Paquetes"
+
+#: .\menubar.xml
+msgid "[Menu]$APPNAME Reference Manual"
+msgstr "Manual de referencia de $APPNAME "
+
+#: .\menubar.xml
+msgid "[Menu]$APPNAME Website"
+msgstr "Sitio Web de $APPNAME"
+
+#: .\menubar.xml
+msgid "[Menu]About $APPNAME"
+msgstr "Acerca de $APPNAME"
+
+#: .\menubar.xml
+msgid "[Menu]Activate Purchased Items"
+msgstr "Activar artículos adquiridos"
+
+#: .\menubar.xml
+msgid "[Menu]Add Backing Track Player"
+msgstr "Añadir reproductor de pista de acompañamiento"
+
+#: .\menubar.xml
+msgid "[Menu]Add Layer"
+msgstr "Agregar capa"
+
+#: .\menubar.xml
+msgid "[Menu]Add Player"
+msgstr "Añadir reproductor"
+
+#: .\menubar.xml
+msgid "[Menu]Add Real Instrument Player"
+msgstr "Añadir reproductor de instrumento real"
+
+#: .\menubar.xml
+msgid "[Menu]Add Setlist Item"
+msgstr "Añadir elemento de la lista"
+
+#: .\menubar.xml
+msgid "[Menu]Additional Views"
+msgstr "Vistas adicionales"
+
+#: .\menubar.xml
+msgid "[Menu]Application"
+msgstr "Aplicación"
+
+#: .\menubar.xml
+msgid "[Menu]Arm Track"
+msgstr "Armar pista"
+
+#: .\menubar.xml
+msgid "[Menu]Audio"
+msgstr "Audio"
+
+#: .\menubar.xml
+msgid "[Menu]Automation"
+msgstr "Automatización"
+
+#: .\menubar.xml
+msgid "[Menu]Backup and Restore"
+msgstr "Hacer copia de seguridad y restaurar"
+
+#: .\menubar.xml
+msgid "[Menu]Browser"
+msgstr "Explorador"
+
+#: .\menubar.xml
+msgid "[Menu]Burn Audio CD"
+msgstr "Quemar CD de audio"
+
+#: .\menubar.xml
+msgid "[Menu]CD Protocol"
+msgstr "Protocolo de CD"
+
+#: .\menubar.xml
+msgid "[Menu]Check for Updates"
+msgstr "Buscar actualizaciones"
+
+#: .\menubar.xml
+msgid "[Menu]Close"
+msgstr "Cerrar"
+
+#: .\menubar.xml
+msgid "[Menu]Close All"
+msgstr "Cerrar todo"
+
+#: .\menubar.xml
+msgid "[Menu]Console"
+msgstr "Consola"
+
+#: .\menubar.xml
+msgid "[Menu]Controls"
+msgstr "Controles"
+
+#: .\menubar.xml
+msgid "[Menu]Copy"
+msgstr "Copiar"
+
+#: .\menubar.xml
+msgid "[Menu]Copy External Files"
+msgstr "Copiar archivos externos"
+
+#: .\menubar.xml
+msgid "[Menu]Create Ranges"
+msgstr "Crear rangos"
+
+#: .\menubar.xml
+msgid "[Menu]Create Ranges on Tracks"
+msgstr "Crear rangos en pistas"
+
+#: .\menubar.xml
+msgid "[Menu]Cut"
+msgstr "Cortar"
+
+#: .\menubar.xml
+msgid "[Menu]Delete"
+msgstr "Eliminar"
+
+#: .\menubar.xml
+msgid "[Menu]Delete Time"
+msgstr "Eliminar tiempo"
+
+#: .\menubar.xml
+msgid "[Menu]Delete Undo History"
+msgstr "Eliminar historial deshacer"
+
+#: .\menubar.xml
+msgid "[Menu]Deselect All"
+msgstr "Deseleccionar todo"
+
+#: .\menubar.xml
+msgid "[Menu]Deselect All on Tracks"
+msgstr "Deseleccionar todo en las pistas"
+
+#: .\menubar.xml
+msgid "[Menu]Digital Release"
+msgstr "Lanzamiento digital"
+
+#: .\menubar.xml
+msgid "[Menu]Disable Setlist Item"
+msgstr "Desactivar elemento de la lista"
+
+#: .\menubar.xml
+msgid "[Menu]Disable Track"
+msgstr "Deshabilitar pista"
+
+#: .\menubar.xml
+msgid "[Menu]Dissolve Group"
+msgstr "Disolver grupo"
+
+#: .\menubar.xml
+msgid "[Menu]Duplicate"
+msgstr "Duplicar"
+
+#: .\menubar.xml
+msgid "[Menu]Duplicate (complete)"
+msgstr "Duplicar (completa)"
+
+#: .\menubar.xml
+msgid "[Menu]Duplicate Layer"
+msgstr "Duplicar capa"
+
+#: .\menubar.xml
+msgid "[Menu]Duplicate Player"
+msgstr "Duplicar reproductor"
+
+#: .\menubar.xml
+msgid "[Menu]Duplicate Setlist Item"
+msgstr "Duplicar elemento de la lista"
+
+#: .\menubar.xml
+msgid "[Menu]Duplicate Shared"
+msgstr "Duplicar compartido"
+
+#: .\menubar.xml
+msgid "[Menu]Duplicate and Insert"
+msgstr "Duplicar e insertar"
+
+#: .\menubar.xml
+msgid "[Menu]Edit"
+msgstr "Editar"
+
+#: .\menubar.xml
+msgid "[Menu]Edit Track"
+msgstr "Editar pista"
+
+#: .\menubar.xml
+msgid "[Menu]Editor"
+msgstr "Editor"
+
+#: .\menubar.xml
+msgid "[Menu]Enable Play Start Marker"
+msgstr "Habilitar marcado de inicio de reproducción"
+
+#: .\menubar.xml
+msgid "[Menu]Enable Setlist Item"
+msgstr "Activar elemento de la lista"
+
+#: .\menubar.xml
+msgid "[Menu]Enable Track"
+msgstr "Habilitar pista"
+
+#: .\menubar.xml
+msgid "[Menu]Event"
+msgstr "Evento"
+
+#: .\menubar.xml
+msgid "[Menu]Export Mixdown"
+msgstr "Exportar mezcla"
+
+#: .\menubar.xml
+msgid "[Menu]Export Stems"
+msgstr "Exportar Stems"
+
+#: .\menubar.xml
+msgid "[Menu]Export Video"
+msgstr "Exportar vídeo"
+
+#: .\menubar.xml
+msgid "[Menu]External Sync Options"
+msgstr "Opciones de sincronización externa"
+
+#: .\menubar.xml
+msgid "[Menu]FaderPort User Guide"
+msgstr "Guía de usuario de FaderPort"
+
+#: .\menubar.xml
+msgid "[Menu]File"
+msgstr "Archivo"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Loop End"
+msgstr "Ir al final de loop"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Loop Start"
+msgstr "Ir al inicio de loop"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Marker"
+msgstr "Ir al marcador"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Next Event"
+msgstr "Ir al siguiente evento"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Next Marker"
+msgstr "Ir al siguiente marcador"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Next Setlist Item"
+msgstr "Ir al siguiente elemento de la lista"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Next Track"
+msgstr "Ir a la siguiente pista"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Previous Event"
+msgstr "Ir al evento anterior"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Previous Marker"
+msgstr "Ir al marcador anterior"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Previous Setlist Item"
+msgstr "Ir al anterior elemento de la lista"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Previous Track"
+msgstr "Ir a la pista anterior"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Time"
+msgstr "Ir al tiempo"
+
+#: .\menubar.xml
+msgid "[Menu]Group Selected Tracks"
+msgstr "Agrupar pistas seleccionadas"
+
+#: .\menubar.xml
+msgid "[Menu]Help"
+msgstr "Ayuda"
+
+#: .\menubar.xml
+msgid "[Menu]History"
+msgstr "Historial"
+
+#: .\menubar.xml
+msgid "[Menu]Ignore Plug-In Latency"
+msgstr "Ignorar latencia de plug in"
+
+#: .\menubar.xml
+msgid "[Menu]Import File"
+msgstr "Importar archivo"
+
+#: .\menubar.xml
+msgid "[Menu]Import Song Data"
+msgstr "Importar datos de canción"
+
+#: .\menubar.xml
+msgid "[Menu]Info View"
+msgstr "Ver Info"
+
+#: .\menubar.xml
+msgid "[Menu]Insert Marker"
+msgstr "Insertar marcador"
+
+#: .\menubar.xml
+msgid "[Menu]Insert Silence"
+msgstr "Insertar silencio"
+
+#: .\menubar.xml
+msgid "[Menu]Inspector"
+msgstr "Inspector"
+
+#: .\menubar.xml
+msgid "[Menu]Invert Selection"
+msgstr "Invertir selección"
+
+#: .\menubar.xml
+msgid "[Menu]Keyboard Shortcuts"
+msgstr "Atajos de teclado"
+
+#: .\menubar.xml
+msgid "[Menu]Layers"
+msgstr "Capas"
+
+#: .\menubar.xml
+msgid "[Menu]Locate Missing Devices"
+msgstr "Buscar dispositivos perdidos"
+
+#: .\menubar.xml
+msgid "[Menu]Locate Missing Files"
+msgstr "Buscar archivos perdidos"
+
+#: .\menubar.xml
+msgid "[Menu]Locate Selection"
+msgstr "Buscar selección"
+
+#: .\menubar.xml
+msgid "[Menu]Locate Selection End"
+msgstr "Localizar final de la selección"
+
+#: .\menubar.xml
+msgid "[Menu]Login"
+msgstr "Iniciar sesión"
+
+#: .\menubar.xml
+msgid "[Menu]Loop Active"
+msgstr "Loop activo"
+
+#: .\menubar.xml
+msgid "[Menu]Loop Follows Selection"
+msgstr "Loop sigue a la selección"
+
+#: .\menubar.xml
+msgid "[Menu]Loop Selection"
+msgstr "Loop de la selección"
+
+#: .\menubar.xml
+msgid "[Menu]Loop Selection Snapped"
+msgstr "Loop de la selección ajustada"
+
+#: .\menubar.xml
+msgid "[Menu]Loop Setlist Item"
+msgstr "Loop el elemento de la lista"
+
+#: .\menubar.xml
+msgid "[Menu]MIDI Monitor"
+msgstr "Monitor MIDI"
+
+#: .\menubar.xml
+msgid "[Menu]Make DDP Image"
+msgstr "Hacer imagen DDP"
+
+#: .\menubar.xml
+msgid "[Menu]Make Image"
+msgstr "Crear imagen"
+
+#: .\menubar.xml
+msgid "[Menu]Marker 1"
+msgstr "Marcador 1"
+
+#: .\menubar.xml
+msgid "[Menu]Marker 2"
+msgstr "Marcador 2"
+
+#: .\menubar.xml
+msgid "[Menu]Marker 3"
+msgstr "Marcador 3"
+
+#: .\menubar.xml
+msgid "[Menu]Marker 4"
+msgstr "Marcador 4"
+
+#: .\menubar.xml
+msgid "[Menu]Marker 5"
+msgstr "Marcador 5"
+
+#: .\menubar.xml
+msgid "[Menu]Marker 6"
+msgstr "Marcador 6"
+
+#: .\menubar.xml
+msgid "[Menu]Marker 7"
+msgstr "Marcador 7"
+
+#: .\menubar.xml
+msgid "[Menu]Messages"
+msgstr "Mensajes"
+
+#: .\menubar.xml
+msgid "[Menu]Metronome Setup"
+msgstr "Configuración de metrónomo"
+
+#: .\menubar.xml
+msgid "[Menu]Monitor Track"
+msgstr "Monitorear pista"
+
+#: .\menubar.xml
+msgid "[Menu]Move to Cursor"
+msgstr "Mover al cursor"
+
+#: .\menubar.xml
+msgid "[Menu]Move to Origin"
+msgstr "Mover al origen"
+
+#: .\menubar.xml
+msgid "[Menu]Mute Track"
+msgstr "Mutear pista"
+
+#: .\menubar.xml
+msgid "[Menu]New Project"
+msgstr "Nuevo proyecto"
+
+#: .\menubar.xml
+msgid "[Menu]New Show"
+msgstr "Nueva actuación"
+
+#: .\menubar.xml
+msgid "[Menu]New Song"
+msgstr "Nueva canción"
+
+#: .\menubar.xml
+msgid "[Menu]Next Parameter"
+msgstr "Siguiente parámetro"
+
+#: .\menubar.xml
+msgid "[Menu]Note Repeat"
+msgstr "Repetir nota"
+
+#: .\menubar.xml
+msgid "[Menu]Nudge"
+msgstr "Desplazar"
+
+#: .\menubar.xml
+msgid "[Menu]Nudge Back"
+msgstr "Desplazar hacia atrás"
+
+#: .\menubar.xml
+msgid "[Menu]Nudge Bar"
+msgstr "Desplazar compás"
+
+#: .\menubar.xml
+msgid "[Menu]Nudge Bar Back"
+msgstr "Desplazar compás hacia atrás"
+
+#: .\menubar.xml
+msgid "[Menu]Open"
+msgstr "Abrir"
+
+#: .\menubar.xml
+msgid "[Menu]Open Settings Folder"
+msgstr "Abrir carpeta de configuraciones"
+
+#: .\menubar.xml
+msgid "[Menu]Options"
+msgstr "Opciones"
+
+#: .\menubar.xml
+msgid "[Menu]Paste"
+msgstr "Pegar"
+
+#: .\menubar.xml
+msgid "[Menu]Paste at Original Position"
+msgstr "Pegar en la posición original"
+
+#: .\menubar.xml
+msgid "[Menu]Perform"
+msgstr "Realizar"
+
+#: .\menubar.xml
+msgid "[Menu]Performance Monitor"
+msgstr "Monitor de desempeño"
+
+#: .\menubar.xml
+msgid "[Menu]Plug-In Manager"
+msgstr "Gestor de Plug-ins"
+
+#: .\menubar.xml
+msgid "[Menu]Preferences"
+msgstr "Preferencias"
+
+#: .\menubar.xml
+msgid "[Menu]Previous Parameter"
+msgstr "Parámetro anterior"
+
+#: .\menubar.xml
+msgid "[Menu]Project"
+msgstr "Proyecto"
+
+#: .\menubar.xml
+msgid "[Menu]Project Setup"
+msgstr "Configuración de proyecto"
+
+#: .\menubar.xml
+msgid "[Menu]Quit"
+msgstr "Salir"
+
+#: .\menubar.xml
+msgid "[Menu]Quit $APPNAME"
+msgstr "Salir de $APPNAME"
+
+#: .\menubar.xml
+msgid "[Menu]Record Panel"
+msgstr "Panel de grabación"
+
+#: .\menubar.xml
+msgid "[Menu]Redo"
+msgstr "Rehacer"
+
+#: .\menubar.xml
+msgid "[Menu]Redo Zoom"
+msgstr "Rehacer Zoom"
+
+#: .\menubar.xml
+msgid "[Menu]Remaining Record Time"
+msgstr "Tiempo restante de grabación"
+
+#: .\menubar.xml
+msgid "[Menu]Remove Layer"
+msgstr "Quitar capa"
+
+#: .\menubar.xml
+msgid "[Menu]Remove Player"
+msgstr "Eliminar reproductor"
+
+#: .\menubar.xml
+msgid "[Menu]Remove Setlist Item"
+msgstr "Eliminar elemento de la lista"
+
+#: .\menubar.xml
+msgid "[Menu]Remove Track"
+msgstr "Quitar pista"
+
+#: .\menubar.xml
+msgid "[Menu]Remove Unused Files"
+msgstr "Quitar archivos sin utilizar"
+
+#: .\menubar.xml
+msgid "[Menu]Rename"
+msgstr "Renombrar"
+
+#: .\menubar.xml
+msgid "[Menu]Rename Layer"
+msgstr "Renombrar capas"
+
+#: .\menubar.xml
+msgid "[Menu]Reset Window Positions"
+msgstr "Restablecer posiciones de ventana"
+
+#: .\menubar.xml
+msgid "[Menu]Restore Version"
+msgstr "Restaurar versión"
+
+#: .\menubar.xml
+msgid "[Menu]Restore Zoom State"
+msgstr "Restaurar estado de zoom"
+
+#: .\menubar.xml
+msgid "[Menu]Return to Start on Stop"
+msgstr "Retornar al inicio en la parada"
+
+#: .\menubar.xml
+msgid "[Menu]Return to Zero"
+msgstr "Retornar a cero"
+
+#: .\menubar.xml
+msgid "[Menu]Revert"
+msgstr "Revertir"
+
+#: .\menubar.xml
+msgid "[Menu]Save"
+msgstr "Guardar"
+
+#: .\menubar.xml
+msgid "[Menu]Save As"
+msgstr "Guardar como"
+
+#: .\menubar.xml
+msgid "[Menu]Save As Template"
+msgstr "Guardar como plantilla"
+
+#: .\menubar.xml
+msgid "[Menu]Save New Version"
+msgstr "Guardar nueva versión"
+
+#: .\menubar.xml
+msgid "[Menu]Save to New Folder"
+msgstr "Guardar en una nueva carpeta"
+
+#: .\menubar.xml
+msgid "[Menu]Scratch Pad"
+msgstr "Scratch Pad"
+
+#: .\menubar.xml
+msgid "[Menu]Select"
+msgstr "Seleccionar"
+
+#: .\menubar.xml
+msgid "[Menu]Select All"
+msgstr "Seleccionar todo"
+
+#: .\menubar.xml
+msgid "[Menu]Select All in Loop"
+msgstr "Seleccionar todo en el loop"
+
+#: .\menubar.xml
+msgid "[Menu]Select All on Tracks"
+msgstr "Seleccionar todo en las pistas"
+
+#: .\menubar.xml
+msgid "[Menu]Select Events in Range"
+msgstr "Seleccionar eventos en el rango"
+
+#: .\menubar.xml
+msgid "[Menu]Select Muted Events"
+msgstr "Seleccionar eventos muteados"
+
+#: .\menubar.xml
+msgid "[Menu]Select from Event to End"
+msgstr "Seleccionar desde el evento hasta el final"
+
+#: .\menubar.xml
+msgid "[Menu]Select from Start to Event"
+msgstr "Seleccionar desde el inicio hasta el evento"
+
+#: .\menubar.xml
+msgid "[Menu]Send to Notion"
+msgstr "Enviar a Notion"
+
+#: .\menubar.xml
+msgid "[Menu]Set Bar Offset to Cursor"
+msgstr "Ajustar offset de compás al cursor"
+
+#: .\menubar.xml
+msgid "[Menu]Set Frame Offset to Cursor"
+msgstr "Ajustar offset de cuadro al cursor"
+
+#: .\menubar.xml
+msgid "[Menu]Set Play Start Marker"
+msgstr "Establecer marcador de inicio de reproducción"
+
+#: .\menubar.xml
+msgid "[Menu]Set Start and End to Selection"
+msgstr "Establecer inicio y final para la selección"
+
+#: .\menubar.xml
+msgid "[Menu]Setlist Item 1"
+msgstr "Elemento 1 de la lista"
+
+#: .\menubar.xml
+msgid "[Menu]Setlist Item 2"
+msgstr "Elemento 2 de la lista"
+
+#: .\menubar.xml
+msgid "[Menu]Setlist Item 3"
+msgstr "Elemento 3 de la lista"
+
+#: .\menubar.xml
+msgid "[Menu]Setlist Item 4"
+msgstr "Elemento 4 de la lista"
+
+#: .\menubar.xml
+msgid "[Menu]Setlist Item 5"
+msgstr "Elemento 5 de la lista"
+
+#: .\menubar.xml
+msgid "[Menu]Setlist Item 6"
+msgstr "Elemento 6 de la lista"
+
+#: .\menubar.xml
+msgid "[Menu]Setlist Item 7"
+msgstr "Elemento 7 de la lista"
+
+#: .\menubar.xml
+msgid "[Menu]Show"
+msgstr "Actuación"
+
+#: .\menubar.xml
+msgid "[Menu]Show Automation"
+msgstr "Mostrar automatización"
+
+#: .\menubar.xml
+msgid "[Menu]Show Channel Editor"
+msgstr "Mostrar editor de canales"
+
+#: .\menubar.xml
+msgid "[Menu]Show Cloud"
+msgstr "Mostrar nube"
+
+#: .\menubar.xml
+msgid "[Menu]Show Effects"
+msgstr "Mostrar efectos"
+
+#: .\menubar.xml
+msgid "[Menu]Show Files"
+msgstr "Mostrar archivos"
+
+#: .\menubar.xml
+msgid "[Menu]Show Home Page"
+msgstr "Mostrar página de inicio"
+
+#: .\menubar.xml
+msgid "[Menu]Show Instrument Editor"
+msgstr "Mostrar editor de instrumento"
+
+#: .\menubar.xml
+msgid "[Menu]Show Instruments"
+msgstr "Mostrar instrumentos"
+
+#: .\menubar.xml
+msgid "[Menu]Show Loops"
+msgstr "Mostrar loops"
+
+#: .\menubar.xml
+msgid "[Menu]Show Media Folder in Explorer"
+msgstr "Mostrar carpeta de medios en Explorer"
+
+#: .\menubar.xml
+msgid "[Menu]Show Media Folder in Finder"
+msgstr "Mostrar carpeta de medios en el buscador"
+
+#: .\menubar.xml
+msgid "[Menu]Show Pool"
+msgstr "Mostrar Pool"
+
+#: .\menubar.xml
+msgid "[Menu]Show Setup"
+msgstr "Mostrar configuración"
+
+#: .\menubar.xml
+msgid "[Menu]Show Shop"
+msgstr "Mostrar tienda"
+
+#: .\menubar.xml
+msgid "[Menu]Show in Console"
+msgstr "Mostrar en la consola"
+
+#: .\menubar.xml
+msgid "[Menu]Solo Layer"
+msgstr "Capa de Solo"
+
+#: .\menubar.xml
+msgid "[Menu]Solo Track"
+msgstr "Aplicar Solo a pista"
+
+#: .\menubar.xml
+msgid "[Menu]Song"
+msgstr "Canción"
+
+#: .\menubar.xml
+msgid "[Menu]Song Information"
+msgstr "Información de la canción"
+
+#: .\menubar.xml
+msgid "[Menu]Song Setup"
+msgstr "Configuración de canción"
+
+#: .\menubar.xml
+msgid "[Menu]Split"
+msgstr "Dividir"
+
+#: .\menubar.xml
+msgid "[Menu]Split Loop"
+msgstr "Dividir loop"
+
+#: .\menubar.xml
+msgid "[Menu]Start"
+msgstr "Iniciar"
+
+#: .\menubar.xml
+msgid "[Menu]Start Page"
+msgstr "Página de inicio"
+
+#: .\menubar.xml
+msgid "[Menu]Stop"
+msgstr "Detener"
+
+#: .\menubar.xml
+msgid "[Menu]Store Zoom State"
+msgstr "Almacenar estado de Zoom"
+
+#: .\menubar.xml
+msgid "[Menu]Sync to External Devices"
+msgstr "Sincronizar a dispositivos externos"
+
+#: .\menubar.xml
+msgid "[Menu]System Information"
+msgstr "Información del sistema"
+
+#: .\menubar.xml
+msgid "[Menu]Time Display"
+msgstr "Display de tiempo"
+
+#: .\menubar.xml
+msgid "[Menu]Toggle Detached Console"
+msgstr "Activar/Desactivar desacople de consola"
+
+#: .\menubar.xml
+msgid "[Menu]Toggle Detached Editor"
+msgstr "Activar/Desacticvar editor desacoplado"
+
+#: .\menubar.xml
+msgid "[Menu]Toggle Floating Windows"
+msgstr "Activar/Desactivar ventanas flotantes"
+
+#: .\menubar.xml
+msgid "[Menu]Toggle Optional Views"
+msgstr "Activar/Desactivar vistas opcionales"
+
+#: .\menubar.xml
+msgid "[Menu]Toggle Read"
+msgstr "Activar/Desactivar Leer"
+
+#: .\menubar.xml
+msgid "[Menu]Toggle Zoom"
+msgstr "Activar/Desactivar Zoom"
+
+#: .\menubar.xml
+msgid "[Menu]Touch"
+msgstr "Toque"
+
+#: .\menubar.xml
+msgid "[Menu]Track"
+msgstr "Pista"
+
+#: .\menubar.xml
+msgid "[Menu]Track List"
+msgstr "Lista de pistas"
+
+#: .\menubar.xml
+msgid "[Menu]Transfers"
+msgstr "Transferir"
+
+#: .\menubar.xml
+msgid "[Menu]Transform"
+msgstr "Transformar"
+
+#: .\menubar.xml
+msgid "[Menu]Transform to Audio Track"
+msgstr "Transformar en pista de audio"
+
+#: .\menubar.xml
+msgid "[Menu]Transform to Instrument Track"
+msgstr "Transformar en pista de instrumento"
+
+#: .\menubar.xml
+msgid "[Menu]Transform to Realtime Audio"
+msgstr "Transformar a audio en tiempo real"
+
+#: .\menubar.xml
+msgid "[Menu]Transform to Rendered Audio"
+msgstr "Transformar a audio renderizado"
+
+#: .\menubar.xml
+msgid "[Menu]Transport"
+msgstr "Transporte"
+
+#: .\menubar.xml
+msgid "[Menu]Undo"
+msgstr "Deshacer"
+
+#: .\menubar.xml
+msgid "[Menu]Undo Zoom"
+msgstr "Deshacer Zoom"
+
+#: .\menubar.xml
+msgid "[Menu]Update Mastering File"
+msgstr "Actualizar archivo de masterización"
+
+#: .\menubar.xml
+msgid "[Menu]Update Mastering Files"
+msgstr "Actualizar archivos de masterización"
+
+#: .\menubar.xml
+msgid "[Menu]Upgrade $APPNAME"
+msgstr "Actualizar $APPNAME"
+
+#: .\menubar.xml
+msgid "[Menu]Video Player"
+msgstr "Reproductor de video"
+
+#: .\menubar.xml
+msgid "[Menu]View"
+msgstr "Ver"
+
+#: .\menubar.xml
+msgid "[Menu]View Release Notes"
+msgstr "Ver notas de lanzamiento"
+
+#: .\menubar.xml
+msgid "[Menu]Windows"
+msgstr "Ventanas"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom"
+msgstr "Zoom"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom Full"
+msgstr "Zoom completo"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom In"
+msgstr "Zoom (+)"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom In Vertical"
+msgstr "Zoom (+) Vertical"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom Out"
+msgstr "Zoom (-)"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom Out Vertical"
+msgstr "Zoom (-) Vertical"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom to Loop"
+msgstr "Zoom al loop"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom to Selection"
+msgstr "Zoom a la selección"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom to Selection Horizontally"
+msgstr "Zoom a la selección horizontalmente "
+
+#~ msgid "[Menu]Musical Functions"
+#~ msgstr "Funciones musicales"
+

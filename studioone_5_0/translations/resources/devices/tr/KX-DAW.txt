@@ -1,0 +1,4 @@
+Please use the Factory Settings and select KX MIDI input port 2 at the Receive From selector for the DAW remote.
+Assign 1 is Quantize, Assign 2 is Delete. A opens Editor and B opens Console.
+DAW kontrolcüsü için girişi KX MIDI giriş port 2 olarak seçip fabrika ayarlarını kullanın.
+Assing 1 Quantize, Assign 2 Silme. A Editörü açar, B Konsolu açar.

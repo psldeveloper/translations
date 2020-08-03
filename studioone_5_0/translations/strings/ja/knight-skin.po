@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\overlays.xml
+msgid "[ProgressDialogView]Cancel"
+msgstr "キャンセル"
+
+#: .\overlays.xml
+msgid "[UserOptionDialog]Options"
+msgstr "オプション"
+
+#: .\overlays.xml
+msgid "[ProgressDialogView]Please wait..."
+msgstr "お待ちください..."
+
+#: .\overlays.xml
+msgid "[ProgressStepView]Time remaining:"
+msgstr "残時間:"
+

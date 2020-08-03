@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\translation.js
+msgid "[AudioEdit]Add Insert to Selected Channels"
+msgstr "Insert für ausgewählte Kanäle hinzufügen"
+
+#: .\translation.js
+msgid "[AudioEdit]Add Instrument to Selected Tracks"
+msgstr "Instrument den ausgewählten Spuren hinzufügen"
+
+#: .\translation.js
+msgid "[AudioEdit]Add Note FX to Selected Tracks"
+msgstr "Note FX den ausgewählten Spuren hinzufügen"
+
+#: .\translation.js
+msgid "[AudioEdit]Decrease Volume"
+msgstr "Lautstärke reduzieren"
+
+#: .\translation.js
+msgid "[AudioEdit]Decrease Volume Fine"
+msgstr "Lautstärke reduzieren (fein)"
+
+#: .\translation.js
+msgid "[AudioEdit]Edit Volume"
+msgstr "Lautstärke bearbeiten"
+
+#: .\translation.js
+msgid "[AudioEdit]Increase Volume"
+msgstr "Lautstärke erhöhen"
+
+#: .\translation.js
+msgid "[AudioEdit]Increase Volume Fine"
+msgstr "Lautstärke erhöhen (fein)"
+
+#: .\translation.js
+msgid "[AudioEdit]Insert Event FX"
+msgstr "Event-FX einfügen"
+
+#: .\translation.js
+msgid "[AudioEdit]Level"
+msgstr "Pegel"
+
+#: .\translation.js
+msgid "[AudioEdit]Relative"
+msgstr "Relativ"
+
+#: .\translation.js
+msgid "[AudioEdit]Select in Pool"
+msgstr "Im Pool anzeigen"
+

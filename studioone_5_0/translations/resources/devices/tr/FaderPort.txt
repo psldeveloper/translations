@@ -1,0 +1,1 @@
+Çıkış düğmesi Fader'ı Main Out'a (Ana çıkışa) atar. Bank tuşu Fader'ı Remote Bank'a atar. User (kullanıcı) düğmesi Solo açıp/kapatır. Shift encoder'ı (kodlayıcı düğme) transport kontroller'a atar. Footswitch Record'u kontrol eder.

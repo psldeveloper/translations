@@ -1,0 +1,1 @@
+Veuillez utiliser l'assignation de contrôleur par défaut imprimée sur l'UMX et régler les boutons B5-8 sur CC 80-83. Utilisez la mémoire utilisateur pour conserver ces réglages.

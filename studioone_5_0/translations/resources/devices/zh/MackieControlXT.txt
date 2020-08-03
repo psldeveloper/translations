@@ -1,0 +1,2 @@
+请选择Mackie Control控制器扩展操作模式 (开启时按下 Ch1 + Ch2 SELECT)。
+

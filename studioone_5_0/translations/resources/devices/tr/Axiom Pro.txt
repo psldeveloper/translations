@@ -1,0 +1,1 @@
+Axiom Pro 25, 49 veya 61 ile birlikte kullanın. Lütfen Hypercontrol MIDI portlarını seçin. PAD: 1-Sakla 2-Geri AL 3-Mikser 4-Kopyala 5-RTZ 6-Loop Seçimi 7-AutoPunch 8-Loop Başına Git 9-Loop Sonuna Git

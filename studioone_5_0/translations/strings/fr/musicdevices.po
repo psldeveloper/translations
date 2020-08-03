@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: S1\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fisch <thierryfisch@orange.fr>\n"
+"Language-Team: PreSonus Software <info@presonussoftware.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+
+#: .\instrument\controllersetup.cpp
+msgid "[ControllerSetup]A"
+msgstr "A"
+
+#: .\instrument\controllersetup.cpp
+msgid "[ControllerSetup]CC"
+msgstr "CC"
+
+#: .\plugversion.h
+msgid "[Devices]External Device Support"
+msgstr "Prise en charge de périphérique externe"
+
+#: .\instrument\controllersetup.cpp
+msgid "[ControllerSetup]Folder"
+msgstr "Dossier"
+
+#: .\deviceservicemain.cpp
+msgid "[Devices]Support for External MIDI Hardware Devices"
+msgstr "Prise en charge de périphériques MIDI externes"
+
+#: .\instrument\controllersetup.cpp
+msgid "[ControllerSetup]Title"
+msgstr "Intitulé"

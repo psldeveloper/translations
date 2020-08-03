@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Arranger Section from Selection"
+msgstr "根据所选添加编曲片段"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Audio Track (mono)"
+msgstr "添加音轨 (单声道)"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Audio Track (stereo)"
+msgstr "添加音轨 (立体声)"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Automation Track"
+msgstr "添加自动音轨"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Bus for Selected Channels"
+msgstr "根据所选通道添加Bus"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Folder Track"
+msgstr "添加文件夹轨道"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Instrument Track"
+msgstr "添加乐器音轨"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Tracks"
+msgstr "添加音轨"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Tracks for all Inputs"
+msgstr "为所有输入添加音轨"
+
+#: .\translation.js
+msgid "[TrackEdit]Add VCA for Selected Channels"
+msgstr "为所选通道添加VCA"
+
+#: .\translation.js
+msgid "[TrackEdit]Add numbers"
+msgstr "添加编号"
+
+#: .\translation.js
+msgid "[TrackEdit]Apply Track Names to Channels"
+msgstr "应用音轨名至通道"
+
+#: .\translation.js
+msgid "[TrackEdit]Arm All Audio Tracks"
+msgstr "准备录制所有音轨"
+
+#: .\translation.js
+msgid "Audio"
+msgstr "音频"
+
+#: .\translation.js
+msgid "Automation"
+msgstr "自动化"
+
+#: .\translation.js
+msgid "[TrackEdit]Bounce Selection"
+msgstr "混缩所选"
+
+#: .\translation.js
+msgid "[TrackEdit]Bounce To New Track"
+msgstr "混缩至新音轨"
+
+#: .\translation.js
+msgid "[TrackEdit]Collapse All Tracks"
+msgstr "折叠所有音轨"
+
+#: .\translation.js
+msgid "[TrackEdit]Copy Ranges to Track"
+msgstr "复制范围至音轨"
+
+#: .\translation.js
+msgid "Default"
+msgstr "默认"
+
+#: .\translation.js
+msgid "[TrackEdit]Extract to Chord Track"
+msgstr "提取到和弦轨道"
+
+#: .\translation.js
+msgid "Folder"
+msgstr "文件夹"
+
+#: .\translation.js
+msgid "[TrackEdit]Insert Instrument Part"
+msgstr "插入乐器部分"
+
+#: .\translation.js
+msgid "[TrackEdit]Insert Pattern"
+msgstr "插入模式"
+
+#: .\translation.js
+msgid "Instrument"
+msgstr "乐器"
+
+#: .\translation.js
+msgid "[TrackEdit]Invert Track Selection"
+msgstr "反转轨迹选择"
+
+#: .\translation.js
+msgid "[TrackEdit]Merge Events"
+msgstr "合并事件"
+
+#: .\translation.js
+msgid "Mono"
+msgstr "单声道"
+
+#: .\translation.js
+msgid "[TrackEdit]Mute Events"
+msgstr "事件静音"
+
+#: .\translation.js
+msgid "[TrackEdit]New Name"
+msgstr "新建名称"
+
+#: .\translation.js
+msgid "[TrackEdit]Pack Folder"
+msgstr "打包文件夹"
+
+#: .\translation.js
+msgid "[TrackEdit]Quantize"
+msgstr "量化"
+
+#: .\translation.js
+msgid "[TrackEdit]Quantize 50%"
+msgstr "量化 50%"
+
+#: .\translation.js
+msgid "[TrackEdit]Quantize on Track"
+msgstr "量化至音轨"
+
+#: .\translation.js
+msgid "[TrackEdit]Remove Part Automation"
+msgstr "移除片段自动混音"
+
+#: .\translation.js
+msgid "[TrackEdit]Remove Track Automation"
+msgstr "移除音轨自动混音"
+
+#: .\translation.js
+msgid "[TrackEdit]Rename Events"
+msgstr "重命名事件"
+
+#: .\translation.js
+msgid "[TrackEdit]Replace Event With Next Layer"
+msgstr "使用下一层替换事件"
+
+#: .\translation.js
+msgid "[TrackEdit]Replace Event With Previous Layer"
+msgstr "使用上一层替换事件"
+
+#: .\translation.js
+msgid "[TrackEdit]Restore Timing"
+msgstr "还原时间修整"
+
+#: .\translation.js
+msgid "[TrackEdit]Select Muted Events"
+msgstr "选择静音事件"
+
+#: .\translation.js
+msgid "[TrackEdit]Select Muted Tracks"
+msgstr "选择已静音的轨迹"
+
+#: .\translation.js
+msgid "[TrackEdit]Send to Back"
+msgstr "后置"
+
+#: .\translation.js
+msgid "[TrackEdit]Send to Front"
+msgstr "前置"
+
+#: .\translation.js
+msgid "[TrackEdit]Separate Shared Copies"
+msgstr "分离共享副本"
+
+#: .\translation.js
+msgid "[TrackEdit]Split at Grid"
+msgstr "栅格拆分"
+
+#: .\translation.js
+msgid "Stereo"
+msgstr "立体声"
+
+#: .\Split.js
+msgid "This would create too many events and will be cancelled."
+msgstr "此操作将创建太多事件，已取消。"
+
+#: .\translation.js
+msgid "[TrackEdit]Toggle Mute"
+msgstr "切换静音"
+
+#: .\translation.js
+msgid "Track"
+msgstr "音轨"
+
+#: .\translation.js
+msgid "[TrackEdit]Transpose"
+msgstr "移调"
+
+#: .\translation.js
+msgid "[TrackEdit]Transpose Events Down"
+msgstr "事件音高下调"
+
+#: .\translation.js
+msgid "[TrackEdit]Transpose Events Up"
+msgstr "事件音高上调"
+
+#: .\translation.js
+msgid "[TrackEdit]Transpose Instrument Tracks"
+msgstr "乐器轨道移调"
+
+#: .\translation.js
+msgid "[TrackEdit]Unmute Events"
+msgstr "事件取消静音"
+

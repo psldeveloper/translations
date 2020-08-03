@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-18 15:38+0200\n"
+"PO-Revision-Date: 2009-01-29 11:07+0100\n"
+"Last-Translator: MiTi-Studio <tibetprincess@163.com>\n"
+"Language-Team: MiTi Studio <tibetprincess@163.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: smartCAT.ai\n"
+"Language: zh_CN\n"
+
+#: .\cubasebuilder.cpp
+msgid "[CubaseHandler]Finalizing..."
+msgstr "正在完成..."
+
+#: .\cubasebuilder.cpp
+msgid "[CubaseHandler]Importing Track %(1)..."
+msgstr "正在导入音轨 %(1)..."
+

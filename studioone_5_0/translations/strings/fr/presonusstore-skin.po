@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]Buy"
+msgstr "Acheter"
+
+#: .\exchange.xml
+msgid "[PresetFileInfo]Created by:"
+msgstr "Créé par:"
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]File transfers will continue in background."
+msgstr "Les transferts de fichier se poursuivront en tâche de fond."
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]Files"
+msgstr "Fichiers"
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]Free"
+msgstr "Libre"
+
+#: .\exchange.xml
+msgid "[WareItemPreview]Install"
+msgstr "Installer"
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]Install"
+msgstr "Installer"
+
+#: .\exchange.xml
+msgid "[WareItemPreview]Installed"
+msgstr "Installé"
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]Loading price..."
+msgstr "Chargement du prix..."
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]Manage Workspaces"
+msgstr "Gérer les espaces de travail"
+
+#: .\exchange.xml
+msgid "[PresetFileInfo]Modified:"
+msgstr "Modifié:"
+
+#: .\marketplace.xml
+msgid "[AudioPreviewPlayerMini]Play"
+msgstr "Lire"
+
+#: .\exchange.xml
+msgid "[PresetFileInfo]Plug-In:"
+msgstr "Plug-in:"
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]Refresh"
+msgstr "Rafraîchir"
+
+#: .\exchange.xml .\marketplace.xml
+msgid "[ClientPreview]Sign In"
+msgstr "S'inscrire"
+
+#: .\marketplace.xml
+msgid "[AudioPreviewPlayerMini]Stop"
+msgstr "Stop"
+
+#: .\exchange.xml
+msgid "[WareCollectionPreview]This device is not installed on your system!"
+msgstr "Ce périphérique n'est pas installé dans votre système"
+
+#: .\exchange.xml
+msgid "[WareItemPreview]Update"
+msgstr "Mettre à jour"
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]Upload"
+msgstr "Envoyer"
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]Workspaces"
+msgstr "Espaces de travail"
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]excl. VAT"
+msgstr "Hors taxes"
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]incl. VAT"
+msgstr "TTC"
+

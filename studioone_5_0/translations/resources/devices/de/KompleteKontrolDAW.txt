@@ -1,0 +1,1 @@
+Verbinden Sie das Komplete Kontrol Keyboard mit dem Computer und wählen Sie den DAW Port aus um das Gerät als Fernsteuerung für Studio One zu verwenden.

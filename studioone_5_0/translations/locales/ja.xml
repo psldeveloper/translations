@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocaleInfo	language="ja" title="日本語">
+	<String x:id="dateFormat" text="%int(1)/%int(2)/%int(3)"/>					<!-- 2008/3/9 -->
+	<String x:id="friendlyDateFormat" text="%int(1) 年%(4)%int(3)日 (%(5))"/>	<!-- Sonntag, 9. März 2008 -->
+	<String x:id="timeFormat" text="%int(1:2):%int(2:2):%int(3:2)"/>			<!-- 01:42:00 -->
+
+	<Attributes x:id="weekdays">
+		<Association key="Sun" value="日曜日"/>
+		<Association key="Mon" value="月曜日"/>
+		<Association key="Tue" value="火曜日"/>
+		<Association key="Wed" value="水曜日"/>
+		<Association key="Thu" value="木曜日"/>
+		<Association key="Fri" value="金曜日"/>
+		<Association key="Sat" value="土曜日"/>
+	</Attributes>	
+
+	<Attributes x:id="months">
+		<Association key="Jan" value="1月"/>
+		<Association key="Feb" value="2月"/>
+		<Association key="Mar" value="3月"/>
+		<Association key="Apr" value="4月"/>
+		<Association key="May" value="5月"/>
+		<Association key="Jun" value="6月"/>
+		<Association key="Jul" value="7月"/>
+		<Association key="Aug" value="8月"/>
+		<Association key="Sep" value="9月"/>
+		<Association key="Oct" value="10月"/>
+		<Association key="Nov" value="11月"/>
+		<Association key="Dec" value="12月"/>
+	</Attributes>
+</LocaleInfo>
+	

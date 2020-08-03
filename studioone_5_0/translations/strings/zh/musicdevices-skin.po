@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: smartCAT.ai\n"
+
+#: .\editors.xml
+msgid "[InstrumentDevice]Controller Setup"
+msgstr "设置控制器"
+
+#: .\editors.xml
+msgid "[ControllerSetup]Controller Setup"
+msgstr "设置控制器"
+
+#: .\editors.xml
+msgid "[ControllerSetup]Select All"
+msgstr "全选"
+
+#: .\editors.xml
+msgid "[ControllerSetup]Select None"
+msgstr "不选"
+
+#~ msgid "[KeyboardDevice]Modulation"
+#~ msgstr "调制"
+
+#~ msgid "[KeyboardDevice]Pitchbend"
+#~ msgstr "弯音轮"

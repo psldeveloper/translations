@@ -1,0 +1,1 @@
+﻿Utilize com Axiom Pro 25, 49 ou 61. Selecione as portas MIDI Hypercontrol. PAD: 1-Salva 2-Desfaz 3-Mixer 4-Duplicação 5-RTZ 6-Loop da Seleção 7-Autopunch 8-Ir para Início do Loop 9-Ir para Final do Loop

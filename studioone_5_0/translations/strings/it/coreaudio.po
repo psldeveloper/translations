@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\plugversion.h
+msgid "[CoreAudio]CoreAudio Support"
+msgstr "Supporto CoreAudio"
+
+#: .\coreaudiomain.cpp
+msgid "[CoreAudio]Support for low latency Audio Devices on OS X"
+msgstr "Supporto a bassa latenza per Dispositivi Audio su OS X"
+

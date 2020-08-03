@@ -1,0 +1,1 @@
+﻿Si prega di selezionare il preset di fabbrica 10 sulla Keystation. I fader C1-C8, le manopole B11-B17 e i pulsanti C52-C59 vengono mappati alla console. Il fader 9 è il Master volume. Il pulsante C60 è il click on / off.

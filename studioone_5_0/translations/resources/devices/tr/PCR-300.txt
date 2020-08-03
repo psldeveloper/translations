@@ -1,0 +1,1 @@
+"Receive From" ayarını EDIROL PCR 1'e ayarlayın. 300, 500 ve 800 modelleri ile çalışır. Studio One'ı kontrol etmek için PCR-V-Link cihazını kullanın.

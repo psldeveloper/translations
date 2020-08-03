@@ -1,0 +1,1 @@
+﻿Conecte el ATOM SQ a su ordenador para usarlo con Studio One.

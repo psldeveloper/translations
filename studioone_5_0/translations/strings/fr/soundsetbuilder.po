@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\soundsetbuilder.cpp
+msgid "[StudioApp]A Sound Set with the identifier \"%(1)\" already exists!"
+msgstr "Un jeu de sons portant l'identifiant \"%(1)\" existe déjà!"
+
+#: .\soundsetproperties.cpp
+msgid "[StudioApp]Are you sure you want to modify the Sound Set identifier?"
+msgstr "Êtes-vous sûr de vouloir modifier l'identifiant du jeu de sons?"
+
+#: .\plugversion.h
+msgid "[StudioApp]Build your own Sound Sets for Studio One"
+msgstr "Constituer vos propres jeux de sons pour Studio One"
+
+#: .\soundsetbuilder.cpp
+msgid "[StudioApp]Failed to create Sound Set!"
+msgstr "Échec de l'installation du jeu de sons!"
+
+#: .\browserextension.cpp
+msgid "[StudioApp]Mount Folder as Sound Set"
+msgstr "Monter le dossier comme jeu de sons"
+
+#: .\browserextension.cpp
+msgid "[StudioApp]Pack Sound Set from Folder"
+msgstr "Constituer un jeu de sons depuis le dossier"
+
+#: .\plugversion.h
+msgid "[StudioApp]Sound Set Builder"
+msgstr "Assembleur de jeux de sons"
+
+#: .\soundsetbuilder.cpp
+msgid "[StudioApp]Sound Set meta information is incomplete!"
+msgstr "Les méta-informations du jeu de sons sont incomplètes!"
+
+#: .\soundsetbuilder.cpp
+msgid "[StudioApp]The Sound Set \"%(1)\" is still in use (%(2) files open)!"
+msgstr "Le jeu de sons \"%(1)\" est encore en service (%(2) fichiers ouverts)!"
+
+#: .\soundsetproperties.cpp
+msgid ""
+"[StudioApp]The Sound Set identifier is used to store references to files "
+"from the Sound Set inside documents. It has to be globally unique to avoid "
+"conflicts with Sound Sets from other users."
+msgstr ""
+"L'identifiant d'un jeu de sons sert à conserver les références aux fichiers "
+"depuis le jeu de sons dans les documents. Il doit être globalement unique "
+"pour éviter les conflits avec les jeux de sons d'autres utilisateurs."
+
+#: .\browserextension.cpp
+msgid "[StudioApp]Unmount Sound Set Folder"
+msgstr "Démonter le dossier de jeu de sons"

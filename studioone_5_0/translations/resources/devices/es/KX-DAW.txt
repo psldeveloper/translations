@@ -1,0 +1,1 @@
+﻿Por favor utilice las configuraciones de fábrica y seleccione el puerto de entrada KX MIDI Input 2 en Receive from selector para el DAW remoto. Assign 1 es Cuantizar, Assign es borrar. A abre el editor y B abre la consola.

@@ -1,0 +1,1 @@
+﻿El botón Output asigna el Fader a la salida principal. Bank asigna el fader para el banco remoto. El botón User activa/desactiva cualquier Solo. Shift conmuta el encoder a controlador de transporte. Footswitch activa/desactiva grabación.

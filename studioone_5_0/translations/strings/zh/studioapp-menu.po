@@ -1,0 +1,985 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\menubar.xml
+msgid "[Menu]$APPCOMPANY Shop"
+msgstr "$APPCOMPANY 商店"
+
+#: .\menubar.xml
+msgid "[Menu]$APPNAME"
+msgstr "$APPNAME"
+
+#: .\menubar.xml
+msgid "[Menu]$APPNAME Activation"
+msgstr "激活$APPNAME"
+
+#: .\menubar.xml
+msgid "[Menu]$APPNAME Extensions"
+msgstr "$APPNAME 扩展包"
+
+#: .\menubar.xml
+msgid "[Menu]$APPNAME Installation"
+msgstr "$APPNAME安装"
+
+#: .\menubar.xml
+msgid "[Menu]$APPNAME Packages"
+msgstr "$APPNAME软件包"
+
+#: .\menubar.xml
+msgid "[Menu]$APPNAME Reference Manual"
+msgstr "$APPNAME 参考菜单"
+
+#: .\menubar.xml
+msgid "[Menu]$APPNAME Website"
+msgstr "$APPNAME网站"
+
+#: .\menubar.xml
+msgid "[Menu]About $APPNAME"
+msgstr "关于$APPNAME"
+
+#: .\menubar.xml
+msgid "[Menu]Activate Purchased Items"
+msgstr "激活购买产品"
+
+#: .\menubar.xml
+msgid "[Menu]Add Backing Track Player"
+msgstr " 增加伴奏播放器"
+
+#: .\menubar.xml
+msgid "[Menu]Add Layer"
+msgstr "添加层"
+
+#: .\menubar.xml
+msgid "[Menu]Add Player"
+msgstr " 添加播放器"
+
+#: .\menubar.xml
+msgid "[Menu]Add Real Instrument Player"
+msgstr " 添加真实乐器播放器"
+
+#: .\menubar.xml
+msgid "[Menu]Add Setlist Item"
+msgstr " 添加曲目项"
+
+#: .\menubar.xml
+msgid "[Menu]Additional Views"
+msgstr "其他视图"
+
+#: .\menubar.xml
+msgid "[Menu]Application"
+msgstr "程序"
+
+#: .\menubar.xml
+msgid "[Menu]Arm Track"
+msgstr "录音预备"
+
+#: .\menubar.xml
+msgid "[Menu]Audio"
+msgstr "音频"
+
+#: .\menubar.xml
+msgid "[Menu]Automation"
+msgstr "自动控制"
+
+#: .\menubar.xml
+msgid "[Menu]Backup and Restore"
+msgstr " 备份和储存"
+
+#: .\menubar.xml
+msgid "[Menu]Browser"
+msgstr "浏览器"
+
+#: .\menubar.xml
+msgid "[Menu]Burn Audio CD"
+msgstr "刻录音频CD"
+
+#: .\menubar.xml
+msgid "[Menu]CD Protocol"
+msgstr "CD协议"
+
+#: .\menubar.xml
+msgid "[Menu]Check for Updates"
+msgstr "检查更新"
+
+#: .\menubar.xml
+msgid "[Menu]Close"
+msgstr "关闭"
+
+#: .\menubar.xml
+msgid "[Menu]Close All"
+msgstr "全部关闭"
+
+#: .\menubar.xml
+msgid "[Menu]Console"
+msgstr "控制台"
+
+#: .\menubar.xml
+msgid "[Menu]Controls"
+msgstr "控件"
+
+#: .\menubar.xml
+msgid "[Menu]Copy"
+msgstr "复制"
+
+#: .\menubar.xml
+msgid "[Menu]Copy External Files"
+msgstr "复制外部文件"
+
+#: .\menubar.xml
+msgid "[Menu]Create Ranges"
+msgstr "创建范围"
+
+#: .\menubar.xml
+msgid "[Menu]Create Ranges on Tracks"
+msgstr "创建音轨范围"
+
+#: .\menubar.xml
+msgid "[Menu]Cut"
+msgstr "剪切"
+
+#: .\menubar.xml
+msgid "[Menu]Delete"
+msgstr "删除"
+
+#: .\menubar.xml
+msgid "[Menu]Delete Time"
+msgstr "删除时间"
+
+#: .\menubar.xml
+msgid "[Menu]Delete Undo History"
+msgstr "删除撤销记录"
+
+#: .\menubar.xml
+msgid "[Menu]Deselect All"
+msgstr "取消选择"
+
+#: .\menubar.xml
+msgid "[Menu]Deselect All on Tracks"
+msgstr "取消选择所有音轨"
+
+#: .\menubar.xml
+msgid "[Menu]Digital Release"
+msgstr "数字发布"
+
+#: .\menubar.xml
+msgid "[Menu]Disable Setlist Item"
+msgstr " 禁用曲目项"
+
+#: .\menubar.xml
+msgid "[Menu]Disable Track"
+msgstr "禁用音轨"
+
+#: .\menubar.xml
+msgid "[Menu]Dissolve Group"
+msgstr "取消编组"
+
+#: .\menubar.xml
+msgid "[Menu]Duplicate"
+msgstr "创建副本"
+
+#: .\menubar.xml
+msgid "[Menu]Duplicate (complete)"
+msgstr "创建副本（完整）"
+
+#: .\menubar.xml
+msgid "[Menu]Duplicate Layer"
+msgstr "创建层副本"
+
+#: .\menubar.xml
+msgid "[Menu]Duplicate Player"
+msgstr " 复制播放器"
+
+#: .\menubar.xml
+msgid "[Menu]Duplicate Setlist Item"
+msgstr " 复制曲目项"
+
+#: .\menubar.xml
+msgid "[Menu]Duplicate Shared"
+msgstr "创建共享副本"
+
+#: .\menubar.xml
+msgid "[Menu]Duplicate and Insert"
+msgstr "复制并插入"
+
+#: .\menubar.xml
+msgid "[Menu]Edit"
+msgstr "编辑"
+
+#: .\menubar.xml
+msgid "[Menu]Edit Track"
+msgstr "编辑音轨"
+
+#: .\menubar.xml
+msgid "[Menu]Editor"
+msgstr "编辑器"
+
+#: .\menubar.xml
+msgid "[Menu]Enable Play Start Marker"
+msgstr "启用播放开始标记"
+
+#: .\menubar.xml
+msgid "[Menu]Enable Setlist Item"
+msgstr " 启用曲目项"
+
+#: .\menubar.xml
+msgid "[Menu]Enable Track"
+msgstr "启用音轨"
+
+#: .\menubar.xml
+msgid "[Menu]Event"
+msgstr "事件"
+
+#: .\menubar.xml
+msgid "[Menu]Export Mixdown"
+msgstr "导出混音"
+
+#: .\menubar.xml
+msgid "[Menu]Export Stems"
+msgstr "导出Stem"
+
+#: .\menubar.xml
+msgid "[Menu]Export Video"
+msgstr "导出视频"
+
+#: .\menubar.xml
+msgid "[Menu]External Sync Options"
+msgstr " 外部同步选项"
+
+#: .\menubar.xml
+msgid "[Menu]FaderPort User Guide"
+msgstr "FaderPort 用户指南"
+
+#: .\menubar.xml
+msgid "[Menu]File"
+msgstr "文件"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Loop End"
+msgstr "跳转到循环结尾"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Loop Start"
+msgstr "跳转到循环开头"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Marker"
+msgstr "跳转到标记处"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Next Event"
+msgstr "跳转到下一个事件"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Next Marker"
+msgstr "跳转到下一个标记"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Next Setlist Item"
+msgstr " 前往下一个曲目项"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Next Track"
+msgstr "跳转到下一条音轨"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Previous Event"
+msgstr "跳转到上一个事件"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Previous Marker"
+msgstr "跳转到上一个标记"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Previous Setlist Item"
+msgstr " 前往上一个曲目项"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Previous Track"
+msgstr "跳转到上一条音轨"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Time"
+msgstr "跳转到时间"
+
+#: .\menubar.xml
+msgid "[Menu]Group Selected Tracks"
+msgstr "组合所选音轨"
+
+#: .\menubar.xml
+msgid "[Menu]Help"
+msgstr "帮助"
+
+#: .\menubar.xml
+msgid "[Menu]History"
+msgstr "记录"
+
+#: .\menubar.xml
+msgid "[Menu]Ignore Plug-In Latency"
+msgstr "忽略插件延时"
+
+#: .\menubar.xml
+msgid "[Menu]Import File"
+msgstr "导入文件"
+
+#: .\menubar.xml
+msgid "[Menu]Import Song Data"
+msgstr "导入歌曲数据"
+
+#: .\menubar.xml
+msgid "[Menu]Info View"
+msgstr "信息查看"
+
+#: .\menubar.xml
+msgid "[Menu]Insert Marker"
+msgstr "插入标记"
+
+#: .\menubar.xml
+msgid "[Menu]Insert Silence"
+msgstr "插入静默"
+
+#: .\menubar.xml
+msgid "[Menu]Inspector"
+msgstr "监视器"
+
+#: .\menubar.xml
+msgid "[Menu]Invert Selection"
+msgstr "反转所选"
+
+#: .\menubar.xml
+msgid "[Menu]Keyboard Shortcuts"
+msgstr "键盘快捷键"
+
+#: .\menubar.xml
+msgid "[Menu]Layers"
+msgstr "分层"
+
+#: .\menubar.xml
+msgid "[Menu]Locate Missing Devices"
+msgstr "查找缺失的设备"
+
+#: .\menubar.xml
+msgid "[Menu]Locate Missing Files"
+msgstr "查找缺失的文件"
+
+#: .\menubar.xml
+msgid "[Menu]Locate Selection"
+msgstr "定位所选"
+
+#: .\menubar.xml
+msgid "[Menu]Locate Selection End"
+msgstr "定位所选结尾"
+
+#: .\menubar.xml
+msgid "[Menu]Login"
+msgstr "登录"
+
+#: .\menubar.xml
+msgid "[Menu]Loop Active"
+msgstr "循环活动片段"
+
+#: .\menubar.xml
+msgid "[Menu]Loop Follows Selection"
+msgstr "循环跟随所选"
+
+#: .\menubar.xml
+msgid "[Menu]Loop Selection"
+msgstr "循环所选"
+
+#: .\menubar.xml
+msgid "[Menu]Loop Selection Snapped"
+msgstr "循环所选自动吸附"
+
+#: .\menubar.xml
+msgid "[Menu]Loop Setlist Item"
+msgstr " 循环曲目项"
+
+#: .\menubar.xml
+msgid "[Menu]MIDI Monitor"
+msgstr "MIDI监听器"
+
+#: .\menubar.xml
+msgid "[Menu]Make DDP Image"
+msgstr "创建DDP映像"
+
+#: .\menubar.xml
+msgid "[Menu]Make Image"
+msgstr "制作映像"
+
+#: .\menubar.xml
+msgid "[Menu]Marker 1"
+msgstr "标记 1"
+
+#: .\menubar.xml
+msgid "[Menu]Marker 2"
+msgstr "标记 2"
+
+#: .\menubar.xml
+msgid "[Menu]Marker 3"
+msgstr "标记 3"
+
+#: .\menubar.xml
+msgid "[Menu]Marker 4"
+msgstr "标记 4"
+
+#: .\menubar.xml
+msgid "[Menu]Marker 5"
+msgstr "标记 5"
+
+#: .\menubar.xml
+msgid "[Menu]Marker 6"
+msgstr "标记 6"
+
+#: .\menubar.xml
+msgid "[Menu]Marker 7"
+msgstr "标记 7"
+
+#: .\menubar.xml
+msgid "[Menu]Messages"
+msgstr "消息"
+
+#: .\menubar.xml
+msgid "[Menu]Metronome Setup"
+msgstr "设置节拍器"
+
+#: .\menubar.xml
+msgid "[Menu]Monitor Track"
+msgstr "音轨监听"
+
+#: .\menubar.xml
+msgid "[Menu]Move to Cursor"
+msgstr "移动到指针处"
+
+#: .\menubar.xml
+msgid "[Menu]Move to Origin"
+msgstr "移动到起点"
+
+#: .\menubar.xml
+msgid "[Menu]Mute Track"
+msgstr "音轨静音"
+
+#: .\menubar.xml
+msgid "[Menu]New Project"
+msgstr "新建项目"
+
+#: .\menubar.xml
+msgid "[Menu]New Show"
+msgstr " 新显示页"
+
+#: .\menubar.xml
+msgid "[Menu]New Song"
+msgstr "新建乐曲"
+
+#: .\menubar.xml
+msgid "[Menu]Next Parameter"
+msgstr "下一个参数"
+
+#: .\menubar.xml
+msgid "[Menu]Note Repeat"
+msgstr "音符重复"
+
+#: .\menubar.xml
+msgid "[Menu]Nudge"
+msgstr "微调"
+
+#: .\menubar.xml
+msgid "[Menu]Nudge Back"
+msgstr "向后微调"
+
+#: .\menubar.xml
+msgid "[Menu]Nudge Bar"
+msgstr "小节微调"
+
+#: .\menubar.xml
+msgid "[Menu]Nudge Bar Back"
+msgstr "小节向后微调"
+
+#: .\menubar.xml
+msgid "[Menu]Open"
+msgstr "打开"
+
+#: .\menubar.xml
+msgid "[Menu]Open Settings Folder"
+msgstr "打开设置文件夹"
+
+#: .\menubar.xml
+msgid "[Menu]Options"
+msgstr "选项"
+
+#: .\menubar.xml
+msgid "[Menu]Paste"
+msgstr "粘贴"
+
+#: .\menubar.xml
+msgid "[Menu]Paste at Original Position"
+msgstr "粘贴到起点位置"
+
+#: .\menubar.xml
+msgid "[Menu]Perform"
+msgstr " 表演"
+
+#: .\menubar.xml
+msgid "[Menu]Performance Monitor"
+msgstr "性能监视器"
+
+#: .\menubar.xml
+msgid "[Menu]Plug-In Manager"
+msgstr "插件管理器"
+
+#: .\menubar.xml
+msgid "[Menu]Preferences"
+msgstr "偏好"
+
+#: .\menubar.xml
+msgid "[Menu]Previous Parameter"
+msgstr "上一个参数"
+
+#: .\menubar.xml
+msgid "[Menu]Project"
+msgstr "项目"
+
+#: .\menubar.xml
+msgid "[Menu]Project Setup"
+msgstr "项目设置"
+
+#: .\menubar.xml
+msgid "[Menu]Quit"
+msgstr "退出"
+
+#: .\menubar.xml
+msgid "[Menu]Quit $APPNAME"
+msgstr "退出$APPNAME"
+
+#: .\menubar.xml
+msgid "[Menu]Record Panel"
+msgstr "录音面板"
+
+#: .\menubar.xml
+msgid "[Menu]Redo"
+msgstr "重做"
+
+#: .\menubar.xml
+msgid "[Menu]Redo Zoom"
+msgstr "重做缩放"
+
+#: .\menubar.xml
+msgid "[Menu]Remaining Record Time"
+msgstr "剩余录音时间"
+
+#: .\menubar.xml
+msgid "[Menu]Remove Layer"
+msgstr "移除层"
+
+#: .\menubar.xml
+msgid "[Menu]Remove Player"
+msgstr " 移除播放器"
+
+#: .\menubar.xml
+msgid "[Menu]Remove Setlist Item"
+msgstr " 移除曲目项"
+
+#: .\menubar.xml
+msgid "[Menu]Remove Track"
+msgstr "移除音轨"
+
+#: .\menubar.xml
+msgid "[Menu]Remove Unused Files"
+msgstr "移除未使用的文件"
+
+#: .\menubar.xml
+msgid "[Menu]Rename"
+msgstr "重命名"
+
+#: .\menubar.xml
+msgid "[Menu]Rename Layer"
+msgstr "重命名层"
+
+#: .\menubar.xml
+msgid "[Menu]Reset Window Positions"
+msgstr "重置窗口位置"
+
+#: .\menubar.xml
+msgid "[Menu]Restore Version"
+msgstr "还原版本"
+
+#: .\menubar.xml
+msgid "[Menu]Restore Zoom State"
+msgstr "还原缩放状态"
+
+#: .\menubar.xml
+msgid "[Menu]Return to Start on Stop"
+msgstr "停止后返回开始处"
+
+#: .\menubar.xml
+msgid "[Menu]Return to Zero"
+msgstr "返回零点"
+
+#: .\menubar.xml
+msgid "[Menu]Revert"
+msgstr "恢复"
+
+#: .\menubar.xml
+msgid "[Menu]Save"
+msgstr "保存"
+
+#: .\menubar.xml
+msgid "[Menu]Save As"
+msgstr "另存为"
+
+#: .\menubar.xml
+msgid "[Menu]Save As Template"
+msgstr "另存为模板"
+
+#: .\menubar.xml
+msgid "[Menu]Save New Version"
+msgstr "保存新版本"
+
+#: .\menubar.xml
+msgid "[Menu]Save to New Folder"
+msgstr "保存到新建文件夹"
+
+#: .\menubar.xml
+msgid "[Menu]Scratch Pad"
+msgstr "草稿簿"
+
+#: .\menubar.xml
+msgid "[Menu]Select"
+msgstr "选择"
+
+#: .\menubar.xml
+msgid "[Menu]Select All"
+msgstr "全选"
+
+#: .\menubar.xml
+msgid "[Menu]Select All in Loop"
+msgstr "循环全选"
+
+#: .\menubar.xml
+msgid "[Menu]Select All on Tracks"
+msgstr "音轨全选"
+
+#: .\menubar.xml
+msgid "[Menu]Select Events in Range"
+msgstr "选择范围内的事件"
+
+#: .\menubar.xml
+msgid "[Menu]Select Muted Events"
+msgstr "选择静音事件"
+
+#: .\menubar.xml
+msgid "[Menu]Select from Event to End"
+msgstr "选择从事件至结束"
+
+#: .\menubar.xml
+msgid "[Menu]Select from Start to Event"
+msgstr "选择从开始至事件"
+
+#: .\menubar.xml
+msgid "[Menu]Send to Notion"
+msgstr "发送至Notion"
+
+#: .\menubar.xml
+msgid "[Menu]Set Bar Offset to Cursor"
+msgstr " 将小节偏移量设置为光标"
+
+#: .\menubar.xml
+msgid "[Menu]Set Frame Offset to Cursor"
+msgstr " 将帧偏移量设置为光标"
+
+#: .\menubar.xml
+msgid "[Menu]Set Play Start Marker"
+msgstr "设置播放开始标记"
+
+#: .\menubar.xml
+msgid "[Menu]Set Start and End to Selection"
+msgstr "根据所选设置开始和结束"
+
+#: .\menubar.xml
+msgid "[Menu]Setlist Item 1"
+msgstr " 曲目项 1"
+
+#: .\menubar.xml
+msgid "[Menu]Setlist Item 2"
+msgstr " 曲目项 2"
+
+#: .\menubar.xml
+msgid "[Menu]Setlist Item 3"
+msgstr " 曲目项 3"
+
+#: .\menubar.xml
+msgid "[Menu]Setlist Item 4"
+msgstr " 曲目项 4"
+
+#: .\menubar.xml
+msgid "[Menu]Setlist Item 5"
+msgstr " 曲目项 5"
+
+#: .\menubar.xml
+msgid "[Menu]Setlist Item 6"
+msgstr " 曲目项 6"
+
+#: .\menubar.xml
+msgid "[Menu]Setlist Item 7"
+msgstr " 曲目项 7"
+
+#: .\menubar.xml
+msgid "[Menu]Show"
+msgstr " 显示"
+
+#: .\menubar.xml
+msgid "[Menu]Show Automation"
+msgstr "显示自动控制"
+
+#: .\menubar.xml
+msgid "[Menu]Show Channel Editor"
+msgstr "显示通道编辑器"
+
+#: .\menubar.xml
+msgid "[Menu]Show Cloud"
+msgstr "显示云"
+
+#: .\menubar.xml
+msgid "[Menu]Show Effects"
+msgstr "显示效果"
+
+#: .\menubar.xml
+msgid "[Menu]Show Files"
+msgstr "显示文件"
+
+#: .\menubar.xml
+msgid "[Menu]Show Home Page"
+msgstr "显示主页"
+
+#: .\menubar.xml
+msgid "[Menu]Show Instrument Editor"
+msgstr "显示乐器编辑器"
+
+#: .\menubar.xml
+msgid "[Menu]Show Instruments"
+msgstr "显示乐器"
+
+#: .\menubar.xml
+msgid "[Menu]Show Loops"
+msgstr "显示循环"
+
+#: .\menubar.xml
+msgid "[Menu]Show Media Folder in Explorer"
+msgstr "在资源管理器中显示媒体文件夹"
+
+#: .\menubar.xml
+msgid "[Menu]Show Media Folder in Finder"
+msgstr "在Finder中显示媒体文件夹"
+
+#: .\menubar.xml
+msgid "[Menu]Show Pool"
+msgstr "显示素材池"
+
+#: .\menubar.xml
+msgid "[Menu]Show Setup"
+msgstr " 显示设置"
+
+#: .\menubar.xml
+msgid "[Menu]Show Shop"
+msgstr "显示商店"
+
+#: .\menubar.xml
+msgid "[Menu]Show in Console"
+msgstr "在控制台中显示"
+
+#: .\menubar.xml
+msgid "[Menu]Solo Layer"
+msgstr "独奏层"
+
+#: .\menubar.xml
+msgid "[Menu]Solo Track"
+msgstr "独奏音轨"
+
+#: .\menubar.xml
+msgid "[Menu]Song"
+msgstr "乐曲"
+
+#: .\menubar.xml
+msgid "[Menu]Song Information"
+msgstr "乐曲信息"
+
+#: .\menubar.xml
+msgid "[Menu]Song Setup"
+msgstr "乐曲设置"
+
+#: .\menubar.xml
+msgid "[Menu]Split"
+msgstr "拆分"
+
+#: .\menubar.xml
+msgid "[Menu]Split Loop"
+msgstr "拆分循环"
+
+#: .\menubar.xml
+msgid "[Menu]Start"
+msgstr "开始"
+
+#: .\menubar.xml
+msgid "[Menu]Start Page"
+msgstr "开始页"
+
+#: .\menubar.xml
+msgid "[Menu]Stop"
+msgstr "停止"
+
+#: .\menubar.xml
+msgid "[Menu]Store Zoom State"
+msgstr "存储缩放状态"
+
+#: .\menubar.xml
+msgid "[Menu]Sync to External Devices"
+msgstr " 同步至外部设备"
+
+#: .\menubar.xml
+msgid "[Menu]System Information"
+msgstr "系统信息"
+
+#: .\menubar.xml
+msgid "[Menu]Time Display"
+msgstr "时间显示"
+
+#: .\menubar.xml
+msgid "[Menu]Toggle Detached Console"
+msgstr "切换分离的控制台"
+
+#: .\menubar.xml
+msgid "[Menu]Toggle Detached Editor"
+msgstr "切换分离的编辑器"
+
+#: .\menubar.xml
+msgid "[Menu]Toggle Floating Windows"
+msgstr "切换浮动窗口"
+
+#: .\menubar.xml
+msgid "[Menu]Toggle Optional Views"
+msgstr "切换选项视图"
+
+#: .\menubar.xml
+msgid "[Menu]Toggle Read"
+msgstr "切换读取"
+
+#: .\menubar.xml
+msgid "[Menu]Toggle Zoom"
+msgstr "切换缩放"
+
+#: .\menubar.xml
+msgid "[Menu]Touch"
+msgstr "触控"
+
+#: .\menubar.xml
+msgid "[Menu]Track"
+msgstr "音轨"
+
+#: .\menubar.xml
+msgid "[Menu]Track List"
+msgstr "音轨列表"
+
+#: .\menubar.xml
+msgid "[Menu]Transfers"
+msgstr "传输"
+
+#: .\menubar.xml
+msgid "[Menu]Transform"
+msgstr "变换"
+
+#: .\menubar.xml
+msgid "[Menu]Transform to Audio Track"
+msgstr "变换到音频轨道"
+
+#: .\menubar.xml
+msgid "[Menu]Transform to Instrument Track"
+msgstr "变换到乐器轨道"
+
+#: .\menubar.xml
+msgid "[Menu]Transform to Realtime Audio"
+msgstr "变换到实时音频"
+
+#: .\menubar.xml
+msgid "[Menu]Transform to Rendered Audio"
+msgstr "变换到渲染音频"
+
+#: .\menubar.xml
+msgid "[Menu]Transport"
+msgstr "走带"
+
+#: .\menubar.xml
+msgid "[Menu]Undo"
+msgstr "撤销"
+
+#: .\menubar.xml
+msgid "[Menu]Undo Zoom"
+msgstr "撤销缩放"
+
+#: .\menubar.xml
+msgid "[Menu]Update Mastering File"
+msgstr "更新母带文件"
+
+#: .\menubar.xml
+msgid "[Menu]Update Mastering Files"
+msgstr "更新母带文件"
+
+#: .\menubar.xml
+msgid "[Menu]Upgrade $APPNAME"
+msgstr "更新$APPNAME"
+
+#: .\menubar.xml
+msgid "[Menu]Video Player"
+msgstr "视频播放器"
+
+#: .\menubar.xml
+msgid "[Menu]View"
+msgstr "查看"
+
+#: .\menubar.xml
+msgid "[Menu]View Release Notes"
+msgstr "查看发布说明"
+
+#: .\menubar.xml
+msgid "[Menu]Windows"
+msgstr "窗口"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom"
+msgstr "缩放"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom Full"
+msgstr "最大缩放"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom In"
+msgstr "放大"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom In Vertical"
+msgstr "垂直放大"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom Out"
+msgstr "缩小"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom Out Vertical"
+msgstr "垂直缩小"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom to Loop"
+msgstr "缩放到循环"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom to Selection"
+msgstr "缩放到所选"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom to Selection Horizontally"
+msgstr "水平缩放到所选"
+
+#~ msgid "[Menu]Musical Functions"
+#~ msgstr "音乐功能"
+

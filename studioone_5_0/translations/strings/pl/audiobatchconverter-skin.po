@@ -1,0 +1,401 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\converter.xml
+msgid "[ProcessSlotHeader]Activate"
+msgstr "Aktywuj"
+
+#: .\converter.xml
+msgid "[ProcessFXHeaderView]Activate"
+msgstr "Aktywuj"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Add Files..."
+msgstr "Dodaj pliki..."
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Add Folder..."
+msgstr "Dodaj folder..."
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Append process info"
+msgstr "Dołącz info o operacjach"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Append process info to result file names"
+msgstr "Dołącz info o operacjach do nazw plików wyjściowych"
+
+#: .\converter.xml
+msgid "[AudioFilePreview]Apply Process Rack in playback"
+msgstr "Użyj racka operacji podczas odtwarzania"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]As Source"
+msgstr "Jako źródło"
+
+#: .\converter.xml
+msgid "[AudioFilePreview]Audio Output: @value[]"
+msgstr "Wyjście audio: @value[]"
+
+#: .\format.xml
+msgid "[ExtractAutomatic]Auto"
+msgstr "Auto"
+
+#: .\converter.xml
+msgid "[AudioFilePreview]Auto-advance to next file"
+msgstr "Przejdź do następnego pliku"
+
+#: .\converter.xml
+msgid "[ProcessFXHeaderView]Browse Presets"
+msgstr "Przeglądaj zestawy"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Cancel"
+msgstr "Anuluj"
+
+#: .\converter.xml
+msgid "[PlugInFileInfo]Category:"
+msgstr "Kategoria:"
+
+#: .\format.xml
+msgid "[FormatConverter]Channels"
+msgstr "Kanały"
+
+#: .\format.xml
+msgid "[FormatBasic]Channels"
+msgstr "Kanały"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Click here to select..."
+msgstr "Kliknij tutaj, aby wybrać..."
+
+#: .\converter.xml
+msgid "[ProcessFXTitleBar]Close"
+msgstr "Zamknij"
+
+#: .\gain.xml
+msgid "[Fade]Concave"
+msgstr "Wklęsła"
+
+#: .\gain.xml
+msgid "[Fade]Convex"
+msgstr "Wypukła"
+
+#: .\repair.xml
+msgid "[RateRepair]Corrected Sample Rate"
+msgstr "Poprawna częstotliwość"
+
+#: .\converter.xml
+msgid "[PresetFileInfo]Created by:"
+msgstr "Utworzony przez:"
+
+#: .\gain.xml
+msgid "[Fade]Curve Type"
+msgstr "Typ krzywej"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Delete All"
+msgstr "Usuń pliki"
+
+#: .\format.xml
+msgid "[FormatConverter]Destination Bit Resolution"
+msgstr "Docelowa rozdzielczość"
+
+#: .\format.xml
+msgid "[FormatConverter]Destination Channel Format"
+msgstr "Docelowy format kanału"
+
+#: .\format.xml
+msgid "[FormatBasic]Destination Channel Format"
+msgstr "Docelowy format kanału"
+
+#: .\format.xml
+msgid "[FormatConverter]Destination File Type"
+msgstr "Docelowy typ pliku"
+
+#: .\format.xml
+msgid "[FormatConverter]Destination Sample Rate"
+msgstr "Docelowa częstotliwość"
+
+#: .\format.xml
+msgid "[FormatBasic]Destination Sample Rate"
+msgstr "Docelowa częstotliwość"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Drag process or effect here"
+msgstr "Przeciągnij tutaj operację lub efekt"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Drag process rack preset from here"
+msgstr "Przeciągnij stąd zestaw racka operacji"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Drag source files here"
+msgstr "Przeciągnij tutaj plik źródłowy"
+
+#: .\format.xml
+msgid "[FormatConverter]Enable Channel Format Conversion"
+msgstr "Włącz konwersję formatu kanału"
+
+#: .\format.xml
+msgid "[FormatBasic]Enable Channel Format Conversion"
+msgstr "Włącz konwersję formatu kanału"
+
+#: .\format.xml
+msgid "[FormatConverter]Enable File Type Conversion"
+msgstr "Włącz konwersję typu pliku"
+
+#: .\format.xml
+msgid "[FormatConverter]Enable Rate Conversion"
+msgstr "Włącz konwersję częstotliwości"
+
+#: .\format.xml
+msgid "[FormatBasic]Enable Rate Conversion"
+msgstr "Włącz konwersję częstotliwości"
+
+#: .\format.xml
+msgid "[FormatConverter]Enable Resolution Conversion"
+msgstr "Włącz konwersję rozdzielczości"
+
+#: .\converter.xml
+msgid "[ProcessSlotHeader]Expand / Collapse"
+msgstr "Rozwiń / Zwiń"
+
+#: .\gain.xml
+msgid "[Fade]Fade In"
+msgstr "Narastanie"
+
+#: .\gain.xml
+msgid "[Fade]Fade Out"
+msgstr "Zanikanie"
+
+#: .\format.xml
+msgid "[Concatenator]File Name"
+msgstr "Nazwa pliku"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Files:"
+msgstr "Pliki:"
+
+#: .\gain.xml
+msgid "[Gain]Gain"
+msgstr "Wzmocnienie"
+
+#: .\repair.xml
+msgid "[Declicker]Intensity"
+msgstr "Intensywność"
+
+#: .\repair.xml
+msgid "[Denoiser]Intensity"
+msgstr "Intensywność"
+
+#: .\repair.xml
+msgid "[InvertPhase]Invert Left"
+msgstr "Odwróć lewy"
+
+#: .\repair.xml
+msgid "[InvertPhase]Invert Right"
+msgstr "Odwróć prawy"
+
+#: .\format.xml
+msgid "[KeepFormat]Keep"
+msgstr "Zachowaj"
+
+#: .\format.xml
+msgid "[Extractor]Length"
+msgstr "Długość"
+
+#: .\gain.xml
+msgid "[Fade]Length"
+msgstr "Długość"
+
+#: .\gain.xml
+msgid "[Fade]Linear"
+msgstr "Prosta"
+
+#: .\converter.xml
+msgid "[AudioFilePreview]Loop Active @cmd[Transport|Toggle Loop]"
+msgstr "Aktywuj pętlę @cmd[Transport|Toggle Loop]"
+
+#: .\format.xml
+msgid ""
+"[FileMerger]Merge all mono file from the list even if file names do not match"
+msgstr "Scal wszystkie pliki mono z listy nawet, gdy nazwy się nie zgadzają"
+
+#: .\format.xml
+msgid "[FileMerger]Merge mismatching files as well"
+msgstr "Scal także niezgodne pliki"
+
+#: .\format.xml
+msgid "[Extractor]Mode"
+msgstr "Tryb"
+
+#: .\gain.xml
+msgid "[Normalize]Mode"
+msgstr "Tryb"
+
+#: .\converter.xml
+msgid "[PresetFileInfo]Modified:"
+msgstr "Zmodyfikowano:"
+
+#: .\format.xml
+msgid "[FileSplitter]Naming Format"
+msgstr "Format nazwy"
+
+#: .\converter.xml
+msgid "[Command]Next"
+msgstr "Następny"
+
+#: .\converter.xml
+msgid "[ProcessFXHeaderView]Next Preset @cmd[]"
+msgstr "Następny zestaw @cmd[]"
+
+#: .\converter.xml
+msgid "[ProcessSlotHeader]Open Editor"
+msgstr "Otwórz edytor"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Output Format"
+msgstr "Format wyjściowy"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Output Location"
+msgstr "Lokalizacja wyjściowa"
+
+#: .\repair.xml
+msgid "[Declicker]Output clicks only"
+msgstr "Tylko trzaski na wyjściu"
+
+#: .\converter.xml
+msgid "[PresetFileInfo]Plug-In:"
+msgstr "Wtyczka:"
+
+#: .\converter.xml
+msgid "[Command]Presets"
+msgstr "Zestawy"
+
+#: .\converter.xml
+msgid "[Command]Previous"
+msgstr "Poprzedni"
+
+#: .\converter.xml
+msgid "[ProcessFXHeaderView]Previous Preset @cmd[]"
+msgstr "Poprzedni zestaw @cmd[]"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Process"
+msgstr "Wykonaj"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Process Rack"
+msgstr "Rack operacji"
+
+#: .\converter.xml
+msgid "[ProcessProgress]Progress:"
+msgstr "Postęp:"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Remove All"
+msgstr "Wyczyść"
+
+#: .\repair.xml
+msgid "[Denoiser]Remove Hiss"
+msgstr "Usuń szumy"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Remove Selected"
+msgstr "Wyczyść zaznaczone"
+
+#: .\format.xml
+msgid "[FormatConverter]Resolution"
+msgstr "Rozdzielczość"
+
+#: .\format.xml
+msgid "[FormatConverter]Sample Rate"
+msgstr "Częstotliwość"
+
+#: .\format.xml
+msgid "[FormatBasic]Sample Rate"
+msgstr "Częstotliwość"
+
+#: .\converter.xml
+msgid "[BrowseNavigator]Search @cmd.title[]"
+msgstr "Szukaj @cmd.title[]"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Show Peak / RMS / R128"
+msgstr "Wartość szczytowa / RMS / R128"
+
+#: .\converter.xml
+msgid "[ProcessRackSection]Source Folder"
+msgstr "Folder źródłowy"
+
+#: .\format.xml
+msgid "[Concatenator]Source Folder"
+msgstr "Folder źródłowy"
+
+#: .\converter.xml
+msgid "[AudioFilePreview]Start @cmd[Transport|Start]"
+msgstr "Start @cmd[Transport|Start]"
+
+#: .\format.xml
+msgid "[Extractor]Start Offset"
+msgstr "Offset początku"
+
+#: .\converter.xml
+msgid "[AudioFilePreview]Stop @cmd[Transport|Stop]"
+msgstr "Stop @cmd[Transport|Stop]"
+
+#: .\gain.xml
+msgid "[Normalize]Target Loudness"
+msgstr "Docelowa głośność"
+
+#: .\gain.xml
+msgid "[Normalize]Target Peak"
+msgstr "Maksymalnie"
+
+#: .\converter.xml
+msgid "[ProcessProgress]Time Remaining:"
+msgstr "Pozostało:"
+
+#: .\converter.xml
+msgid "[SourceResultFilesSection]Transfer all files to source list"
+msgstr "Prześlij wszystkie pliki do listy źródeł"
+
+#: .\format.xml
+msgid "[FormatConverter]Type"
+msgstr "Typ"
+
+#: .\format.xml
+msgid "[Concatenator]Use source folder as file name"
+msgstr "Użyj folderu źródłowego jako nazwy pliku"
+
+#: .\converter.xml
+msgid "[UsingSource]Using source location"
+msgstr "Użyj źródłowej lokalizacji"
+
+#: .\converter.xml
+msgid "[PlugInFileInfo]Vendor:"
+msgstr "Dostawca:"
+
+#: .\converter.xml
+msgid "[AudioFilePreview]Volume"
+msgstr "Głośność"
+
+#~ msgid "[SearchBar](Not searchable)"
+#~ msgstr "(nie można wyszukać)"
+
+#~ msgid "[SearchBar]Clear"
+#~ msgstr "Wyczyść"
+
+#~ msgid "[SearchBar]Search for"
+#~ msgstr "Szukaj"
+
+#~ msgid "[SearchBar]Search in"
+#~ msgstr "Szukaj w"
+
+#~ msgid "[BrowseNavigator]Show Thumbnails"
+#~ msgstr "Pokaż miniatury"

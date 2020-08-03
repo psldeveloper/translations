@@ -1,0 +1,1 @@
+Ce périphérique reçoit les commandes de transport MMC (MIDI Machine Control). 

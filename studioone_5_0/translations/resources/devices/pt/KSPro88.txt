@@ -1,0 +1,1 @@
+﻿Selecione o preset de fábrica 10 no Keystation. Os Faders C1 a C8, os controles B11 a B17 e os botões C52 a C59 são mapeados ao Console. O Fader 9 é o volume Master. O botão C60 liga/desliga o metrônomo.

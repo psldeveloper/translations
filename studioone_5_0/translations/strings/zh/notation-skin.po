@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\scoreedittasks.xml
+msgid "[MakeTupletDialog]Auto"
+msgstr "自动"
+
+#: .\scoreedittasks.xml
+msgid "[MakeTupletDialog]Brackets"
+msgstr " 方括号"
+
+#: .\scoreedittasks.xml
+msgid "[MakeTupletDialog]Fit"
+msgstr " Fit"
+
+#: .\scoreedittasks.xml
+msgid "[MakeTupletDialog]Hide"
+msgstr "隐藏"
+
+#: .\scoreedittasks.xml
+msgid "[TransposeDialog]Interval"
+msgstr "音程"
+
+#: .\scoreedittasks.xml
+msgid "[TransposeDialog]Interval quality"
+msgstr " 音程音色"
+
+#: .\scoreedittasks.xml
+msgid "[MakeTupletDialog]Into"
+msgstr " 进入"
+
+#: .\scoreedittasks.xml
+msgid "[MakeTupletDialog]Make Custom Tuplet"
+msgstr " 制作定制连音"
+
+#: .\scoreedittasks.xml
+msgid "[TransposeDialog]Octave"
+msgstr "倍频程"
+
+#: .\scoreedittasks.xml
+msgid "[MakeTupletDialog]Show"
+msgstr "显示"
+
+#: .\scoreedittasks.xml
+msgid "[MakeTupletDialog]Show as ratio"
+msgstr " 显示比例"
+
+#: .\scoreedittasks.xml
+msgid "[TransposeDialog]Transpose"
+msgstr "移调"
+
+#: .\scoreedittasks.xml
+msgid "[TransposeDialog]Transpose Down"
+msgstr " 下转调"
+
+#: .\scoreedittasks.xml
+msgid "[TransposeDialog]Transpose Up"
+msgstr " 上转调"
+

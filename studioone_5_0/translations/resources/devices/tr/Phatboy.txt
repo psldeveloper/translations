@@ -1,0 +1,1 @@
+Phatboy'un arkasındaki düğmeden MODE III'ü seçin. Tüm MIDI kanallarında çalışır.

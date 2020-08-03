@@ -1,0 +1,2 @@
+﻿Utilize as configurações padrão para os faders 1 a 16 e configure KN 1 a 8 para Controller 14, 15, 16, 17, 18, 19, 20 e 21.
+ Os bancos de fader controlam os canais 1 a 16 do mixer.

@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\cloudpublisher.cpp
+msgid "[Store]Created By"
+msgstr "Creato da"
+
+#: .\cloudpublisher.cpp
+msgid "[Store]File"
+msgstr "File"
+
+#: .\cloudpublisher.cpp
+msgid "[Store]Name"
+msgstr "Nome"
+
+#: .\cloudpublisher.cpp
+msgid "[Store]No workspace found."
+msgstr "Nessuna area di lavoro trovata."
+
+#: .\exchangehandler.cpp
+msgid "[Store]PreSonus Exchange"
+msgstr "PreSonus Exchange"
+
+#: .\plugversion.h
+msgid "[Store]PreSonus Services Support"
+msgstr "Supporto Servizi PreSonus"
+
+#: .\marketplacehandler.cpp
+msgid "[Store]PreSonus Shop"
+msgstr "PreSonus Shop"
+
+#: .\cloudpublisher.cpp
+msgid "[Store]Size"
+msgstr "Dimensione"
+
+#: .\plugversion.h
+msgid "[Store]Support for PreSonus Shop and Exchange"
+msgstr "Supporto per PreSonus Shop e Exchange"
+
+#: .\cloudpublisher.cpp
+msgid "[Store]Upload to %(1)"
+msgstr "Carica al %(1)"
+

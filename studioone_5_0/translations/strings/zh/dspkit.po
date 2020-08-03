@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]12th Octave"
+msgstr "1/12倍频程"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]EBU R128"
+msgstr "EBU R128"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]FFT"
+msgstr "FFT"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]FFT Curve"
+msgstr "FFT曲线"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Fast"
+msgstr "快"
+
+#: .\gui\spectrum\sonopainter.cpp .\gui\spectrum\spectrumpainter.cpp
+msgid "[SpectrumDisplay]Freq"
+msgstr "频率"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]Hold Length"
+msgstr "保持长度"
+
+#: .\gui\level\levelmeterdisplay.cpp
+msgid "[LevelMeterDisplay]Integrated: %(1:1) LU"
+msgstr "集成: %(1:1) LU"
+
+#: .\gui\level\levelmeterdisplay.cpp
+msgid "[LevelMeterDisplay]Integrated: %(1:1) LUFS"
+msgstr "集成： %(1:1) LUFS"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]K-12"
+msgstr "K-12"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]K-14"
+msgstr "K-14"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]K-20"
+msgstr "K-20"
+
+#: .\gui\spectrum\spectrumpainter.cpp
+msgid "[SpectrumDisplay]Level"
+msgstr "电平"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Long"
+msgstr "长"
+
+#: .\gui\level\levelmeterdisplay.cpp
+msgid "[LevelMeterDisplay]Loudness Range: %(1:1) LU"
+msgstr "响度范围: %(1:1) LU"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Medium"
+msgstr "中"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]None"
+msgstr "无"
+
+#: .\gui\spectrum\spectrumpainter.cpp
+msgid "[SpectrumDisplay]Note"
+msgstr "音符"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Octave"
+msgstr "倍频程"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]Peak"
+msgstr "峰值"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]Peak Hold"
+msgstr "峰值保持"
+
+#: .\gui\level\levelmeterdisplay.cpp
+msgid "[LevelMeterDisplay]Peak Hold L: %(1:1) dB - R: %(2:1) dB"
+msgstr "峰值保持 L: %(1:1) dB - R: %(2:1) dB"
+
+#: .\gui\level\levelmeterdisplay.cpp
+msgid "[LevelMeterDisplay]Peak Hold: %(1:1) dB"
+msgstr "峰值保持: %(1:1) dB"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]Peak/RMS"
+msgstr " 峰值/RMS"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]RMS Length"
+msgstr "RMS长度"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Segments"
+msgstr "分段"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Short"
+msgstr "短"
+
+#: .\gui\level\levelmeterdisplay.cpp
+msgid "[LevelMeterDisplay]Short-Term | Momentary"
+msgstr "短期 | 瞬间"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Slow"
+msgstr "慢"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Sonogram"
+msgstr "声波图"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Third Octave"
+msgstr "1/3倍频程"
+
+#: .\gui\spectrum\sonopainter.cpp
+msgid "[SpectrumDisplay]Time"
+msgstr "时间"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Waterfall"
+msgstr "頻瀑"
+
+#~ msgid "[LevelMeterComponent]VU Hold"
+#~ msgstr "VU控制"
+
+#~ msgid "[Sampler]%(1) programs"
+#~ msgstr "%(1) 项目"
+
+#~ msgid "[FileType]EXS24 File"
+#~ msgstr "EXS24文件"
+
+#~ msgid "[WaveDisplay]File not found"
+#~ msgstr "未找到文件"
+
+#~ msgid "[FileType]Giga File"
+#~ msgstr "千兆文件"
+
+#~ msgid "[Sampler]Importing..."
+#~ msgstr "导入中..."
+
+#~ msgid "[SamplerUserOption]Instrument Library"
+#~ msgstr "乐器库"
+
+#~ msgid "[FileType]Kontakt File"
+#~ msgstr "Kontakt文件"
+
+#~ msgid "[FileType]Multisample File"
+#~ msgstr "多重采样文件"
+
+#~ msgid "[Sampler]Not supported %(1)"
+#~ msgstr "不支持%(1)"
+
+#~ msgid "[KeySwitchList]Pitch"
+#~ msgstr "音高"
+
+#~ msgid "[Sampler]Preset in %(1)"
+#~ msgstr "[Sampler在 %(1)的预设"
+
+#~ msgid "[FileType]Sampler File"
+#~ msgstr "采样文件"
+
+#~ msgid "[Sampler]Searching Samples"
+#~ msgstr "搜索采样"
+
+#~ msgid "[FileType]SoundFont"
+#~ msgstr "音色库"
+
+#~ msgid "[KeySwitchList]Title"
+#~ msgstr "标题"
+

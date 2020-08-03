@@ -1,0 +1,1 @@
+﻿Verbinden Sie das ATOM mit dem Computer, um es mit Studio One zu verwenden.

@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\skin.xml
+msgid "[LameEncoderResolution]Bitrate:"
+msgstr "ビットレート:"
+
+#: .\skin.xml
+msgid "[LameEncoderResolution]Constant bitrate"
+msgstr "固定ビットレート"
+
+#: .\skin.xml
+msgid "[LameEncoderResolution]Quality:"
+msgstr "クオリティ:"
+
+#: .\skin.xml
+msgid "[LameEncoderOption]Sample Rate:"
+msgstr "サンプルレート:"
+
+#: .\skin.xml
+msgid "[LameEncoderResolution]Variable bitrate"
+msgstr "可変ビットレート:"
+
+#~ msgid "[LameEncoderOption]Bitrate:"
+#~ msgstr "ビットレート:"
+

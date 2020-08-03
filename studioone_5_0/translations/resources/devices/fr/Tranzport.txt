@@ -1,0 +1,1 @@
+La molette avec Shift règle le volume de canal. In et Out servent au zoom (vertical avec Shift). Shift Rec sauvegarde le morceau. Shift Mute est la coupure globale du son (Global Mute). Shift Solo est le solo global. Shift Add supprime le marqueur.

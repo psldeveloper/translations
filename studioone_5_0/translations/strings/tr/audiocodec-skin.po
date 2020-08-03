@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\skin.xml
+msgid "[FlacEncoderOption]0: fastest, least compression"
+msgstr "0: en hızlı, en az sıkıştırmalı"
+
+#: .\skin.xml
+msgid "[FlacEncoderOption]8: slowest, most compression"
+msgstr "8: en yavaş, en fazla sıkıştırmalı"
+
+#: .\skin.xml
+msgid "[CoreAudioEncoderOption]AAC"
+msgstr "AAC"
+
+#: .\skin.xml
+msgid "[CoreAudioEncoderResolution]AAC"
+msgstr "AAC"
+
+#: .\skin.xml
+msgid "[M4AEncoderOption]AAC"
+msgstr "AAC"
+
+#: .\skin.xml
+msgid "[M4AEncoderResolution]AAC"
+msgstr "AAC"
+
+#: .\skin.xml
+msgid "[CoreAudioEncoderOption]ALAC"
+msgstr "ALAC"
+
+#: .\skin.xml
+msgid "[CoreAudioEncoderResolution]ALAC"
+msgstr "ALAC"
+
+#: .\skin.xml
+msgid "[M4AEncoderOption]ALAC"
+msgstr "ALAC"
+
+#: .\skin.xml
+msgid "[M4AEncoderResolution]ALAC"
+msgstr "ALAC"
+
+#: .\skin.xml
+msgid "[OggEncoderResolution]Average bitrate:"
+msgstr "Ortalama bitrate:"
+
+#: .\skin.xml
+msgid "[CoreAudioEncoderOption]Bitrate:"
+msgstr "Örnekleme derinliği:"
+
+#: .\skin.xml
+msgid "[CoreAudioEncoderResolution]Bitrate:"
+msgstr "Örnekleme derinliği:"
+
+#: .\skin.xml
+msgid "[M4AEncoderOption]Bitrate:"
+msgstr "Örnekleme derinliği:"
+
+#: .\skin.xml
+msgid "[M4AEncoderResolution]Bitrate:"
+msgstr "Örnekleme derinliği:"
+
+#: .\skin.xml
+msgid "[FlacEncoderOption]Compression Level:"
+msgstr "Sıkıştırma oranı:"
+
+#: .\skin.xml
+msgid "[CoreAudioEncoderOption]Linear PCM"
+msgstr "Lineer PCM"
+
+#: .\skin.xml
+msgid "[CoreAudioEncoderResolution]Linear PCM"
+msgstr "Lineer PCM"
+
+#: .\skin.xml
+msgid "[OggEncoderResolution]Managed bitrate"
+msgstr "Ortalama bitrate:"
+
+#: .\skin.xml
+msgid "[OggEncoderResolution]Maximum bitrate:"
+msgstr "Maksimum bitrate:"
+
+#: .\skin.xml
+msgid "[OggEncoderResolution]Minimum bitrate:"
+msgstr "Minimum bitrate:"
+
+#: .\skin.xml
+msgid "[OggEncoderResolution]Quality:"
+msgstr "Kalite:"
+
+#: .\skin.xml
+msgid "[FlacEncoderOption]Resolution:"
+msgstr "Çözünürlük:"
+
+#: .\skin.xml
+msgid "[CoreAudioEncoderOption]Resolution:"
+msgstr "Çözünürlük"
+
+#: .\skin.xml
+msgid "[CoreAudioEncoderResolution]Resolution:"
+msgstr "Çözünürlük:"
+
+#: .\skin.xml
+msgid "[M4AEncoderOption]Resolution:"
+msgstr "Çözünürlük:"
+
+#: .\skin.xml
+msgid "[M4AEncoderResolution]Resolution:"
+msgstr "Çözünürlük:"
+
+#: .\skin.xml
+msgid "[FlacEncoderOption]Sample Rate:"
+msgstr "Örnekleme oranı:"
+
+#: .\skin.xml
+msgid "[OggEncoderOption]Sample Rate:"
+msgstr "Örnekleme oranı:"
+
+#: .\skin.xml
+msgid "[CoreAudioEncoderOption]Sample Rate:"
+msgstr "Örnekleme oranı:"
+
+#: .\skin.xml
+msgid "[M4AEncoderOption]Sample Rate:"
+msgstr "Örnekleme oranı:"
+
+#: .\skin.xml
+msgid "[OggEncoderResolution]Variable bitrate"
+msgstr "Değişken örnekleme"
+

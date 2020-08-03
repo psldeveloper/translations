@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\aafhandler.cpp
+msgid "[FileType]AAF File"
+msgstr "AAF Dosyası"
+
+#: .\aafhandler.cpp
+msgid "[AAF]An audio event has modifications and needs to be bounced."
+msgstr "Ses klip'inde değişiklik olduğundan bounce edilmesi gerekiyor."
+
+#: .\aafhandler.cpp
+msgid "[AAF]An audio image is not ready."
+msgstr "Ses görüntüsü hazır değil"
+
+#: .\aafhandler.cpp
+msgid "[AAF]An audio part needs to be bounced."
+msgstr "Bir ses bölümünün bounce edilmesi gerekiyor"
+
+#: .\aafhandler.cpp
+msgid "[AAF]An event has unrendered Event FX."
+msgstr "Bir klipin içinde render edilmemiş olay efekti mevcut."
+
+#: .\aafhandler.cpp
+msgid "[AAF]Audio files from content packages can not be exported."
+msgstr "Paketlerin içindeki ses dosyaları dışarı aktarılamadı."
+
+#: .\aafwriter.cpp
+msgid "[AAF]Converting %(1)"
+msgstr "Dönüştürülen %(1)"
+
+#: .\aafwriter.cpp
+msgid "[AAF]Embedding %(1)"
+msgstr "Eklenen: %(1)"
+
+#: .\aafwriter.cpp
+msgid "[AAF]Step %(1) of %(2)"
+msgstr "Toplam %(2) adımın %(1) adımı"
+
+#: .\aafhandler.cpp
+msgid "[AAF]The AAF export has the following issues:"
+msgstr "AFF dışarı aktarımda şu sorunlar ile karşılaşıldı:"
+
+#: .\aafhandler.cpp
+msgid "[AAF]The event is not a plain audio event."
+msgstr "Klip sadece ses kliplerinden oluşmamaktadır."
+
+#: .\aafhandler.cpp
+msgid "[AAF]The file is not on your disk."
+msgstr "Dosya sürücünüzde mevcut değil."
+

@@ -1,0 +1,1 @@
+[受信元]を[Yamaha KX-1]に設定します。 Studio Oneのコントロールには、KX-DAW Remoteデバイスを使用します。

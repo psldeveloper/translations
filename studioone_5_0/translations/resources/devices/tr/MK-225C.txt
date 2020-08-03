@@ -1,0 +1,1 @@
+Lütfen varsayılan fabrika kontroller atamasını kullanın

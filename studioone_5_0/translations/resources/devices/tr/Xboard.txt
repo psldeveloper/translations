@@ -1,0 +1,1 @@
+Xboard üzerinden bir fabrika ayarlarını seçin.

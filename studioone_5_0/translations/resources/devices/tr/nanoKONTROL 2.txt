@@ -1,0 +1,1 @@
+﻿Lütfen Mackie Control çalışma modunu seçin. (USB kablosunu takarken SET MARKER ve REW tuşuna basılı tutun)

@@ -1,0 +1,1 @@
+﻿Selecione um preset de fábrica no Xboard.

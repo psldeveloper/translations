@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: smartCAT.ai\n"
+
+#: .\resourcetypes.cpp
+msgid "[SoundCloud](not set)"
+msgstr "(无设置)"
+
+#: .\tracklist.cpp
+msgid "[SoundCloud]Done"
+msgstr "完成"
+
+#: .\tracklist.cpp
+msgid "[SoundCloud]Failed"
+msgstr "失败"
+
+#: .\tracklist.cpp
+msgid "[SoundCloud]File"
+msgstr "文件"
+
+#: .\tracklist.cpp
+msgid "[SoundCloud]Reset"
+msgstr "重置"
+
+#: .\plugversion.h
+msgid "[SoundCloud]SoundCloud Client"
+msgstr "SoundCloud客户端"
+
+#: .\plugversion.h
+msgid "[SoundCloud]SoundCloud Support"
+msgstr "SoundCloud支持"
+
+#: .\tracklist.cpp
+msgid "[SoundCloud]State"
+msgstr "状态"
+
+#: .\plugversion.h
+msgid "[SoundCloud]Support for SoundCloud uploads and downloads"
+msgstr "SoundCloud上传和下载支持"
+
+#: .\tracklist.cpp
+msgid "[SoundCloud]Title"
+msgstr "标题"
+
+#: .\plugversion.h
+msgid "[SoundCloud]Upload to SoundCloud"
+msgstr "上传到SoundCloud"
+
+#: .\tracklist.cpp
+msgid "[SoundCloud]Uploading..."
+msgstr "正在上传..."
+
+#: .\activityinfo.cpp
+msgid "[SoundCloud]favorite"
+msgstr "收藏夹"
+

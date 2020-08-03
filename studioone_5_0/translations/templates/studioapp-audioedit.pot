@@ -1,0 +1,48 @@
+#: .\translation.js
+msgid "[AudioEdit]Add Insert to Selected Channels"
+msgstr ""
+
+#: .\translation.js
+msgid "[AudioEdit]Add Instrument to Selected Tracks"
+msgstr ""
+
+#: .\translation.js
+msgid "[AudioEdit]Add Note FX to Selected Tracks"
+msgstr ""
+
+#: .\translation.js
+msgid "[AudioEdit]Decrease Volume"
+msgstr ""
+
+#: .\translation.js
+msgid "[AudioEdit]Decrease Volume Fine"
+msgstr ""
+
+#: .\translation.js
+msgid "[AudioEdit]Edit Volume"
+msgstr ""
+
+#: .\translation.js
+msgid "[AudioEdit]Increase Volume"
+msgstr ""
+
+#: .\translation.js
+msgid "[AudioEdit]Increase Volume Fine"
+msgstr ""
+
+#: .\translation.js
+msgid "[AudioEdit]Insert Event FX"
+msgstr ""
+
+#: .\translation.js
+msgid "[AudioEdit]Level"
+msgstr ""
+
+#: .\translation.js
+msgid "[AudioEdit]Relative"
+msgstr ""
+
+#: .\translation.js
+msgid "[AudioEdit]Select in Pool"
+msgstr ""
+

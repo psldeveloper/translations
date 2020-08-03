@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]12th Octave"
+msgstr "1/12 oktawy"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]EBU R128"
+msgstr "EBU R128"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]FFT"
+msgstr "FFT"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]FFT Curve"
+msgstr "Krzywa FFT"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Fast"
+msgstr "Szybko"
+
+#: .\gui\spectrum\sonopainter.cpp .\gui\spectrum\spectrumpainter.cpp
+msgid "[SpectrumDisplay]Freq"
+msgstr "Częstotliwość"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]Hold Length"
+msgstr "Długość zatrzymania wartości szczytowej"
+
+#: .\gui\level\levelmeterdisplay.cpp
+msgid "[LevelMeterDisplay]Integrated: %(1:1) LU"
+msgstr "Zintegrowany: %(1:1) LU"
+
+#: .\gui\level\levelmeterdisplay.cpp
+msgid "[LevelMeterDisplay]Integrated: %(1:1) LUFS"
+msgstr "Zintegrowany: %(1:1) LUFS"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]K-12"
+msgstr "K-12"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]K-14"
+msgstr "K-14"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]K-20"
+msgstr "K-20"
+
+#: .\gui\spectrum\spectrumpainter.cpp
+msgid "[SpectrumDisplay]Level"
+msgstr "Poziom"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Long"
+msgstr "Długo"
+
+#: .\gui\level\levelmeterdisplay.cpp
+msgid "[LevelMeterDisplay]Loudness Range: %(1:1) LU"
+msgstr "Zakres głośności: %(1:1) LU"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Medium"
+msgstr "Średnio"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]None"
+msgstr "Brak"
+
+#: .\gui\spectrum\spectrumpainter.cpp
+msgid "[SpectrumDisplay]Note"
+msgstr "Nuta"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Octave"
+msgstr "Oktawa"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]Peak"
+msgstr "Wartość szczytowa"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]Peak Hold"
+msgstr "Zatrzymanie wartości szczytowej"
+
+#: .\gui\level\levelmeterdisplay.cpp
+msgid "[LevelMeterDisplay]Peak Hold L: %(1:1) dB - R: %(2:1) dB"
+msgstr "Zatrzymanie wartości szczytowej L: %(1:1) dB - R: %(2:1) dB"
+
+#: .\gui\level\levelmeterdisplay.cpp
+msgid "[LevelMeterDisplay]Peak Hold: %(1:1) dB"
+msgstr "Zatrzymanie wartości szczytowej: %(1:1) dB"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]Peak/RMS"
+msgstr "Peak/RMS"
+
+#: .\gui\level\levelcomponent.cpp
+msgid "[LevelMeterComponent]RMS Length"
+msgstr "Długość RMS"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Segments"
+msgstr "Segmenty"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Short"
+msgstr "Krótko"
+
+#: .\gui\level\levelmeterdisplay.cpp
+msgid "[LevelMeterDisplay]Short-Term | Momentary"
+msgstr "Krótki czas | Natychmiastowo"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Slow"
+msgstr "Wolno"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Sonogram"
+msgstr "Sonogram"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Third Octave"
+msgstr "Trzecia oktawa"
+
+#: .\gui\spectrum\sonopainter.cpp
+msgid "[SpectrumDisplay]Time"
+msgstr "Czas"
+
+#: .\gui\spectrum\spectrumcomponent.cpp
+msgid "[SpectrumMeter]Waterfall"
+msgstr "Wodospad"
+

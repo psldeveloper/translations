@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\rewiredevicepool.cpp
+msgid "[ReWire]Another ReWire Application is already running!"
+msgstr "Uruchomiona jest już inna aplikacja ReWire!"
+
+#: .\rewiredevicepool.cpp
+msgid "[ReWire]Found ReWire Device"
+msgstr "Znaleziono urządzenie ReWire"
+
+#: .\rewiredevicepool.cpp
+msgid "[ReWire]Please close %(1) first."
+msgstr "Zamknij najpierw %(1)."
+
+#: .\plugversion.h
+msgid "[ReWire]ReWire Support"
+msgstr "Obsługa ReWire"
+
+#: .\rewiredevicepool.cpp
+msgid "[ReWire]ReWire is not installed!"
+msgstr "ReWire nie jest zainstalowane!"
+
+#: .\rewireservicemain.cpp
+msgid "[ReWire]Support for Instruments using the ReWire Protocol"
+msgstr "Obsługa instrumentów z pomocą protokołu ReWire"
+
+#: .\rewiredevicepool.cpp
+msgid "[ReWire]The ReWire system library is too old (at least %(1).%(2).%(3) required)."
+msgstr "Biblioteka systemowa ReWire jest przestarzała (wymagana jest co najmniej %(1).%(2).%(3)."
+

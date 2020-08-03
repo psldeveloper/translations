@@ -1,0 +1,11 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+
+#: .\channelpresethandler.cpp
+msgid "[FileType]Channel Preset"
+msgstr "Zestaw kanału"
+
+#: .\channelpresethandler.cpp
+msgid "[FileType]Mixer Scene"
+msgstr "Scena miksera"

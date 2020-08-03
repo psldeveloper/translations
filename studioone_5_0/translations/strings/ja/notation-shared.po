@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Add One Octave"
+msgstr "1オクターブを追加"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Add Three Octaves"
+msgstr "3オクターブを追加"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Add Two Octaves"
+msgstr "2オクターブを追加"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Augmented"
+msgstr "オーギュメント"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Diatonic"
+msgstr "全音階"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Diminished"
+msgstr "ディミニッシュ"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Fifth"
+msgstr "5度"
+
+#: .\edittasks\fillwithreststask.cpp
+msgid "[ScoreEdit]Fill with Rests"
+msgstr "休符で埋める"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Fourth"
+msgstr "4度"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Major"
+msgstr "メジャー"
+
+#: .\edittasks\maketuplettask.cpp
+msgid "[ScoreEdit]Make Custom Tuplet"
+msgstr "カスタム連符を作成"
+
+#: .\edittasks\maketuplettask.cpp
+msgid "[ScoreEdit]Make Tuplet"
+msgstr "連符を作成"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Minor"
+msgstr "マイナー"
+
+#: .\edittasks\scoreedittask.cpp
+msgid "[ScoreEdit]Operations specific to score objects"
+msgstr "スコアオブジェクト固有の操作"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Perfect"
+msgstr "完全"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Same Octave"
+msgstr "同じオクターブ"
+
+#: .\edittasks\scoreedittask.cpp
+msgid "[ScoreEdit]Score"
+msgstr "スコア"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Second"
+msgstr "2度"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Seventh"
+msgstr "7度"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Sixth"
+msgstr "6度"
+
+#: .\edittasks\switchstafftask.cpp
+msgid "[ScoreEdit]Switch Staff"
+msgstr "譜表を切り替える"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Third"
+msgstr "3度"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Transpose"
+msgstr "トランスポーズ"
+
+#: .\edittasks\transposetask.cpp
+msgid "[ScoreEdit]Unison"
+msgstr "ユニゾン"
+

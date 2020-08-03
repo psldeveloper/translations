@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: smartCAT.ai\n"
+
+#: .\shared\videofiletypes.cpp
+msgid "[FileType]3GP Video"
+msgstr "3GP视频"
+
+#: .\shared\videofiletypes.cpp
+msgid "[FileType]AVI Video"
+msgstr "AVI视频"
+
+#: .\shared\videofiletypes.cpp
+msgid "[FileType]M4V Video"
+msgstr "M4V视频"
+
+#: .\shared\videofiletypes.cpp
+msgid "[FileType]MKV Video"
+msgstr "MKV视频"
+
+#: .\shared\videofiletypes.cpp
+msgid "[FileType]MPEG Video"
+msgstr "MPEG视频"
+
+#: .\shared\videofiletypes.cpp
+msgid "[FileType]MPEG-4 Video"
+msgstr "MPEG-4视频"
+
+#: .\shared\videofiletypes.cpp
+msgid "[FileType]QuickTime Video"
+msgstr "QuickTime视频"
+
+#: .\shared\videomain.cpp
+msgid "[VideoEngine]Support for video playback"
+msgstr "视频播放支持"
+
+#: .\plugversion.h
+msgid "[VideoEngine]Video Support"
+msgstr "视频支持"
+
+#: .\shared\videofiletypes.cpp
+msgid "[FileType]Windows Media Video"
+msgstr "Windows Media视频"
+
+#~ msgid "[FileType]MPEG 4 Video"
+#~ msgstr "MPEG 4视频"
+
+#~ msgid "[FileType]Windows Video"
+#~ msgstr "Windows视频"
+
+#~ msgid "[CoreAudio]QuickTime Video Support"
+#~ msgstr "支持QuickTime视频"
+
+#~ msgid "[QuickTime]Support for video playback with QuickTime"
+#~ msgstr "支持使用QuickTime进行视频播放"
+

@@ -1,0 +1,1 @@
+［Studio One.ncm］ファイルをNIコントロール・エディタにロードしてください。MachineハードウェアのShift-Controlを押したままStudio Oneテンプレートを選択します。リンク： http://download.presonussoftware.com/Machine.zip

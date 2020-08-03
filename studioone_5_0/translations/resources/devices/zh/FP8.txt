@@ -1,0 +1,2 @@
+在使用Studio One之前请将FaderPort 8调整至原始模式。
+

@@ -1,0 +1,2 @@
+设置"获取，从"为Yamaha KX-1。使用KX-DAW遥控驱动控制Studio one。
+

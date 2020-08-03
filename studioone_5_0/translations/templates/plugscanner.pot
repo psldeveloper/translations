@@ -1,0 +1,36 @@
+#: .\plugscanhandler.cpp
+msgid "[PlugInScanner](%(1) new)"
+msgstr ""
+
+#: .\plugscanhandler.cpp
+msgid "[PlugInScanner]Failed to launch plug-in scan process!"
+msgstr ""
+
+#: .\plugscanhandler.cpp
+msgid "[PlugInScanner]Failed to scan %(1)."
+msgstr ""
+
+#: .\plugscanhandler.cpp
+msgid "[PlugInScanner]Plug-in scan completed in %(1)"
+msgstr ""
+
+#: .\plugscanhandler.cpp
+msgid "[PlugInScanner]Plug-in scan completed."
+msgstr ""
+
+#: .\plugscanhandler.cpp
+msgid "[PlugInScanner]Scanning %(1) of %(2)"
+msgstr ""
+
+#: .\plugscanhandler.cpp
+msgid "[PlugInScanner]Scanning folder \"%(1)\""
+msgstr ""
+
+#: .\plugscanhandler.cpp
+msgid "[PlugInScanner]Terminating plug-in scan process..."
+msgstr ""
+
+#: .\plugscanhandler.cpp
+msgid "[PlugInScanner]Waiting for plug-in scan process..."
+msgstr ""
+

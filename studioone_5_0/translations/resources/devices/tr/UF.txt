@@ -1,0 +1,2 @@
+Fader 1-16 için fabrika ayarlarını kullanın ve KN 1-8'i kontroller 14, 15, 16, 17, 18, 19, 20 ve 21'e atayın.
+Fader bankaları mikser kanalı 1-16'yı kontrol eder.

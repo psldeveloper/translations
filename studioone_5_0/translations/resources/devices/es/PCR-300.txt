@@ -1,0 +1,1 @@
+﻿Establezca "Receive From" para EDIROL PCR 1. Funciona con los modelos 300, 500 y 800. para controlar Studio One utilice el dispositivo PCR-V-Link

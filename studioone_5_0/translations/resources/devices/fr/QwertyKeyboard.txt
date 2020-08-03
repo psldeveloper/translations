@@ -1,0 +1,1 @@
+Utilisez ce périphérique pour que votre clavier d'ordinateur émule l'entrée MIDI. 

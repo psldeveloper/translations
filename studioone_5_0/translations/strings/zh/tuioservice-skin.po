@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: smartCAT.ai\n"
+
+#: .\option.xml
+msgid "[TUIOUserOption]Connect multi-touch device with monitor number"
+msgstr "连接带监听器编号的多点触控设备"
+
+#: .\option.xml
+msgid "[TUIOUserOption]Enable TUIO multi-touch devices on UDP port"
+msgstr "在UDP端口上启用TUIO多点触控设备"
+
+#: .\option.xml
+msgid "[TUIOUserOption]Number of attached multi-touch devices"
+msgstr "连接的多点触控设备数量"
+
+#: .\option.xml
+msgid "[TUIOUserOption]This"
+msgstr "这个"
+

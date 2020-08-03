@@ -1,0 +1,1 @@
+﻿Utilizzate questo dispositivo per emulare l'ingresso MIDI con la tastiera del computer normale.

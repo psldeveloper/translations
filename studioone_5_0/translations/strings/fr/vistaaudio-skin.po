@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\skin.xml
+msgid "[VistaAudioWarning]Alternatively, please check if there is a dedicated audio driver available from the device manufacturer."
+msgstr "Sinon, veuillez vérifier auprès du fabricant de l'appareil si un pilote audio dédié est disponible."
+
+#: .\skin.xml
+msgid "[VistaAudioControlPanel]Exclusive Mode"
+msgstr "Mode exclusif"
+
+#: .\skin.xml
+msgid "[VistaAudioWarning]For $APPCOMPANY devices, please download and install Universal Control from the $APPCOMPANY website."
+msgstr "Pour les appareils $APPCOMPANY, veuillez télécharger Universal Control depuis le site web $APPCOMPANY et l'installer."
+
+#: .\skin.xml
+msgid "[VistaAudioControlPanel]Latency [ms]"
+msgstr "Latence [ms]"
+
+#: .\skin.xml
+msgid "[VistaAudioControlPanel]Manage audio devices"
+msgstr "Gérer les périphériques audio"
+
+#: .\skin.xml
+msgid "[VistaAudioWarning]Manage audio devices"
+msgstr "Gérer les périphériques audio"
+
+#: .\skin.xml
+msgid "[VistaAudioControlPanel]Options"
+msgstr "Options"
+
+#: .\skin.xml
+msgid "[VistaAudioControlPanel]Playback Device"
+msgstr "Périphérique de lecture"
+
+#: .\skin.xml
+msgid "[VistaAudioControlPanel]Recording Device"
+msgstr "Périphérique d'enregistrement"
+
+#: .\skin.xml
+msgid "[VistaAudioControlPanel]Windows Audio"
+msgstr "Windows Audio"
+
+#: .\skin.xml
+msgid "[VistaAudioWarning]Windows Audio"
+msgstr "Windows Audio"
+
+#~ msgid "[VistaAudioControlPanel]Playback"
+#~ msgstr "Lecture"
+
+#~ msgid "[VistaAudioControlPanel]Recording"
+#~ msgstr "Enregistrement"
+

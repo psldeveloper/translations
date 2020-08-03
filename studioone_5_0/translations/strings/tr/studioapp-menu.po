@@ -1,0 +1,981 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\menubar.xml
+msgid "[Menu]$APPCOMPANY Shop"
+msgstr "$APPCOMPANY Mağaza"
+
+#: .\menubar.xml
+msgid "[Menu]$APPNAME"
+msgstr "$APPNAME"
+
+#: .\menubar.xml
+msgid "[Menu]$APPNAME Activation"
+msgstr "$APPNAME Aktivasyon"
+
+#: .\menubar.xml
+msgid "[Menu]$APPNAME Extensions"
+msgstr "$APPNAME Genişletmeleri"
+
+#: .\menubar.xml
+msgid "[Menu]$APPNAME Installation"
+msgstr "$APPNAME Kurulumu"
+
+#: .\menubar.xml
+msgid "[Menu]$APPNAME Packages"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]$APPNAME Reference Manual"
+msgstr "$APPNAME Kullanım Klavuzu"
+
+#: .\menubar.xml
+msgid "[Menu]$APPNAME Website"
+msgstr "$APPNAME Web Sayfası"
+
+#: .\menubar.xml
+msgid "[Menu]About $APPNAME"
+msgstr "$APPNAME hakkında"
+
+#: .\menubar.xml
+msgid "[Menu]Activate Purchased Items"
+msgstr "Satın alınanları aktifleştir"
+
+#: .\menubar.xml
+msgid "[Menu]Add Backing Track Player"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Add Layer"
+msgstr "Katman Ekle"
+
+#: .\menubar.xml
+msgid "[Menu]Add Player"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Add Real Instrument Player"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Add Setlist Item"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Additional Views"
+msgstr "Ek Görünümler"
+
+#: .\menubar.xml
+msgid "[Menu]Application"
+msgstr "Uygulama"
+
+#: .\menubar.xml
+msgid "[Menu]Arm Track"
+msgstr "İzi hazırla"
+
+#: .\menubar.xml
+msgid "[Menu]Audio"
+msgstr "Ses"
+
+#: .\menubar.xml
+msgid "[Menu]Automation"
+msgstr "Otomasyon"
+
+#: .\menubar.xml
+msgid "[Menu]Backup and Restore"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Browser"
+msgstr "Tarayıcı"
+
+#: .\menubar.xml
+msgid "[Menu]Burn Audio CD"
+msgstr "Audio CD yak"
+
+#: .\menubar.xml
+msgid "[Menu]CD Protocol"
+msgstr "CD Protokolü"
+
+#: .\menubar.xml
+msgid "[Menu]Check for Updates"
+msgstr "Güncellemeleri kontrol et"
+
+#: .\menubar.xml
+msgid "[Menu]Close"
+msgstr "Kapat"
+
+#: .\menubar.xml
+msgid "[Menu]Close All"
+msgstr "Tümünü kapat"
+
+#: .\menubar.xml
+msgid "[Menu]Console"
+msgstr "Konsol"
+
+#: .\menubar.xml
+msgid "[Menu]Controls"
+msgstr "Kontroller"
+
+#: .\menubar.xml
+msgid "[Menu]Copy"
+msgstr "Kopyala"
+
+#: .\menubar.xml
+msgid "[Menu]Copy External Files"
+msgstr "Harici dosyaları kopyala"
+
+#: .\menubar.xml
+msgid "[Menu]Create Ranges"
+msgstr "Alanlar Oluştur"
+
+#: .\menubar.xml
+msgid "[Menu]Create Ranges on Tracks"
+msgstr "İzler üzerinde alanlar oluştur"
+
+#: .\menubar.xml
+msgid "[Menu]Cut"
+msgstr "Kes"
+
+#: .\menubar.xml
+msgid "[Menu]Delete"
+msgstr "Sil"
+
+#: .\menubar.xml
+msgid "[Menu]Delete Time"
+msgstr "Zamanı Sil"
+
+#: .\menubar.xml
+msgid "[Menu]Delete Undo History"
+msgstr "Undo tarihçesini sil"
+
+#: .\menubar.xml
+msgid "[Menu]Deselect All"
+msgstr "Tüm seçimleri kaldır"
+
+#: .\menubar.xml
+msgid "[Menu]Deselect All on Tracks"
+msgstr "Tüm izlerdeki seçimleri kaldır"
+
+#: .\menubar.xml
+msgid "[Menu]Digital Release"
+msgstr "Dijital Baskı"
+
+#: .\menubar.xml
+msgid "[Menu]Disable Setlist Item"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Disable Track"
+msgstr "İzi devre dışı bırak"
+
+#: .\menubar.xml
+msgid "[Menu]Dissolve Group"
+msgstr "Gurubu yok et"
+
+#: .\menubar.xml
+msgid "[Menu]Duplicate"
+msgstr "Kopyala"
+
+#: .\menubar.xml
+msgid "[Menu]Duplicate (complete)"
+msgstr "Kopyala (Tümünü)"
+
+#: .\menubar.xml
+msgid "[Menu]Duplicate Layer"
+msgstr "Katman Kopyala"
+
+#: .\menubar.xml
+msgid "[Menu]Duplicate Player"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Duplicate Setlist Item"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Duplicate Shared"
+msgstr "Paylaşılan Kopyala"
+
+#: .\menubar.xml
+msgid "[Menu]Duplicate and Insert"
+msgstr "Kopyala ve araya ekle"
+
+#: .\menubar.xml
+msgid "[Menu]Edit"
+msgstr "Düzenle"
+
+#: .\menubar.xml
+msgid "[Menu]Edit Track"
+msgstr "İzi Düzenle"
+
+#: .\menubar.xml
+msgid "[Menu]Editor"
+msgstr "Düzenleyici"
+
+#: .\menubar.xml
+msgid "[Menu]Enable Play Start Marker"
+msgstr "Çalma başlangıcı işaretini aktif et"
+
+#: .\menubar.xml
+msgid "[Menu]Enable Setlist Item"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Enable Track"
+msgstr "İzi Aktif et"
+
+#: .\menubar.xml
+msgid "[Menu]Event"
+msgstr "Klip"
+
+#: .\menubar.xml
+msgid "[Menu]Export Mixdown"
+msgstr "Miksdown'u Dışarı Aktar"
+
+#: .\menubar.xml
+msgid "[Menu]Export Stems"
+msgstr "Stem'leri Dışarı aktar"
+
+#: .\menubar.xml
+msgid "[Menu]Export Video"
+msgstr "Video Dışa Aktar"
+
+#: .\menubar.xml
+msgid "[Menu]External Sync Options"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]FaderPort User Guide"
+msgstr "FaderPort Kullanıcı Klavuzu"
+
+#: .\menubar.xml
+msgid "[Menu]File"
+msgstr "Dosya"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Loop End"
+msgstr "Loop Sonuna Git"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Loop Start"
+msgstr "Loop Başına Git"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Marker"
+msgstr "İşarete Git"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Next Event"
+msgstr "Bir Sonraki Klipe Git"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Next Marker"
+msgstr "Bir Sonraki İşarete Git"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Next Setlist Item"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Goto Next Track"
+msgstr "Bir Sonraki İze Git"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Previous Event"
+msgstr "Bir Önceki Klipe Git"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Previous Marker"
+msgstr "Bir Önceki İşarete Git"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Previous Setlist Item"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Goto Previous Track"
+msgstr "Bir Önceki İze Git"
+
+#: .\menubar.xml
+msgid "[Menu]Goto Time"
+msgstr "Zamana Git"
+
+#: .\menubar.xml
+msgid "[Menu]Group Selected Tracks"
+msgstr "Seçili İzleri Gurupla"
+
+#: .\menubar.xml
+msgid "[Menu]Help"
+msgstr "Yardım"
+
+#: .\menubar.xml
+msgid "[Menu]History"
+msgstr "Geçmiş"
+
+#: .\menubar.xml
+msgid "[Menu]Ignore Plug-In Latency"
+msgstr "Plug-In Gecikmesini Görmezden Gel"
+
+#: .\menubar.xml
+msgid "[Menu]Import File"
+msgstr "İçe Dosya Aktar"
+
+#: .\menubar.xml
+msgid "[Menu]Import Song Data"
+msgstr "Parça Bilgisi İçeri Aktar"
+
+#: .\menubar.xml
+msgid "[Menu]Info View"
+msgstr "Bilgi Görüntüsü"
+
+#: .\menubar.xml
+msgid "[Menu]Insert Marker"
+msgstr "İşaret Ekle"
+
+#: .\menubar.xml
+msgid "[Menu]Insert Silence"
+msgstr "Sessizlik Ekle"
+
+#: .\menubar.xml
+msgid "[Menu]Inspector"
+msgstr "Denetçi"
+
+#: .\menubar.xml
+msgid "[Menu]Invert Selection"
+msgstr "Seçimi Evir"
+
+#: .\menubar.xml
+msgid "[Menu]Keyboard Shortcuts"
+msgstr "Klavye Kısayolları"
+
+#: .\menubar.xml
+msgid "[Menu]Layers"
+msgstr "Katmanlar"
+
+#: .\menubar.xml
+msgid "[Menu]Locate Missing Devices"
+msgstr "Eksik Aygıtları Bul"
+
+#: .\menubar.xml
+msgid "[Menu]Locate Missing Files"
+msgstr "Eksik Dosyaları Bul"
+
+#: .\menubar.xml
+msgid "[Menu]Locate Selection"
+msgstr "Seçimi Bul"
+
+#: .\menubar.xml
+msgid "[Menu]Locate Selection End"
+msgstr "Seçimin Sonunu Bul"
+
+#: .\menubar.xml
+msgid "[Menu]Login"
+msgstr "Giriş"
+
+#: .\menubar.xml
+msgid "[Menu]Loop Active"
+msgstr "Loop Aktif"
+
+#: .\menubar.xml
+msgid "[Menu]Loop Follows Selection"
+msgstr "Loop Seçimi Takip Etsin"
+
+#: .\menubar.xml
+msgid "[Menu]Loop Selection"
+msgstr "Seçimi Loop'la"
+
+#: .\menubar.xml
+msgid "[Menu]Loop Selection Snapped"
+msgstr "Snap edilmiş Seçimi Lop'la"
+
+#: .\menubar.xml
+msgid "[Menu]Loop Setlist Item"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]MIDI Monitor"
+msgstr "MIDI Monitor"
+
+#: .\menubar.xml
+msgid "[Menu]Make DDP Image"
+msgstr "DDP İmaj Oluştur"
+
+#: .\menubar.xml
+msgid "[Menu]Make Image"
+msgstr "İmaj Oluştur"
+
+#: .\menubar.xml
+msgid "[Menu]Marker 1"
+msgstr "İşaret 1"
+
+#: .\menubar.xml
+msgid "[Menu]Marker 2"
+msgstr "İşaret 2"
+
+#: .\menubar.xml
+msgid "[Menu]Marker 3"
+msgstr "İşaret 3"
+
+#: .\menubar.xml
+msgid "[Menu]Marker 4"
+msgstr "İşaret 4"
+
+#: .\menubar.xml
+msgid "[Menu]Marker 5"
+msgstr "İşaret 5"
+
+#: .\menubar.xml
+msgid "[Menu]Marker 6"
+msgstr "İşaret 6"
+
+#: .\menubar.xml
+msgid "[Menu]Marker 7"
+msgstr "İşaret 7"
+
+#: .\menubar.xml
+msgid "[Menu]Messages"
+msgstr "Mesajlar"
+
+#: .\menubar.xml
+msgid "[Menu]Metronome Setup"
+msgstr "Metronom Ayarı"
+
+#: .\menubar.xml
+msgid "[Menu]Monitor Track"
+msgstr "İzi Dinle"
+
+#: .\menubar.xml
+msgid "[Menu]Move to Cursor"
+msgstr "İmlece Git"
+
+#: .\menubar.xml
+msgid "[Menu]Move to Origin"
+msgstr "Orijine Git"
+
+#: .\menubar.xml
+msgid "[Menu]Mute Track"
+msgstr "İzi Sustur"
+
+#: .\menubar.xml
+msgid "[Menu]New Project"
+msgstr "Yeni Proje"
+
+#: .\menubar.xml
+msgid "[Menu]New Show"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]New Song"
+msgstr "Yeni Şarkı"
+
+#: .\menubar.xml
+msgid "[Menu]Next Parameter"
+msgstr "Sonraki Parametre"
+
+#: .\menubar.xml
+msgid "[Menu]Note Repeat"
+msgstr "Nota tekrar"
+
+#: .\menubar.xml
+msgid "[Menu]Nudge"
+msgstr "İttir"
+
+#: .\menubar.xml
+msgid "[Menu]Nudge Back"
+msgstr "Geri İttir"
+
+#: .\menubar.xml
+msgid "[Menu]Nudge Bar"
+msgstr "Barı İttir"
+
+#: .\menubar.xml
+msgid "[Menu]Nudge Bar Back"
+msgstr "Barı Geri İttir"
+
+#: .\menubar.xml
+msgid "[Menu]Open"
+msgstr "Aç"
+
+#: .\menubar.xml
+msgid "[Menu]Open Settings Folder"
+msgstr "Ayarlar Klasörünü Aç"
+
+#: .\menubar.xml
+msgid "[Menu]Options"
+msgstr "Seçenekler"
+
+#: .\menubar.xml
+msgid "[Menu]Paste"
+msgstr "Yapıştır"
+
+#: .\menubar.xml
+msgid "[Menu]Paste at Original Position"
+msgstr "Orijinal Yerine Yapıştır"
+
+#: .\menubar.xml
+msgid "[Menu]Perform"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Performance Monitor"
+msgstr "Performans Monitörü"
+
+#: .\menubar.xml
+msgid "[Menu]Plug-In Manager"
+msgstr "Plıg-In Yöneticisi"
+
+#: .\menubar.xml
+msgid "[Menu]Preferences"
+msgstr "Tercihler"
+
+#: .\menubar.xml
+msgid "[Menu]Previous Parameter"
+msgstr "Bir Önceki Parametre"
+
+#: .\menubar.xml
+msgid "[Menu]Project"
+msgstr "Proje"
+
+#: .\menubar.xml
+msgid "[Menu]Project Setup"
+msgstr "Proje Ayarları"
+
+#: .\menubar.xml
+msgid "[Menu]Quit"
+msgstr "Çık"
+
+#: .\menubar.xml
+msgid "[Menu]Quit $APPNAME"
+msgstr "$APPNAME'den Çık"
+
+#: .\menubar.xml
+msgid "[Menu]Record Panel"
+msgstr "Kayıt Paneli"
+
+#: .\menubar.xml
+msgid "[Menu]Redo"
+msgstr "Tekrarla"
+
+#: .\menubar.xml
+msgid "[Menu]Redo Zoom"
+msgstr "Zoom'u Tekrarla"
+
+#: .\menubar.xml
+msgid "[Menu]Remaining Record Time"
+msgstr "Kalan Kayıt Zamanı"
+
+#: .\menubar.xml
+msgid "[Menu]Remove Layer"
+msgstr "Katmanı Kaldır"
+
+#: .\menubar.xml
+msgid "[Menu]Remove Player"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Remove Setlist Item"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Remove Track"
+msgstr "İzi Kaldır"
+
+#: .\menubar.xml
+msgid "[Menu]Remove Unused Files"
+msgstr "Kullanılmayan Dosyaları Kaldır"
+
+#: .\menubar.xml
+msgid "[Menu]Rename"
+msgstr "Adını Değiştir"
+
+#: .\menubar.xml
+msgid "[Menu]Rename Layer"
+msgstr "Katmanın Adını Değiştir"
+
+#: .\menubar.xml
+msgid "[Menu]Reset Window Positions"
+msgstr "Pencere Pozisyonlarını Resetle"
+
+#: .\menubar.xml
+msgid "[Menu]Restore Version"
+msgstr "Sürümü Geri Al"
+
+#: .\menubar.xml
+msgid "[Menu]Restore Zoom State"
+msgstr "Zoom Durumunu Geri Al"
+
+#: .\menubar.xml
+msgid "[Menu]Return to Start on Stop"
+msgstr "Durduğunda Başlangıç Pozisyonuna Dön"
+
+#: .\menubar.xml
+msgid "[Menu]Return to Zero"
+msgstr "Sıfıra Dön"
+
+#: .\menubar.xml
+msgid "[Menu]Revert"
+msgstr "Evir"
+
+#: .\menubar.xml
+msgid "[Menu]Save"
+msgstr "Kaydet"
+
+#: .\menubar.xml
+msgid "[Menu]Save As"
+msgstr "Farklı Kaydet"
+
+#: .\menubar.xml
+msgid "[Menu]Save As Template"
+msgstr "Sablon Olarak Kaydet"
+
+#: .\menubar.xml
+msgid "[Menu]Save New Version"
+msgstr "Yeni Versiyon Olarak Kaydet"
+
+#: .\menubar.xml
+msgid "[Menu]Save to New Folder"
+msgstr "Yeni Klasöre Kaydet"
+
+#: .\menubar.xml
+msgid "[Menu]Scratch Pad"
+msgstr "Not Defteri"
+
+#: .\menubar.xml
+msgid "[Menu]Select"
+msgstr "Seç"
+
+#: .\menubar.xml
+msgid "[Menu]Select All"
+msgstr "Hepsini Seç"
+
+#: .\menubar.xml
+msgid "[Menu]Select All in Loop"
+msgstr "Loop İçindekileri Seç"
+
+#: .\menubar.xml
+msgid "[Menu]Select All on Tracks"
+msgstr "Tüm İzlerdekini Seç"
+
+#: .\menubar.xml
+msgid "[Menu]Select Events in Range"
+msgstr "Bölge İçindeki Klipleri Seç"
+
+#: .\menubar.xml
+msgid "[Menu]Select Muted Events"
+msgstr "Sessize alınmış klipleri seç"
+
+#: .\menubar.xml
+msgid "[Menu]Select from Event to End"
+msgstr "Klipten sonuna kadar seç"
+
+#: .\menubar.xml
+msgid "[Menu]Select from Start to Event"
+msgstr "Başlangıçtan Klipe Kadar Seç"
+
+#: .\menubar.xml
+msgid "[Menu]Send to Notion"
+msgstr "Notion'a Yolla"
+
+#: .\menubar.xml
+msgid "[Menu]Set Bar Offset to Cursor"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Set Frame Offset to Cursor"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Set Play Start Marker"
+msgstr "Çalma Başlangıcı İşaretini Kur"
+
+#: .\menubar.xml
+msgid "[Menu]Set Start and End to Selection"
+msgstr "Seçimi Başlangıç ve Bitiş Olarak Kur"
+
+#: .\menubar.xml
+msgid "[Menu]Setlist Item 1"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Setlist Item 2"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Setlist Item 3"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Setlist Item 4"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Setlist Item 5"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Setlist Item 6"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Setlist Item 7"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Show"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Show Automation"
+msgstr "Otomasyonu Göster"
+
+#: .\menubar.xml
+msgid "[Menu]Show Channel Editor"
+msgstr "Kanal Düzenleyicisini Göster"
+
+#: .\menubar.xml
+msgid "[Menu]Show Cloud"
+msgstr "Bulutu Göster"
+
+#: .\menubar.xml
+msgid "[Menu]Show Effects"
+msgstr "Efektleri Göster"
+
+#: .\menubar.xml
+msgid "[Menu]Show Files"
+msgstr "Dosyaları Göster"
+
+#: .\menubar.xml
+msgid "[Menu]Show Home Page"
+msgstr "Ana Sayfayı Göster"
+
+#: .\menubar.xml
+msgid "[Menu]Show Instrument Editor"
+msgstr "Enstrüman Düzenleyicisini Göster"
+
+#: .\menubar.xml
+msgid "[Menu]Show Instruments"
+msgstr "Enstrümanları Göster"
+
+#: .\menubar.xml
+msgid "[Menu]Show Loops"
+msgstr "Loop'ları Göster"
+
+#: .\menubar.xml
+msgid "[Menu]Show Media Folder in Explorer"
+msgstr "Medya Klasörünü Explorer İçinde Göster"
+
+#: .\menubar.xml
+msgid "[Menu]Show Media Folder in Finder"
+msgstr "Medya Klasörünü Finder İçinde Göster"
+
+#: .\menubar.xml
+msgid "[Menu]Show Pool"
+msgstr "Havuzu Göster"
+
+#: .\menubar.xml
+msgid "[Menu]Show Setup"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Show Shop"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]Show in Console"
+msgstr "Konsol'da Göster"
+
+#: .\menubar.xml
+msgid "[Menu]Solo Layer"
+msgstr "Katmanı Solo Yap"
+
+#: .\menubar.xml
+msgid "[Menu]Solo Track"
+msgstr "İzi Solo Yap"
+
+#: .\menubar.xml
+msgid "[Menu]Song"
+msgstr "Şarkı"
+
+#: .\menubar.xml
+msgid "[Menu]Song Information"
+msgstr "Şarkı Bilgisi"
+
+#: .\menubar.xml
+msgid "[Menu]Song Setup"
+msgstr "Şarkı Ayarları"
+
+#: .\menubar.xml
+msgid "[Menu]Split"
+msgstr "Böl"
+
+#: .\menubar.xml
+msgid "[Menu]Split Loop"
+msgstr "Loop'u Böl"
+
+#: .\menubar.xml
+msgid "[Menu]Start"
+msgstr "Başlangıç"
+
+#: .\menubar.xml
+msgid "[Menu]Start Page"
+msgstr "Başlangıç Sayfası"
+
+#: .\menubar.xml
+msgid "[Menu]Stop"
+msgstr "Dur"
+
+#: .\menubar.xml
+msgid "[Menu]Store Zoom State"
+msgstr "Zoom Durumunu Kaydet"
+
+#: .\menubar.xml
+msgid "[Menu]Sync to External Devices"
+msgstr ""
+
+#: .\menubar.xml
+msgid "[Menu]System Information"
+msgstr "Sistem Bilgisi"
+
+#: .\menubar.xml
+msgid "[Menu]Time Display"
+msgstr "Zaman Göstergesi"
+
+#: .\menubar.xml
+msgid "[Menu]Toggle Detached Console"
+msgstr "Bağımsız Konsolu Aç/Kapa"
+
+#: .\menubar.xml
+msgid "[Menu]Toggle Detached Editor"
+msgstr "Ayrılmış Düzenleyiciyi Aç/Kapa"
+
+#: .\menubar.xml
+msgid "[Menu]Toggle Floating Windows"
+msgstr "Yüzen Pencereler Aç/Kapa"
+
+#: .\menubar.xml
+msgid "[Menu]Toggle Optional Views"
+msgstr "Opsiyonel Görünümlerde Gezin"
+
+#: .\menubar.xml
+msgid "[Menu]Toggle Read"
+msgstr "Okumayı Aç/Kapa"
+
+#: .\menubar.xml
+msgid "[Menu]Toggle Zoom"
+msgstr "Zoom Aç/Kapa"
+
+#: .\menubar.xml
+msgid "[Menu]Touch"
+msgstr "Dokun"
+
+#: .\menubar.xml
+msgid "[Menu]Track"
+msgstr "İz"
+
+#: .\menubar.xml
+msgid "[Menu]Track List"
+msgstr "İz Listesi"
+
+#: .\menubar.xml
+msgid "[Menu]Transfers"
+msgstr "Transferler"
+
+#: .\menubar.xml
+msgid "[Menu]Transform"
+msgstr "Dönüştür"
+
+#: .\menubar.xml
+msgid "[Menu]Transform to Audio Track"
+msgstr "Ses İzine Dönüştür"
+
+#: .\menubar.xml
+msgid "[Menu]Transform to Instrument Track"
+msgstr "Enstrüman İzine Dönüştür"
+
+#: .\menubar.xml
+msgid "[Menu]Transform to Realtime Audio"
+msgstr "Gerçekzamanlı Sese Dönüştür"
+
+#: .\menubar.xml
+msgid "[Menu]Transform to Rendered Audio"
+msgstr "Render Edilmiş Sese Dönüştür"
+
+#: .\menubar.xml
+msgid "[Menu]Transport"
+msgstr "Transport"
+
+#: .\menubar.xml
+msgid "[Menu]Undo"
+msgstr "Geri Al"
+
+#: .\menubar.xml
+msgid "[Menu]Undo Zoom"
+msgstr "Zoom'u Geri Al"
+
+#: .\menubar.xml
+msgid "[Menu]Update Mastering File"
+msgstr "Mastering Dosyasını Güncelle"
+
+#: .\menubar.xml
+msgid "[Menu]Update Mastering Files"
+msgstr "Mastering Dosyalarını Güncelle"
+
+#: .\menubar.xml
+msgid "[Menu]Upgrade $APPNAME"
+msgstr "$APPNAME'i Güncelle"
+
+#: .\menubar.xml
+msgid "[Menu]Video Player"
+msgstr "Video Çalıcı"
+
+#: .\menubar.xml
+msgid "[Menu]View"
+msgstr "Görünüm"
+
+#: .\menubar.xml
+msgid "[Menu]View Release Notes"
+msgstr "Sürüm Notlarını Görüntüle"
+
+#: .\menubar.xml
+msgid "[Menu]Windows"
+msgstr "Pencereler"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom"
+msgstr "Yakınlaştırma"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom Full"
+msgstr "Tümüne Zoom"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom In"
+msgstr "Yakınlaştır"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom In Vertical"
+msgstr "Dikey Yakınlaştır"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom Out"
+msgstr "Uzaklaştır"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom Out Vertical"
+msgstr "Dikey Uzaklaştır"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom to Loop"
+msgstr "Loop'a Yakınlaştır"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom to Selection"
+msgstr "Seçime Yakınlaştır"
+
+#: .\menubar.xml
+msgid "[Menu]Zoom to Selection Horizontally"
+msgstr "Seçimi Yatay Olarak Yaklaştır"

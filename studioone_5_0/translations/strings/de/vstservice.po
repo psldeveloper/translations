@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\vstloaderbase.cpp
+msgid "[VST]Adding VST Plug-In %(1)..."
+msgstr "VST-Plug-in %(1) gefunden..."
+
+#: .\vstservicemain.cpp
+msgid "[VST]Support for VST 2.4 Audio Processors and Instruments"
+msgstr "Unterstützung für VST 2.4 Audioeffekte und Instrumente"
+
+#: .\vstservicemain.cpp
+msgid "[VST]Support for VST 3.0 Audio Processors and Instruments"
+msgstr "Unterstützung für VST 3.0 Audioeffekte und Instrumente"
+
+#: .\plugversion.h
+msgid "[VST]VST 2.4 Plug-In Support"
+msgstr "VST 2.4 Unterstützung"
+
+#: .\plugversion.h
+msgid "[VST]VST 3 Plug-In Support"
+msgstr "VST 3 Unterstützung"
+
+#: .\vstuseroption.cpp
+msgid "[VSTUserOption]VST Plug-Ins"
+msgstr "VST Plug-ins"
+
+#: .\vst2\vstpresetfile.cpp
+msgid "[FileType]VST2 Bank"
+msgstr "VST2 Bank"
+
+#: .\vst2\vstpresetfile.cpp
+msgid "[FileType]VST2 Program"
+msgstr "VST2 Programm"
+
+#: .\vst3\vst3presethandler.cpp
+msgid "[FileType]VST3 Preset"
+msgstr "VST3 Preset"
+
+#~ msgid "[VST]Adding VST3 Plug-In %(1)..."
+#~ msgstr "VST3-Plug-in %(1) gefunden..."
+
+#~ msgid "[VSTUserOption]Do you want to rescan VST Plug-Ins which failed to initialize on next startup?"
+#~ msgstr "Möchten Sie die Untersuchung der VST-Plug-ins, die nicht gestartet werden konnten, beim nächsten Start wiederholen?"
+
+#~ msgid "[VST]Found Plug-In Shell %(1)..."
+#~ msgstr "Plug-in-Shell %(1) gefunden..."
+
+#~ msgid "[VST]Scan failed for %(1) Plug-In %(2)..."
+#~ msgstr "Untersuchung fehlgeschlagen bei %(1) Plug-in %(2)..."
+
+#~ msgid "[VST]Scanning %(1) Plug-In %(2)..."
+#~ msgstr "Untersuche %(1) Plug-in %(2)..."
+
+#~ msgid "[VST]Scanning VST Plug-In %(1)..."
+#~ msgstr "Untersuche VST-Plug-in %(1)..."
+
+#~ msgid "[VST]VST Plug-In %(1) failed to load!"
+#~ msgstr "Laden des VST Plug-ins %(1) ist fehlgeschlagen!"
+
+#~ msgid "[VST]%(1) ignored, because it crashed before. "
+#~ msgstr "%(1) wird nicht verwendet, da es zuvor zum Absturz führte."
+

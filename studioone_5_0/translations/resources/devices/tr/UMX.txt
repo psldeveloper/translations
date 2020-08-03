@@ -1,0 +1,1 @@
+Lütfen UMX üzeride yazılı olan standart kontrol atamalarını kullanın. B5-8 düğmelerini CC 80-83'e ayarlayın ve kullanıcı hafızalarını kullanıp saklayın.

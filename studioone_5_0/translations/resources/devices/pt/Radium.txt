@@ -1,0 +1,1 @@
+﻿Selecione o preset padrão de fábrica 1 no Radium 49/61. Os Faders 1 a 8 são mapeados ao Console. O fader de entrada de dados é o volume master.

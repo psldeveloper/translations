@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\resourcetypes.cpp
+msgid "[SoundCloud](not set)"
+msgstr "(nicht gesetzt)"
+
+#: .\tracklist.cpp
+msgid "[SoundCloud]Done"
+msgstr "Fertig"
+
+#: .\tracklist.cpp
+msgid "[SoundCloud]Failed"
+msgstr "Fehlgeschlagen"
+
+#: .\tracklist.cpp
+msgid "[SoundCloud]File"
+msgstr "Datei"
+
+#: .\tracklist.cpp
+msgid "[SoundCloud]Reset"
+msgstr "Zurücksetzen"
+
+#: .\plugversion.h
+msgid "[SoundCloud]SoundCloud Client"
+msgstr "SoundCloud-Client"
+
+#: .\plugversion.h
+msgid "[SoundCloud]SoundCloud Support"
+msgstr "SoundCloud-Unterstützung"
+
+#: .\tracklist.cpp
+msgid "[SoundCloud]State"
+msgstr "Status"
+
+#: .\plugversion.h
+msgid "[SoundCloud]Support for SoundCloud uploads and downloads"
+msgstr "Unterstützung von Uploads und Downloads über SoundCloud"
+
+#: .\tracklist.cpp
+msgid "[SoundCloud]Title"
+msgstr "Titel"
+
+#: .\plugversion.h
+msgid "[SoundCloud]Upload to SoundCloud"
+msgstr "Auf SoundCloud hochladen"
+
+#: .\tracklist.cpp
+msgid "[SoundCloud]Uploading..."
+msgstr "Hochladen..."
+
+#: .\activityinfo.cpp
+msgid "[SoundCloud]favorite"
+msgstr "Favorit"

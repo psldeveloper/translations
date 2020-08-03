@@ -1,0 +1,1 @@
+PCR üzerinde "V-Link" i aktif duruma getirip "Receive From" ayarını Edirol PCR 2'ye ayarlayın. C1 Quantize, C2 Silme ve C3 ise Solo Track olarak kullanılır. 300, 500 ve 800 modelleri ile kullanılabilir.

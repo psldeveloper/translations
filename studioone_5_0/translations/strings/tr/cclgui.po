@@ -1,0 +1,791 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\dialogs\commandeditor.cpp
+msgid "[CommandEditor](modified)"
+msgstr "(değiştirilmiş)"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]<Unnamed>"
+msgstr "<isimsiz>"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Alt"
+msgstr "Alt"
+
+#: .\dialogs\dialogbuilder.cpp
+msgid "[Dialog]Apply"
+msgstr "Uygula"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Assign"
+msgstr "Ata"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Assign Command..."
+msgstr "Komut Ata..."
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Backspace"
+msgstr "Geri Tuşu"
+
+#: .\graphics\imaging\bitmap.cpp
+msgid "[FileType]Bitmap File"
+msgstr "Bitmap dosyası"
+
+#: .\skin\coreskinmodel.cpp
+msgid "[FileType]Bitmap Font"
+msgstr ""
+
+#: .\dialogs\alert.cpp
+msgid "[Alert]Cancel"
+msgstr "İptal"
+
+#: .\dialogs\dialogbuilder.cpp
+msgid "[Dialog]Cancel"
+msgstr "İptal"
+
+#: .\views\focusnavigator.cpp
+msgid "[Command]Cancel"
+msgstr "İptal"
+
+#: .\dialogs\progressdialog.cpp
+msgid "[ProgressDialog]Cancelling..."
+msgstr "İptal ediliyor"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Caps Lock"
+msgstr "Caps Lock"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Channel Down"
+msgstr "Kanal Aşağı"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Channel Up"
+msgstr "Kanal Yukarı"
+
+#: .\dialogs\dialogbuilder.cpp
+msgid "[Dialog]Close"
+msgstr "Kapat"
+
+#: .\theme\colorscheme.cpp
+msgid "[FileType]Color Scheme"
+msgstr "Renk Düzeni"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Command"
+msgstr "Komut"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Control"
+msgstr "Kontrol"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Copy"
+msgstr "Kopyala"
+
+#: .\controls\segmentbox.cpp
+msgid "[SegmentBox]Copy Text to Clipboard"
+msgstr "Text i Clipboard a kopyala"
+
+#: .\controls\textbox.cpp
+msgid "[TextBox]Copy Text to Clipboard"
+msgstr "Text i Clipboard a kopyala"
+
+#: .\system\webbrowserview.cpp
+msgid "[WebView]Copy Text to Clipboard"
+msgstr "Text i Clipboard a kopyala"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Ctrl"
+msgstr "Ctrl"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Cut"
+msgstr "Ctrl"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Default"
+msgstr "Varsayılan"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Del"
+msgstr "Del"
+
+#: .\itemviews\itemview.cpp
+msgid "[Edit]Delete"
+msgstr "Sil"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Delete"
+msgstr "Sil"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Deselect All"
+msgstr "Tümünün seçimini kaldır"
+
+#: .\itemviews\listview.cpp
+msgid "[ListView]Details"
+msgstr "Detaylar"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Do you want to remove \"%(1)\"?"
+msgstr "\"%(1)\"i silmek istediğinize eminmisiniz?"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Down"
+msgstr "Aşağı"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Down Arrow"
+msgstr "Aşağı Ok"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Down Extend"
+msgstr "Aşağı Uzat"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Down Extend Add"
+msgstr "Aşağı Uzat Ekle"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Down Skip"
+msgstr "Aşağı atla"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Edit"
+msgstr "Düzenle"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Edit Menu"
+msgstr "Menüyü Düzenle"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]End"
+msgstr "Son"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]End"
+msgstr "Son"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]End Extend"
+msgstr "Son Uzat"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]End Extend Add"
+msgstr "Son Uzat Ekle"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]End Skip"
+msgstr "Uzat Atla"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Enter"
+msgstr "Enter"
+
+#: .\views\focusnavigator.cpp
+msgid "[Command]Enter"
+msgstr "Giriş"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Esc"
+msgstr "Esc"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F1"
+msgstr "F1"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F10"
+msgstr "F10"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F11"
+msgstr "F11"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F12"
+msgstr "F12"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F13"
+msgstr "F13"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F14"
+msgstr "F14"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F15"
+msgstr "F15"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F16"
+msgstr "F16"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F17"
+msgstr "F17"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F18"
+msgstr "F18"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F19"
+msgstr "F19"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F2"
+msgstr "F2"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F20"
+msgstr "F20"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F21"
+msgstr "F21"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F22"
+msgstr "F22"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F23"
+msgstr "F23"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F24"
+msgstr "F24"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F3"
+msgstr "F3"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F4"
+msgstr "F4"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F5"
+msgstr "F5"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F6"
+msgstr "F6"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F7"
+msgstr "F7"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F8"
+msgstr "F8"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F9"
+msgstr "F9"
+
+#: .\views\focusnavigator.cpp
+msgid "[Command]Focus Next"
+msgstr "Sonrakine"
+
+#: .\views\focusnavigator.cpp
+msgid "[Command]Focus Previous"
+msgstr "Öncekine"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Forward"
+msgstr "İleri"
+
+#: .\graphics\imaging\bitmap.cpp
+msgid "[FileType]GIF File"
+msgstr "GIF Dosyası"
+
+#: .\dialogs\useroptionmodel.cpp
+msgid "[UserOption]General"
+msgstr "Genel"
+
+#: .\system\webbrowserview.cpp
+msgid "[WebView]Go Back"
+msgstr "Geri Git"
+
+#: .\system\webbrowserview.cpp
+msgid "[WebView]Go Forward"
+msgstr "İleri Git"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Go to"
+msgstr "Git"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Group"
+msgstr "Gurup"
+
+#: .\help\helpmanager.cpp
+msgid "[HelpManager]Help file not found at:\n"
+msgstr "Yardım dosyası şurada bulunamadı:\n"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Home"
+msgstr "Home"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Horizontal"
+msgstr "Yatay"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Icon"
+msgstr "Icon"
+
+#: .\graphics\imaging\multiimage.cpp
+msgid "[FileType]Icon File"
+msgstr "Icon Dosyası"
+
+#: .\itemviews\listview.cpp
+msgid "[ListView]Icons"
+msgstr "Icon lar"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Ins"
+msgstr "Ins"
+
+#: .\graphics\imaging\bitmap.cpp
+msgid "[FileType]JPEG File"
+msgstr "JPEG Dosyası"
+
+#: .\dialogs\commandeditor.cpp
+msgid ""
+"[CommandEditor]Key is already assigned to:\n"
+"%(1)"
+msgstr ""
+"Tuş zaten daha önce şuraya atanmış: \n"
+"%(1)"
+
+#: .\commands.cpp
+msgid "[FileType]Keyboard Mapping Scheme"
+msgstr "Klavye Haritalama Düzeni"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Left"
+msgstr "Sol"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Left Arrow"
+msgstr "Sol Ok"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Left Extend"
+msgstr "Sol Uzat"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Left Extend Add"
+msgstr "Sol Uzat Ekle"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Left Skip"
+msgstr "Sol Atla"
+
+#: .\itemviews\listview.cpp
+msgid "[ListView]List"
+msgstr "Liste"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Menu"
+msgstr "Menü"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Menu Item"
+msgstr "Menü Maddesi"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Move to"
+msgstr "Taşı..."
+
+#: .\itemviews\itemview.cpp .\views\focusnavigator.cpp
+msgid "[Command]Navigation"
+msgstr "Navigasyon"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]New Button"
+msgstr "Yeni Düğmesi"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]New Group"
+msgstr "Yeni Gurup"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]New Menu Button"
+msgstr "Yeni Menü Düğmesi"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]New Menu Item"
+msgstr "Yeni Menü Seçeneği"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]New Page"
+msgstr "Yeni Sayfa"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]New Separator"
+msgstr "Yeni Ayıraç"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]New Submenu"
+msgstr "Yeni Alt Menü"
+
+#: .\layout\workspace.cpp
+msgid "[Command]Next Perspective"
+msgstr "Sonraki Perspektif"
+
+#: .\dialogs\alert.cpp
+msgid "[Alert]No"
+msgstr "Hayır"
+
+#: .\help\helpmanager.cpp
+msgid "[HelpManager]No compatible PDF Viewer installed!"
+msgstr "Uyumlu PDF görüntüleyici kurulu değil!"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad*"
+msgstr "NumPad*"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad+"
+msgstr "NumPad+"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad-"
+msgstr "NumPad-"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad."
+msgstr "NumPad."
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad/"
+msgstr "NumPad/"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad0"
+msgstr "NumPad0"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad1"
+msgstr "NumPad1"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad2"
+msgstr "NumPad2"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad3"
+msgstr "NumPad3"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad4"
+msgstr "NumPad4"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad5"
+msgstr "NumPad5"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad6"
+msgstr "NumPad6"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad7"
+msgstr "NumPad7"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad8"
+msgstr "NumPad8"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad9"
+msgstr "NumPad9"
+
+#: .\dialogs\alert.cpp
+msgid "[Alert]OK"
+msgstr "Tamam"
+
+#: .\dialogs\dialogbuilder.cpp
+msgid "[Dialog]OK"
+msgstr "Tamam"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Option"
+msgstr "Seçenek"
+
+#: .\graphics\imaging\bitmap.cpp
+msgid "[FileType]PNG File"
+msgstr "PNG Dosyası"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Page"
+msgstr "Sayfa"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Page Down"
+msgstr "Sayfa Aşağı"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Page Down"
+msgstr "Sayfa Aşağı"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Page Down Extend"
+msgstr "Sayfa Aşağı Uzat"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Page Down Extend Add"
+msgstr "Sayfa Aşağı Uzat Ekle"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Page Down Skip"
+msgstr "Sayfa Aşağı Atla"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Page Up"
+msgstr "Sayfa Yukarı"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Page Up"
+msgstr "Sayfa Yukarı"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Page Up Extend"
+msgstr "Sayfa Yukarı Uzat"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Page Up Extend Add"
+msgstr "Sayfa Yukarı Uzat Ekle"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Page Up Skip"
+msgstr "Sayfa Yukarı Atla"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Paste"
+msgstr "Yapıştır"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Pause"
+msgstr "Beklet"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Play Pause"
+msgstr "Çaldır Beklet"
+
+#: .\layout\workspace.cpp
+msgid "[Command]Previous Perspective"
+msgstr "Önceki Perspektif"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Record"
+msgstr "Kayıt"
+
+#: .\system\webbrowserview.cpp
+msgid "[WebView]Reload Page"
+msgstr "Sayfayı tekrar yükle"
+
+#: .\itemviews\dropbox.cpp
+msgid "[DropBox]Remove %(1)"
+msgstr "%(1)'i Çıkar"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Remove Button"
+msgstr "Düğme kaldır"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Remove Group"
+msgstr "Gurup Kaldır"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Remove Image"
+msgstr "Görüntü Kaldır"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Remove Menu Item"
+msgstr "Menü Seçeneğini Çıkar"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Remove Page"
+msgstr "Sayfayı Kaldır"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Remove Separator"
+msgstr "Ayıracı Çıkar"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Remove Submenu"
+msgstr "Alt Menüyü Çıkar"
+
+#: .\itemviews\headerview.cpp
+msgid "[HeaderView]Reset All Columns"
+msgstr "Tüm kolonları başlangıç değerine getir"
+
+#: .\windows\windowmanager.cpp
+msgid "[Command]Reset Window Positions"
+msgstr "Pencere pozisyonlarını sıfırla"
+
+#: .\dialogs\alert.cpp
+msgid "[Alert]Retry"
+msgstr "Tekrar dene"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Return"
+msgstr "Return"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Rewind"
+msgstr "Deri"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Right"
+msgstr "Sağ"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Right Arrow"
+msgstr "Sağ Ok"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Right Extend"
+msgstr "Sağ Uzat"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Right Extend Add"
+msgstr "Sağ Uzat Ekle"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Right Skip"
+msgstr "Sağ Atla"
+
+#: .\graphics\shapes\svg\svgparser.cpp
+msgid "[FileType]Scalable Vector Graphics"
+msgstr "Ölçeklenebilir Vektör Grafik"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Select All"
+msgstr "Tümünü Seç"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Select Image"
+msgstr "Görüntü Seç"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Separator"
+msgstr "Ayıraç"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Shift"
+msgstr "Shift"
+
+#: .\itemviews\headerview.cpp
+msgid "[HeaderView]Size All Columns to Fit"
+msgstr "Tüm kolonları otomatik ayarla"
+
+#: .\itemviews\headerview.cpp
+msgid "[HeaderView]Size Column to Fit"
+msgstr "Kolonu otomatik ayarla"
+
+#: .\skin\skinwizard.cpp
+msgid "[FileType]Skin File"
+msgstr "Tema dosyası"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Space"
+msgstr "Boşluk"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Start"
+msgstr "Başlat"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Start Extend"
+msgstr "Başla Uzat"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Start Extend Add"
+msgstr "Başla Uzat Ekle"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Start Skip"
+msgstr "Başla Atla"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Stop"
+msgstr "Dur"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Tab"
+msgstr "Tab"
+
+#: .\layout\workspace.cpp
+msgid "[Command]Toggle Floating Windows"
+msgstr "Yüzen Pencereleri Aç/Kapa"
+
+#: .\layout\workspace.cpp
+msgid "[Command]Toggle Optional Views"
+msgstr "Opsiyonel Görünümlerde Gezin"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Up"
+msgstr "Yukarı"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Up Arrow"
+msgstr "Yukarı Ok"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Up Extend"
+msgstr "Yukarı Uzat"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Up Extend Add"
+msgstr "Yukarı Uzat Ekle"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Up Skip"
+msgstr "Yukarı Atla"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Vertical"
+msgstr "Dikey"
+
+#: .\layout\workspace.cpp .\windows\windowmanager.cpp
+msgid "[Command]View"
+msgstr "Görünüm"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Volume Down"
+msgstr "Ses Kısma"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Volume Mute"
+msgstr "Ses kesme"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Volume Up"
+msgstr "Ses Arttırma"
+
+#: .\dialogs\alert.cpp
+msgid "[Alert]Yes"
+msgstr "Evet"
+
+#: .\dialogs\useroptionmodel.cpp
+msgid ""
+"[UserOption]You have made changes to the setup. Do you want to apply the "
+"changes?"
+msgstr ""
+"Kurulum da değişiklik yaptınız. Bu değişiklikleri uygulamak istiyormusunuz ?"
+
+#~ msgid "[CommandBar]Do you want to remove %(1)?"
+#~ msgstr "%(1)'i silmek istiyormusunuz ?"

@@ -1,0 +1,10 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\option.xml
+msgid "[RemoteUserOption]Allow remote control apps to discover this DAW"
+msgstr "Pozwalaj zdalnym aplikacjom sterującym na wykrywanie tego DAW"
+

@@ -1,0 +1,782 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\dialogs\commandeditor.cpp
+msgid "[CommandEditor](modified)"
+msgstr "(zmodyfikowano)"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]<Unnamed>"
+msgstr "<Nienazwane>"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Alt"
+msgstr "Alt"
+
+#: .\dialogs\dialogbuilder.cpp
+msgid "[Dialog]Apply"
+msgstr "Zastosuj"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Assign"
+msgstr "Przypisz"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Assign Command..."
+msgstr "Przypisz polecenie..."
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Backspace"
+msgstr "Backspace"
+
+#: .\graphics\imaging\bitmap.cpp
+msgid "[FileType]Bitmap File"
+msgstr "Plik bitmapy"
+
+#: .\skin\coreskinmodel.cpp
+msgid "[FileType]Bitmap Font"
+msgstr "Czcionka bitmapowa"
+
+#: .\dialogs\alert.cpp
+msgid "[Alert]Cancel"
+msgstr "Anuluj"
+
+#: .\dialogs\dialogbuilder.cpp
+msgid "[Dialog]Cancel"
+msgstr "Anuluj"
+
+#: .\views\focusnavigator.cpp
+msgid "[Command]Cancel"
+msgstr "Anuluj"
+
+#: .\dialogs\progressdialog.cpp
+msgid "[ProgressDialog]Cancelling..."
+msgstr "Anulowanie..."
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Caps Lock"
+msgstr "Caps Lock"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Channel Down"
+msgstr "Channel Down"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Channel Up"
+msgstr "Channel Up"
+
+#: .\dialogs\dialogbuilder.cpp
+msgid "[Dialog]Close"
+msgstr "Zamknij"
+
+#: .\theme\colorscheme.cpp
+msgid "[FileType]Color Scheme"
+msgstr "Schemat kolorów"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Command"
+msgstr "Command"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Control"
+msgstr "Control"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Copy"
+msgstr "Kopiuj"
+
+#: .\controls\segmentbox.cpp
+msgid "[SegmentBox]Copy Text to Clipboard"
+msgstr "Kopiuj tekst do schowka"
+
+#: .\controls\textbox.cpp
+msgid "[TextBox]Copy Text to Clipboard"
+msgstr "Kopiuj tekst do schowka"
+
+#: .\system\webbrowserview.cpp
+msgid "[WebView]Copy Text to Clipboard"
+msgstr "Kopiuj tekst do schowka"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Ctrl"
+msgstr "Ctrl"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Cut"
+msgstr "Wytnij"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Default"
+msgstr "Domyślne"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Del"
+msgstr "Del"
+
+#: .\itemviews\itemview.cpp
+msgid "[Edit]Delete"
+msgstr "Usuń"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Delete"
+msgstr "Usuń"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Deselect All"
+msgstr "Odznacz wszystko"
+
+#: .\itemviews\listview.cpp
+msgid "[ListView]Details"
+msgstr "Szczegóły"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Do you want to remove \"%(1)\"?"
+msgstr "Czy chcesz usunąć \"%(1)\"?"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Down"
+msgstr "W dół"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Down Arrow"
+msgstr "Strzałka w dół"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Down Extend"
+msgstr "W dół z zaznaczeniem"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Down Extend Add"
+msgstr "W dół z zachowaniem zaznaczenia"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Down Skip"
+msgstr "W dół bez zaznaczenia"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Edit"
+msgstr "Edycja"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Edit Menu"
+msgstr "Edytuj menu"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]End"
+msgstr "Na koniec"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]End"
+msgstr "End"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]End Extend"
+msgstr "Na koniec z zaznaczeniem"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]End Extend Add"
+msgstr "Na koniec z zachowaniem zaznaczenia"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]End Skip"
+msgstr "Na koniec bez zaznaczenia"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Enter"
+msgstr "Enter"
+
+#: .\views\focusnavigator.cpp
+msgid "[Command]Enter"
+msgstr "Enter"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Esc"
+msgstr "Esc"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F1"
+msgstr "F1"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F10"
+msgstr "F10"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F11"
+msgstr "F11"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F12"
+msgstr "F12"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F13"
+msgstr "F13"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F14"
+msgstr "F14"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F15"
+msgstr "F15"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F16"
+msgstr "F16"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F17"
+msgstr "F17"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F18"
+msgstr "F18"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F19"
+msgstr "F19"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F2"
+msgstr "F2"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F20"
+msgstr "F20"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F21"
+msgstr "F21"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F22"
+msgstr "F22"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F23"
+msgstr "F23"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F24"
+msgstr "F24"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F3"
+msgstr "F3"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F4"
+msgstr "F4"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F5"
+msgstr "F5"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F6"
+msgstr "F6"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F7"
+msgstr "F7"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F8"
+msgstr "F8"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]F9"
+msgstr "F9"
+
+#: .\views\focusnavigator.cpp
+msgid "[Command]Focus Next"
+msgstr "Uaktywnij następne"
+
+#: .\views\focusnavigator.cpp
+msgid "[Command]Focus Previous"
+msgstr "Uaktywnij poprzednie"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Forward"
+msgstr "Forward"
+
+#: .\graphics\imaging\bitmap.cpp
+msgid "[FileType]GIF File"
+msgstr "Plik GIF"
+
+#: .\dialogs\useroptionmodel.cpp
+msgid "[UserOption]General"
+msgstr "Ogólne"
+
+#: .\system\webbrowserview.cpp
+msgid "[WebView]Go Back"
+msgstr "Wróć"
+
+#: .\system\webbrowserview.cpp
+msgid "[WebView]Go Forward"
+msgstr "Idź dalej"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Go to"
+msgstr "Przejdź do"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Group"
+msgstr "Grupa"
+
+#: .\help\helpmanager.cpp
+msgid "[HelpManager]Help file not found at:\n"
+msgstr "Nie znaleziono pliku pomocy w:\n"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Home"
+msgstr "Home"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Horizontal"
+msgstr "Poziomo"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Icon"
+msgstr "Ikona"
+
+#: .\graphics\imaging\multiimage.cpp
+msgid "[FileType]Icon File"
+msgstr "Plik ikony"
+
+#: .\itemviews\listview.cpp
+msgid "[ListView]Icons"
+msgstr "Ikony"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Ins"
+msgstr "Ins"
+
+#: .\graphics\imaging\bitmap.cpp
+msgid "[FileType]JPEG File"
+msgstr "Plik JPEG"
+
+#: .\dialogs\commandeditor.cpp
+msgid "[CommandEditor]Key is already assigned to:\n%(1)"
+msgstr "Klawisz jest już przypisany do:\n%(1)"
+
+#: .\commands.cpp
+msgid "[FileType]Keyboard Mapping Scheme"
+msgstr "Schemat mapowania klawiatury"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Left"
+msgstr "W lewo"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Left Arrow"
+msgstr "Strzałka w lewo"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Left Extend"
+msgstr "W lewo z zaznaczeniem"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Left Extend Add"
+msgstr "W lewo z zachowaniem zaznaczenia"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Left Skip"
+msgstr "W lewo bez zaznaczenia"
+
+#: .\itemviews\listview.cpp
+msgid "[ListView]List"
+msgstr "Lista"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Menu"
+msgstr "Menu"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Menu Item"
+msgstr "Element menu"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Move to"
+msgstr "Przenieś do"
+
+#: .\itemviews\itemview.cpp .\views\focusnavigator.cpp
+msgid "[Command]Navigation"
+msgstr "Nawigacja"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]New Button"
+msgstr "Nowy przycisk"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]New Group"
+msgstr "Nowa grupa"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]New Menu Button"
+msgstr "Nowy przycisk menu"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]New Menu Item"
+msgstr "Nowy element menu"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]New Page"
+msgstr "Nowa strona"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]New Separator"
+msgstr "Nowy separator"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]New Submenu"
+msgstr "Nowe podmenu"
+
+#: .\layout\workspace.cpp
+msgid "[Command]Next Perspective"
+msgstr "Następna perspektywa"
+
+#: .\dialogs\alert.cpp
+msgid "[Alert]No"
+msgstr "Nie"
+
+#: .\help\helpmanager.cpp
+msgid "[HelpManager]No compatible PDF Viewer installed!"
+msgstr "Brak zainstalowanej kompatybilnej przeglądarki PDF!"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad*"
+msgstr "NumPad*"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad+"
+msgstr "NumPad+"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad-"
+msgstr "NumPad-"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad."
+msgstr "NumPad."
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad/"
+msgstr "NumPad/"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad0"
+msgstr "NumPad0"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad1"
+msgstr "NumPad1"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad2"
+msgstr "NumPad2"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad3"
+msgstr "NumPad3"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad4"
+msgstr "NumPad4"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad5"
+msgstr "NumPad5"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad6"
+msgstr "NumPad6"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad7"
+msgstr "NumPad7"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad8"
+msgstr "NumPad8"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]NumPad9"
+msgstr "NumPad9"
+
+#: .\dialogs\alert.cpp
+msgid "[Alert]OK"
+msgstr "OK"
+
+#: .\dialogs\dialogbuilder.cpp
+msgid "[Dialog]OK"
+msgstr "OK"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Option"
+msgstr "Option"
+
+#: .\graphics\imaging\bitmap.cpp
+msgid "[FileType]PNG File"
+msgstr "Plik PNG"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Page"
+msgstr "Strona"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Page Down"
+msgstr "Strona w dół"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Page Down"
+msgstr "Page Down"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Page Down Extend"
+msgstr "Strona w dół z zaznaczeniem"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Page Down Extend Add"
+msgstr "Strona w dół z zachowaniem zaznaczenia"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Page Down Skip"
+msgstr "Strona w dół bez zaznaczenia"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Page Up"
+msgstr "Strona w górę z zaznaczeniem"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Page Up"
+msgstr "Page Up"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Page Up Extend"
+msgstr "Strona w górę z zaznaczeniem"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Page Up Extend Add"
+msgstr "Strona w górę z zachowaniem zaznaczenia"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Page Up Skip"
+msgstr "Strona w górę bez zaznaczenia"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Paste"
+msgstr "Wklej"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Pause"
+msgstr "Pauza"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Play Pause"
+msgstr "Play Pause"
+
+#: .\layout\workspace.cpp
+msgid "[Command]Previous Perspective"
+msgstr "Poprzednie perspektywa"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Record"
+msgstr "Nagrywaj"
+
+#: .\system\webbrowserview.cpp
+msgid "[WebView]Reload Page"
+msgstr "Przeładuj stronę"
+
+#: .\itemviews\dropbox.cpp
+msgid "[DropBox]Remove %(1)"
+msgstr "Usuń %(1)"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Remove Button"
+msgstr "Usuń przycisk"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Remove Group"
+msgstr "Usuń grupę"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Remove Image"
+msgstr "Usuń obraz"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Remove Menu Item"
+msgstr "Usuń element menu"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Remove Page"
+msgstr "Usuń stronę"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Remove Separator"
+msgstr "Usuń separator"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Remove Submenu"
+msgstr "Usuń podmenu"
+
+#: .\itemviews\headerview.cpp
+msgid "[HeaderView]Reset All Columns"
+msgstr "Resetuj wszystkie kolumny"
+
+#: .\windows\windowmanager.cpp
+msgid "[Command]Reset Window Positions"
+msgstr "Resetuj pozycje okien"
+
+#: .\dialogs\alert.cpp
+msgid "[Alert]Retry"
+msgstr "Powtórz"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Return"
+msgstr "Return"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Rewind"
+msgstr "Rewind"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Right"
+msgstr "W prawo"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Right Arrow"
+msgstr "Strzałka w prawo"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Right Extend"
+msgstr "W prawo z zaznaczeniem"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Right Extend Add"
+msgstr "W prawo z zachowaniem zaznaczenia"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Right Skip"
+msgstr "W prawo bez zaznaczenia"
+
+#: .\graphics\shapes\svg\svgparser.cpp
+msgid "[FileType]Scalable Vector Graphics"
+msgstr "Grafiki wektorowe"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Select All"
+msgstr "Zaznacz wszystko"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Select Image"
+msgstr "Wybierz obraz"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Separator"
+msgstr "Separator"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Shift"
+msgstr "Shift"
+
+#: .\itemviews\headerview.cpp
+msgid "[HeaderView]Size All Columns to Fit"
+msgstr "Dopasuj rozmiar wszystkich kolumn do tekstu"
+
+#: .\itemviews\headerview.cpp
+msgid "[HeaderView]Size Column to Fit"
+msgstr "Dopasuj rozmiar kolumny do tekstu"
+
+#: .\skin\skinwizard.cpp
+msgid "[FileType]Skin File"
+msgstr "Plik skórki"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Space"
+msgstr "Spacja"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Start"
+msgstr "Start"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Start Extend"
+msgstr "Na początek z zaznaczeniem"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Start Extend Add"
+msgstr "Na początek z zachowaniem zaznaczenia"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Start Skip"
+msgstr "Na początek bez zaznaczenia"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Stop"
+msgstr "Stop"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Tab"
+msgstr "Tab"
+
+#: .\layout\workspace.cpp
+msgid "[Command]Toggle Floating Windows"
+msgstr "Włącz / Wyłącz ruchome okna"
+
+#: .\layout\workspace.cpp
+msgid "[Command]Toggle Optional Views"
+msgstr "Włącz / Wyłącz opcjonalne widoki"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Up"
+msgstr "W górę"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Up Arrow"
+msgstr "Strzałka w górę"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Up Extend"
+msgstr "W górę z zaznaczeniem"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Up Extend Add"
+msgstr "W górę z zachowaniem zaznaczenia"
+
+#: .\itemviews\itemview.cpp
+msgid "[Command]Up Skip"
+msgstr "W górę z bez zaznaczenia"
+
+#: .\controls\commandbar\commandbarview.cpp
+msgid "[CommandBar]Vertical"
+msgstr "Pionowo"
+
+#: .\layout\workspace.cpp .\windows\windowmanager.cpp
+msgid "[Command]View"
+msgstr "Widok"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Volume Down"
+msgstr "Volume Down"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Volume Mute"
+msgstr "Volume Mute"
+
+#: .\keyevent.cpp
+msgid "[VirtualKey]Volume Up"
+msgstr "Volume Up"
+
+#: .\dialogs\alert.cpp
+msgid "[Alert]Yes"
+msgstr "Tak"
+
+#: .\dialogs\useroptionmodel.cpp
+msgid "[UserOption]You have made changes to the setup. Do you want to apply the changes?"
+msgstr "Dokonałeś zmian w konfiguracji. Czy chcesz zastosować zmiany?"
+

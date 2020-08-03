@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: smartCAT.ai\n"
+
+#: .\soundsetbuilder.cpp
+msgid "[StudioApp]A Sound Set with the identifier \"%(1)\" already exists!"
+msgstr "标识符为\"%(1)\"的声音集已存在!"
+
+#: .\soundsetproperties.cpp
+msgid "[StudioApp]Are you sure you want to modify the Sound Set identifier?"
+msgstr "是否确定更改声音集标识符?"
+
+#: .\plugversion.h
+msgid "[StudioApp]Build your own Sound Sets for Studio One"
+msgstr "创建自己的Studio One声音集"
+
+#: .\soundsetbuilder.cpp
+msgid "[StudioApp]Failed to create Sound Set!"
+msgstr "创建声音集失败!"
+
+#: .\browserextension.cpp
+msgid "[StudioApp]Mount Folder as Sound Set"
+msgstr "将文件夹装载为声音集"
+
+#: .\browserextension.cpp
+msgid "[StudioApp]Pack Sound Set from Folder"
+msgstr "打包文件夹中的声音集"
+
+#: .\plugversion.h
+msgid "[StudioApp]Sound Set Builder"
+msgstr "声音集生成器"
+
+#: .\soundsetbuilder.cpp
+msgid "[StudioApp]Sound Set meta information is incomplete!"
+msgstr "声音集元信息不完整!"
+
+#: .\soundsetbuilder.cpp
+msgid "[StudioApp]The Sound Set \"%(1)\" is still in use (%(2) files open)!"
+msgstr "声音集\"%(1)\" 仍在使用(%(2) 个文件已打开)!"
+
+#: .\soundsetproperties.cpp
+msgid ""
+"[StudioApp]The Sound Set identifier is used to store references to files "
+"from the Sound Set inside documents. It has to be globally unique to avoid "
+"conflicts with Sound Sets from other users."
+msgstr "声音集标识符用于存储对文档中声音集文件的引用。该标识符全局唯一，以避免与其他用户声音集的冲突。"
+
+#: .\browserextension.cpp
+msgid "[StudioApp]Unmount Sound Set Folder"
+msgstr "卸载声音集文件夹"
+

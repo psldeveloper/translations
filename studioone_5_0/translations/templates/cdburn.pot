@@ -1,0 +1,124 @@
+#: .\gear\gearburner.cpp
+msgid "[CDBurner]Burning Aborted by User"
+msgstr ""
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Busy"
+msgstr ""
+
+#: .\plugversion.h
+msgid "[CDBurner]CD Burning Support"
+msgstr ""
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Checking Device"
+msgstr ""
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Closing..."
+msgstr ""
+
+#: .\mac\imagewriter.cpp
+msgid "[DDPImageMaker]Do you want to create a DDP image?\n\nImage: %(1)\nDDPID File: %(2)\nLocation: %(3)"
+msgstr ""
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Erasing"
+msgstr ""
+
+#: .\gear\geareraser.cpp
+msgid "[CDBurner]Erasing Aborted by User"
+msgstr ""
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Erasing..."
+msgstr ""
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Finalizing"
+msgstr ""
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Finishing..."
+msgstr ""
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Formating"
+msgstr ""
+
+#: .\mac\imagewriter.cpp
+msgid "[DDPImageMaker]Generating DDP image files..."
+msgstr ""
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Idle"
+msgstr ""
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Illegal"
+msgstr ""
+
+#: .\base\mediainfo.cpp
+msgid "[CDBurner]Media is not readable"
+msgstr ""
+
+#: .\base\mediainfo.cpp
+msgid "[CDBurner]No media in disc drive"
+msgstr ""
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Physicalizing"
+msgstr ""
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Preparing track"
+msgstr ""
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Preparing..."
+msgstr ""
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Reading"
+msgstr ""
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Reading Disc Info"
+msgstr ""
+
+#: .\cdburnmain.cpp
+msgid "[CDBurner]Support for Audio CD Burning"
+msgstr ""
+
+#: .\mac\imagewriter.cpp
+msgid "[DDPImageMaker]There was an error during the DDP image creation!"
+msgstr ""
+
+#: .\base\mediainfo.cpp
+msgid "[CDBurner]Unknown media"
+msgstr ""
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Verifying"
+msgstr ""
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Verifying..."
+msgstr ""
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Write Speed"
+msgstr ""
+
+#: .\gear\geardevice.cpp
+msgid "[GearDevice]Writing"
+msgstr ""
+
+#: .\gear\gearimagewriter.cpp
+msgid "[GearDevice]Writing "
+msgstr ""
+
+#: .\mac\burner.cpp
+msgid "[ProjectBurner]Writing track"
+msgstr ""
+

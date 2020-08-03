@@ -1,0 +1,2 @@
+﻿Bitte verwenden Sie Werkseinstellungen und wählen Sie den KX MIDI Eingang 2 für die DAW Remote Funktionalität.
+Assign 1 quantisiert, Assign 2 löscht. A öffnet den Editor and B öffnet die Console.

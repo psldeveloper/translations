@@ -1,0 +1,1 @@
+﻿Utilize o Preset Padrão de Fábrica no PS-49. Para realizar um reinício de fábrica, segure Oct- e Oct+ enquanto liga o teclado.

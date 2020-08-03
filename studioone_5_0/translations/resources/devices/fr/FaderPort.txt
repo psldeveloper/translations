@@ -1,0 +1,1 @@
+Le bouton Output assigne le fader à la sortie générale. Bank assigne le fader à la télécommande de banque. Le bouton User commute tout solo. Shift transforme l'encodeur en contrôleur de transport. La pédale commute l'enregistrement. 

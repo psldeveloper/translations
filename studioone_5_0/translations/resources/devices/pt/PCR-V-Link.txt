@@ -1,0 +1,1 @@
+﻿Ative "V-Link" em seu PCR e configure "Receber De" para EDIROL PCR 2. C1 é Quantize, C2 é Exclusão e C3 é Solo de pista. Funciona com os modelos 300, 500 e 800.

@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\skin.xml
+msgid "[ProgressDialogView]Cancel"
+msgstr "Anuluj"
+
+#: .\skin.xml
+msgid "[MenuEditor]Edit Menu"
+msgstr "Edytuj menu"
+
+#: .\skin.xml
+msgid "[FontSelectorDialog]Font"
+msgstr "Czcionka"
+
+#: .\skin.xml
+msgid "[HelpViewer]Help Viewer"
+msgstr "Przeglądarka pomocy"
+
+#: .\skin.xml
+msgid "[CommandEditorDialog]Keyboard Shortcuts"
+msgstr "Klawisze skrótów"
+
+#: .\skin.xml
+msgid "[UserOptionDialog]Options"
+msgstr "Opcje"
+
+#: .\skin.xml
+msgid "[ProgressDialogView]Please wait..."
+msgstr "Czekaj..."
+
+#: .\skin.xml
+msgid "[CommandSelectorDialog]Search:"
+msgstr "Szukaj:"
+
+#: .\skin.xml
+msgid "[CommandSelectorDialog]Select Command"
+msgstr "Wybierz polecenie"
+
+#: .\skin.xml
+msgid "[FontSelectorDialog]Select Font"
+msgstr "Wybierz czcionkę"
+
+#: .\skin.xml
+msgid "[FontSelectorDialog]Size"
+msgstr "Rozmiar"
+
+#: .\skin.xml
+msgid "[FontSelectorDialog]Style"
+msgstr "Styl"
+

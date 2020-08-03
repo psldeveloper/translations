@@ -1,0 +1,2 @@
+Veuillez utiliser les réglages par défaut pour les faders 1-16 et régler les boutons KN 1-8 sur les contrôleurs 14, 15, 16, 17, 18, 19, 20 et 21.
+Les banques de faders contrôlent les voies 1-16 de la table de mixage. 

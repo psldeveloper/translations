@@ -1,0 +1,1 @@
+EKeys nie ma kontrolerów. Dynamika zawsze wynosi 100 

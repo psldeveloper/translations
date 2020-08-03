@@ -1,0 +1,1 @@
+﻿Por favor seleccione el preset de fábrica por defecto número 1 en el Radium 49/61. Los faders 1-8 están mapeados para la consola. El fader Data entry es el control de volumen general.

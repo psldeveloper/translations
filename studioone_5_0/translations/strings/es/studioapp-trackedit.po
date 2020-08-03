@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Arranger Section from Selection"
+msgstr "Agregar sección de arreglos desde la selección"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Audio Track (mono)"
+msgstr "Agregar pista de audio (mono)"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Audio Track (stereo)"
+msgstr "Agregar pista de audio (estéreo)"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Automation Track"
+msgstr "Agregar automatización de pista"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Bus for Selected Channels"
+msgstr "Agregar bus para canales seleccionados"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Folder Track"
+msgstr "Agregar carpeta de pista"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Instrument Track"
+msgstr "Agregar pista de instrumento"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Tracks"
+msgstr "Agregar pistas"
+
+#: .\translation.js
+msgid "[TrackEdit]Add Tracks for all Inputs"
+msgstr "Agregar pistas para todas las entradas"
+
+#: .\translation.js
+msgid "[TrackEdit]Add VCA for Selected Channels"
+msgstr "Agregar VCA para canales seleccionados"
+
+#: .\translation.js
+msgid "[TrackEdit]Add numbers"
+msgstr "Agregar números"
+
+#: .\translation.js
+msgid "[TrackEdit]Apply Track Names to Channels"
+msgstr "Aplicar nombres de pista a canales"
+
+#: .\translation.js
+msgid "[TrackEdit]Arm All Audio Tracks"
+msgstr "Aramar todas las pistas de audio"
+
+#: .\translation.js
+msgid "Audio"
+msgstr "Audio"
+
+#: .\translation.js
+msgid "Automation"
+msgstr "Automatización"
+
+#: .\translation.js
+msgid "[TrackEdit]Bounce Selection"
+msgstr "Bounce (Selección)"
+
+#: .\translation.js
+msgid "[TrackEdit]Bounce To New Track"
+msgstr "Bounce a nueva pista"
+
+#: .\translation.js
+msgid "[TrackEdit]Collapse All Tracks"
+msgstr "Colapsar todas las pistas"
+
+#: .\translation.js
+msgid "[TrackEdit]Copy Ranges to Track"
+msgstr "Copiar rangos a pista"
+
+#: .\translation.js
+msgid "Default"
+msgstr "Por defecto"
+
+#: .\translation.js
+msgid "[TrackEdit]Extract to Chord Track"
+msgstr "Extraer a pista de acordes"
+
+#: .\translation.js
+msgid "Folder"
+msgstr "Carpeta"
+
+#: .\translation.js
+msgid "[TrackEdit]Insert Instrument Part"
+msgstr "Insertar parte de instrumento"
+
+#: .\translation.js
+msgid "[TrackEdit]Insert Pattern"
+msgstr "Insertar patrón"
+
+#: .\translation.js
+msgid "Instrument"
+msgstr "Instrumento"
+
+#: .\translation.js
+msgid "[TrackEdit]Invert Track Selection"
+msgstr "Invertir selección de pista"
+
+#: .\translation.js
+msgid "[TrackEdit]Merge Events"
+msgstr "Combinar eventos"
+
+#: .\translation.js
+msgid "Mono"
+msgstr "Mono"
+
+#: .\translation.js
+msgid "[TrackEdit]Mute Events"
+msgstr "Mutear eventos"
+
+#: .\translation.js
+msgid "[TrackEdit]New Name"
+msgstr "Nuevo nombre"
+
+#: .\translation.js
+msgid "[TrackEdit]Pack Folder"
+msgstr "Empaquetar carpeta"
+
+#: .\translation.js
+msgid "[TrackEdit]Quantize"
+msgstr "Cuantizar"
+
+#: .\translation.js
+msgid "[TrackEdit]Quantize 50%"
+msgstr "Cuantizar 50%"
+
+#: .\translation.js
+msgid "[TrackEdit]Quantize on Track"
+msgstr "Cuantizar en pista"
+
+#: .\translation.js
+msgid "[TrackEdit]Remove Part Automation"
+msgstr "Quitar parte de automatización"
+
+#: .\translation.js
+msgid "[TrackEdit]Remove Track Automation"
+msgstr "Remover pista de automatización"
+
+#: .\translation.js
+msgid "[TrackEdit]Rename Events"
+msgstr "Renombrar eventos"
+
+#: .\translation.js
+msgid "[TrackEdit]Replace Event With Next Layer"
+msgstr "Reemplazar evento con la siguiente capa"
+
+#: .\translation.js
+msgid "[TrackEdit]Replace Event With Previous Layer"
+msgstr "Reemplazar evento con la capa anterior"
+
+#: .\translation.js
+msgid "[TrackEdit]Restore Timing"
+msgstr "Restaurar timing"
+
+#: .\translation.js
+msgid "[TrackEdit]Select Muted Events"
+msgstr "Seleccionar eventos muteados"
+
+#: .\translation.js
+msgid "[TrackEdit]Select Muted Tracks"
+msgstr "Seleccionar Pistas muteadas"
+
+#: .\translation.js
+msgid "[TrackEdit]Send to Back"
+msgstr "Enviar atrás"
+
+#: .\translation.js
+msgid "[TrackEdit]Send to Front"
+msgstr "Traer al frente"
+
+#: .\translation.js
+msgid "[TrackEdit]Separate Shared Copies"
+msgstr "Separar copias compartidas"
+
+#: .\translation.js
+msgid "[TrackEdit]Split at Grid"
+msgstr "Dividir en cuadrícula"
+
+#: .\translation.js
+msgid "Stereo"
+msgstr "Estéreo"
+
+#: .\Split.js
+msgid "This would create too many events and will be cancelled."
+msgstr "Esto crearía demasiados eventos y será cancelado."
+
+#: .\translation.js
+msgid "[TrackEdit]Toggle Mute"
+msgstr "Activar muteo"
+
+#: .\translation.js
+msgid "Track"
+msgstr "Pista"
+
+#: .\translation.js
+msgid "[TrackEdit]Transpose"
+msgstr "Transponer"
+
+#: .\translation.js
+msgid "[TrackEdit]Transpose Events Down"
+msgstr "Transponer eventos abajo"
+
+#: .\translation.js
+msgid "[TrackEdit]Transpose Events Up"
+msgstr "Transponer eventos arriba"
+
+#: .\translation.js
+msgid "[TrackEdit]Transpose Instrument Tracks"
+msgstr "Transponer pistas de instrumentos"
+
+#: .\translation.js
+msgid "[TrackEdit]Unmute Events"
+msgstr "Quitar muteo a eventos"
+

@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]Buy"
+msgstr "购买"
+
+#: .\exchange.xml
+msgid "[PresetFileInfo]Created by:"
+msgstr "创建者:"
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]File transfers will continue in background."
+msgstr " 文件传输将于后台继续进行。"
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]Files"
+msgstr "文件"
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]Free"
+msgstr "自由"
+
+#: .\exchange.xml
+msgid "[WareItemPreview]Install"
+msgstr "安装"
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]Install"
+msgstr "安装"
+
+#: .\exchange.xml
+msgid "[WareItemPreview]Installed"
+msgstr "已安装"
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]Loading price..."
+msgstr "正在加载价格..."
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]Manage Workspaces"
+msgstr " 管理工作空间"
+
+#: .\exchange.xml
+msgid "[PresetFileInfo]Modified:"
+msgstr "修改时间:"
+
+#: .\marketplace.xml
+msgid "[AudioPreviewPlayerMini]Play"
+msgstr "播放"
+
+#: .\exchange.xml
+msgid "[PresetFileInfo]Plug-In:"
+msgstr "插件:"
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]Refresh"
+msgstr "刷新"
+
+#: .\exchange.xml .\marketplace.xml
+msgid "[ClientPreview]Sign In"
+msgstr "登录"
+
+#: .\marketplace.xml
+msgid "[AudioPreviewPlayerMini]Stop"
+msgstr "停止"
+
+#: .\exchange.xml
+msgid "[WareCollectionPreview]This device is not installed on your system!"
+msgstr "尚未安装此设备!"
+
+#: .\exchange.xml
+msgid "[WareItemPreview]Update"
+msgstr "更新"
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]Upload"
+msgstr "上传"
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]Workspaces"
+msgstr " 工作空间"
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]excl. VAT"
+msgstr "排除 VAT"
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]incl. VAT"
+msgstr "包含 VAT"
+

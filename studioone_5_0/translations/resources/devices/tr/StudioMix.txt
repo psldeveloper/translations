@@ -1,0 +1,1 @@
+Button 1 konsolu açar. Button (Düğme) 4 ve 5 kanalları saga ve sola kaydırır.

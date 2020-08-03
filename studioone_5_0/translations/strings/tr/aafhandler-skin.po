@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\option.xml
+msgid "[ExportDialog]Convert audio files"
+msgstr "Ses Dosyalarını Dönüştür"
+
+#: .\option.xml
+msgid "[ExportDialog]Convert stereo tracks to mono pairs. This ensures compatibilty with applications which do not support import of stereo tracks."
+msgstr "Stereo İz'leri mono çiftlere dönüştür. Bu işlem stereo izleri desteklemeyen uygulamalar ile uyumluluk sağlar."
+
+#: .\option.xml
+msgid "[ExportDialog]Create copies of all audio data in another format for export."
+msgstr "Başka bir formatta dışa aktarım için tüm ses dosyalarının kopyalarını yarat."
+
+#: .\option.xml
+msgid "[ExportDialog]Discard unused regions in audio files."
+msgstr "Ses dosyaları içindeki kullanılmayan alanları temizle"
+
+#: .\option.xml
+msgid "[ExportDialog]Embed audio"
+msgstr "Ses'i içine ekle"
+
+#: .\option.xml
+msgid "[ExportDialog]Export AAF"
+msgstr "AAF olarak Dışa Aktar"
+
+#: .\option.xml
+msgid "[ExportDialog]Export pan"
+msgstr "Panlamayı dışarı aktar"
+
+#: .\option.xml
+msgid "[ExportDialog]Head/Tail"
+msgstr "Başlık/Kuyruk"
+
+#: .\option.xml
+msgid "[ExportDialog]Improve compatibility with older applications."
+msgstr "Eski uygulamalarla uyumluluğu arttır."
+
+#: .\option.xml
+msgid "[ExportDialog]Include pan automation in export. Disengaging may improve compatibility with applications which do not recognize pan data."
+msgstr "Pan otomasyonunu dışarı aktarıma dahil et. Devre dışı bırakılırsa pan bilgisini tanımayan eski uygulamalarla uyumluluk iyileştirilir."
+
+#: .\option.xml
+msgid "[ExportDialog]Legacy mode"
+msgstr "Legacy (Eski)  Mod"
+
+#: .\option.xml
+msgid "[AudioCodecSelector]Resolution:"
+msgstr "Çözünürlük:"
+
+#: .\option.xml
+msgid "[AudioCodecSelector]Sample Rate:"
+msgstr "Örnekleme oranı:"
+
+#: .\option.xml
+msgid "[ExportDialog]Split stereo tracks"
+msgstr "Stereo İzleri Böl"
+
+#: .\option.xml
+msgid "[ExportDialog]Store Wave and AIFF data in the exported file. If disengaged, references to audio files are used instead."
+msgstr "Wave ve AIFF bilgileri dışarı aktarılan dosyada sakla. Devre dışı bırakılırsa yerine ses dosyalarına referanslar kullanılır."
+
+#: .\option.xml
+msgid "[ExportDialog]Trim audio files"
+msgstr "Ses dosyalarını buda"
+

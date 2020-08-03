@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-18 15:38+0200\n"
+"PO-Revision-Date: 2009-01-29 11:07+0100\n"
+"Last-Translator: Thomas Mansfeld <thomas@kristallabs.de>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.1.0\n"
+
+#: .\cubasebuilder.cpp
+msgid "[CubaseHandler]Finalizing..."
+msgstr "Fertigstellen..."
+
+#: .\cubasebuilder.cpp
+msgid "[CubaseHandler]Importing Track %(1)..."
+msgstr "Importiere Spur %(1)..."

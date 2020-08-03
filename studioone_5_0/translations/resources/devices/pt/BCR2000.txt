@@ -1,0 +1,1 @@
+﻿Selecione o preset de fábrica 1 e grupo de encoders 1 em seu dispositivo. As linhas de encoders 1 e 2 e as três linhas de botões controlam o Console.

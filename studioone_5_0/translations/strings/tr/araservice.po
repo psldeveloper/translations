@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\document.cpp
+msgid "[ARA]%(1) is not compatible with %(2). Please check for updates."
+msgstr "%(1), %(2) ile uyumlu değildir. Lütfen güncellemeleri kontrol edin."
+
+#: .\plugversion.h
+msgid "[ARA]ARA Plug-In Support"
+msgstr "ARA Plug-In desteği"
+
+#: .\environment.cpp
+msgid "[ARA]Loading %(1)..."
+msgstr "%(1) Yükleniyor..."
+
+#: .\environment.cpp
+msgid "[ARA]Modify Chords"
+msgstr ""
+
+#: .\environment.cpp
+msgid "[ARA]Saving %(1)..."
+msgstr "%(1) Kayıt ediliyor..."
+
+#: .\document.cpp
+msgid "[ARA]Starting %(1) Integration..."
+msgstr "%(1) Entegrasyonu başlatılıyor"
+
+#: .\plugmain.cpp
+msgid "[ARA]Support for Plug-Ins using the ARA Protocol"
+msgstr "ARA Protokolü ile Plug-In desteği"

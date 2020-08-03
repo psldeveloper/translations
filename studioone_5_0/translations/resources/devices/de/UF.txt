@@ -1,0 +1,2 @@
+﻿Bitte benutzen Sie die Standard-Einstellung für Fader 1-16 und setzen Sie KN 1-8 auf Controller 14, 15, 16, 17, 18, 19, 20 und 21.
+Fader Bänke steuern die Mixer Kanäle 1-16.

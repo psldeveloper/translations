@@ -1,0 +1,1 @@
+﻿Pulsante Output assegna Fader Main Out. Il banco assegna il Fader Bank remoto. Il pulsante User alterna qualsiasi Solo. Shift encoder commuta il trasporto controller. Il pedale alterna Record.

@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\panel.js
+msgid "Action"
+msgstr "Aksiyon"
+
+#: .\panel.js
+msgid "Are you sure you want to revert all changes?"
+msgstr "Tüm değişiklikleri geri almak istediğinize eminmisiniz ?"
+
+#: .\editor.js
+msgid "Arguments"
+msgstr "Argümanlar"
+
+#: .\main.js
+msgid "Arrangement"
+msgstr "Aranjman"
+
+#: .\main.js
+msgid "Audio Editor"
+msgstr "Ses Düzenleyicisi"
+
+#: .\editor.js
+msgid "Command"
+msgstr "Komut"
+
+#: .\editor.js
+msgid "Command Arguments"
+msgstr "Komut Argümanları"
+
+#: .\organizer.js
+msgid "Description"
+msgstr "Açıklama"
+
+#: .\organizer.js
+msgid "Do you want to delete the selected macros?"
+msgstr "Seçili makroları silmek istediğinize eminmisiniz?"
+
+#: .\organizer.js
+msgid "Do you want to rename the macro file as well?"
+msgstr "Macro dosyalarının da adlarını değiştirmek istediğinize eminmisiniz?"
+
+#: .\panel.js
+msgid "Duplicate Macro"
+msgstr "Makroyu kopyala"
+
+#: .\panel.js
+msgid "Edit Macro..."
+msgstr "Makroyu Düzenle"
+
+#: .\panel.js .\renamer.js
+msgid "Edit Names"
+msgstr "İsimleri Düzenle"
+
+#: .\panel.js
+msgid "Export Macro Page"
+msgstr "Makro Sayfasını Dışarı Aktar"
+
+#: .\panel.js
+msgid "Export..."
+msgstr "Dışa Aktar..."
+
+#: .\organizer.js
+msgid "Group"
+msgstr "Gurup"
+
+#: .\panel.js
+msgid "Help"
+msgstr "Yardım"
+
+#: .\panel.js
+msgid "Import Macro Page"
+msgstr "Macro Sayfası İçeri Aktar"
+
+#: .\panel.js
+msgid "Import..."
+msgstr "Aktar..."
+
+#: .\gadget.js .\panel.js
+msgid "Macro Organizer"
+msgstr "Makro Düzenleyici"
+
+#: .\gadget.js
+msgid "Macro Toolbar inspired by the Studio One beta testers"
+msgstr "Studio One beta testerlerinden ilham alınan makro araç çubuğu"
+
+#: .\panel.js
+msgid "Macro not found:"
+msgstr "Makro bulunamadı:"
+
+#: .\editor.js .\gadget.js .\manager.js .\panel.js
+msgid "Macros"
+msgstr "Makrolar"
+
+#: .\translation.js
+msgid "[Macros]Macros (Arrangement)"
+msgstr "Makrolar (Aranjman)"
+
+#: .\translation.js
+msgid "[Macros]Macros (Audio Editor)"
+msgstr "Makrolar (Ses Düzenleyici)"
+
+#: .\translation.js
+msgid "[Macros]Macros (Note Editor)"
+msgstr ""
+
+#: .\organizer.js .\panel.js
+msgid "Name"
+msgstr "İsim"
+
+#: .\panel.js
+msgid "New Macro..."
+msgstr "Yeni Makro..."
+
+#: .\main.js
+msgid "Note Editor"
+msgstr ""
+
+#: .\panel.js
+msgid "Pages"
+msgstr "Sayfalar"
+
+#: .\panel.js .\renamer.js
+msgid "Reload Names"
+msgstr "İsimleri TekrarYükle"
+
+#: .\panel.js
+msgid "Reset Toolbar"
+msgstr "Araç Çubuğunu Başlangıç Durumuna Al"
+
+#: .\panel.js
+msgid "Setup"
+msgstr "Kurulum"
+
+#: .\elements.js
+msgid "Studio One Macro"
+msgstr "Studio One Makro"
+
+#: .\elements.js
+msgid "Studio One Macro Page"
+msgstr "Studio One Macro Sayfası"
+
+#: .\gadget.js
+msgid "Studio One Macro Toolbar"
+msgstr "Studio One Makro Araç Çubuğu"
+
+#: .\panel.js
+msgid "The file is empty or corrupt and could not be imported."
+msgstr "Dosya boş veya bozuk olduğundan içeri aktarılamadı."
+
+#: .\editor.js
+msgid "This command does not have any arguments."
+msgstr "Bu komutun herhangi bir argümanı yoktur"
+
+#: .\organizer.js
+msgid "User Macro"
+msgstr "Kullanıcı Makro'su"
+
+#~ msgid "[Macros]Macros (Music Editor)"
+#~ msgstr "Makrolar (Müzik Düzenleyici)"
+
+#~ msgid "Music Editor"
+#~ msgstr "Müzik Düzenleyici"

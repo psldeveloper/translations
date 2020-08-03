@@ -1,0 +1,1 @@
+﻿Por favor seleccione preset de fábrica 10 en Keystation. Faders C1-C8, controles B11-B17 y botones C52-C59 están mapeados a la consola. Fader 9 es el Volumen Master. Botón C60 es clic On/Off 

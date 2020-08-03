@@ -1,0 +1,20 @@
+#: .\aac\aacaudiocodec.cpp
+msgid "[FileType]AAC File"
+msgstr ""
+
+#: .\caf\cafaudiocodec.cpp
+msgid "[FileType]CAF File"
+msgstr ""
+
+#: .\flac\flacaudiocodec.cpp
+msgid "[FileType]FLAC File"
+msgstr ""
+
+#: .\m4a\m4aaudiocodec.cpp
+msgid "[FileType]M4A File"
+msgstr ""
+
+#: .\ogg\oggaudiocodec.cpp
+msgid "[FileType]Ogg Vorbis File"
+msgstr ""
+

@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\cocoa\gui\fileselector.cocoa.mm .\cocoa\gui\fileselector.ios.mm
+msgid "[FileSelector]All Documents"
+msgstr "Tutti i Documenti"
+
+#: .\win\gui\fileselector.win.cpp
+msgid "[FileSelector]All Files (*.*)"
+msgstr "Tutti i Files (*.*)"
+
+#: .\cocoa\gui\fileselector.cocoa.mm .\cocoa\gui\fileselector.ios.mm
+msgid "[FileSelector]All Readable Documents"
+msgstr "Tutti i Documenti Leggibili"
+
+#: .\win\gui\fileselector.win.cpp
+msgid "[FileSelector]All Supported Files"
+msgstr "Tutti i File Supportati"
+
+#: .\win\system\exceptionhandler.cpp
+msgid "[Win32]An unexpected error occurred in this application or in a plug-in.\nA dump file has been created at:\n\n%(1)"
+msgstr "Si è verificato un errore imprevisto in questa applicazione o nel plug in.\nA è stato creato un file dump a:\n\n%(1)"
+
+#: .\win\direct2d\dxgiengine.cpp
+msgid "[Win32]Graphics hardware acceleration issue detected."
+msgstr "La Scheda Grafica ha rilevato un problema"
+
+#: .\cocoa\gui\menu.cocoa.mm
+msgid "[MacMenu]Hide"
+msgstr "Nascondi"
+
+#: .\cocoa\gui\menu.cocoa.mm
+msgid "[MacMenu]Hide Others"
+msgstr "Nascondi Altri"
+
+#: .\cocoa\gui\menu.cocoa.mm
+msgid "[MacMenu]Quit"
+msgstr "Esci"
+
+#: .\cocoa\gui\menu.cocoa.mm
+msgid "[MacMenu]Services"
+msgstr "Servizi"
+
+#: .\cocoa\gui\menu.cocoa.mm
+msgid "[MacMenu]Show All"
+msgstr "Mostra Tutto"
+
+#: .\win\direct2d\d2dengine.cpp
+msgid "[Win32]This application requires Windows 10 or later."
+msgstr "Questa applicazione richiede Windows 10 o versioni successive."
+
+#~ msgid "[Win32]An Unexpected Error occured in this Application or one of its Plug-ins!\nA Crash Dump has been created at:\n\n%(1)"
+#~ msgstr "Un Errore Imprevisto si è verificato in questa applicazione o uno dei suoi plug-in!\n Un Crash Dump è stato creato a:\n\n %(1)"
+
+#~ msgid "[Win32]This application requires Windows 7 SP1 with Platform Update or later."
+#~ msgstr "Questa applicazione richiede Windows 7 SP1 con l'aggiornamento della Piattaforma o successivo."
+
+#~ msgid "[FileSelector]Do you want to replace the existing file %(1) ?"
+#~ msgstr "Vuoi sostituire il file esistente %(1)?"
+
+#~ msgid "[Alert]Information"
+#~ msgstr "Informazioni"
+

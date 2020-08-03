@@ -1,0 +1,8 @@
+#: .\plugversion.h
+msgid "[ASIO]ASIO Driver Support"
+msgstr ""
+
+#: .\asiomain.cpp
+msgid "[ASIO]Support for ASIO-compatible low latency Audio Devices"
+msgstr ""
+

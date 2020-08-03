@@ -1,0 +1,919 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\quantize\quantizecomponent.cpp
+msgid "[Quantize]%(1) Bar"
+msgstr "%(1) Misura"
+
+#: .\quantize\quantizecomponent.cpp
+msgid "[Quantize]%(1) Bars"
+msgstr "%(1) Misure"
+
+#: .\music\musiceditmodel.cpp
+msgid "[MusicEditComponent]%(1):  Length: %(2) | Velocity: %(3)"
+msgstr "%(1):  Lunghezza: %(2) | Velocity: %(3)"
+
+#: .\tempo\tempoedithandler.cpp
+msgid "[TempoEdit]%(3) BPM - Scale %(1) to %(2)"
+msgstr "%(3) BPM - Scala %(1) a %(2)"
+
+#: .\music\musicedithandler.cpp
+msgid "[Events]Absolute"
+msgstr "Assoluto"
+
+#: .\timeedit\timesnapper.cpp
+msgid "[TimeSnapper]Adaptive"
+msgstr "Adattabile"
+
+#: .\quantize\quantizedraghandler.cpp
+msgid "[QuantizeDragHandler]Add Groove Pattern"
+msgstr "Aggiungi Pattern Groove"
+
+#: .\envelopes\envelopeeditlayer.cpp .\music\velocityeditview.cpp
+msgid "[Command]Automation"
+msgstr "automazione"
+
+#: .\timeedit\timelinecomponent.cpp
+msgid "[Command]Autoscroll"
+msgstr "Autoscorrimento"
+
+#: .\timeedit\timesnapper.cpp
+msgid "[TimeSnapper]Bar"
+msgstr "Misura"
+
+#: .\envelopes\envelopeedithandler.cpp
+msgid "[Events]Bend Curve"
+msgstr "Curva Bend"
+
+#: .\music\notecolorschemeparam.cpp
+msgid "[NoteColorScheme]Black Selection"
+msgstr "Selezione Nero"
+
+#: .\quantize\quantizecomponent.cpp
+msgid "[Command]Clear Pattern"
+msgstr "Cancella Pattern"
+
+#: .\events\eventedithandler.cpp
+msgid "[EventEditHandler]Common end"
+msgstr "Fine Comune"
+
+#: .\events\eventedithandler.cpp
+msgid "[EventEditHandler]Common length"
+msgstr "Lunghezza Comune"
+
+#: .\events\eventedithandler.cpp
+msgid "[EventEditHandler]Common start"
+msgstr "Inizio Comune"
+
+#: .\envelopes\envelopedraghandler.cpp
+msgid "[Envelopes]Copy Points"
+msgstr "Copia Punti"
+
+#: .\tempo\tempodraghandler.cpp
+msgid "[TempoDragHandler]Copy Tempo"
+msgstr "Copia Tempo"
+
+#: .\timeedit\timeselectioncomponent.cpp
+msgid "[Command]Create Range from Cursor"
+msgstr "Crea Intervallo dal Cursore"
+
+#: .\timeedit\timeselectioncomponent.cpp
+msgid "[Command]Create Range from Cursor to Hotspot"
+msgstr "Crea Intervallo dal Cursore al Hotspot"
+
+#: .\tempo\tempoedithandler.cpp
+msgid "[TempoEdit]Create Steps"
+msgstr "Crea gli Step"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Data Zoom In"
+msgstr "Ingrandisci Dati"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Data Zoom Out"
+msgstr "Riduci Dati"
+
+#: .\tempo\tempoeditcomponent.cpp
+msgid "[Command]Delete"
+msgstr "Elimina"
+
+#: .\timeedit\timerulerview.cpp
+msgid "[TimeRulerView]Denominator"
+msgstr "Denominatore"
+
+#: .\quantize\quantizelength.cpp
+msgid "[Quantize]Dotted"
+msgstr "Puntato"
+
+#: .\envelopes\envelopeedithandler.cpp
+msgid "[Events]Draw Automation"
+msgstr "Disegna Automazione"
+
+#: .\timeedit\timerulerview.cpp
+msgid "[TimeRulerView]Draw Loop"
+msgstr "Disegna Loop"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Edit]Duplicate"
+msgstr "Duplica"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Duplicate"
+msgstr "Duplica"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Edit]Duplicate Shared"
+msgstr "Duplica Condivisi"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Duplicate Shared"
+msgstr "Duplica Condivisi"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Duplicate and Insert"
+msgstr "Duplica e Inserisci"
+
+#: .\events\eventeditcomponent.cpp .\timeedit\snaptimeprovider.cpp
+#: .\timeedit\timeeditcomponent.cpp .\timeedit\timelinecomponent.cpp
+#: .\timeedit\timeselectioncomponent.cpp .\timeedit\timesnapper.cpp
+msgid "[Command]Edit"
+msgstr "Modifica"
+
+#: .\timeedit\timerulerview.cpp
+msgid "[TimeRulerView]Edit Time Signature"
+msgstr "Modifca Indicazione di Tempo"
+
+#: .\timeedit\timerulerview.cpp
+msgid "[TimeRulerView]Enable Play Start Marker"
+msgstr "Abilita Play Start Marker"
+
+#: .\envelopes\envelopeedithandler.cpp .\events\eventtransform.cpp
+msgid "[Events]Fine"
+msgstr "Fine"
+
+#: .\events\eventeditcomponent.cpp
+msgid "[Command]First Event"
+msgstr "Primo Evento"
+
+#: .\events\eventeditcomponent.cpp
+msgid "[Command]First Event Extend"
+msgstr "Estendi Primo Evento"
+
+#: .\events\eventfigure.cpp
+msgid "[EventFigures]Flip"
+msgstr "Rovescia"
+
+#: .\quantize\quantizelength.cpp
+msgid "[Quantize]Follow Quantize"
+msgstr "Segui Quantizz."
+
+#: .\timeedit\timesnapper.cpp
+msgid "[TimeSnapper]Frames"
+msgstr "Frames"
+
+#: .\music\musicedittasks.cpp
+msgid "[MusicEdit]Global"
+msgstr "Globale"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Goto Next Event"
+msgstr "Vai all'Evento Successivo"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Goto Previous Event"
+msgstr "Vai all'Evento Precedente"
+
+#: .\quantize\quantizecomponent.cpp
+msgid "[Quantize]Grid"
+msgstr "Griglia"
+
+#: .\quantize\quantizecomponent.cpp
+msgid "[Quantize]Groove"
+msgstr "Groove"
+
+#: .\tempo\tempoeditcomponent.cpp
+msgid "[Command]Insert"
+msgstr "Inserisci"
+
+#: .\music\keyswitcheditview.cpp
+msgid "[KeySwitches]Insert Key Switch"
+msgstr "Inserisci Key switch"
+
+#: .\envelopes\envelopeedithandler.cpp
+msgid "[Events]Insert Points"
+msgstr "Inserisci Punti"
+
+#: .\tempo\tempoeditmodel.cpp
+msgid "[Tempo]Insert Tempo"
+msgstr "Inserisci Tempo"
+
+#: .\timeedit\timerulerview.cpp
+msgid "[TimeRulerView]Insert Time Signature"
+msgstr "Inserisci Indicazione di Tempo"
+
+#: .\music\keyswitcheditview.cpp
+msgid "[KeySwitches]Key Switch Name"
+msgstr "Nome Key Switch"
+
+#: .\music\musiceditmodel.cpp
+msgid "[MusicEditComponent]Key switch: %(1)"
+msgstr "Key switch: %(1)"
+
+#: .\events\eventeditcomponent.cpp
+msgid "[Command]Last Event"
+msgstr "Ultimo Evento"
+
+#: .\events\eventeditcomponent.cpp
+msgid "[Command]Last Event Extend"
+msgstr "Estendi Ultimo Evento"
+
+#: .\events\eventedithandler.cpp
+msgid "[EventEditHandler]Length: %(1)"
+msgstr "Lunghezza: %(1)"
+
+#: .\timeedit\timerulerview.cpp
+msgid "[TimeRulerView]Locate"
+msgstr "Individua"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Locate Mouse Cursor"
+msgstr "Individua Cursore Mouse"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Locate Selection"
+msgstr "Individua Selezione"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Locate Selection End"
+msgstr "Individua Fine Selezione"
+
+#: .\envelopes\envelopeedithandler.cpp
+msgid "[Events]Lock Values / Time"
+msgstr "Blocca Valori / Tempo"
+
+#: .\timeedit\timerulerview.cpp
+msgid "[TimeRulerView]Loop Active"
+msgstr "Loop Attivo"
+
+#: .\timeedit\timeeditcomponent.cpp .\timeedit\timerulerview.cpp
+msgid "[Edit]Loop Follows Selection"
+msgstr "Loop Segue Selezione"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Loop Follows Selection"
+msgstr "Loop Segue Selezione"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Loop Selection"
+msgstr "Selezione Loop"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Loop Selection Snapped"
+msgstr "Selezione Loop Agganciata"
+
+#: .\music\musicedithandler.cpp
+msgid "[Events]Modify Velocity"
+msgstr "Modifica Velocity"
+
+#: .\events\eventedithandler.cpp
+msgid "[EventFigures]Move"
+msgstr "Sposta"
+
+#: .\timeedit\timerulerview.cpp
+msgid "[TimeRulerView]Move Loop Range"
+msgstr "Sposta Loop Range"
+
+#: .\timeedit\timerulerview.cpp
+msgid "[TimeRulerView]Move Play Start Marker"
+msgstr "Muovi Play Start Marker"
+
+#: .\envelopes\envelopedraghandler.cpp
+msgid "[Envelopes]Move Points"
+msgstr "Sposta Punti"
+
+#: .\timeedit\timeselectioncomponent.cpp
+msgid "[Command]Move Range"
+msgstr "Sposta Range"
+
+#: .\timeedit\timeselectioncomponent.cpp
+msgid "[Command]Move Range Back"
+msgstr "Sposta Rande Dietro"
+
+#: .\timeedit\timeselectioncomponent.cpp
+msgid "[Command]Move Range Down"
+msgstr "Sposta Range Sotto"
+
+#: .\timeedit\timeselectioncomponent.cpp
+msgid "[Command]Move Range Up"
+msgstr "Sposta Range Sopra"
+
+#: .\timeedit\timeselectioncomponent.cpp
+msgid "[Command]Move Range to Hotspot"
+msgstr "Sposta Range all'Hotspot"
+
+#: .\timeedit\timeselectioncomponent.cpp
+msgid "[Command]Move Range to Hotspot Back"
+msgstr "Sposta Range dietro Hotspot"
+
+#: .\tempo\tempodraghandler.cpp
+msgid "[TempoDragHandler]Move tempo"
+msgstr "Sposta Tempo"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Edit]Move to Cursor"
+msgstr "Sposta al Cursore"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Move to Cursor"
+msgstr "Sposta al Cursore"
+
+#: .\timeedit\timerulerview.cpp
+msgid "[TimeRulerView]Move, Zoom"
+msgstr "Sposta, Zoom"
+
+#: .\music\musicedittasks.cpp
+msgid "[MusicEdit]Musical Functions"
+msgstr "Funzioni Musicali"
+
+#: .\music\musicedittasks.cpp
+msgid "[MusicEdit]Mute"
+msgstr "Mute"
+
+#: .\events\eventeditcomponent.cpp .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Navigation"
+msgstr "Navigazione"
+
+#: .\quantize\quantizelength.cpp
+msgid "[Quantize]Next Base"
+msgstr "Base successiva"
+
+#: .\events\eventeditcomponent.cpp
+msgid "[Command]Next Event"
+msgstr "Evento Successivo"
+
+#: .\events\eventeditcomponent.cpp
+msgid "[Command]Next Event Extend"
+msgstr "Estendi Evento Successivo"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Next Hotspot"
+msgstr "Hotspot Successivo"
+
+#: .\music\musiceditcomponent.cpp
+msgid "[MusicEditComponent]Note Length"
+msgstr "Lunghezza Nota"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Nudge"
+msgstr "Avvicina"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Nudge Back"
+msgstr "Avvicina Indietro"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Nudge Bar"
+msgstr "Avvicina alla Misura"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Nudge Bar Back"
+msgstr "Avvicina alla Misura Indietro"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Nudge Down"
+msgstr "Avvicina Sotto"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Nudge Down Fine"
+msgstr "Avvicina Sotto in Modo Fine"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Nudge Up"
+msgstr "Avvicina Sopra"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Nudge Up Fine"
+msgstr "Avvicina Sopra in Modo Fine"
+
+#: .\timeedit\timerulerview.cpp
+msgid "[TimeRulerView]Numerator"
+msgstr "Numeratore"
+
+#: .\music\musicedittasks.cpp
+msgid "[MusicEdit]Operations specific to note events"
+msgstr "Operazioni specifiche su eventi nota"
+
+#: .\music\musicedithandler.cpp
+msgid "[Events]Paint Events"
+msgstr "Disegna Eventi"
+
+#: .\music\notecolorschemeparam.cpp
+msgid "[NoteColorScheme]Part"
+msgstr "Parte"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Edit]Paste at Original Position"
+msgstr "Incolla nella Posizione Originale"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Paste at Original Position"
+msgstr "Incolla nella Posizione Originale"
+
+#: .\events\eventedithandler.cpp
+msgid "[EventFigures]Phase offset"
+msgstr "Offset della fase"
+
+#: .\music\keyswitcheditview.cpp
+msgid "[KeySwitches]Pitch"
+msgstr "Pitch"
+
+#: .\music\musicedittasks.cpp
+msgid "[MusicEdit]Pitch"
+msgstr "Pitch"
+
+#: .\music\notecolorschemeparam.cpp
+msgid "[NoteColorScheme]Pitch"
+msgstr "Pitch"
+
+#: .\quantize\quantizelength.cpp
+msgid "[Quantize]Previous Base"
+msgstr "Base precedente"
+
+#: .\events\eventeditcomponent.cpp
+msgid "[Command]Previous Event"
+msgstr "Evento Precedente"
+
+#: .\events\eventeditcomponent.cpp
+msgid "[Command]Previous Event Extend"
+msgstr "Estendi Evento Precedente"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Previous Hotspot"
+msgstr "Hotspot Precedente"
+
+#: .\music\musicedittasks.cpp
+msgid "[MusicEdit]Process"
+msgstr "Processa"
+
+#: .\music\musicedittasks.cpp
+msgid "[MusicEdit]Quantize"
+msgstr "Quantizza"
+
+#: .\quantize\quantizecomponent.cpp
+msgid "[Quantize]Quantize"
+msgstr "Quantizza"
+
+#: .\quantize\quantizecomponent.cpp
+msgid "[Command]Quantize"
+msgstr "Quantizza"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Edit]Quantize"
+msgstr "Quantizza"
+
+#: .\timeedit\timesnapper.cpp
+msgid "[TimeSnapper]Quantize"
+msgstr "Quantizza"
+
+#: .\quantize\quantizegrid.cpp
+msgid "[FileType]Quantize Settings"
+msgstr "Impostazioni Quantizz."
+
+#: .\quantize\quantizegrid.cpp .\quantize\quantizelength.cpp
+msgid "[Quantize]Quintuplet"
+msgstr "Quintina"
+
+#: .\timeedit\timeselectioncomponent.cpp
+msgid "[Command]Range End to Cursor"
+msgstr "Intervallo dalla Fine al Cursore"
+
+#: .\timeedit\timeselectioncomponent.cpp
+msgid "[Command]Range Start to Cursor"
+msgstr "Intervallo dall'Inizio al Cursore"
+
+#: .\timeedit\timelinecomponent.cpp
+msgid "[Command]Redo Zoom"
+msgstr "Ripristina Zoom"
+
+#: .\timeedit\snaptimeprovider.cpp
+msgid "[TimeSnapper]Relative Grid"
+msgstr "Griglia Relativa"
+
+#: .\tempo\tempoeditmodel.cpp
+msgid "[Tempo]Remove Tempo"
+msgstr "Rimuovi Tempo"
+
+#: .\timeedit\timerulerview.cpp
+msgid "[TimeRulerView]Remove Time Signature"
+msgstr "Rimuovi Indicazione Tempo"
+
+#: .\timeedit\timelinecomponent.cpp
+msgid "[Command]Restore Zoom State"
+msgstr "Ripristina Stato di Zoom"
+
+#: .\envelopes\envelopeedithandler.cpp
+msgid "[Events]S-Curve"
+msgstr "S-Curve"
+
+#: .\tempo\tempoedithandler.cpp
+msgid "[TempoEdit]Scale Tempo: please set Timeruler to Bars"
+msgstr "Scala il Tempo: si prega di impostare il Righello su Misure"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Select All in Loop"
+msgstr "Seleziona Tutto  in Loop"
+
+#: .\events\eventeditcomponent.cpp
+msgid "[Command]Select All on Tracks"
+msgstr "Seleziona Tutto sulle Tracce"
+
+#: .\music\keyswitcheditview.cpp
+msgid "[KeySwitches]Select Key Switch"
+msgstr "Seleziona Key Switch"
+
+#: .\events\eventeditcomponent.cpp
+msgid "[Command]Select from Event to End"
+msgstr "Seleziona da Evento a Fine"
+
+#: .\events\eventeditcomponent.cpp
+msgid "[Command]Select from Start to Event"
+msgstr "Seleziona da Start a Evento"
+
+#: .\music\pitchscaleview.cpp
+msgid "[PitchScale]Select notes of this Pitch"
+msgstr "Seleziona le note di questa altezza"
+
+#: .\quantize\quantizegrid.cpp .\quantize\quantizelength.cpp
+msgid "[Quantize]Septuplet"
+msgstr "Settimina"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Set Bar Offset to Cursor"
+msgstr "Imposta l'offset di battuta al cursore"
+
+#: .\timeedit\timerulerview.cpp
+msgid "[TimeRulerView]Set Bar Offset to Cursor"
+msgstr "Imposta l'offset di battuta al cursore"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Set Frame Offset to Cursor"
+msgstr "Imposta l'offset del frame al cursore"
+
+#: .\timeedit\timerulerview.cpp
+msgid "[TimeRulerView]Set Frame Offset to Cursor"
+msgstr "Imposta l'offset del frame al cursore"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Set Loop End"
+msgstr "Imposta Fine Loop"
+
+#: .\timeedit\timerulerview.cpp
+msgid "[TimeRulerView]Set Loop End"
+msgstr "Imposta Fine Loop"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Set Loop Start"
+msgstr "Imposta Inizio Loop"
+
+#: .\timeedit\timerulerview.cpp
+msgid "[TimeRulerView]Set Loop Start"
+msgstr "Imposta Inizio Loop"
+
+#: .\quantize\quantizecomponent.cpp
+msgid "[Command]Set Program A"
+msgstr "Imposta Programma A"
+
+#: .\quantize\quantizecomponent.cpp
+msgid "[Command]Set Program B"
+msgstr "Imposta Programma B"
+
+#: .\quantize\quantizecomponent.cpp
+msgid "[Command]Set Program C"
+msgstr "Imposta Programma C"
+
+#: .\quantize\quantizecomponent.cpp
+msgid "[Command]Set Program D"
+msgstr "Imposta Programma D"
+
+#: .\quantize\quantizecomponent.cpp
+msgid "[Command]Set Program E"
+msgstr "Imposta Programma E"
+
+#: .\quantize\quantizecomponent.cpp
+msgid "[Command]Set Program F"
+msgstr "Imposta Programma F"
+
+#: .\quantize\quantizecomponent.cpp
+msgid "[Command]Set Program G"
+msgstr "Imposta Programma G"
+
+#: .\timeedit\timeselectioncomponent.cpp
+msgid "[Command]Size Range End"
+msgstr "Dimensiona Range Fine"
+
+#: .\timeedit\timeselectioncomponent.cpp
+msgid "[Command]Size Range End Back"
+msgstr "Dimensiona Range Fine Indietro"
+
+#: .\timeedit\timeselectioncomponent.cpp
+msgid "[Command]Size Range End Down"
+msgstr "Dimensiona Range Fine Sotto"
+
+#: .\timeedit\timeselectioncomponent.cpp
+msgid "[Command]Size Range End Up"
+msgstr "Dimensiona Range Fine Sopra"
+
+#: .\timeedit\timeselectioncomponent.cpp
+msgid "[Command]Size Range End to Hotspot"
+msgstr "Dimensiona Range Fine all'Hotspot"
+
+#: .\timeedit\timeselectioncomponent.cpp
+msgid "[Command]Size Range End to Hotspot Back"
+msgstr "Dimensiona Range Fine all'Hotspot Indietro"
+
+#: .\timeedit\timeselectioncomponent.cpp
+msgid "[Command]Size Range Start"
+msgstr "Dimensiona Range Inizio"
+
+#: .\timeedit\timeselectioncomponent.cpp
+msgid "[Command]Size Range Start Back"
+msgstr "Dimensiona Range Inizio Indietro"
+
+#: .\timeedit\timeselectioncomponent.cpp
+msgid "[Command]Size Range Start Down"
+msgstr "Dimensiona Range Inizio Sotto"
+
+#: .\timeedit\timeselectioncomponent.cpp
+msgid "[Command]Size Range Start Up"
+msgstr "Dimensiona Range Inizio Sopra"
+
+#: .\timeedit\timeselectioncomponent.cpp
+msgid "[Command]Size Range Start to Hotspot"
+msgstr "Dimensiona Range Inizio all'Hotspot"
+
+#: .\timeedit\timeselectioncomponent.cpp
+msgid "[Command]Size Range Start to Hotspot Back"
+msgstr "Dimensiona Range Inizio all'Hotspot Indietro"
+
+#: .\timeedit\snaptimeprovider.cpp
+msgid "[Command]Snap Relative Grid"
+msgstr "Snap relativo alla griglia"
+
+#: .\events\eventsnapper.cpp
+msgid "[TimeSnapper]Snap To Events"
+msgstr "Aggancia agli Eventi"
+
+#: .\timeedit\snaptimeprovider.cpp
+msgid "[TimeSnapper]Snap To Grid"
+msgstr "Aggancia alla Griglia"
+
+#: .\timeedit\snaptimeprovider.cpp
+msgid "[Command]Snap To Grid"
+msgstr "Aggancia alla Griglia"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Edit]Snap to Cursor & Loop"
+msgstr "Aggancia al Cursore e al Loop"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Snap to Cursor & Loop"
+msgstr "Aggancia al Cursore e al Loop"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Split"
+msgstr "Dividi"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Edit]Split at Cursor"
+msgstr "Dividi al Cursore"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Split at Cursor"
+msgstr "Dividi al Cursore"
+
+#: .\timeedit\timerulerview.cpp
+msgid "[TimeRulerView]Start/Stop"
+msgstr "Start/Stop"
+
+#: .\timeedit\timelinecomponent.cpp
+msgid "[Command]Store Zoom State"
+msgstr "Salva Stato di Zoom"
+
+#: .\quantize\quantizegrid.cpp .\quantize\quantizelength.cpp
+msgid "[Quantize]Straight"
+msgstr "Semplice"
+
+#: .\envelopes\envelopeeditlayer.cpp
+msgid "[Command]Straighten Curve"
+msgstr "Raddrizza Curva"
+
+#: .\events\eventedithandler.cpp
+msgid "[EventFigures]Stretch"
+msgstr "Allunga"
+
+#: .\tempo\tempoeditcomponent.cpp
+msgid "[Command]Tempo"
+msgstr "Tempo"
+
+#: .\music\musicedittasks.cpp
+msgid "[MusicEdit]Time"
+msgstr "Tempo"
+
+#: .\envelopes\envelopeedithandler.cpp
+msgid "[Events]Time Locked"
+msgstr "Tempo Bloccato"
+
+#: .\timeedit\timerulerview.cpp
+msgid "[TimeRulerView]Time Ruler"
+msgstr "Righello"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Edit]Timebase"
+msgstr "Timebase"
+
+#: .\music\musicedithandler.cpp
+msgid "[Events]Toggle Chord Mode"
+msgstr "Passa a Modalità Accordo"
+
+#: .\timeedit\timesnapper.cpp
+msgid "[TimeSnapper]Toggle Snap"
+msgstr "Alterna Aggancio"
+
+#: .\timeedit\timesnapper.cpp
+msgid "[Command]Toggle Snap"
+msgstr "Alterna Aggancio"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Toggle Time-Linear Display"
+msgstr "Attiva / disattiva Time-Linear Display"
+
+#: .\timeedit\timelinecomponent.cpp
+msgid "[Command]Toggle Zoom"
+msgstr "Alterna Zoom"
+
+#: .\music\musiceditmodel.cpp
+msgid "[MusicEditComponent]Transfer Notes"
+msgstr "Trasferisci Note"
+
+#: .\envelopes\envelopetransformhandler.cpp .\events\eventtransform.cpp
+msgid "[Events]Transform Automation"
+msgstr "Trasforma Automazione"
+
+#: .\envelopes\envelopeeditlayer.cpp .\music\velocityeditview.cpp
+msgid "[Command]Transform Range"
+msgstr "Trasforma Range"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Transport"
+msgstr "Trasporto"
+
+#: .\quantize\quantizegrid.cpp .\quantize\quantizelength.cpp
+msgid "[Quantize]Triplet"
+msgstr "Terzina"
+
+#: .\timeedit\timelinecomponent.cpp
+msgid "[Command]Undo Zoom"
+msgstr "Annulla Zoom"
+
+#: .\envelopes\envelopeedithandler.cpp
+msgid "[Events]Unlock Values / Time"
+msgstr "Sblocca Valori / Tempo"
+
+#: .\envelopes\envelopeedithandler.cpp
+msgid "[Events]Values Locked"
+msgstr "Valori Bloccati"
+
+#: .\music\musicedittasks.cpp
+msgid "[MusicEdit]Velocity"
+msgstr "Velocity"
+
+#: .\music\notecolorschemeparam.cpp
+msgid "[NoteColorScheme]Velocity"
+msgstr "Velocity"
+
+#: .\music\musicedithandler.cpp
+msgid "[Events]Velocity Accent"
+msgstr "Accento Velocity"
+
+#: .\music\notecolorschemeparam.cpp
+msgid "[NoteColorScheme]Velocity Bar"
+msgstr "Battuta Velocity"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]View"
+msgstr "Vista"
+
+#: .\timeedit\timeeditcomponent.cpp .\timeedit\timelinecomponent.cpp
+msgid "[Command]Zoom"
+msgstr "Zoom"
+
+#: .\timeedit\timerulerview.cpp
+msgid "[TimeRulerView]Zoom"
+msgstr "Zoom"
+
+#: .\timeedit\timelinecomponent.cpp
+msgid "[Command]Zoom Full"
+msgstr "Zoom Pieno"
+
+#: .\timeedit\timelinecomponent.cpp
+msgid "[Command]Zoom Full Horizontally"
+msgstr "Zoom Pieno Orizzontale"
+
+#: .\timeedit\timelinecomponent.cpp
+msgid "[Command]Zoom In"
+msgstr "Zoom In"
+
+#: .\timeedit\timelinecomponent.cpp
+msgid "[Command]Zoom In Fine"
+msgstr "Zoom In Fine"
+
+#: .\timeedit\timelinecomponent.cpp
+msgid "[Command]Zoom In Vertical"
+msgstr "Zoom In Verticale"
+
+#: .\timeedit\timelinecomponent.cpp
+msgid "[Command]Zoom In Vertical Fine"
+msgstr "Zoom In Verticale Fine"
+
+#: .\timeedit\timelinecomponent.cpp
+msgid "[Command]Zoom Out"
+msgstr "Zoom Out"
+
+#: .\timeedit\timelinecomponent.cpp
+msgid "[Command]Zoom Out Fine"
+msgstr "Zoom Out Fine"
+
+#: .\timeedit\timelinecomponent.cpp
+msgid "[Command]Zoom Out Vertical"
+msgstr "Zoom Out Verticale"
+
+#: .\timeedit\timelinecomponent.cpp
+msgid "[Command]Zoom Out Vertical Fine"
+msgstr "Zoom Out Vertical Fine"
+
+#: .\timeedit\timelinecomponent.cpp
+msgid "[Command]Zoom to Loop"
+msgstr "Zoom a Loop"
+
+#: .\timeedit\timelinecomponent.cpp
+msgid "[Command]Zoom to Selection"
+msgstr "Zoom a Selezione"
+
+#: .\timeedit\timelinecomponent.cpp
+msgid "[Command]Zoom to Selection Horizontally"
+msgstr "Zoom a Selezione Orizzontale"
+
+#~ msgid "[TimeEditModel]Move to Cursor"
+#~ msgstr "Sposta al Cursore"
+
+#~ msgid "[Command]Select Base"
+#~ msgstr "Seleziona Base"
+
+#~ msgid "[PitchNameEditor]Name"
+#~ msgstr "Nome"
+
+#~ msgid "[PitchNameEditor]Pitch"
+#~ msgstr "Nota"
+
+#~ msgid "[Quantize]Quintole"
+#~ msgstr "Quintina"
+
+#~ msgid "[Quantize]Septole"
+#~ msgstr "Settimina"
+
+#~ msgid "[MusicalScale]Blues"
+#~ msgstr "Blues"
+
+#~ msgid "[MusicalScale]Chromatic"
+#~ msgstr "Cromatico"
+
+#~ msgid "[MusicalScale]Dorian"
+#~ msgstr "Dorico"
+
+#~ msgid "[MusicalScale]Harmonic Minor"
+#~ msgstr "Minore Armonica"
+
+#~ msgid "[MusicalScale]Major"
+#~ msgstr "Maggiore"
+
+#~ msgid "[MusicalScale]Major Pentatonic"
+#~ msgstr "Maggiore Pentatonica"
+
+#~ msgid "[MusicalScale]Melodic Minor"
+#~ msgstr "Minore Melodica"
+
+#~ msgid "[MusicalScale]Minor Pentatonic"
+#~ msgstr "Minore Pentatonica"
+
+#~ msgid "[MusicalScale]Mixolydian"
+#~ msgstr "Misolidio"
+
+#~ msgid "[MusicalScale]Natural Minor"
+#~ msgstr "Minore Naturale"
+
+#~ msgid "[MusicalScale]Phrygian"
+#~ msgstr "Frigio"
+

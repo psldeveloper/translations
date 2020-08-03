@@ -1,0 +1,569 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\extensions\extensionmanagerui.cpp
+msgid "[ExtensionManager]%(1) Extensions installed."
+msgstr "%(1) Estensioni Installate."
+
+#: .\extensions\extensiondescription.cpp
+msgid "[Extensions]%(1) is already installed!"
+msgstr "%(1) è già installato!"
+
+#: .\extensions\extensionmanager.cpp
+msgid "[ExtensionManager]%(1) is not compatible with $APPNAME!"
+msgstr "%(1) non è compatibile con $APPNAME!"
+
+#: .\webfs\transfermanagerui.cpp
+msgid "[TransferManager]%(1) of %(2)"
+msgstr "%(1) di %(2)"
+
+#: .\extensions\contentinstaller.cpp
+msgid "[Installer]%(1) of %(2) packages already exist on your system."
+msgstr "%(1) di %(2) i pacchetti esistono già nel tuo sistema."
+
+#: .\packages\packagemanager.cpp
+msgid "[PackageManager]%(2)/%(3) %(1)"
+msgstr "%(2)/%(3) %(1)"
+
+#: .\extensions\extensionmanagerui.cpp
+msgid "[ExtensionManager](Developer Mode)"
+msgstr "(Modalità Sviluppatore)"
+
+#: .\extensions\extensionmanagerui.cpp
+msgid "[ExtensionManager](disabled)"
+msgstr "(disabilitato)"
+
+#: .\packages\extensionmanagerpackages.cpp
+msgid "[PackageActions]Abort Uninstall"
+msgstr "Annulla disinstallazione"
+
+#: .\extensions\backupmanager.cpp .\extensions\contentinstaller.cpp
+#: .\extensions\extensionmanager.cpp
+msgid "[Command]Application"
+msgstr "Applicazione"
+
+#: .\packages\packagemanager.cpp
+msgid "[PackageManager]Available Packages"
+msgstr "Pacchetti disponibili"
+
+#: .\extensions\backupmanager.cpp
+msgid "[BackupManager]Backup"
+msgstr "Backup"
+
+#: .\extensions\backupmanager.cpp
+msgid "[Command]Backup and Restore"
+msgstr "Backup e Ripristino"
+
+#: .\extensions\backupmanager.cpp
+msgid "[BackupManager]Backup is too large."
+msgstr "Backup è troppo grande."
+
+#: .\extensions\backupmanager.cpp
+msgid "[BackupManager]Backup restored successfully."
+msgstr "Backup ripristinato con successo."
+
+#: .\extensions\backupmanager.cpp
+msgid "[BackupManager]Backup uploaded successfully."
+msgstr "Backup caricato correttamente."
+
+#: .\extensions\backupmanager.cpp
+msgid "[BackupManager]Backup will be restored next time you start $APPNAME."
+msgstr "Il Backup verrà ripristinato al prossimo avvio $APPNAME."
+
+#: .\extensions\extensionmanagerui.cpp
+msgid "[ExtensionManager]Built-in Extensions can not be uninstalled or updated."
+msgstr "Le Estensioni Integrate non possono essere disinstallate o aggiornate."
+
+#: .\webfs\transfermanagerui.cpp
+msgid "[TransferManager]Cancel"
+msgstr "Annulla"
+
+#: .\webfs\transfermanagerui.cpp
+msgid "[TransferManager]Canceled!"
+msgstr "Annullato!"
+
+#: .\extensions\appupdater.cpp
+msgid "[Updater]Check for Updates"
+msgstr "Verificare Aggiornamenti"
+
+#: .\extensions\appupdater.cpp
+msgid "[Command]Check for Updates"
+msgstr "Controllare Aggiornamenti"
+
+#: .\extensions\appupdater.cpp
+msgid "[Updater]Check for Updates failed!"
+msgstr "Verifica degli Aggiornamenti fallita!"
+
+#: .\extensions\appupdater.cpp
+msgid "[Updater]Checking version of %(1)"
+msgstr "Controllo Versione di %(1)"
+
+#: .\extensions\contentinstaller.cpp
+msgid "[Installer]Claim Product Key"
+msgstr "Richiedi Product Key"
+
+#: .\webfs\webfilenodes.cpp
+msgid "[WebFS]Cloud"
+msgstr "Cloud"
+
+#: .\extensions\backupmanager.cpp
+msgid "[BackupManager]Computer"
+msgstr "Computer"
+
+#: .\packages\packagemanager.cpp
+msgid "[PackageManager]Contains %(1) items"
+msgstr "Contiene %(1) elementi"
+
+#: .\extensions\contentinstaller.cpp
+msgid "[Installer]Copy"
+msgstr "Copia"
+
+#: .\webfs\transfermanagerui.cpp
+msgid "[TransferManager]Copying..."
+msgstr "Copiando..."
+
+#: .\extensions\appupdater.cpp
+msgid "[Updater]Current version: %(1)"
+msgstr "Versione attuale: %(1)"
+
+#: .\extensions\contentinstaller.cpp
+msgid "[Installer]Custom Installation"
+msgstr "Installazione personalizzata"
+
+#: .\extensions\backupmanager.cpp
+msgid "[BackupManager]Date & Time"
+msgstr "Data e Ora"
+
+#: .\packages\unifiedpackagesource.cpp
+msgid "[PackageSource]Development Content"
+msgstr "Sviluppo Contenuto"
+
+#: .\packages\unifiedpackageaction.cpp
+msgid "[PackageActions]Disable"
+msgstr "Disabilita"
+
+#: .\extensions\contentinstaller.cpp
+msgid "[Installer]Do you want to install the missing packages only?"
+msgstr "Si desidera installare solo i pacchetti mancanti?"
+
+#: .\extensions\extensionmanagerui.cpp
+msgid "[ExtensionManager]Do you want to install these updates now?"
+msgstr "Vuoi installare questi aggiornamenti ora?"
+
+#: .\extensions\extensionmanagerui.cpp
+msgid "[ExtensionManager]Do you want to uninstall these Extensions?"
+msgstr "Vuoi disinstallare queste estensioni?"
+
+#: .\extensions\extensionmanagerui.cpp
+msgid "[ExtensionManager]Do you want to uninstall this Extension?"
+msgstr "Vuoi disinstallare questa estensione?"
+
+#: .\webfs\downloaddraghandler.cpp
+msgid "[WebFS]Download"
+msgstr "Download"
+
+#: .\webfs\transfermanagerui.cpp
+msgid "[TransferManager]Download"
+msgstr "Download"
+
+#: .\extensions\contentinstaller.cpp
+msgid "[Installer]Download from $APPCOMPANY Account"
+msgstr "Scarica dall'Account $APPCOMPANY"
+
+#: .\webfs\transfermanagerui.cpp
+msgid "[TransferManager]Downloading..."
+msgstr "Sto Scaricando ..."
+
+#: .\packages\unifiedpackageaction.cpp
+msgid "[PackageActions]Enable"
+msgstr "Abilita"
+
+#: .\extensions\extensionmanager.cpp
+msgid "[Command]Extensions"
+msgstr "Estensioni"
+
+#: .\packages\unifiedpackagesource.cpp
+msgid "[PackageSource]Factory Content"
+msgstr "Factory Content"
+
+#: .\extensions\backupmanager.cpp
+msgid "[BackupManager]Failed to create backup."
+msgstr "Impossibile creare backup."
+
+#: .\extensions\backupmanager.cpp
+msgid "[BackupManager]Failed to restore from backup."
+msgstr "Impossibile ripristinare da backup."
+
+#: .\extensions\extensiondescription.cpp
+msgid "[Extensions]Failed to uninstall %(1)!"
+msgstr "Disinstallazione non riuscita% (1)!"
+
+#: .\extensions\backupmanager.cpp
+msgid "[BackupManager]Failed to upload backup."
+msgstr "Caricamento del backup non riuscito."
+
+#: .\webfs\transfermanagerui.cpp
+msgid "[TransferManager]Failed!"
+msgstr "Non riuscito!"
+
+#: .\packages\packagefilter.cpp
+msgid "[PackageFilter]File Type"
+msgstr "Tipo File"
+
+#: .\packages\packagesorter.cpp
+msgid "[PackageSorter]File Type"
+msgstr "Tipo File"
+
+#: .\webfs\transfermanagerui.cpp
+msgid "[TransferManager]Files are being transferred in background."
+msgstr "I file vengono trasferiti in background."
+
+#: .\extensions\contentinstaller.cpp
+msgid "[Installer]Full Installation"
+msgstr "Installazione Completa"
+
+#: .\gadgets\gadgetmanager.cpp
+msgid "[GadgetManager]Gadgets"
+msgstr "Gadgets"
+
+#: .\extensions\appupdater.cpp
+msgid "[Command]Help"
+msgstr "Aiuto"
+
+#: .\packages\unifiedpackageaction.cpp
+msgid "[PackageActions]Install"
+msgstr "Installa"
+
+#: .\extensions\contentinstaller.cpp
+msgid "[Installer]Install All"
+msgstr "Installa Tutto"
+
+#: .\packages\unifiedpackageaction.cpp
+msgid "[PackageActions]Install All"
+msgstr "Installa Tutto"
+
+#: .\extensions\extensionmanagerui.cpp
+msgid "[ExtensionManager]Install Extension"
+msgstr "Installa Estensione"
+
+#: .\extensions\contentinstaller.cpp
+msgid "[Installer]Install Missing"
+msgstr "Installa le Parti Mancanti"
+
+#: .\packages\packagefilter.cpp
+msgid "[PackageFilter]Installable"
+msgstr "Installabile"
+
+#: .\extensions\contentinstaller.cpp
+msgid "[Command]Installation"
+msgstr "Installazione"
+
+#: .\extensions\extensiondescription.cpp
+msgid "[FileType]Installation File"
+msgstr "File di Installazione "
+
+#: .\extensions\extensionmanagerui.cpp
+msgid "[ExtensionManager]Installation canceled!"
+msgstr "Installazione annullata!"
+
+#: .\packages\unifiedpackageinstaller.cpp
+msgid "[UnifiedPackageInstaller]Installation failed for %(1)."
+msgstr "Installazione non riuscita per %(1)."
+
+#: .\extensions\extensiondescription.cpp
+msgid "[Extensions]Installation failed!"
+msgstr "Installazione non riuscita!"
+
+#: .\extensions\contentinstaller.cpp
+msgid "[Installer]Installed"
+msgstr "Installato"
+
+#: .\packages\packagefilter.cpp
+msgid "[PackageFilter]Installed"
+msgstr "Installato"
+
+#: .\packages\unifiedpackageaction.cpp
+msgid "[PackageActions]Installed"
+msgstr "Installato"
+
+#: .\packages\packagemanager.cpp
+msgid "[PackageManager]Installed Packages"
+msgstr "Pacchetti installati"
+
+#: .\extensions\appupdater.cpp
+msgid "[Updater]Installed version: %(1)"
+msgstr "Versione installata: %(1)"
+
+#: .\extensions\extensiondescription.cpp
+msgid "[Extensions]Invalid Installation File!"
+msgstr "File Installazione non Valido!"
+
+#: .\extensions\contentinstaller.cpp
+msgid "[Installer]License"
+msgstr "Licenza"
+
+#: .\extensions\extensionmanager.cpp
+msgid "[ExtensionManager]Migrating Extension %(1)..."
+msgstr "Migrazione dell'Estensione %(1)..."
+
+#: .\extensions\contentinstaller.cpp
+msgid "[Installer]Minimal Installation"
+msgstr "Installazione Minima"
+
+#: .\extensions\contentinstaller.cpp
+msgid "[Installer]My Purchased Items"
+msgstr "I Miei Articoli Acquistati"
+
+#: .\packages\packagefilter.cpp
+msgid "[PackageFilter]Name"
+msgstr "Nome"
+
+#: .\packages\packagesorter.cpp
+msgid "[PackageSorter]Name"
+msgstr "Nome"
+
+#: .\extensions\backupmanager.cpp
+msgid "[BackupManager]Never"
+msgstr "Mai"
+
+#: .\webfs\transfermanagerui.cpp
+msgid "[TransferManager]New File"
+msgstr "Nuovo file"
+
+#: .\extensions\extensionmanagerui.cpp
+msgid "[ExtensionManager]No Extensions installed."
+msgstr "Nessuna Estensione Installata."
+
+#: .\gadgets\gadgetmanager.cpp
+msgid "[GadgetManager]No Gadgets installed"
+msgstr "Nessun Gadget Installato"
+
+#: .\extensions\backupmanager.cpp
+msgid "[BackupManager]No backups found."
+msgstr "Nessun backup trovato."
+
+#: .\extensions\extensiondescription.cpp
+msgid "[Extensions]No updates found for your Extensions."
+msgstr "Nessun aggiornamento trovato per le Estensioni."
+
+#: .\packages\packagefilter.cpp
+msgid "[PackageFilter]Origin"
+msgstr "Origine"
+
+#: .\packages\packagefilter.cpp
+msgid "[PackageFilter]Other"
+msgstr "altro"
+
+#: .\extensions\contentinstaller.cpp
+msgid "[Installer]Package"
+msgstr "Pacchetto"
+
+#: .\extensions\backupmanager.cpp
+msgid "[BackupManager]Program Settings"
+msgstr "Impostazioni programma"
+
+#: .\webfs\transfermanagerui.cpp
+msgid "[TransferManager]Queued"
+msgstr "In coda"
+
+#: .\extensions\contentinstaller.cpp
+msgid "[Installer]Recommended Installation"
+msgstr "Installazione Consigliata"
+
+#: .\web\webelements.cpp
+msgid "[Feed]Refresh"
+msgstr "Aggiorna"
+
+#: .\webfs\transfermanagerui.cpp
+msgid "[TransferManager]Remove From History"
+msgstr "Rimuovi Dalla Storia"
+
+#: .\extensions\extensionmanager.cpp
+msgid "[ExtensionManager]Removing Extension %(1)..."
+msgstr "Rimozione dell'Estensione %(1)..."
+
+#: .\webfs\transfermanagerui.cpp
+msgid "[TransferManager]Restart"
+msgstr "Riavvia"
+
+#: .\extensions\backupmanager.cpp
+msgid "[BackupManager]Restore"
+msgstr "Ripristina"
+
+#: .\extensions\extensionmanager.cpp
+msgid "[ExtensionManager]Scanning Extensions..."
+msgstr "Scansione Estensioni..."
+
+#: .\packages\packagefilter.cpp
+msgid "[PackageFilter]Search"
+msgstr "Cerca"
+
+#: .\extensions\extensiondescription.cpp
+msgid "[Extensions]Signature Verification"
+msgstr "Verifica della Firma"
+
+#: .\extensions\backupmanager.cpp
+msgid "[BackupManager]Size"
+msgstr "Dimensione"
+
+#: .\extensions\contentinstaller.cpp
+msgid "[Installer]Size"
+msgstr "Dimensione"
+
+#: .\packages\packagefilter.cpp
+msgid "[PackageFilter]State"
+msgstr "Stato"
+
+#: .\extensions\contentinstaller.cpp
+msgid "[Installer]Status"
+msgstr "Stato"
+
+#: .\extensions\extensiondescription.cpp
+msgid "[Extensions]Target directory is locked by %(1)."
+msgstr "La directory di destinazione è bloccata da% (1)."
+
+#: .\extensions\extensiondescription.cpp
+msgid "[Extensions]The installation file is not compatible with this application."
+msgstr "Il file di installazione non è compatibile con questa applicazione."
+
+#: .\extensions\extensiondescription.cpp
+msgid "[Extensions]The installation file is not compatible with this platform."
+msgstr "Il file di installazione non è compatibile con questa piattaforma."
+
+#: .\extensions\contentinstaller.cpp
+msgid "[Installer]The installed content will be available next time you start $APPNAME."
+msgstr "Il contenuto installato sarà disponibile al riavvio di $APPNAME."
+
+#: .\packages\unifiedpackageinstaller.cpp
+msgid "[UnifiedPackageInstaller]The installed content will be available next time you start $APPNAME."
+msgstr "Il contenuto installato sarà disponibile al riavvio di $APPNAME."
+
+#: .\extensions\appupdater.cpp
+msgid "[Updater]The version could not be identified!"
+msgstr "La versione non può essere identificata!"
+
+#: .\extensions\extensiondescription.cpp
+msgid "[Extensions]There are updates available for your Extensions."
+msgstr "Ci sono aggiornamenti disponibili per le Estensioni."
+
+#: .\extensions\appupdater.cpp
+msgid "[Updater]There is a new version available."
+msgstr "C'è una nuova versione disponibile."
+
+#: .\extensions\extensiondescription.cpp
+msgid "[Extensions]This file does not have a valid digital signature."
+msgstr "Questo file non dispone di una firma digitale valida."
+
+#: .\packages\packagefilter.cpp
+msgid "[PackageFilter]Type"
+msgstr "Digita"
+
+#: .\packages\packagesorter.cpp
+msgid "[PackageSorter]Type"
+msgstr "Digita"
+
+#: .\packages\unifiedpackageaction.cpp
+msgid "[PackageActions]Uninstall"
+msgstr "Disinstalla"
+
+#: .\packages\unifiedpackageaction.cpp
+msgid "[PackageActions]Uninstall All"
+msgstr "Disinstalla tutto"
+
+#: .\extensions\backupmanager.cpp
+msgid "[BackupManager]Unknown"
+msgstr "Sconosciuto"
+
+#: .\packages\unifiedpackagesource.cpp
+msgid "[PackageSource]Unknown"
+msgstr "Sconosciuto"
+
+#: .\packages\unifiedpackageaction.cpp
+msgid "[PackageActions]Update"
+msgstr "Aggiorna"
+
+#: .\packages\unifiedpackageaction.cpp
+msgid "[PackageActions]Update All"
+msgstr "Aggiorna tutto"
+
+#: .\extensions\appupdater.cpp
+msgid "[Updater]Update Now"
+msgstr "Aggiorna Ora"
+
+#: .\extensions\extensionmanager.cpp
+msgid "[ExtensionManager]Updating Extension %(1)..."
+msgstr "Aggiornamento Estensione %(1) ..."
+
+#: .\webfs\webfsbrowserextension.cpp
+msgid "[WebFS]Upload To"
+msgstr "Carica Su"
+
+#: .\webfs\transfermanagerui.cpp
+msgid "[TransferManager]Uploading..."
+msgstr "Caricamento ..."
+
+#: .\packages\unifiedpackagesource.cpp
+msgid "[PackageSource]User Content"
+msgstr "Contenuto utente"
+
+#: .\extensions\backupmanager.cpp
+msgid "[BackupManager]Version"
+msgstr "Versione"
+
+#: .\extensions\appupdater.cpp
+msgid "[Updater]View Release Notes"
+msgstr "Leggi Note di Rilascio"
+
+#: .\extensions\appupdater.cpp
+msgid "[Command]View Release Notes"
+msgstr "Leggi Note di Rilascio"
+
+#: .\extensions\extensionmanagerui.cpp
+msgid "[ExtensionManager]Waiting for uninstall"
+msgstr "Attesa per la disinstallazione"
+
+#: .\extensions\extensionmanagerui.cpp
+msgid "[ExtensionManager]Waiting for update"
+msgstr "In attesa di aggiornamento"
+
+#: .\extensions\extensionmanager.cpp
+msgid "[ExtensionManager]You need a newer version of $APPNAME."
+msgstr "Hai bisogno di una versione più recente di $APPNAME."
+
+#: .\extensions\appupdater.cpp
+msgid "[Updater]Your version is up-to-date."
+msgstr "La versione è aggiornata."
+
+#~ msgid "[ExtensionManager]No updates found for your Extensions."
+#~ msgstr "Nessun aggiornamento trovato per le Estensioni."
+
+#~ msgid "[ExtensionManager]There are updates available for your Extensions."
+#~ msgstr "Ci sono aggiornamenti disponibili per le Estensioni."
+
+#~ msgid "[ExtensionManager]%(1) is already installed!"
+#~ msgstr "%(1) è già installato!"
+
+#~ msgid "[ExtensionManager]Installation failed!"
+#~ msgstr "Installazione non riuscita!"
+
+#~ msgid "[ExtensionManager]Invalid Installation File!"
+#~ msgstr "File Installazione non Valido!"
+
+#~ msgid "[ExtensionManager]Signature Verification"
+#~ msgstr "Verifica della Firma"
+
+#~ msgid "[ExtensionManager]This file does not have a valid digital signature."
+#~ msgstr "Questo file non dispone di una firma digitale valida."
+
+#~ msgid "[Installer]$APPCOMPANY Account"
+#~ msgstr "$APPCOMPANY Account"
+
+#~ msgid "[TransferManager]KB/sec"
+#~ msgstr "KB/sec"
+
+#~ msgid "[TransferManager]MB/sec"
+#~ msgstr "MB/sec"
+

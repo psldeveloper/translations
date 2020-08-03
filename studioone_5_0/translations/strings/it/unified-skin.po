@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]$APPCOMPANY Login"
+msgstr "$APPCOMPANY Login"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]$APPCOMPANY Terms of Use"
+msgstr "$APPCOMPANY Termini di utilizzo"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]$APPNAME requires access to your $APPCOMPANY Account. Please login with your e-mail/username and password below."
+msgstr "$APPNAME richiede l'accesso al tuo account $APPCOMPANY. Effettua il login con il tuo indirizzo e-mail / username e password."
+
+#: .\subscription.xml
+msgid "[SubscriptionStatus]$CLOUDNAME has been activated on this computer."
+msgstr "$CLOUDNAME è stato attivato su questo computer."
+
+#: .\backup.xml
+msgid "[BackupManager]$CLOUDNAME has not been activated on this computer."
+msgstr "$CLOUDNAME non è stato attivato su questo computer."
+
+#: .\cclcommon.xml
+msgid "[CommandEditorInplaceView]-"
+msgstr "-"
+
+#: .\purchase.xml
+msgid "[PurchaseHandler]Activate"
+msgstr "Attiva"
+
+#: .\purchase.xml
+msgid "[PurchaseHandler]Activate Purchased Items"
+msgstr "Attiva gli Elementi Acquistati"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorConflictPopup]Assign"
+msgstr "Assegna"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorOption]Assign"
+msgstr "Assegna"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorConflictPopup]Assign and go to Conflict"
+msgstr "Assegna e vai in Conflitto"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Back to Log in"
+msgstr "Torna al Log in"
+
+#: .\backup.xml
+msgid "[BackupManager]Backup"
+msgstr "Backup"
+
+#: .\backup.xml
+msgid "[BackupManager]Backup Now"
+msgstr "Backup Adesso"
+
+#: .\backup.xml
+msgid "[BackupManager]Backup and Restore"
+msgstr "Backup e Ripristino"
+
+#: .\backup.xml
+msgid "[BackupManager]Backup settings to $CLOUDNAME"
+msgstr "Impostazioni di backup su $CLOUDNAME"
+
+#: .\backup.xml
+msgid "[BackupManager]Backup will be restored next time you start $APPNAME."
+msgstr "Il Backup verrà ripristinato al prossimo avvio $APPNAME."
+
+#: .\backup.xml
+msgid "[BackupManager]Cancel"
+msgstr "Annulla"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorConflictPopup]Cancel"
+msgstr "Annulla"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Country/Region"
+msgstr "Paese/Regione"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Create $APPCOMPANY Account"
+msgstr "Crea un Account $APPCOMPANY"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Don&apos;t have a $APPCOMPANY Account yet?"
+msgstr "Don&apos;t ha ancora un account $APPCOMPANY?"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Email"
+msgstr "E-Mail"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Email or username"
+msgstr "E-Mail o username"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorOption]Enter key:"
+msgstr "Tasto Invio:"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]First Name"
+msgstr "Nome"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Forgot your password?"
+msgstr "Hai dimenticato la password?"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]I have read and agree to the latest Terms of Use."
+msgstr "Ho letto e accetto le ultime condizioni di utilizzo."
+
+#: .\login.xml
+msgid "[LicenseServerLogin]I would like to receive occasional updates from $APPCOMPANY via e-mail."
+msgstr "Mi piacerebbe ricevere aggiornamenti occasionali via mail da $APPCOMPANY."
+
+#: .\purchase.xml
+msgid "[PurchaseHandler]If your computer is not connected to the Internet, please download the License File from your $APPCOMPANY Account separately and select it here or drag it onto this window."
+msgstr "Se il vostro computer non è connesso a Internet, scaricate separatamente il file di licenza dal vostro account $APPCOMPANY e selezionatelo qui o trascinatelo in questa finestra."
+
+#: .\cclcommon.xml
+msgid "[CommandSchemeOption]Keyboard mapping scheme"
+msgstr "Schema Mappatura Tastiera"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorOption]Keyboard mapping scheme"
+msgstr "Schema Mappatura Tastiera"
+
+#: .\cclcommon.xml
+msgid "[LocaleOption]Language"
+msgstr "Lingua"
+
+#: .\uux.xml
+msgid "[LanguageSelection]Language"
+msgstr "Lingua"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Last Name"
+msgstr "Cognome"
+
+#: .\backup.xml
+msgid "[BackupManager]Last backup:"
+msgstr "Ultimo backup:"
+
+#: .\backup.xml
+msgid "[BackupManager]Learn more about $CLOUDNAME"
+msgstr "Impara di più riguardo $CLOUDNAME"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Login"
+msgstr "Login"
+
+#: .\backup.xml
+msgid "[BackupManager]Manage Backups"
+msgstr "Gestisci Backup"
+
+#: .\subscription.xml
+msgid "[SubscriptionStatus]Next license update:"
+msgstr "Prossimo aggiornamento della licenza:"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Password"
+msgstr "Password"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Please enter your contact data to sign up now. An e-mail will be sent to you with a link to activate your account."
+msgstr "Inserite i vostri dati  per iscrivervi. Una e-mail vi verrà inviata con un link per attivare l'account."
+
+#: .\backup.xml
+msgid "[BackupManager]Refresh"
+msgstr "Aggiorna"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Remember my credentials"
+msgstr "Ricorda le mie credenziali"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorOption]Remove"
+msgstr "Rimuovi"
+
+#: .\login.xml
+msgid "[LicenseServerLogin]Repeat Password"
+msgstr "Ripeti Password"
+
+#: .\backup.xml
+msgid "[BackupManager]Restore"
+msgstr "Ripristina"
+
+#: .\backup.xml
+msgid "[BackupManager]Restore Options"
+msgstr "Ripristina Opzioni"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorOption]Search:"
+msgstr "Cerca:"
+
+#: .\backup.xml
+msgid "[BackupManager]Select Backup"
+msgstr "Seleziona Backup"
+
+#: .\purchase.xml
+msgid "[PurchaseHandler]Select License File..."
+msgstr "Seleziona File Licenza..."
+
+#: .\cclcommon.xml
+msgid "[CommandEditorConflictPopup]Show"
+msgstr "Show"
+
+#: .\cclcommon.xml
+msgid "[CommandEditorOption]Show"
+msgstr "Show"
+
+#: .\transfers.xml
+msgid "[TransferManager]Show when new transfer starts"
+msgstr "Mostra quando inizia un nuovo trasferimento"
+
+#: .\purchase.xml
+msgid "[PurchaseHandler]Thank you for your purchase. Your purchased items are ready to be activated on this computer."
+msgstr "Grazie per il tuo acquisto. Gli articoli acquistati sono pronti per essere attivati su questo computer."
+
+#: .\transfers.xml
+msgid "[TransferManager]Transfers"
+msgstr "Trasferimenti"
+
+#: .\subscription.xml
+msgid "[SubscriptionStatus]Update Now"
+msgstr "Aggiorna Ora"
+
+#: .\uux.xml
+msgid "[UserSelection]User Account"
+msgstr "Account Utente"
+
+#~ msgid "[LicenseServerLogin]Country"
+#~ msgstr "Paese"
+

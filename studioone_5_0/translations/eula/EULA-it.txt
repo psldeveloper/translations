@@ -1,0 +1,195 @@
+﻿CONTRATTO DI LICENZA PER L'UTENTE FINALE
+ULTIMA VERSIONE - Agosto 2020
+PreSonus Audio Electronics, Inc., 18011 Grand Bay Court, Baton Rouge, LA 70809
+
+1. GENERALI.
+
+1.1 Il presente Contratto di licenza per l’utente finale stabilisce i termini e le condizioni contrattuali ("Termini") tra l'utente ("Licenziatario", "Utente" "Tu/tu", "Il tuo/il tuo" o "Sei/sei") e PreSonus Audio Electronics, Inc., PreSonus Europe Limited e/o PreSonus Software Limited e i suoi agenti e affiliati (collettivamente, "PreSonus", "noi", "a noi" o "nostro") per l'uso dei prodotti PreSonus, tra cui, a titolo di esempio, qualsiasi (a) informazione, dati, documenti, immagini, fotografie, grafica, audio, video o webcast e (b) Software concesso in licenza (definito di seguito) inclusi media, documentazione (ad esempio, descrizioni di programmi o manuali ) e qualsiasi altro documento e materiale prodotto da PreSonus, ("Prodotto/i").
+
+1.2 PreSonus si riserva il diritto, a sua esclusiva discrezione, di cambiare, modificare, aggiungere o rimuovere parti di questi Termini, in qualsiasi momento. È responsabilità dell'utente controllare periodicamente le presenti Condizioni per eventuali modifiche. L'uso continuato dei Prodotti dopo la pubblicazione delle modifiche comporterà l'accettazione e l'approvazione delle modifiche. PreSonus renderà disponibile la versione attuale dei Termini su www.presonus.com/EULA, ("Sito"). L'utilizzo dei Prodotti è soggetto alla versione più aggiornata dei Termini al momento di tale utilizzo. L'utilizzo del Sito è regolato dal presente Accordo di licenza per l'utente finale ("EULA") e dalle Condizioni d'uso di PreSonus disponibili anche su www.presonus.com/Terms-of-Use.
+
+2. REGISTRAZIONE/ATTIVAZIONE.
+
+2.1 È necessario registrare i Prodotti per ricevere una chiave di attivazione che consenta di utilizzare i Prodotti sul proprio computer. Non è possibile utilizzare i prodotti PreSonus che non sono stati attivati.
+
+2.2 Per la registrazione, dovrai inserire il tuo nome, indirizzo e-mail e indirizzo postale. Le informazioni del tuo account (definite di seguito) vengono archiviate insieme al numero di serie PreSonus nel nostro database di registrazione. PreSonus utilizza una connessione SSL sicura con crittografia a 128 bit che soddisfa gli attuali standard di sicurezza per trasmettere i dati sul Web. Per ulteriori informazioni sulla gestione dei dati personali da parte di PreSonus, consultare: www.presonus.com/Privacy-Policy.
+
+3. ACCETTAZIONE DEI TERMINI.
+
+3.1 Installando e registrando il Prodotto sul tuo computer, ti dichiari in accordo con questi Termini. Se non si accettano questi Termini, non è necessario installare il Prodotto.
+
+3.2 Non è possibile utilizzare il/i Prodotto/i se (a) la Legge vieta di ricevere o utilizzare il/i Prodotto/i, (b) non si è pienamente in grado e competenti di stipulare un contratto vincolante con PreSonus, come se non sei maggiorenne e/o non hai ottenuto il consenso verificabile dei genitori. In particolare, accettando queste Condizioni, dichiari di avere più di 13 anni e riconosci che i Prodotti non sono destinati a minori di 13 anni.
+
+3.3 PreSonus potrebbe richiedere di fornire il consenso ai Termini aggiornati prima che sia consentito un ulteriore utilizzo dei Prodotti o dei Servizi. In caso contrario, l'uso continuo di qualsiasi Prodotto, Sito o Servizio costituisce l'accettazione delle modifiche.
+
+4. DEFINIZIONI.
+Salvo diversamente definito, i termini in maiuscolo utilizzati in questi Termini hanno i significati indicati di seguito:
+
+4.1 "Informazioni sull'account" indica le informazioni fornite a PreSonus al momento della registrazione dei Prodotti sul Sito, inclusi l'ID PreSonus e le informazioni di accesso.
+
+4.2 "Pacchetto" indica un prodotto commercializzato e venduto da PreSonus o da un'altra parte, nella confezione con marchio di una parte, agli utenti finali, sia attraverso un negozio online che attraverso un rivenditore, che include determinati software concessi in licenza.
+
+4.3 "Diritti di proprietà intellettuale": diritti d'autore, diritti morali, marchi, abiti commerciali, brevetti, segreti commerciali, concorrenza sleale e qualsiasi altro diritto intellettuale o proprietario.
+
+4.4 "Legge" indica qualsiasi legge, regolamento o prassi o linee guida generalmente accettate in qualsiasi giurisdizione applicabile, come qualsiasi legge relativa all'esportazione di dati o software da e verso gli Stati Uniti o altri paesi applicabili.
+
+4.5 "Chiave di licenza" indica il codice univoco fornito da PreSonus che identifica il tipo di licenza e che sblocca o abilita determinate funzionalità del software concesso in licenza.
+
+4.6 "Software concesso in licenza" indica la versione del codice oggetto del software del computer e la relativa documentazione per ciascun Prodotto, incluso ma non limitato a eventuali modifiche o aggiunte fornite da PreSonus.
+
+4.7 "Rendi disponibile" significa inviare tramite e-mail, pubblicare, trasmettere, caricare o rendere disponibili in altro modo tramite l'utilizzo del/i Prodotto/i.
+
+4.8 "Marchi" indica i marchi, i loghi e i marchi di servizio visualizzati sul/i Prodotto/i e sulla relativa documentazione.
+
+4.9 "Servizi" indica tutti i tipi di servizi di supporto tecnico offerti da PreSonus all'Utente, inclusi, a titolo di esempio, supporto di accesso remoto e supporto telefonico.
+
+4.10 "Contenuto condiviso" indica il contenuto che tu o altri avete scelto di rendere disponibile.
+4.11 "Utente" indica un utente del/i Prodotto/i.
+4.12 "Contenuto dell'utente" indica (a) Contenuto del licenziatario e (b) Contenuto condiviso caricato da altri Utenti.
+
+4.13 "Contenuto" indica qualsiasi Contenuto utente reso disponibile tramite l'utilizzo del Prodotto o dei Prodotti e attraverso il Sito.
+
+5. AMBITO DI UTILIZZO/LICENZA.
+
+A condizione che l'utente rispetti i termini del presente Contratto di licenza con l'utente finale, PreSonus concede all'utente un diritto non esclusivo, non trasferibile e revocabile di accesso e utilizzo del/i Prodotto/i soggetto alle seguenti condizioni:
+
+5.1 I prodotti di PreSonus sono protetti dalla legge. I diritti di proprietà intellettuale dei prodotti rimangono di PreSonus. Non è consentito copiare, decompilare, decodificare o disassemblare il Prodotto. Non è possibile: (a) riprodurre, replicare o imitare parte o tutto il design, il layout o l'aspetto del/i Prodotto/i; (b) affittare, concedere in licenza, affittare o vendere il/i Prodotto/i o il diritto di utilizzare e accedere al/i Prodotto/i; o (c) rimuovere, oscurare, rivedere o alterare qualsiasi testo, copyright o altri avvisi proprietari contenuti nel/i Prodotto/i. È necessario garantire, mediante misure appropriate e ragionevoli, che terze parti, inclusi i propri dipendenti, non possano fare un uso non autorizzato dei Prodotti. Dovresti essere responsabile nei confronti di PreSonus per qualsiasi perdita o danno in questo contesto.
+
+Per tutti i prodotti che contengono MPEG Layer-3: la fornitura di questo prodotto non trasmette una licenza né implica alcun diritto di distribuire contenuti conformi a MPEG Layer-3 creati con questo prodotto in sistemi di trasmissione generatori di entrate (terrestre, satellite, cavo e/o altri canali di distribuzione), applicazioni di streaming (via Internet, intranet e/o altre reti), altri sistemi di distribuzione di contenuti (applicazioni pay-audio o audio-on-demand e simili) o su supporti fisici (compact disc, digitali dischi versatili, chip a semiconduttore, dischi rigidi, schede di memoria e simili). È necessaria una licenza indipendente per tale uso. Per i dettagli, visitare http://mp3licensing.com.
+
+Tecnologia di codifica audio MPEG Layer-3 concessa in licenza da Fraunhofer IIS e Thomson Licensing.
+
+5.2 Per software concesso in licenza dalla linea di prodotti STUDIO ONE:
+
+(a) Al licenziatario viene concessa una (1) licenza per installare e utilizzare il Software concesso in licenza su un singolo computer alla volta. Il licenziatario può installare e utilizzare il software su un altro computer, ma il software non può essere utilizzato su più di un computer alla volta, a meno che non si acquistino licenze aggiuntive. Nel caso in cui il licenziatario perda l'uso di un'attivazione su un singolo computer, il licenziatario ha a disposizione quattro (4) attivazioni aggiuntive. Le attivazioni fornite per l'uso di Studio One non sono applicabili a software di terze parti soggetto alle licenze e ai termini di utilizzo del produttore. Nel caso in cui vengano apportate importanti modifiche al computer/hardware del licenziatario (ovvero modifiche alla RAM, al disco rigido o al nuovo sistema operativo), è necessario riattivare tutto il software Studio One. Un backup digitale completo del software e dei contenuti è disponibile online tramite il tuo account PreSonus. A condizione che non conserviate copie del Software concesso in licenza, è consentito trasferire permanentemente la licenza per utilizzare il Software concesso in licenza a un'altra parte che, al momento del trasferimento, sarà automaticamente vincolata dai termini del presente Contratto di licenza con l'utente finale. Se è stato aggiornato il software concesso in licenza, non è possibile trasferire separatamente il software concesso in licenza originale e il software concesso in licenza aggiornato. È consentito eseguire copie di backup del software concesso in licenza a scopo di archiviazione.
+
+(b) L'uso del software concesso in licenza con una chiave di licenza ottenuta da una fonte diversa da PreSonus è espressamente e rigorosamente proibito. PreSonus si riserva il diritto di intraprendere tutte le azioni che PreSonus, a sua esclusiva discrezione, ritiene necessarie per proteggere, monitorare e controllare l'uso del software concesso in licenza con chiavi di licenza illegali.
+
+5.3 Per l'utilizzo del servizio STUDIO ONE EXCHANGE, consultare i Termini di servizio di Exchange di PreSonus all'indirizzo www.presonus.com/Exchange-Terms-of-Service
+
+5.4 Per software concesso in licenza dalla linea di prodotti STUDIO ONE PRIME:
+
+(a) Il licenziatario può installare e utilizzare il Software concesso in licenza su tutti i computer desiderati. Gli utenti sono incoraggiati a copiare e condividere STUDIO ONE PRIME. È consentito installare e utilizzare il software concesso in licenza su computer diversi. È consentito eseguire copie di backup del software concesso in licenza a scopo di archiviazione. NON puoi aggiungere STUDIO ONE PRIME a un altro prodotto commerciale o distribuirlo senza un Contratto di licenza OEM. Tutti gli utenti STUDIO ONE PRIME sono soggetti ai termini del presente EULA. PreSonus non offre i servizi di supporto STUDIO ONE PRIME. Le licenze STUDIO ONE PRIME non possono essere trasferite in modo permanente a terzi.
+
+5.5 Per software concesso in licenza dalla linea di prodotti NOTION:
+
+(a) Al licenziatario viene concessa una (1) licenza per installare e utilizzare il Software concesso in licenza su un singolo computer alla volta. Il licenziatario può installare e utilizzare il software su un altro computer, ma il software non può essere utilizzato su più di un computer alla volta, a meno che non si acquistino licenze aggiuntive. Nel caso in cui il licenziatario perda l'uso di un'attivazione su un singolo computer, il licenziatario ha a disposizione quattro (4) attivazioni aggiuntive. È consentito eseguire copie di backup del software concesso in licenza a scopo di archiviazione.
+
+(b) I diritti su alcuni componenti del prodotto, inclusi alcuni campioni audio o musicali e alcuni caratteri tipografici, che sono inclusi come parte del processo di installazione, sono di proprietà di terzi e sono concessi in licenza per l'uso solo con il prodotto. Qualsiasi concessione in licenza, distribuzione o altro uso di questi componenti, ad eccezione di congiuntamente al Prodotto, costituisce una violazione del presente Contratto di licenza. Il licenziatario si impegna a non rappresentare o sottintendere che le registrazioni effettuate dall'utente finale tramite Notion siano state registrate dalla London Symphony Orchestra.
+
+(c) Il licenziatario accetta di accreditare alla London Symphony Orchestra la seguente dichiarazione in tutti i titoli di coda o note di accompagnamento che accompagnano una registrazione musicale fatta usando Nozione "Questa registrazione è stata fatta usando campioni orchestrali registrati dalla London Symphony Orchestra"
+
+5.6 Per software concesso in licenza dalla linea di prodotti Plug-in:
+
+(a) Al licenziatario viene concessa una (1) licenza per installare e utilizzare il Software concesso in licenza su un singolo computer alla volta. Il licenziatario può installare e utilizzare il software su un altro computer, ma il software non può essere utilizzato su più di un computer alla volta, a meno che non si acquistino licenze aggiuntive. Nel caso in cui il licenziatario perda l'uso di un'attivazione su un singolo computer, il licenziatario ha a disposizione quattro (4) attivazioni aggiuntive. Nel caso in cui vengano apportate importanti modifiche al computer/hardware del licenziatario (ovvero modifiche alla RAM, al disco rigido o al nuovo sistema operativo), è necessario riattivare tutto il software del plug-in. Un backup digitale completo del software e dei contenuti è disponibile online tramite il tuo account PreSonus. A condizione che non conserviate copie del Software concesso in licenza, è consentito trasferire permanentemente la licenza per utilizzare il Software concesso in licenza a un'altra parte che, al momento del trasferimento, sarà automaticamente vincolata dai termini del presente Contratto di licenza con l'utente finale. Se è stato aggiornato il software concesso in licenza, non è possibile trasferire separatamente il software concesso in licenza originale e il software concesso in licenza aggiornato. È consentito eseguire copie di backup del software concesso in licenza a scopo di archiviazione.
+
+(b) L'uso del software concesso in licenza con una chiave di licenza ottenuta da una fonte diversa da PreSonus è espressamente e rigorosamente proibito. PreSonus si riserva il diritto di intraprendere tutte le azioni che PreSonus, a sua esclusiva discrezione, ritiene necessarie per proteggere, monitorare e controllare l'uso del software concesso in licenza con chiavi di licenza illegali.
+
+(c) PreSonus non può garantire che i plug-in funzionino in QUALSIASI applicazione host che supporti i formati supportati.
+
+5.7 Per il software concesso in licenza incluso in una linea di prodotti in bundle:
+
+(a) Per alcuni prodotti PreSonus, si applica quanto segue: Pacchetti (costituiti da hardware con software in bundle con esso) il software è concesso solo al proprietario registrato originale. Se acquisti o vendi un prodotto hardware PreSonus usato, il software in bundle non viene automaticamente raggruppato per i futuri proprietari dell'hardware. Software e hardware sono visti come entità separate all'interno del prodotto. Tuttavia, è possibile trasferire una licenza software PreSonus se il software è trasferibile.
+
+(b) Per alcuni prodotti PreSonus, si applicano le seguenti disposizioni: i pacchetti (solo software) possono essere trasferiti solo nel loro insieme. I singoli componenti di un pacchetto software-only non possono essere trasferiti separatamente se non consentito dal produttore terzo partecipante.
+
+5.8 Per software e servizi su licenza inclusi in PreSonus Sphere:
+
+(a) Un membro di PreSonus Sphere ha accesso illimitato a tutto il Software concesso in licenza tramite la sua iscrizione a PreSonus Sphere, inclusi Studio One Professional e Notion, fino all’annullamento o alla risoluzione da parte nostra o dell’utente. Vedi presonus.com/sphere per maggiori dettagli sui termini di abbonamento e cancellazione.
+
+(b) La licenza di un membro di utilizzare il software concesso in licenza come parte di PreSonus Sphere terminerà (i) se non viene effettuato alcun pagamento o (ii) una volta annullata l’iscrizione.
+
+(c) Siete i soli responsabili della archiviazione dei file personali e della creazione di backup dei contenuti prima della cancellazione dell’iscrizione o la perdita di tutti i contenuti dell’utente. PreSonus non si assume alcuna responsabilità per i contenuti persi dall’utente.
+
+(d) Accettate che la tua decisione di utilizzare o acquistare software o servizi concessi in licenza non dipende dalla consegna di eventuali funzionalità o caratteristiche future, o dipende da eventuali commenti pubblici orali o scritti fatti da noi in merito a funzionalità o caratteristiche future.
+
+(e) PreSonus Sphere è un servizio cloud, in cui un’esperienza online esclusiva è combinata con le offerte di software PreSonus in bundle. A causa della natura online di questo servizio, deve essere gestito online. Se offline, PreSonus Sphere continuerà a cercare una connessione online per autorizzare ciascun account per 3 giorni. Se non viene stabilita una connessione, i servizi non saranno accessibili fino a quando non saranno nuovamente connessi online.
+
+(f) Un membro accetta di non caricare e/o condividere contenuti illegali o distruttivi ovunque all’interno di PreSonus Sphere. PreSonus ha il diritto di rimuovere qualsiasi contenuto che ritenga pericoloso o illegale.
+
+(g) La parte di software in bundle di PreSonus Sphere è coperta nelle rispettive aree all’interno del presente contratto.
+
+
+5.9 L'utente accetta di utilizzare il/i Prodotto/i solo come consentito dalle presenti Condizioni e da qualsiasi Legge applicabile.
+
+5.10 PreSonus può modificare o interrompere, temporaneamente o permanentemente, i Prodotti, i Servizi o qualsiasi parte di essi, con o senza preavviso. Accetti che PreSonus non sarà responsabile nei tuoi confronti o nei confronti di chiunque altro.
+
+6. POLITICA SULLA PRIVACY.
+
+6.1 Per informazioni sulla protezione dei dati di PreSonus e sulle pratiche di raccolta, si prega di leggere l'Informativa sulla privacy di PreSonus ("Informativa sulla privacy") che può essere trovata sul Sito ed è qui incorporata come riferimento. Con la presente, accetti l'utilizzo dei dati da parte di PreSonus in conformità con l'Informativa sulla privacy disponibile all'indirizzo www.presonus.com/Privacy-Policy.
+
+7. PROPRIETÀ.
+7.1 Prodotto/i.
+
+Tutti i prodotti e la loro selezione e disposizione sono protetti dai diritti di proprietà intellettuale. Salvo quanto espressamente previsto nel presente documento, PreSonus non garantisce alcun diritto esplicito o implicito di utilizzare il/i Prodotto/i. Tutti i diritti, titoli e interessi nei Prodotti, in tutte le lingue, i formati e i media in tutto il mondo, sono e continueranno ad essere proprietà esclusiva di PreSonus e nulla in questi Termini sarà interpretato per conferire alcuna licenza o diritto, implicitamente, estoppels o altrimenti, sotto copyright o altri diritti di proprietà intellettuale, a te o a terze parti.
+
+7.2 Marchi.
+
+I marchi sono di proprietà di PreSonus. Non è consentito utilizzare i marchi senza il previo consenso scritto di PreSonus. PreSonus e il logo PreSonus sono marchi registrati di PreSonus. Per un elenco attuale dei marchi PreSonus, fare riferimento alle informazioni sui marchi pubblicate sul sito.
+
+7.3 Il tuo contenuto.
+
+Se sei un singolo utente, possiedi tutti i diritti, il titolo e la proprietà dei tuoi contenuti. Vedi le sezioni 9 e 10 per le garanzie relative ai tuoi contenuti.
+
+8. COPYRIGHT:
+
+8.1 I Prodotti sono protetti dalle leggi sul copyright degli Stati Uniti e altri paesi e PreSonus conserva tutti i diritti di proprietà intellettuale sui Prodotti. Non è possibile pubblicare, vendere, commercializzare, noleggiare, noleggiare o concedere in licenza separatamente il codice del prodotto. Tuttavia, questa licenza non deve essere interpretata come un divieto o una limitazione dell'uso equo sancito dalla legge sul copyright come l'uso consentito della biblioteca e dell'aula.
+
+9. LA TUA GARANZIA, OBBLIGO DI RISARCIMENTO E RINUNCIA:
+
+9.1 Dichiari e garantisci che in relazione al tuo Contenuto: (a) sei il proprietario dei diritti di proprietà intellettuale o hai ottenuto tutte le licenze e le autorizzazioni necessarie per utilizzare il tuo contenuto in connessione con il tuo uso in connessione con il Prodotto/i o come altrimenti consentito dalle Condizioni; (b) hai ricevuto il consenso di tutte le persone rappresentate nel tuo contenuto per utilizzare il tuo contenuto come stabilito nei Termini, inclusa la distribuzione, la visualizzazione pubblica, l'esecuzione pubblica e la riproduzione del tuo contenuto; e (c) il tuo Contenuto non viola o viola alcuna proprietà intellettuale o altro diritto di proprietà, incluso qualsiasi diritto di pubblicità o privacy, di qualsiasi persona, società o entità o altra terza parte.
+
+9.2 L'utente accetta di indennizzare e detenere PreSonus e le sue consociate, affiliate, funzionari, agenti, dipendenti, co-brand o altri partner e licenziatari indenni da qualsiasi reclamo o richiesta, comprese le spese legali ragionevoli, dovute o derivanti dal Contenuto , il tuo uso dei Prodotti, dei Servizi o del Sito, la tua connessione ai Prodotti, ai Servizi o al Sito, il tuo uso e accesso alle informazioni personali di altri Utenti, le azioni di qualsiasi membro del tuo gruppo, il tuo accesso a o l'uso di siti Web e le tue connessioni con essi, qualsiasi rivendicazione che il tuo Contenuto abbia causato danni a chiunque, qualsiasi rapporto tra te e chiunque pubblicizzi o promuova attraverso i Prodotti, i Servizi o il Sito, la tua violazione dei Termini o il tuo violazione di qualsiasi diritto di un altro, inclusi eventuali diritti di proprietà intellettuale.
+
+10. GARANZIA LIMITATA:
+
+10.1 Garantiamo che i Prodotti forniranno le caratteristiche e le funzioni generalmente descritte nelle specifiche del prodotto sul nostro Sito alla data del download o descritte sulla confezione del prodotto fisico al momento dell'acquisto; e come descritto nella documentazione fornita con il/i Prodotto/i al momento dell'acquisto.
+
+10.2 PreSonus non garantisce che il Prodotto o la sua capacità di utilizzarlo saranno ininterrotti o privi di errori. PreSonus ha preso tutte le misure ragionevoli per mantenere i suoi Prodotti liberi da virus, spyware, ingressi "back door" o qualsiasi altro codice dannoso. Il/i Prodotto/i non scaricherà o installerà patch, aggiornamenti o prodotti di terze parti senza ottenere il permesso dell'utente. Non ti priveremo intenzionalmente della tua capacità di utilizzare alcuna funzionalità del/i Prodotto/i o di accedere al tuo Contenuto.
+
+10.3 QUESTO PRODOTTO È FORNITO "COSÌ COM'È" E SONO ESCLUSE QUALSIASI GARANZIA ESPLICITA O IMPLICITA, COMPRESE, MA NON LIMITATE, LE GARANZIE IMPLICITE DI COMMERCIABILITÀ E IDONEITÀ PER UNO SCOPO PARTICOLARE. IN NESSUN CASO PRESONUS SARÀ RESPONSABILE DI DANNI DIRETTI, INDIRETTI, INCIDENTALI, SPECIALI, ESEMPLARI O CONSEQUENZIALI (COMPRESI, MA NON LIMITATI A, APPROVVIGIONAMENTO DI MERCI O SERVIZI SOSTITUTIVI; PERDITA DI UTILIZZO, DATI O PROFESSR; O BUS); TUTTAVIA CAUSA E SU QUALSIASI TEORIA DI RESPONSABILITÀ, SE IN CONTRATTO, RESPONSABILITÀ RIGIDA, O TORT (COMPRESO NEGLIGENZA O ALTRO) SUCCESSI IN QUALSIASI MODO DALL'USO DI QUESTO PRODOTTO, ANCHE SE CONSIGLIATO DALLA POSSIBILITÀ DI TALE DANNO.
+10.4 QUALSIASI SOFTWARE O CONTENUTO SCARICATO, DISPONIBILE, O ALTRO OTTENUTO ATTRAVERSO IL TUO UTILIZZO DEI PRODOTTI È ACCESSO A PROPRIA DISCRETIONE E RISCHIO, E SARÀ RESPONSABILE DEL RISPETTO DI QUALSIASI DANNO AL SISTEMA INFORMATICO O PERDITA DI DI QUALSIASI TALE MATERIALE. PRESONUS NON ASSUME RESPONSABILITÀ PER QUALSIASI VIRUS DI COMPUTER O CODICE SIMILE CHE È SCARICATO SUL TUO COMPUTER DAL SITO.
+
+11. LIMITAZIONI DI RESPONSABILITÀ:
+
+11.1 Il rimedio esclusivo ai sensi della garanzia limitata di cui sopra sarà, a discrezione di PreSonus, un rimborso completo del prezzo di acquisto o la correzione dei Prodotti difettosi.
+
+12. LEGGI SUL CONTROLLO DELL'ESPORTAZIONE:
+
+12.1 Riconosci che i Prodotti e i Servizi sono soggetti agli Stati Uniti controllo delle esportazioni e leggi sulle sanzioni (compresi i regolamenti sull'amministrazione delle esportazioni) ("Controlli sull'esportazione") e sul rispetto dei controlli sulle esportazioni. Non dovrai esportare, riesportare o importare i Prodotti direttamente o indirettamente, o utilizzare i Prodotti o i Servizi in relazione a: (a) paesi soggetti agli Stati Uniti restrizioni all'esportazione (inclusi, a titolo esemplificativo, Cuba, Iran, Corea del Nord, Sudan e Siria) o (b) a qualsiasi Utente finale a cui è vietato partecipare agli Stati Uniti transazioni di esportazione da parte di qualsiasi agenzia federale degli Stati Uniti governo. Inoltre, sei responsabile del rispetto delle leggi locali nella tua giurisdizione che potrebbero influire sul tuo diritto di importare, esportare o utilizzare i Prodotti o i Servizi. Se PreSonus è a conoscenza del fatto che si è verificata una violazione, è possibile che PreSonus non possa fornire i Prodotti e/o i Servizi.
+
+13. RISOLUZIONE DELLE CONTROVERSIE:
+
+13.1 Luogo:
+
+(a) Accetti che qualsiasi reclamo o controversia che potresti avere nei confronti di PreSonus deve essere risolto da un tribunale situato nella Parrocchia di East Baton Rouge, Louisiana, Stati Uniti d'America, salvo quanto diversamente concordato dalle parti o come stabilito nella Sezione 13.2 qui di seguito. L'utente accetta di sottoporsi alla giurisdizione personale dei tribunali situati nella Parrocchia di East Baton Rouge, Louisiana, Stati Uniti d'America quando si applicano le leggi della Louisiana, al fine di contestare tali reclami o controversie.
+
+(b) L'utente accetta di sottoporsi alla giurisdizione personale dei tribunali irlandesi, quando si applicano le leggi irlandesi, al fine di contestare tali reclami o controversie. Le parti negano espressamente l'ONU Convenzione sui contratti di vendita internazionale di merci.
+
+13.2 Risoluzione alternativa delle controversie:
+
+(a) Quando si applica la Legge della Louisiana, qualsiasi controversia o controversia derivante da, relativa o relativa all'interpretazione, validità, costruzione, esecuzione, violazione o risoluzione del presente Accordo sarà risolta mediante arbitrato vincolante che si terrà a Baton Rouge, Louisiana secondo le regole allora in vigore dell'American Arbitration Association (le "Regole"). L'arbitro può concedere ingiunzioni o altri provvedimenti in tale controversia o controversia. La decisione dell'arbitro sarà definitiva, conclusiva e vincolante per le parti dell'arbitrato. Il giudizio può essere inserito sulla decisione dell'arbitro in qualsiasi tribunale della giurisdizione competente. Gli arbitri devono applicare la legge della Louisiana al merito di qualsiasi controversia o reclamo, senza riferimento a conflitti di norme di legge. Il procedimento arbitrale sarà regolato dalla legge arbitrale federale e dalle Regole, senza riferimento alla legge arbitrale statale. Con la presente acconsenti alla giurisdizione personale dei tribunali statali e federali situati in Louisiana per qualsiasi azione o procedimento derivante o relativo ai termini del presente EULA o relativo a qualsiasi arbitrato in cui le parti sono partecipanti.
+
+(b) In caso di applicazione della legge irlandese, qualsiasi controversia sarà risolta in via esclusiva e definitiva mediante arbitrato vincolante ai sensi dell'Arbitration Act 2010 da un (1) reciprocamente concordato arbitro che condurrà il procedimento a Dublino, in Irlanda. Il procedimento si svolgerà in lingua inglese e si tradurrà in una dichiarazione scritta dei fatti e del ragionamento legale a sostegno della decisione dell'arbitro su richiesta di una delle parti. Il giudizio sull'assegnazione dell'arbitro può essere emesso da qualsiasi tribunale avente giurisdizione per farlo.
+
+
+14. DISPOSIZIONI GENERALI:
+
+14.1 Risoluzione: nella misura consentita dalla legge e fatti salvi altri diritti, PreSonus può recedere dalla licenza in caso di violazione sostanziale delle presenti Condizioni.
+
+14.2 Avviso a PreSonus: Qualsiasi avviso fornito a PreSonus Audio Electronics, Inc., 18011 Grand Bay Court, Baton Rouge, LA 70809, Attn: Legal Department. Se PreSonus Software Limited o PreSonus Europe Limited, si prega di comunicare all'Unità 1 e 2 Cavan Enterprise Center, Dublin Road, Killygarry, Cavan, Co Cavan, Irlanda, all'attenzione di: Eugene Greenan.
+
+14.3 Avviso all'utente: PreSonus può fornire avvisi, inclusi quelli relativi alle modifiche ai Termini, tramite e-mail, posta ordinaria, pubblicazioni sul Sito o all'interno del Sito o altri mezzi ragionevoli ora conosciuti o di seguito sviluppati.
+
+14.4 Accordo completo: i termini del presente Contratto di licenza costituiscono l'intero accordo tra PreSonus e l'utente in merito all'accesso o all'uso del Sito, dei Servizi e dei Prodotti e sostituiscono eventuali accordi precedenti tra l'utente e PreSonus su tale argomento.
+
+14.5 Mancata assegnazione: non è possibile assegnare o trasferire in altro modo i Termini o qualsiasi diritto concesso in questo documento, senza il consenso scritto di PreSonus. I diritti di PreSonus ai sensi dei Termini sono trasferibili da PreSonus.
+
+14.6 Separabilità: se per qualsiasi motivo un tribunale della giurisdizione competente ritiene inapplicabile qualsiasi disposizione dei Termini, o parte di essi, tale disposizione deve essere applicata nella misura massima consentita in modo da influenzare l'intento delle parti come riflesso da quello disposizione e il resto dei Termini continuerà in vigore a tutti gli effetti.
+
+14.7 Rinuncia: l'eventuale inosservanza da parte di PreSonus di far valere o esercitare una disposizione dei Termini, o qualsiasi diritto correlato, non costituisce una rinuncia a tale disposizione o diritto.
+
+14.8 Il tuo obbligo: sei il solo responsabile della tua familiarità e conformità con le leggi che potrebbero vietarti di partecipare o utilizzare qualsiasi parte del Prodotto (i), Sito o Servizi.
+
+14.9 Riconoscimento: riconosci di aver letto questo EULA, di averlo compreso e di accettare di essere vincolato dai Termini. Se non si è d'accordo con i Termini contenuti nel presente EULA o non si è soddisfatti del/i Prodotto/i entro trenta (30) giorni dall'acquisto, si prega di disinstallare il/i Prodotto/i, rimuovere tutte le copie e interrompere qualsiasi uso del prodotto(i).
+(FINE)

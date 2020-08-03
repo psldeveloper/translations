@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\channelpresethandler.cpp
+msgid "[FileType]Channel Preset"
+msgstr "Preset de canal"
+
+#: .\channelpresethandler.cpp
+msgid "[FileType]Mixer Scene"
+msgstr "Scène de console"
+

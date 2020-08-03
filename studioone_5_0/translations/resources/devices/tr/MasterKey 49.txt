@@ -1,0 +1,1 @@
+﻿Masterkey'deki fabrika ayarını kullanın. Cihazı fabrika ayarlarına geri döndürmek için cihazı açarken Oct- ve Oct+ tuşlarına basılı tutun.

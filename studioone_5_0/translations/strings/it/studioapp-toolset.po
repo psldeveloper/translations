@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\toolhelp.js
+msgid "Add Chord"
+msgstr "Aggiungi Accordo"
+
+#: .\toolhelp.js
+msgid "Add Marker"
+msgstr "Aggiungi Marker"
+
+#: .\toolhelp.js
+msgid "Add Point"
+msgstr "Aggiungi Punto"
+
+#: .\toolhelp.js
+msgid "Add Ranges to Track"
+msgstr "Aggiungi i Range alla Traccia"
+
+#: .\musictools.js .\projecttool.js .\tempotools.js .\toolhelp.js
+#: .\toolsets.js
+msgid "Arrow Tool"
+msgstr "Strumento Freccia"
+
+#: .\toolhelp.js
+msgid "Bend"
+msgstr "Bend"
+
+#: .\toolhelp.js
+msgid "Bend Curve"
+msgstr "Curva Bend"
+
+#: .\audiobendtool.js .\toolhelp.js
+msgid "Bend Tool"
+msgstr "Strumento Bend"
+
+#: .\toolhelp.js
+msgid "Chord Selector"
+msgstr "Selettore Accordo"
+
+#: .\toolhelp.js
+msgid "Copy Ranges to Track"
+msgstr "Copia intervalli sulla Traccia"
+
+#: .\toolhelp.js
+msgid "Create Range"
+msgstr "Crea Intervallo"
+
+#: .\toolhelp.js
+msgid "Define tempo"
+msgstr "Definisci tempo"
+
+#: .\toolhelp.js
+msgid "Delete"
+msgstr "Elimina"
+
+#: .\toolhelp.js
+msgid "Delete Note"
+msgstr "Elimina Nota"
+
+#: .\toolhelp.js
+msgid "Delete Objects"
+msgstr "Elimina Oggetti"
+
+#: .\toolhelp.js
+msgid "Delete Point"
+msgstr "Elimina Punto"
+
+#: .\envelopeactions.js .\toolhelp.js
+msgid "Distort"
+msgstr "Distorci"
+
+#: .\toolhelp.js
+msgid "Distort Symmetrically"
+msgstr "Distorci Simmetricamente"
+
+#: .\toolhelp.js
+msgid "Drag"
+msgstr "Trascina"
+
+#: .\toolhelp.js
+msgid "Draw"
+msgstr "Disegna"
+
+#: .\toolhelp.js
+msgid "Draw Part"
+msgstr "Disegna Parte"
+
+#: .\toolhelp.js
+msgid "Draw Selection"
+msgstr "Disegna selezione"
+
+#: .\toolhelp.js
+msgid "Draw Selection (add)"
+msgstr "Disegna Selezione (aggiungi)"
+
+#: .\toolhelp.js
+msgid "Draw Selection Freely"
+msgstr "Disegna Selezione Liberamente"
+
+#: .\toolhelp.js
+msgid "Draw Tempo Change"
+msgstr "Disegna il Cambio di Tempo"
+
+#: .\toolhelp.js
+msgid "Edit Fade Length"
+msgstr "Modifica Lunghezza del Fade"
+
+#: .\toolhelp.js
+msgid "Edit Fade Length & Type"
+msgstr "Modifica la Lunghezza e il Tipo di Fade"
+
+#: .\toolhelp.js
+msgid "Edit Fade Type"
+msgstr "Modifica Tipo di Fade"
+
+#: .\toolhelp.js
+msgid "Edit Level"
+msgstr "Modifica Livello"
+
+#: .\toolhelp.js
+msgid "Edit Tempo"
+msgstr "Modifica Tempo"
+
+#: .\toolhelp.js
+msgid "Edit Tempo & Position"
+msgstr "Modifica Tempo e Posizione"
+
+#: .\toolhelp.js
+msgid "Edit Tempo Change Position"
+msgstr "Modifica Posizione Cambi di Tempo"
+
+#: .\toolhelp.js
+msgid "Edit Value"
+msgstr "Modifica Valore"
+
+#: .\toolhelp.js
+msgid "Edit Velocity"
+msgstr "Modifica Velocity"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Eraser Tool"
+msgstr "Strumento Gomma"
+
+#: .\toolhelp.js
+msgid "Exclude Range"
+msgstr "Escludi Range"
+
+#: .\toolsets.js
+msgid "Freehand"
+msgstr "A Mano Libera"
+
+#: .\toolhelp.js
+msgid "Include Range"
+msgstr "Includi Range"
+
+#: .\toolhelp.js
+msgid "Insert"
+msgstr "Insert"
+
+#: .\toolhelp.js
+msgid "Layer Tool"
+msgstr "Strumento Layer"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Line"
+msgstr "Linea"
+
+#: .\listentool.js .\toolhelp.js
+msgid "Listen Tool"
+msgstr "Strumento Ascolta"
+
+#: .\eventactions.js .\toolhelp.js
+msgid "Merge Events"
+msgstr "Unisci Eventi"
+
+#: .\envelopeactions.js .\toolhelp.js
+msgid "Move"
+msgstr "Sposta"
+
+#: .\toolhelp.js
+msgid "Move Crossfade"
+msgstr "Sposta Crossfade"
+
+#: .\toolhelp.js
+msgid "Move Event"
+msgstr "Sposta Evento"
+
+#: .\toolhelp.js
+msgid "Move Marker"
+msgstr "Sposta il Marker"
+
+#: .\toolhelp.js
+msgid "Move Note"
+msgstr "Sposta Nota"
+
+#: .\toolhelp.js
+msgid "Move Points"
+msgstr "Sposta Punti"
+
+#: .\toolhelp.js
+msgid "Move Track"
+msgstr "Sposta Traccia"
+
+#: .\mutetool.js
+msgid "Mute"
+msgstr "Mute"
+
+#: .\mutetool.js
+msgid "Mute Events"
+msgstr "Mute Eventi"
+
+#: .\mutetool.js .\toolhelp.js
+msgid "Mute Tool"
+msgstr "Strumento Mute"
+
+#: .\toolhelp.js
+msgid "Only clicked event"
+msgstr "Solo l'evento cliccato"
+
+#: .\musictools.js .\tempotools.js .\toolhelp.js .\toolsets.js
+msgid "Paint Tool"
+msgstr "Strumento Disegno"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Parabola"
+msgstr "Parabola"
+
+#: .\toolhelp.js
+msgid "Play"
+msgstr "Play"
+
+#: .\toolhelp.js
+msgid "Play in Loop"
+msgstr "Play in Loop"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Range Tool"
+msgstr "Strumento Range"
+
+#: .\toolhelp.js
+msgid "Remove Ranges from Track"
+msgstr "Rimuovi i Range dalla Traccia"
+
+#: .\toolhelp.js
+msgid "Replace Range on Track"
+msgstr "Sostituisci Range sulla Traccia"
+
+#: .\toolhelp.js
+msgid "Replace With Next Layer"
+msgstr "Sostituisci con Layer Successivo"
+
+#: .\toolhelp.js
+msgid "Reset"
+msgstr "Reset"
+
+#: .\toolhelp.js
+msgid "Reset All"
+msgstr "Reset Totale"
+
+#: .\toolhelp.js
+msgid "Reset Fade Length"
+msgstr "Reset Lunghezza Fade"
+
+#: .\toolhelp.js
+msgid "Reset Level"
+msgstr "Reset LIvello"
+
+#: .\toolhelp.js
+msgid "Reset Point"
+msgstr "Reset Punto"
+
+#: .\toolhelp.js
+msgid "Resize Event"
+msgstr "Ridimensiona Evento"
+
+#: .\envelopeactions.js .\toolhelp.js
+msgid "Resize Frame"
+msgstr "Ridimensiona Frame"
+
+#: .\toolhelp.js
+msgid "Resize Part"
+msgstr "Ridimensiona Parte"
+
+#: .\toolhelp.js
+msgid "Resize Range"
+msgstr "Ridimensiona Range"
+
+#: .\toolhelp.js
+msgid "Resize Track"
+msgstr "Ridimensiona Traccia"
+
+#: .\toolhelp.js
+msgid "Resize adjacent Events"
+msgstr "Ridimensiona Eventi adiacenti"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Saw"
+msgstr "A Dente di Sega"
+
+#: .\toolhelp.js
+msgid "Scale Time"
+msgstr "Scale Time"
+
+#: .\toolhelp.js
+msgid "Select"
+msgstr "Seleziona"
+
+#: .\toolsets.js
+msgid "Select Alternative Tool"
+msgstr "Seleziona Strumento Alternativo"
+
+#: .\toolhelp.js
+msgid "Select Event Range"
+msgstr "Seleziona Range Evento"
+
+#: .\toolhelp.js
+msgid "Select Objects"
+msgstr "Seleziona Oggetti"
+
+#: .\toolhelp.js
+msgid "Select Points up to End"
+msgstr "Seleziona Punti fino alla Fine"
+
+#: .\toolhelp.js
+msgid "Select Range to Copy to Track"
+msgstr "Seleziona Range per la copia sulla Ttraccia"
+
+#: .\toolhelp.js
+msgid "Select all Chords"
+msgstr "Seleziona tutti gli Accordi"
+
+#: .\toolhelp.js
+msgid "Select all on Track"
+msgstr "Seleziona tutto sulla Traccia"
+
+#: .\toolhelp.js
+msgid "Set End Marker"
+msgstr "Imposta Marker Finale"
+
+#: .\toolhelp.js
+msgid "Set Loop Range"
+msgstr "Imposta Range Loop"
+
+#: .\toolhelp.js
+msgid "Set Start Marker"
+msgstr "Imposta Marker iniziale"
+
+#: .\toolhelp.js
+msgid "Set Track Pause"
+msgstr "Imposta Pausa Traccia"
+
+#: .\toolhelp.js
+msgid "Shift Root"
+msgstr "Sposta Root"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Sine"
+msgstr "Sinusoidale"
+
+#: .\envelopeactions.js .\toolhelp.js
+msgid "Skew"
+msgstr "Inclina"
+
+#: .\toolhelp.js
+msgid "Slip Event"
+msgstr "Slitta Evento"
+
+#: .\toolhelp.js
+msgid "Split Deep"
+msgstr "Dividi Profondo"
+
+#: .\toolhelp.js
+msgid "Split Events"
+msgstr "Dividi Eventi"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Split Tool"
+msgstr "Strumento Divisione"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Square"
+msgstr "Quadra"
+
+#: .\toolhelp.js
+msgid "Straighten Curve"
+msgstr "Raddrizza Curva"
+
+#: .\envelopeactions.js .\toolhelp.js
+msgid "Stretch"
+msgstr "Allunga"
+
+#: .\toolhelp.js
+msgid "Stretch Event"
+msgstr "Allunga Evento"
+
+#: .\toolhelp.js
+msgid "Stretch Symmetrically"
+msgstr "Allunga Simmetricamente"
+
+#: .\mutetool.js
+msgid "Toggle Mute"
+msgstr "Alterna Mute"
+
+#: .\toolhelp.js
+msgid "Toggle Select"
+msgstr "Alterna Selezione"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Transform"
+msgstr "Trasforma"
+
+#: .\toolhelp.js
+msgid "Transformation"
+msgstr "Trasformazione"
+
+#: .\toolhelp.js .\toolsets.js
+msgid "Triangle"
+msgstr "Triangolare"
+
+#: .\envelopeactions.js .\toolhelp.js
+msgid "Trim"
+msgstr "Trim"
+
+#: .\toolhelp.js
+msgid "Undo Zoom"
+msgstr "Annulla Zoom"
+
+#: .\mutetool.js
+msgid "Unmute"
+msgstr "Attiva"
+
+#: .\toolhelp.js
+msgid "Velocity Accent"
+msgstr "Accento Velocity"
+
+#: .\toolhelp.js
+msgid "Zoom in"
+msgstr "Zoom In"
+
+#: .\toolhelp.js
+msgid "x: Resize Note"
+msgstr "x: Ridimensiona Nota"
+
+#: .\toolhelp.js
+msgid "y: Edit Velocity"
+msgstr "y: Modifica Velocity"
+

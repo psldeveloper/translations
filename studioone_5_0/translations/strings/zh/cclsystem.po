@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]%(1) days ago"
+msgstr "%(1)天之前"
+
+#: .\plugins\servicemanager.cpp
+msgid "[ServiceManager]%(1) failed!"
+msgstr "%(1)失败!"
+
+#: .\plugins\plugcollect.cpp
+msgid "[PlugIns]%(1) has been blocked."
+msgstr "已忽略%(1)，因为它在黑名单中。"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]%(1) months ago"
+msgstr "%(1)个月之前"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]%(1) weeks ago"
+msgstr "%(1)周之前"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]%(1) years ago"
+msgstr "%(1)年之前"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]Access is denied"
+msgstr "拒绝访问"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Application"
+msgstr "应用程序"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Application Extension"
+msgstr "应用程序扩展"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Binary File"
+msgstr "二进制文件"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]GB"
+msgstr "GB"
+
+#: .\fileutilities.cpp
+msgid "[FileType]HTML File"
+msgstr "HTML文件"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In %(1) days"
+msgstr " %(1) 天后"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In %(1) hours"
+msgstr " %(1) 小时后"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In less than one hour"
+msgstr " 一小时内"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In one day"
+msgstr " 一天后"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In one hour"
+msgstr " 一小时后"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]Invalid Argument"
+msgstr "无效参数"
+
+#: .\fileutilities.cpp
+msgid "[FileType]JSON File"
+msgstr "JSON文件"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Java Properties File"
+msgstr "JAVA属性文件"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]KB"
+msgstr "KB"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]KB/sec"
+msgstr "KB/秒"
+
+#: .\localization\languagepack.cpp
+msgid "[FileType]Language Pack"
+msgstr "语言包"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Last month"
+msgstr "上个月"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Last week"
+msgstr "上周"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Last year"
+msgstr "去年"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]MB"
+msgstr "MB"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]MB/sec"
+msgstr "MB/秒"
+
+#: .\fileutilities.cpp
+msgid "[FileType]PDF File"
+msgstr "PDF 文件"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Package File"
+msgstr "包文件"
+
+#: .\packaging\filearchive.cpp
+msgid "[PackageFile]Packaging: %(1)"
+msgstr "正在打包: %(1)"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Rich Text Format"
+msgstr "RTF文件"
+
+#: .\plugins\servicemanager.cpp
+msgid "[ServiceManager]Starting %(1)..."
+msgstr "正在启动%(1)..."
+
+#: .\plugins\servicemanager.cpp
+msgid "[ServiceManager]Stopping %(1)..."
+msgstr "正在停止%(1)..."
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]TB"
+msgstr "TB"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Text File"
+msgstr "文本文件"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]The file exists"
+msgstr "文件存在"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]The file is in use"
+msgstr "文件正在使用"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]The file is write protected"
+msgstr "文件受写入保护"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]The system cannot find the file specified"
+msgstr "系统无法找到指定的文件"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]There is not enough space on the disk"
+msgstr "磁盘空间不足"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Today"
+msgstr "今天"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]Too many open files"
+msgstr "打开的文件太多"
+
+#: .\fileutilities.cpp
+msgid "[FileType]UBJSON File"
+msgstr "UBJSON 文件"
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]Unknown Error"
+msgstr "未知错误"
+
+#: .\fileutilities.cpp
+msgid "[FileType]XML File"
+msgstr "XML文件"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Yesterday"
+msgstr "昨天"
+
+#: .\fileutilities.cpp
+msgid "[FileType]Zip File"
+msgstr "Zip文件"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]bytes"
+msgstr "字节"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]days"
+msgstr "天"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]hours"
+msgstr "小时"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]min"
+msgstr "分"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]sec"
+msgstr "秒"
+
+#~ msgid "[PlugIns]%(1) ignored because it is blacklisted."
+#~ msgstr "已忽略%(1)，因为它在黑名单中。"
+
+#~ msgid "[PlugIns]%(1) ignored, because it crashed before."
+#~ msgstr "%(1)已忽略, 因为之前已经崩溃."
+

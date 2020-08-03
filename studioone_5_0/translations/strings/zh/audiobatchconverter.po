@@ -1,0 +1,391 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: smartCAT.ai\n"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Add Files"
+msgstr "添加文件"
+
+#: .\processes\gain.cpp
+msgid "[AudioProcess]Adjust volume of audio file"
+msgstr "调整音频文件的音量"
+
+#: .\plugversion.h
+msgid "[AudioBatchConverter]Audio Batch Converter"
+msgstr "音频批量转换器"
+
+#: .\plugversion.h
+msgid "[AudioBatchConverter]Audio Processing and File Conversion Tool"
+msgstr "音频处理和文件转换工具"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Bit Depth"
+msgstr "比特深度"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Cancel"
+msgstr "取消"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Channels"
+msgstr "通道"
+
+#: .\outputlocation.cpp
+msgid "[OuputLocationComponent]Clear History"
+msgstr "清空历史记录"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Collapse"
+msgstr "折叠"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]Collapse All"
+msgstr "全部折叠"
+
+#: .\processes\fade.cpp
+msgid "[Fade]Concave"
+msgstr "凹面"
+
+#: .\processes\fileformat.cpp
+msgid "[AudioProcess]Convert Format"
+msgstr "转换格式"
+
+#: .\processes\fileformat.cpp
+msgid "[AudioProcess]Convert type, rate, resolution, and channels"
+msgstr "转换类型、采样率、分辨率和通道"
+
+#: .\processes\fade.cpp
+msgid "[Fade]Convex"
+msgstr "凸面"
+
+#: .\processes\filesplitter.cpp
+msgid "[AudioProcess]Create mono files from stereo file"
+msgstr "从立体声文件中生成单声道文件"
+
+#: .\processes\filemerger.cpp
+msgid "[AudioProcess]Create stereo file from mono files"
+msgstr "从单声道文件中生成立体声文件"
+
+#: .\processes\declicker.cpp
+msgid "[Declicker]Declicker"
+msgstr "喀嚓声消音器"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Delete"
+msgstr "删除"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Deleting Files..."
+msgstr "正在删除文件..."
+
+#: .\converter.cpp
+msgid "[AudioBatchConverter]Desktop"
+msgstr "桌面"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Do you want to delete all result files?"
+msgstr "是否确定删除所有结果文件？"
+
+#: .\filelist.cpp
+msgid "[Command]Edit"
+msgstr "编辑"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Edit"
+msgstr "编辑"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]Effects"
+msgstr "效果"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Expand"
+msgstr "展开"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]Expand All"
+msgstr "展开全部"
+
+#: .\processes\extractor.cpp
+msgid "[AudioProcess]Extract Section"
+msgstr "提取所选"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]FX Chains"
+msgstr "FX链"
+
+#: .\processes\fade.cpp
+msgid "[AudioProcess]Fade"
+msgstr "淡化"
+
+#: .\processes\fade.cpp
+msgid "[AudioProcess]Fade in or fade out"
+msgstr "淡入或淡出"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Failed"
+msgstr "失败"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]File"
+msgstr "文件"
+
+#: .\converter.cpp
+msgid "[AudioBatchConverter]File conversion finished."
+msgstr "文件转换完成。"
+
+#: .\converter.cpp
+msgid "[AudioBatchConverter]Files"
+msgstr "文件"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Folder"
+msgstr "文件夹"
+
+#: .\plugmain.cpp
+msgid "[AudioProcessCategory]Format"
+msgstr "格式"
+
+#: .\processes\gain.cpp
+msgid "[AudioProcess]Gain"
+msgstr "增益"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Insert Process"
+msgstr "插入进程"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Insertion Order"
+msgstr "插入顺序"
+
+#: .\processes\phase.cpp
+msgid "[AudioProcess]Invert Phase"
+msgstr "反转相位"
+
+#: .\processes\phase.cpp
+msgid "[AudioProcess]Invert audio channel phase"
+msgstr "反转音频通道相位"
+
+#: .\processes\concatenator.cpp
+msgid "[AudioProcess]Join Files"
+msgstr "联接文件"
+
+#: .\processes\concatenator.cpp
+msgid "[AudioProcess]Join all input files sequentially"
+msgstr "按顺序联接所有输入文件"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Length"
+msgstr "长度"
+
+#: .\processes\fade.cpp
+msgid "[Fade]Linear"
+msgstr "线性"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Load Preset"
+msgstr "加载预置"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Load Process Chain"
+msgstr "加载处理链"
+
+#: .\processes\extractor.cpp
+msgid "[FileExtractor]Loop Range"
+msgstr "循环范围"
+
+#: .\processes\filemerger.cpp
+msgid "[AudioProcess]Merge Mono Files"
+msgstr "合并单声道文件"
+
+#: .\processes\normalize.cpp
+msgid "[Normalize]Metanormalize"
+msgstr "元标准化"
+
+#: .\processes\normalize.cpp
+msgid "[Normalize]Normal"
+msgstr "标准"
+
+#: .\processes\normalize.cpp
+msgid "[AudioProcess]Normalize"
+msgstr "标准化"
+
+#: .\processes\normalize.cpp
+msgid "[AudioProcess]Normalize volume of audio file"
+msgstr "标准化音频文件的音量"
+
+#: .\filelist.cpp
+msgid "[Command]Paste"
+msgstr "粘贴"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Peak"
+msgstr "峰值"
+
+#: .\processes\normalize.cpp
+msgid "[Normalize]Peak of all files"
+msgstr "所有文件的峰值"
+
+#: .\converter.cpp
+msgid "[AudioBatchConverter]Please select a valid output location."
+msgstr "请选择有效的输出位置。"
+
+#: .\converter.cpp
+msgid "[AudioBatchConverter]Processes"
+msgstr "进程"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]Processes"
+msgstr "进程"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Processing..."
+msgstr "正在处理..."
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]RMS"
+msgstr "RMS"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Rack Preset"
+msgstr "机架预置"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]Rack Presets"
+msgstr "机架预置"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Rate"
+msgstr "采样率"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Remove"
+msgstr "移除"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]Remove All"
+msgstr "全部移除"
+
+#: .\processes\dcoffset.cpp
+msgid "[AudioProcess]Remove DC Offset"
+msgstr "移除直流偏移"
+
+#: .\processes\dcoffset.cpp
+msgid "[AudioProcess]Remove DC offset from files"
+msgstr "从文件中移除直流偏移"
+
+#: .\processes\declicker.cpp
+msgid "[Declicker]Remove clicks and pops"
+msgstr "移除咔嚓声和噗噗声"
+
+#: .\plugmain.cpp
+msgid "[AudioProcessCategory]Repair"
+msgstr "修复"
+
+#: .\processes\repairsamplerate.cpp
+msgid "[AudioProcess]Repair Sample Rate"
+msgstr "修复采样率"
+
+#: .\processrack.cpp
+msgid "[ProcessRack]Replace Process"
+msgstr "替换进程"
+
+#: .\processes\repairsamplerate.cpp
+msgid "[AudioProcess]Replace sample rate information"
+msgstr "替换采样率信息"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Result Files"
+msgstr "结果文件"
+
+#: .\preview.cpp
+msgid "[Command]Return to Zero"
+msgstr "返回零点"
+
+#: .\processlist.cpp
+msgid "[Audio Conveter]Save Rack Preset"
+msgstr "保存机架预置"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Scanning Files..."
+msgstr "正在扫描文件..."
+
+#: .\outputlocation.cpp
+msgid "[OuputLocationComponent]Select..."
+msgstr "选择..."
+
+#: .\browserextension.cpp
+msgid "[AudioBatchConverter]Send to $APPNAME"
+msgstr "发送至 $APPNAME"
+
+#: .\outputlocation.cpp
+msgid "[OuputLocationComponent]Show in Explorer"
+msgstr "在资源管理器中显示"
+
+#: .\outputlocation.cpp
+msgid "[OuputLocationComponent]Show in Finder"
+msgstr "在Finder中显示"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Source Files"
+msgstr "源文件"
+
+#: .\processes\extractor.cpp
+msgid "[FileExtractor]Specify Section"
+msgstr "指定部分"
+
+#: .\processes\filesplitter.cpp
+msgid "[AudioProcess]Split Multichannel Files"
+msgstr "拆分多轨道文件"
+
+#: .\preview.cpp
+msgid "[Command]Start"
+msgstr "开始"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]State"
+msgstr "状态"
+
+#: .\preview.cpp
+msgid "[Command]Stop"
+msgstr "停止"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Success"
+msgstr "成功"
+
+#: .\preview.cpp
+msgid "[Command]Toggle Start"
+msgstr "切换开始"
+
+#: .\preview.cpp
+msgid "[Command]Transport"
+msgstr "走带"
+
+#: .\processes\extractor.cpp
+msgid "[AudioProcess]Trim audio file"
+msgstr "修剪音频文件"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]Type"
+msgstr "类型"
+
+#: .\processes\extractor.cpp
+msgid "[FileExtractor]Until Loop End"
+msgstr "直到循环结束"
+
+#: .\plugmain.cpp
+msgid "[AudioProcessCategory]Volume"
+msgstr "音量"
+
+#: .\filelist.cpp
+msgid "[AudioBatchConverter]analyzing..."
+msgstr "分析中..."
+
+#~ msgid "[AudioBatchConverter]Audio Files"
+#~ msgstr "音频文件"
+

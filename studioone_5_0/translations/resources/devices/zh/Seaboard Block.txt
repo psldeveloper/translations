@@ -1,0 +1,2 @@
+﻿将Seaboard Block连接到您的计算机，以便与Studio One一起使用。
+

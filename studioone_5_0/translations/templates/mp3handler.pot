@@ -1,0 +1,4 @@
+#: .\mp3_lame\lameaudiocodec.cpp
+msgid "[FileType]MP3 File"
+msgstr ""
+

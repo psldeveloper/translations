@@ -1,0 +1,2 @@
+Użyj ustawień domyślnych dla tłumików 1-16 i ustaw KN 1-8 na kontrolery 14, 15, 16, 17, 18, 19, 20 i 21.
+Banki tłumików kontrolują kanały 1-16 miksera 

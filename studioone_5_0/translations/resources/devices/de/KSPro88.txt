@@ -1,0 +1,1 @@
+﻿Bitte wählen Sie Factory Preset 10. Fader C1-C8, Knobs B11-B17 und Buttons C52-C59 sind mit der Console verbunden. Fader 9 ist Master Lautstärke. Button C60 ist Click ein/aus.

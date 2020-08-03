@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\skin.xml
+msgid "[VSTUserOption]Add..."
+msgstr "Aggiungi ..."
+
+#: .\skin.xml
+msgid "[VSTUserOption]Locations"
+msgstr "Posizioni Cartelle"
+
+#: .\skin.xml
+msgid "[Command]Presets"
+msgstr "Presets"
+
+#: .\skin.xml
+msgid "[VSTUserOption]Remove"
+msgstr "Rimuovi"
+
+#: .\skin.xml
+msgid "[VSTUserOption]Reset Blocklist"
+msgstr "Blocklist Reset!"
+
+#: .\skin.xml
+msgid "[Command]Reset Blocklist"
+msgstr "Blocklist Reset!"
+
+#: .\skin.xml
+msgid "[VSTUserOption]Scan at startup"
+msgstr "Scansione all'Avvio"
+
+#~ msgid "[VSTUserOption]Reset Blacklist"
+#~ msgstr "Blacklist Reset!"
+
+#~ msgid "[Command]Reset Blacklist"
+#~ msgstr "Blacklist Reset!"
+

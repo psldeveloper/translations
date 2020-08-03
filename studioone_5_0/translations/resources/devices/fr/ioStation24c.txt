@@ -1,0 +1,1 @@
+Faites passer le ioStation 24c en mode natif avant de l'utiliser avec Studio One.

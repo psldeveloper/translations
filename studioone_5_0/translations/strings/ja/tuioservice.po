@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\plugmain.cpp
+msgid "[TUIO]Support for multi-touch via TUIO protocol"
+msgstr "TUIOプロトコルによるマルチタッチ対応"
+
+#: .\plugversion.h
+msgid "[TUIO]TUIO Support"
+msgstr "TUIO対応"
+
+#: .\tuiouseroption.cpp
+msgid "[TUIO]Touch Input"
+msgstr "タッチ入力"
+
+
