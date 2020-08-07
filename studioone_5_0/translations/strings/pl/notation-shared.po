@@ -86,7 +86,7 @@ msgstr "Seksta"
 
 #: .\edittasks\switchstafftask.cpp
 msgid "[ScoreEdit]Switch Staff"
-msgstr "Przełącz typ pięciolinii"
+msgstr "Zamień zawartość pięciolinii"
 
 #: .\edittasks\transposetask.cpp
 msgid "[ScoreEdit]Third"

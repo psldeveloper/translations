@@ -1,5 +1,5 @@
 ﻿UMOWA LICENCYJNA UŻYTKOWNIKA KOŃCOWEGO
-NAJNOWSZA WERSJA – Grudzień 2019 r.
+NAJNOWSZA WERSJA – Sierpień 2020 r.
 PreSonus Audio Electronics, Inc., 18011 Grand Bay Court, Baton Rouge, LA 70809
 
 1. WARUNKI OGÓLNE
@@ -84,6 +84,7 @@ Technologia kodowania audio MPEG Layer-3 jest oparta na licencji Fraunhofer IIS 
 (c) Licencjobiorca zgadza się na opisywanie Londyńskiej Orkiestry Symfonicznej we wszelkich materiałach towarzyszącym nagraniom (w tym okładkach płyt), dokonanym przy użyciu Notion, następującym stwierdzeniem: „Nagranie to powstało przy użyciu próbek orkiestrowych nagranych przez Londyńską Orkiestrę Symfoniczną”.
 
 5.6 Dla Licencjonowanego Oprogramowania z linii produktów wtyczek:
+
 (a) Licencjobiorcy jest przyznawana jedna (1) licencja do instalacji i użytkowania Licencjonowanego Oprogramowania na na  pojedynczym komputerze w tym samym czasie. Licencjobiorca może zainstalować i użytkować Licencjonowane Oprogramowanie na innym komputerze, ale oprogramowanie nie może być użytkowane w tym samym czasie na więcej niż jednym komputerze, chyba że zostały zakupione dodatkowe licencje. W przypadku gdy Licencjobiorca utraci możliwość aktywacji na pojedynczym komputerze, Licencjobiorca  ma dostępne cztery (4) dodatkowe aktywacje. W przypadku wprowadzeniu większych zmian w konfiguracji komputera Licencjobiorcy (np. zmiana pamięci RAM, dysku twardego lub systemu operacyjnego) całe oprogramowanie wtyczek musi zostać ponownie aktywowane. Pełna cyfrowa kopia zapasowa oprogramowania i treści dostępna jest online przez konto Użytkownika PreSonus. Pod warunkiem, że Użytkownik nie zachowuje kopii Licencjonowanego Oprogramowania, może trwale przenieść swoją licencję na użytkowanie Licencjonowanego Oprogramowania na osobę trzecią, która od chwili przeniesienia licencji będzie automatycznie związana Warunkami niniejszej Umowy. Jeśli Użytkownik zaktualizował Licencjonowane Oprogramowanie do nowszej wersji, nie może osobno przenieść poprzedniej (oryginalnej) wersji Licencjonowanego Oprogramowania i zaktualizowanego Licencjonowanego Oprogramowania na osobę trzecią. Licencjobiorca ma prawo do tworzenia kopii zapasowych Licencjonowanego Oprogramowania w celach archiwizacyjnych.
 
 (b) Korzystanie z Licencjonowanego Oprogramowania z Kluczem Licencyjnym otrzymanym z innego źródła niż PreSonus jest wyraźnie i surowo zabronione. PreSonus zastrzega sobie prawo do podejmowania wszelkich działań, które uzna za niezbędne, do ochrony przed nielegalnymi Kluczami Licencyjnymi, w tym monitorowania i kontroli korzystania z Licencjonowanego Oprogramowania.
@@ -96,9 +97,25 @@ Technologia kodowania audio MPEG Layer-3 jest oparta na licencji Fraunhofer IIS 
 
 (b) Dla niektórych Produktów PreSonus stosuje się poniższe zasady: W przypadku pakietów składających się wyłącznie z  oprogramowania, te mogą być przekazywane tylko w całości. Poszczególne komponenty pakietu składającego się tylko z oprogramowania nie mogą być przekazywane oddzielnie, chyba że wyraża na to zgodę współtworzący pakiet zewnętrzny producent.
 
-5.8 Użytkownik zgadza się na używanie Produktu/Produktów tylko zgodnie z niniejszymi Warunkami i wszelkimi przepisami Prawa.
+5.8 Licencjonowane oprogramowanie i usługi zawarte w PreSonus Sphere:
 
-5.9 PreSonus może zmodyfikować lub wycofać tymczasowo lub na stałe Produkt/Produkty lub Usługi lub dowolną ich część, z lub bez ostrzeżenia. Użytkownik zgadza się na brak odpowiedzialności PreSonus w stosunku do Użytkownika lub kogokolwiek innego w przypadku, gdy PreSonus tak uczyni.
+(a) Członek PreSonus Sphere ma nieograniczony dostęp do całego licencjonowanego oprogramowania poprzez członkostwo w PreSonus Sphere, w tym do Studio One Professional i Notion, aż do anulowania lub wypowiedzenia umowy przez Ciebie lub przez nas. Więcej informacji na temat warunków subskrypcji i anulowania można znaleźć na stronie presonus.com/sphere.
+
+(b) Licencja członka na korzystanie z licencjonowanego oprogramowania jako części PreSonus Sphere wygasa (i) w przypadku braku płatności lub (ii) w przypadku anulowania członkostwa.
+
+(c) Członek ponosi wyłączną odpowiedzialność za przechowywanie swoich plików osobistych i tworzenie kopii zapasowych swojej zawartości przed anulowaniem członkostwa, po którym cała zawartość użytkownika zostanie utracona. Firma PreSonus nie ponosi odpowiedzialności za utracone treści użytkownika.
+
+(d) Członek zgadza się, że  decyzja o użyciu lub zakupie licencjonowanego oprogramowania lub usług nie jest uzależniona od dostarczenia jakichkolwiek przyszłych nowych funkcji ani od jakichkolwiek ustnych lub pisemnych komentarzy publicznych, które przedstawimy, dotyczących przyszłych funkcji.
+
+(e) PreSonus Sphere to usługa w chmurze, w której ekskluzywne doświadczenie online jest połączone z pakietową ofertą oprogramowania PreSonus. Ze względu na internetowy charakter tej usługi należy ją obsługiwać online. W trybie offline PreSonus Sphere będzie kontynuować wyszukiwanie połączenia online w celu autoryzacji każdego konta przez 3 dni. Jeżeli połączenie nie zostanie nawiązane, usługi będą dostępne dopiero po ponownym połączeniu online.
+
+(f) Członek zgadza się nie przesyłać i/lub nie udostępniać nielegalnej lub niebezpiecznej zawartości w żadnym miejscu na Sferze PreSonus. PreSonus ma prawo do usunięcia wszelkiej zawartości, które według nich mogą być niebezpieczne lub nielegalne.
+
+(g) Oprogramowanie zawarte w pakiecie PreSonus Sphere  jest objęta niniejszą umową EULA w odpowiednich obszarach.
+
+5.9 Członek zgadza się na używanie Produktu/Produktów tylko zgodnie z niniejszymi Warunkami i wszelkimi przepisami Prawa.
+
+5.10 PreSonus może zmodyfikować lub wycofać tymczasowo lub na stałe Produkt/Produkty lub Usługi lub dowolną ich część, z lub bez ostrzeżenia. Użytkownik zgadza się na brak odpowiedzialności PreSonus w stosunku do Użytkownika lub kogokolwiek innego w przypadku, gdy PreSonus tak uczyni.
 
 6. POLITYKA PRYWATNOŚCI.
 

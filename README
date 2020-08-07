@@ -1,9 +1,9 @@
 PreSonus Public Translation Files Repository
-Copyright (c)2019 by PreSonus Software Ltd. All Rights Reserved.
+Copyright (c)2020 by PreSonus Software Ltd. All Rights Reserved.
 
 This repository contains translation files for PreSonus software products like Studio One (http://studioone.presonus.com).
 
-The following languages are actively maintained for Studio One 4:
+The following languages are actively maintained for Studio One 5:
 
     Language      Maintainer                  Status
 --+-------------+---------------------------+------------
@@ -15,6 +15,5 @@ ja    Japanese    maintained by PreSonus     completed
 zh    Chinese     maintained by PreSonus     completed
 it    Italian     maintained by PreSonus     completed
 pl    Polish      Audiostacja                completed
-tr    Turkish     COMPEL                     completed
 
 If you would like to help us translate our products into your language, please contact us at info@presonussoftware.com and we will setup all required files.

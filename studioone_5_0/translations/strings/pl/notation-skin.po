@@ -14,7 +14,7 @@ msgstr "Klamry"
 
 #: .\scoreedittasks.xml
 msgid "[MakeTupletDialog]Fit"
-msgstr "Dopasuj"
+msgstr "Liczba nut"
 
 #: .\scoreedittasks.xml
 msgid "[MakeTupletDialog]Hide"
@@ -30,7 +30,7 @@ msgstr "Typ interwału"
 
 #: .\scoreedittasks.xml
 msgid "[MakeTupletDialog]Into"
-msgstr "Wewnątrz"
+msgstr "W miejsce"
 
 #: .\scoreedittasks.xml
 msgid "[MakeTupletDialog]Make Custom Tuplet"

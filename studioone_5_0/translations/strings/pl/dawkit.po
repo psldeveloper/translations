@@ -218,11 +218,11 @@ msgstr "Kontynuuj"
 
 #: .\score\scoreeditor.cpp
 msgid "[ScoreEditor]Convert to Grand Staff"
-msgstr "Przekonwertuj  na podwójną pięciolinię z akoladą"
+msgstr "Konwertuj na podwójną pięciolinię"
 
 #: .\score\scoreeditor.cpp
 msgid "[ScoreEditor]Convert to Single Staff"
-msgstr "Przekonwertuj  na pojedynczą pięciolinię z akoladą"
+msgstr "Konwertuj na pojedynczą pięciolinię"
 
 #: .\song\songcontroller.cpp
 msgid "[Command]Copy"
@@ -321,21 +321,12 @@ msgid "[Engine]Do not publish"
 msgstr "Nie publikuj"
 
 #: .\project\editing\projecttrackcomponent.cpp
-msgid ""
-"[ProjectTrack]Do you want to apply incrementing ISRC codes for all tracks?"
+msgid "[ProjectTrack]Do you want to apply incrementing ISRC codes for all tracks?"
 msgstr "Czy chcesz zastosować przyrostowe kody ISRC dla wszystkich utworów?"
 
 #: .\project\publish\ddpimagemaker.cpp
-msgid ""
-"[DDPImageMaker]Do you want to create a DDP image?\n"
-"\n"
-"Image: %(1)\n"
-"Location: %(2)"
-msgstr ""
-"Czy chcesz utworzyć obraz DDP?\n"
-"\n"
-"Obraz: %(1)\n"
-"Lokalizacja: %(2)"
+msgid "[DDPImageMaker]Do you want to create a DDP image?\n\nImage: %(1)\nLocation: %(2)"
+msgstr "Czy chcesz utworzyć obraz DDP?\n\nObraz: %(1)\nLokalizacja: %(2)"
 
 #: .\song\songrenderer.cpp
 msgid "[SongRenderer]Do you want to delete the exported file?"
@@ -695,7 +686,7 @@ msgstr "Następny zestaw"
 
 #: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
 msgid "[Command]Next Player"
-msgstr ""
+msgstr "Następny odtwarzacz"
 
 #: .\show\editing\setlistcomponent.cpp
 msgid "[Command]Next Setlist Item"
@@ -722,25 +713,15 @@ msgid "[AudioEdit]Normalize Audio"
 msgstr "Normalizuj audio"
 
 #: .\project\publish\audiodiscpublisher.cpp
-msgid ""
-"[AudioDiscPublisher]Not all tracks could be added to the audio disc, because "
-"an audio disc can only be 80 minutes long."
-msgstr ""
-"Nie wszystkie utwory mogą zostać dodane na dysk audio, ponieważ te mogą mieć "
-"do 80 minut długości."
+msgid "[AudioDiscPublisher]Not all tracks could be added to the audio disc, because an audio disc can only be 80 minutes long."
+msgstr "Nie wszystkie utwory mogą zostać dodane na dysk audio, ponieważ te mogą mieć do 80 minut długości."
 
 #: .\project\publish\audiodiscpublisher.cpp
-msgid ""
-"[AudioDiscPublisher]Not all tracks could be added to the audio disc, because "
-"an audio disc can only contain up to 99 tracks."
-msgstr ""
-"Nie wszystkie utwory mogą zostać dodane na dysk audio, ponieważ te mogą "
-"zawierać do 99 utworów."
+msgid "[AudioDiscPublisher]Not all tracks could be added to the audio disc, because an audio disc can only contain up to 99 tracks."
+msgstr "Nie wszystkie utwory mogą zostać dodane na dysk audio, ponieważ te mogą zawierać do 99 utworów."
 
 #: .\song\stemrenderer.cpp
-msgid ""
-"[StemRenderer]Nothing to export. Please select one or more tracks and set "
-"Loop or Markers."
+msgid "[StemRenderer]Nothing to export. Please select one or more tracks and set Loop or Markers."
 msgstr "Brak danych do eksportu. Wybierz ścieżki i ustaw pętlę lub markery."
 
 #: .\song\songrenderer.cpp
@@ -838,7 +819,7 @@ msgstr "Poprzedni zestaw"
 
 #: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
 msgid "[Command]Previous Player"
-msgstr ""
+msgstr "Poprzedni odtwarzacz"
 
 #: .\show\editing\setlistcomponent.cpp
 msgid "[Command]Previous Setlist Item"
@@ -1066,43 +1047,43 @@ msgstr "Wybierz zestaw 9"
 
 #: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
 msgid "[Command]Select Player 1"
-msgstr ""
+msgstr "Wybierz odtwarzacz 1"
 
 #: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
 msgid "[Command]Select Player 10"
-msgstr ""
+msgstr "Wybierz odtwarzacz 10"
 
 #: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
 msgid "[Command]Select Player 2"
-msgstr ""
+msgstr "Wybierz odtwarzacz 2"
 
 #: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
 msgid "[Command]Select Player 3"
-msgstr ""
+msgstr "Wybierz odtwarzacz 3"
 
 #: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
 msgid "[Command]Select Player 4"
-msgstr ""
+msgstr "Wybierz odtwarzacz 4"
 
 #: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
 msgid "[Command]Select Player 5"
-msgstr ""
+msgstr "Wybierz odtwarzacz 5"
 
 #: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
 msgid "[Command]Select Player 6"
-msgstr ""
+msgstr "Wybierz odtwarzacz 6"
 
 #: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
 msgid "[Command]Select Player 7"
-msgstr ""
+msgstr "Wybierz odtwarzacz 7"
 
 #: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
 msgid "[Command]Select Player 8"
-msgstr ""
+msgstr "Wybierz odtwarzacz 8"
 
 #: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
 msgid "[Command]Select Player 9"
-msgstr ""
+msgstr "Wybierz odtwarzacz 9"
 
 #: .\show\editing\setlistcomponent.cpp
 msgid "[Command]Select Setlist Item 1"
@@ -1288,66 +1269,28 @@ msgid "[DDPImageMaker]Start to write DDP image at %(1) times"
 msgstr "Rozpocznij zapisywanie obrazu DDP %(1) razy"
 
 #: .\show\editing\showeditmodel.cpp
-msgid ""
-"[EventEditHandler]Start: %(1) (%(2))\n"
-"Pause: %(3)"
-msgstr ""
-"Start: %(1) (%(2))\n"
-"Pauza: %(3)"
+msgid "[EventEditHandler]Start: %(1) (%(2))\nPause: %(3)"
+msgstr "Start: %(1) (%(2))\nPauza: %(3)"
 
 #: .\show\editing\setlistitemcomponent.cpp
 msgid "[SetListItem]Stop at End"
 msgstr "Zatrzymaj przy końcu"
 
 #: .\song\songdocument.cpp
-msgid ""
-"[Engine]THIS SONG CONTAINS COPYRIGHTED MATERIAL. YOU MUST NOT USE ANY "
-"MATERIAL WITHOUT THE AUTHORS AGREEMENT."
-msgstr ""
-"TEN UTWÓR ZAWIERA MATERIAŁY CHRONIONE PRAWEM AUTORSKIM. NIE WOLNO UŻYWAĆ "
-"ŻADNYCH MATERIAŁÓW BEZ ZGODY AUTORÓW."
+msgid "[Engine]THIS SONG CONTAINS COPYRIGHTED MATERIAL. YOU MUST NOT USE ANY MATERIAL WITHOUT THE AUTHORS AGREEMENT."
+msgstr "TEN UTWÓR ZAWIERA MATERIAŁY CHRONIONE PRAWEM AUTORSKIM. NIE WOLNO UŻYWAĆ ŻADNYCH MATERIAŁÓW BEZ ZGODY AUTORÓW."
 
 #: .\project\editing\projecteditcomponent.cpp
-msgid ""
-"[Project]The EAN code is not formatted correctly.\n"
-"\n"
-"It should be 13 characters long and should only contain numeric characters.\n"
-"\n"
-"Example: 036000291452\n"
-"\n"
-"If you have a UPC, you just need to add 0 at the beginning to form a valid "
-"EAN code."
-msgstr ""
-"Kod EAN nie jest poprawnie sformatowany.\n"
-"\n"
-"Powinien on zawierać 13 znaków numerycznych.\n"
-"\n"
-"Przykład: 036000291452\n"
-"\n"
-"Jeżeli posiadasz UPC, to powinieneś dodać 0 na początku kodu EAN."
+msgid "[Project]The EAN code is not formatted correctly.\n\nIt should be 13 characters long and should only contain numeric characters.\n\nExample: 036000291452\n\nIf you have a UPC, you just need to add 0 at the beginning to form a valid EAN code."
+msgstr "Kod EAN nie jest poprawnie sformatowany.\n\nPowinien on zawierać 13 znaków numerycznych.\n\nPrzykład: 036000291452\n\nJeżeli posiadasz UPC, to powinieneś dodać 0 na początku kodu EAN."
 
 #: .\project\editing\projecttrackcomponent.cpp
-msgid ""
-"[ProjectTrack]The ISRC code is not formatted correctly.\n"
-"\n"
-"It should be 12 characters long and should only contain alphanumeric "
-"characters.\n"
-"\n"
-"Example: USPR37300012"
-msgstr ""
-"Kod ISRC jest niepoprawnie sformatowany.\n"
-"\n"
-"Powinien on zawierać 12 znaków alfanumerycznych.\n"
-"\n"
-"Przykład: USPR37300012"
+msgid "[ProjectTrack]The ISRC code is not formatted correctly.\n\nIt should be 12 characters long and should only contain alphanumeric characters.\n\nExample: USPR37300012"
+msgstr "Kod ISRC jest niepoprawnie sformatowany.\n\nPowinien on zawierać 12 znaków alfanumerycznych.\n\nPrzykład: USPR37300012"
 
 #: .\song\songvideorenderer.cpp
-msgid ""
-"[Video]The audio codec does not support the current sample rate. The rate "
-"will be converted to %(1) kHz."
-msgstr ""
-"Kodek audio nie obsługuje bieżącej częstotliwości próbkowania. Częstotliwość "
-"zostanie zmieniona na%(1) kHz."
+msgid "[Video]The audio codec does not support the current sample rate. The rate will be converted to %(1) kHz."
+msgstr "Kodek audio nie obsługuje bieżącej częstotliwości próbkowania. Częstotliwość zostanie zmieniona na%(1) kHz."
 
 #: .\project\publish\burnerdialog.cpp
 msgid "[BurnerDialog]The device could not be opened"
@@ -1475,24 +1418,8 @@ msgid "[ProjectFunctions]Update Title"
 msgstr "Zaktualizuj tytuł"
 
 #: .\song\songmaster.cpp
-msgid ""
-"[SongMaster]Update the mastering file of this song:\n"
-"%(6)\n"
-"Output: %(1)\n"
-"Duration: %(3)\n"
-"Resolution: %(4)\n"
-"Realtime Processing: %(5)\n"
-"Include Master Effects: %(7)\n"
-"Filename: %(2)"
-msgstr ""
-"Zaktualizuj plik masteringu dla tego utworu:\n"
-"%(6)\n"
-"Wyjście: %(1)\n"
-"Długość %(3)\n"
-"Rozdzielczość: %(4)\n"
-"Przetwarzanie w czasie rzeczywistym: %(5)\n"
-"Dołącz efekty sumy: %(7)\n"
-"Nazwa pliku: %(2)"
+msgid "[SongMaster]Update the mastering file of this song:\n%(6)\nOutput: %(1)\nDuration: %(3)\nResolution: %(4)\nRealtime Processing: %(5)\nInclude Master Effects: %(7)\nFilename: %(2)"
+msgstr "Zaktualizuj plik masteringu dla tego utworu:\n%(6)\nWyjście: %(1)\nDługość %(3)\nRozdzielczość: %(4)\nPrzetwarzanie w czasie rzeczywistym: %(5)\nDołącz efekty sumy: %(7)\nNazwa pliku: %(2)"
 
 #: .\project\document\songupdater.cpp
 msgid "[SongUpdater]Update was canceled."
@@ -1635,3 +1562,4 @@ msgstr "nowy odtwarzacz"
 
 #~ msgid "[Command]Split Track and Event"
 #~ msgstr "Podziel utwór i obiekt"
+
