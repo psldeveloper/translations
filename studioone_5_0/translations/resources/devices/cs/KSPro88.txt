@@ -1,0 +1,1 @@
+Please select factory preset 10 on the Keystation. Faders C1-C8, knobs B11-B17 and buttons C52-C59 are mapped to the Console. Fader 9 is Master volume. Button C60 is click on/off.

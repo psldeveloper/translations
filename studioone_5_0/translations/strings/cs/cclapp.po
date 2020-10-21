@@ -1,0 +1,1553 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\application.cpp
+msgid "[Application]$APPNAME can not shutdown right now!"
+msgstr ""
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]%(1) File"
+msgstr ""
+
+#: .\documents\documenttemplates.cpp
+msgid ""
+"[Documents]%(1) already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]%(1) preset files were imported."
+msgstr ""
+
+#: .\browser\pluginselector.cpp
+msgid "[PlugInSelector](Unknown Vendor)"
+msgstr ""
+
+#: .\presets\presetbrowser.cpp
+msgid "[PresetBrowser](no presets)"
+msgstr ""
+
+#: .\documents\autosaver.cpp
+msgid "[Autosave]A backup of the original file has been found."
+msgstr ""
+
+#: .\documents\autosaver.cpp
+msgid "[Autosave]A backup that is newer than the original file has been found."
+msgstr ""
+
+#: .\fileinfo\filerenamer.cpp
+msgid "[FileRenamer]A file with this name already exists."
+msgstr ""
+
+#: .\fileinfo\filerenamer.cpp
+msgid "[FileRenamer]A folder with this name already exists."
+msgstr ""
+
+#: .\presets\presetfileprimitives.cpp
+msgid "[Presets]A preset with this name already exists."
+msgstr ""
+
+#: .\application.cpp
+msgid "[Command]About"
+msgstr ""
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]Add File Type"
+msgstr ""
+
+#: .\datastore\tagstorecomponent.cpp
+msgid "[TagStore]Add Tag"
+msgstr ""
+
+#: .\browser\plugindraghander.cpp
+msgid "[PluginDraghandler]Add to Favorites"
+msgstr ""
+
+#: .\datastore\tagstorecomponent.cpp
+msgid "[TagStore]Adding Tags..."
+msgstr ""
+
+#: .\options\useroption.cpp
+msgid "[UserOption]Advanced"
+msgstr ""
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]Age"
+msgstr ""
+
+#: .\datastore\tagstore.cpp
+msgid "[TagStore]All tags are valid."
+msgstr ""
+
+#: .\application.cpp
+msgid "[Application]An instance of $APPNAME is already running."
+msgstr ""
+
+#: .\fileinfo\filerenamer.cpp
+msgid "[FileRenamer]An object with this name already exists."
+msgstr ""
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Appearance"
+msgstr ""
+
+#: .\application.cpp
+msgid "[Command]Application"
+msgstr ""
+
+#: .\actions\trashbinpanel.cpp
+msgid "[TrashBin]Are you sure you want to permanently delete these %(1) items?"
+msgstr ""
+
+#: .\actions\trashbinpanel.cpp
+msgid "[TrashBin]Are you sure you want to permanently delete this item?"
+msgstr ""
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Are you sure you want to reset the plug-in browser to default?"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Are you sure you want to revert all changes?"
+msgstr ""
+
+#: .\browser\pluginnodes.cpp
+msgid ""
+"[Browser]Are you sure you want to revert your last plug-in browser changes?"
+msgstr ""
+
+#: .\browser\browser.cpp
+msgid "[Command]Ascend Root"
+msgstr ""
+
+#: .\browser\browser.cpp .\navigation\navigatorbase.cpp
+msgid "[Command]Back"
+msgstr ""
+
+#: .\browser\browser.cpp .\browser\filesystemnodes.cpp
+msgid "[Command]Browser"
+msgstr ""
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]But it's not a preset for %(1)!"
+msgstr ""
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]But none of them is a preset for %(1)!"
+msgstr ""
+
+#: .\fileinfo\pathclassifier.cpp
+msgid "[FileInfo]CD/DVD Drive"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Can not close %(1) right now!"
+msgstr ""
+
+#: .\browser\pluginselector.cpp
+msgid "[PlugInSelector]Category"
+msgstr ""
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]Category"
+msgstr ""
+
+#: .\datastore\tagstore.cpp
+msgid "[TagStore]Checking files in \"%(1)\""
+msgstr ""
+
+#: .\datastore\tagstore.cpp .\datastore\tagstorecomponent.cpp
+msgid "[TagStore]Cleanup Tags of Missing Files"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Clear Recent Files"
+msgstr ""
+
+#: .\documents\recentdocuments.cpp
+msgid "[Documents]Clear Recent Files"
+msgstr ""
+
+#: .\datastore\tagstorecomponent.cpp
+msgid "[TagStore]Clear Tags"
+msgstr ""
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]Click+Drag Preset"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Close"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Close All"
+msgstr ""
+
+#: .\browser\browser.cpp
+msgid "[Browser]Close Tab"
+msgstr ""
+
+#: .\browser\browser.cpp
+msgid "[Command]Close Tab"
+msgstr ""
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Browser]Content"
+msgstr ""
+
+#: .\application.cpp
+msgid "[Command]Contents"
+msgstr ""
+
+#: .\application.cpp
+msgid "[Command]Context Help"
+msgstr ""
+
+#: .\browser\filedraghandler.cpp
+msgid "[FileDraghandler]Copy"
+msgstr ""
+
+#: .\editing\editor.cpp .\etc\batchoperation.cpp
+msgid "[Edit]Copy"
+msgstr ""
+
+#: .\editing\editor.cpp
+msgid "[Command]Copy"
+msgstr ""
+
+#: .\browser\filedraghandler.cpp
+msgid "[FileDraghandler]Copy to \"%(1)\""
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Copying %(1)"
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Copying files"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Could not load %(1)!"
+msgstr ""
+
+#: .\fileinfo\filerenamer.cpp
+msgid "[FileRenamer]Could not rename this file."
+msgstr ""
+
+#: .\fileinfo\filerenamer.cpp
+msgid "[FileRenamer]Could not rename this folder."
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Could not save %(1)!"
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Create new folder"
+msgstr ""
+
+#: .\editing\editor.cpp
+msgid "[Edit]Cut"
+msgstr ""
+
+#: .\editing\editor.cpp
+msgid "[Command]Cut"
+msgstr ""
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Dark Mode"
+msgstr ""
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]Date"
+msgstr ""
+
+#: .\actions\trashbinpanel.cpp
+msgid "[TrashBin]Delete"
+msgstr ""
+
+#: .\datastore\stringlistcomponent.cpp .\editing\editor.cpp
+msgid "[Command]Delete"
+msgstr ""
+
+#: .\editing\editor.cpp
+msgid "[Edit]Delete"
+msgstr ""
+
+#: .\presets\presetnode.cpp
+msgid "[Presets]Delete"
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Delete File..."
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Delete Folder..."
+msgstr ""
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Delete Objects"
+msgstr ""
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Delete Thumbnail"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Delete Undo History"
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Deleting %(1)"
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Deleting Files"
+msgstr ""
+
+#: .\documents\documentmanager.cpp .\documents\documentversions.cpp
+msgid "[Documents]Description"
+msgstr ""
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]Description"
+msgstr ""
+
+#: .\editing\editor.cpp
+msgid "[Edit]Deselect All"
+msgstr ""
+
+#: .\editing\editor.cpp
+msgid "[Command]Deselect All"
+msgstr ""
+
+#: .\browser\filebrowser.cpp
+msgid "[Browser]Desktop"
+msgstr ""
+
+#: .\options\serviceoption.cpp
+msgid "[UserOption]Disable"
+msgstr ""
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]Discard"
+msgstr ""
+
+#: .\documents\recentdocuments.cpp
+msgid ""
+"[Documents]Do you really want to clear the list of recent files?\n"
+"\n"
+"This action can not be undone."
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid ""
+"[Documents]Do you really want to delete the Undo History?\n"
+"\n"
+"This action can not be undone."
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to copy these files to \"%(1)\"?"
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to copy this file to \"%(1)\"?"
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to copy this folder to \"%(1)\"?"
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid ""
+"[FileOperations]Do you want to delete these files permanently from disk?"
+msgstr ""
+
+#: .\presets\presetnode.cpp
+msgid "[Presets]Do you want to delete these presets?"
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to delete this file permanently from disk?"
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid ""
+"[FileOperations]Do you want to delete this folder permanently from disk?"
+msgstr ""
+
+#: .\presets\presetnode.cpp
+msgid "[Presets]Do you want to delete this preset?"
+msgstr ""
+
+#: .\documents\autosaver.cpp
+msgid "[Autosave]Do you want to keep the backup as a version?"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Do you want to merge into %(1)?"
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to move these files to \"%(1)\"?"
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to move this file to \"%(1)\"?"
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Do you want to move this folder to \"%(1)\"?"
+msgstr ""
+
+#: .\documents\autosaver.cpp
+msgid "[Autosave]Do you want to open the backup?"
+msgstr ""
+
+#: .\presets\presetmanager.cpp
+msgid ""
+"[Presets]Do you want to remove all plug-in settings and perform a full "
+"rescan next time you start $APPNAME?"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid ""
+"[Documents]Do you want to remove the reference to it from the Recent list?"
+msgstr ""
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Do you want to remove these folders?"
+msgstr ""
+
+#: .\datastore\tagstore.cpp
+msgid ""
+"[TagStore]Do you want to remove these tag entries for non-existing files?"
+msgstr ""
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Do you want to remove this folder?"
+msgstr ""
+
+#: .\presets\presetmanager.cpp
+msgid ""
+"[Presets]Do you want to rescan blocked plug-ins next time you start $APPNAME?"
+msgstr ""
+
+#: .\application.cpp
+msgid "[Application]Do you want to restart $APPNAME now?"
+msgstr ""
+
+#: .\options\commandoption.cpp
+msgid ""
+"[UserOption]Do you want to revert the keyboard mapping scheme to \"%(1)\"?"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Do you want to save a copy of %(1) as file format \"%(2)\"?"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Do you want to save your changes in %(1)?"
+msgstr ""
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]Do you want to store the current settings as default preset?"
+msgstr ""
+
+#: .\browser\filebrowser.cpp
+msgid "[Browser]Documents"
+msgstr ""
+
+#: .\browser\filexportdraghandler.cpp
+msgid "[FileExport]Download"
+msgstr ""
+
+#: .\browser\filexportdraghandler.cpp
+msgid "[FileExport]Download to \"%(1)\""
+msgstr ""
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Drag"
+msgstr ""
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Draw Selection"
+msgstr ""
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Draw Selection (add)"
+msgstr ""
+
+#: .\browser\searchcomponent.cpp .\datastore\stringlistcomponent.cpp
+#: .\documents\documentmanager.cpp .\editing\editor.cpp
+msgid "[Command]Edit"
+msgstr ""
+
+#: .\documents\notepad.cpp
+msgid "[Notepad]Edit Note..."
+msgstr ""
+
+#: .\actions\trashbinpanel.cpp
+msgid "[TrashBin]Empty Trash Bin"
+msgstr ""
+
+#: .\options\serviceoption.cpp
+msgid "[UserOption]Enable"
+msgstr ""
+
+#: .\browser\browser.cpp
+msgid "[Command]Enter"
+msgstr ""
+
+#: .\editing\tools\selecttool.cpp
+msgid "[Tools]Eraser Tool"
+msgstr ""
+
+#: .\browser\filexportdraghandler.cpp
+msgid "[FileExport]Export"
+msgstr ""
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]Export %(1)..."
+msgstr ""
+
+#: .\presets\presettrader.cpp
+msgid "[Command]Export Preset"
+msgstr ""
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]Export Preset..."
+msgstr ""
+
+#: .\options\commandoption.cpp
+msgid "[UserOption]Export as Text..."
+msgstr ""
+
+#: .\browser\filexportdraghandler.cpp
+msgid "[FileExport]Export to \"%(1)\""
+msgstr ""
+
+#: .\options\commandoption.cpp
+msgid "[UserOption]Export..."
+msgstr ""
+
+#: .\fileinfo\fileexporter.cpp
+msgid "[FileExporter]Exported"
+msgstr ""
+
+#: .\fileinfo\fileexporter.cpp
+msgid "[FileExporter]Exporting"
+msgstr ""
+
+#: .\fileinfo\fileexporter.cpp
+msgid "[FileExporter]Exporting %(1)"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Exporting %(1)..."
+msgstr ""
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]Extension"
+msgstr ""
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Browser]Extract Here"
+msgstr ""
+
+#: .\application.cpp
+msgid "[Application]Failed to load Application Theme!"
+msgstr ""
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Favorite"
+msgstr ""
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Favorites"
+msgstr ""
+
+#: .\application.cpp .\documents\documentmanager.cpp
+msgid "[Command]File"
+msgstr ""
+
+#: .\etc\batchoperation.cpp
+msgid "[FileOperations]File %(1) of %(2)"
+msgstr ""
+
+#: .\fileinfo\filepreviewcomponent.cpp
+msgid "[FileInfo]File information"
+msgstr ""
+
+#: .\browser\pluginselector.cpp
+msgid "[PlugInSelector]Flat"
+msgstr ""
+
+#: .\browser\pluginmanagement.cpp
+msgid "[PlugInManagement]Folder"
+msgstr ""
+
+#: .\browser\pluginselector.cpp
+msgid "[PlugInSelector]Folder"
+msgstr ""
+
+#: .\fileinfo\fileinfocomponent.cpp
+msgid "[FileInfo]Folder"
+msgstr ""
+
+#: .\browser\searchresultlist.cpp
+msgid "[Search]Folders"
+msgstr ""
+
+#: .\navigation\navigatorbase.cpp
+msgid "[Command]Forward"
+msgstr ""
+
+#: .\options\useroption.cpp
+msgid "[UserOption]General"
+msgstr ""
+
+#: .\options\mainoption.cpp
+msgid ""
+"[UserOption]Graphics settings will be applied next time you start $APPNAME."
+msgstr ""
+
+#: .\application.cpp
+msgid "[Command]Help"
+msgstr ""
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Hide"
+msgstr ""
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]High DPI Mode will be changed next time you start $APPNAME."
+msgstr ""
+
+#: .\navigation\navigatorbase.cpp
+msgid "[Command]Home"
+msgstr ""
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]Icon"
+msgstr ""
+
+#: .\presets\presettrader.cpp
+msgid "[Command]Import Preset"
+msgstr ""
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]Import Preset..."
+msgstr ""
+
+#: .\browser\pluginbrowser.cpp
+msgid "[Presets]Import Presets"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Import as format"
+msgstr ""
+
+#: .\options\commandoption.cpp
+msgid "[UserOption]Import..."
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Importing %(1)..."
+msgstr ""
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]Importing Preset"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Incremental version"
+msgstr ""
+
+#: .\browser\browser.cpp
+msgid "[Command]Insert Selected Item"
+msgstr ""
+
+#: .\editing\editor.cpp
+msgid "[Command]Invert Selection"
+msgstr ""
+
+#: .\options\mainoption.cpp
+msgid "[SliderMode]Jump"
+msgstr ""
+
+#: .\application.cpp
+msgid "[Command]Keyboard Shortcuts"
+msgstr ""
+
+#: .\options\commandoption.cpp
+msgid "[UserOption]Keyboard Shortcuts"
+msgstr ""
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Language"
+msgstr ""
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Language will be changed next time you start $APPNAME."
+msgstr ""
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Light Mode"
+msgstr ""
+
+#: .\options\mainoption.cpp
+msgid "[KnobMode]Linear"
+msgstr ""
+
+#: .\presets\presetcomponent.cpp .\presets\presettrader.cpp
+msgid "[Presets]Load Preset"
+msgstr ""
+
+#: .\presets\presettrader.cpp
+msgid "[Command]Load Preset File"
+msgstr ""
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]Load Preset File..."
+msgstr ""
+
+#: .\documents\packagedocument.cpp
+msgid "[Documents]Loading %(1)..."
+msgstr ""
+
+#: .\documents\packagedocument.cpp
+msgid "[Documents]Loading: %(1)..."
+msgstr ""
+
+#: .\fileinfo\pathclassifier.cpp
+msgid "[FileInfo]Local"
+msgstr ""
+
+#: .\options\mainoption.cpp .\options\useroption.cpp
+msgid "[UserOption]Locations"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Merge"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Merging %(1)..."
+msgstr ""
+
+#: .\browser\filedraghandler.cpp
+msgid "[FileDraghandler]Move"
+msgstr ""
+
+#: .\editing\scaleview.cpp
+msgid "[Scale]Move"
+msgstr ""
+
+#: .\browser\filedraghandler.cpp
+msgid "[FileDraghandler]Move to \"%(1)\""
+msgstr ""
+
+#: .\browser\plugindraghander.cpp
+msgid "[PluginDraghandler]Move to \"%(1)\""
+msgstr ""
+
+#: .\browser\plugindraghander.cpp
+msgid "[PluginDraghandler]Move to Root"
+msgstr ""
+
+#: .\editing\scaleview.cpp
+msgid "[Scale]Move, Zoom"
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Moving %(1)"
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Moving files"
+msgstr ""
+
+#: .\browser\filebrowser.cpp
+msgid "[Browser]Music"
+msgstr ""
+
+#: .\browser\pluginmanagement.cpp
+msgid "[PlugInManagement]Name"
+msgstr ""
+
+#: .\browser\browser.cpp .\editing\editor.cpp .\itemlist\listitemcomponent.cpp
+#: .\navigation\navigatorbase.cpp
+msgid "[Command]Navigation"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]New"
+msgstr ""
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Command]New Folder"
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]New Folder..."
+msgstr ""
+
+#: .\itemlist\showhidefilter.cpp
+msgid "[ShowHideFilter]New Preset"
+msgstr ""
+
+#: .\browser\browser.cpp
+msgid "[Browser]New Root Tab"
+msgstr ""
+
+#: .\browser\browser.cpp
+msgid "[Command]New Root Tab"
+msgstr ""
+
+#: .\browser\browser.cpp
+msgid "[Browser]New Tab"
+msgstr ""
+
+#: .\browser\browser.cpp
+msgid "[Command]New Tab"
+msgstr ""
+
+#: .\browser\browser.cpp
+msgid "[Browser]New Tab From Here"
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]New folder"
+msgstr ""
+
+#: .\browser\browser.cpp .\presets\presetbrowser.cpp
+msgid "[Command]Next"
+msgstr ""
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Next Tool"
+msgstr ""
+
+#: .\presets\presetparam.cpp
+msgid "[Presets]No Preset"
+msgstr ""
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]No other versions of \"%(1)\" were saved."
+msgstr ""
+
+#: .\editing\tasks\edittaskcollection.cpp
+msgid "[EditTask]No recent items"
+msgstr ""
+
+#: .\documents\documentblocks.cpp
+msgid "[Documents]No versions found."
+msgstr ""
+
+#: .\browser\pluginselector.cpp
+msgid "[PlugInSelector]None"
+msgstr ""
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]One preset file was imported."
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Open"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Open %(1):"
+msgstr ""
+
+#: .\application.cpp
+msgid "[Command]Open Settings Folder"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Open files:"
+msgstr ""
+
+#: .\application.cpp
+msgid "[Command]Options"
+msgstr ""
+
+#: .\options\useroption.cpp
+msgid "[UserOption]Options"
+msgstr ""
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]Original"
+msgstr ""
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Browser]Packages"
+msgstr ""
+
+#: .\editing\editor.cpp
+msgid "[Edit]Paste"
+msgstr ""
+
+#: .\editing\editor.cpp
+msgid "[Command]Paste"
+msgstr ""
+
+#: .\documents\documentblocks.cpp
+msgid "[Documents]Pin document to Recent Files list"
+msgstr ""
+
+#: .\options\mainoption.cpp
+msgid ""
+"[UserOption]Please note that the user interface of $APPNAME will appear "
+"blurry on high resolution screens."
+msgstr ""
+
+#: .\options\mainoption.cpp
+msgid ""
+"[UserOption]Please note that third-party plug-ins will appear smaller if "
+"they do not support scaling."
+msgstr ""
+
+#: .\application.cpp
+msgid "[Application]Please restart $APPNAME for the changes to take effect."
+msgstr ""
+
+#: .\documents\documentdialog.cpp
+msgid "[Documents]Please supply a filename."
+msgstr ""
+
+#: .\application.cpp
+msgid "[Application]Plug-In folder not found at:\n"
+msgstr ""
+
+#: .\pluginclass.cpp
+msgid "[CCL]Plug-in Thumbnails"
+msgstr ""
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Plug-ins"
+msgstr ""
+
+#: .\options\useroption.cpp
+msgid "[UserOption]Preferences"
+msgstr ""
+
+#: .\presets\presetfile.cpp
+msgid "[FileType]Preset"
+msgstr ""
+
+#: .\presets\presetcollection.cpp
+msgid "[FileType]Preset Collection"
+msgstr ""
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]Preset file export failed."
+msgstr ""
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]Preset:"
+msgstr ""
+
+#: .\presets\presetbrowser.cpp .\presets\presetcomponent.cpp
+#: .\presets\presetmanager.cpp .\presets\presettrader.cpp
+msgid "[Command]Presets"
+msgstr ""
+
+#: .\presets\presetfile.cpp
+msgid "[FileType]Presets"
+msgstr ""
+
+#: .\browser\browser.cpp .\presets\presetbrowser.cpp
+msgid "[Command]Previous"
+msgstr ""
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Previous Tool"
+msgstr ""
+
+#: .\application.cpp
+msgid "[Command]Quit"
+msgstr ""
+
+#: .\presets\presetmanager.cpp
+msgid "[Command]Re-Index Presets"
+msgstr ""
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Recent"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Recent File"
+msgstr ""
+
+#: .\documents\recentdocuments.cpp
+msgid "[Documents]Recent Files"
+msgstr ""
+
+#: .\editing\tasks\edittaskcollection.cpp
+msgid "[EditTask]Recent items"
+msgstr ""
+
+#: .\actions\actionjournal.cpp
+msgid "[Action]Redo"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Redo"
+msgstr ""
+
+#: .\editing\editor.cpp
+msgid "[Edit]Redo"
+msgstr ""
+
+#: .\browser\browser.cpp
+msgid "[Browser]Refresh"
+msgstr ""
+
+#: .\browser\browser.cpp .\navigation\navigatorbase.cpp
+msgid "[Command]Refresh"
+msgstr ""
+
+#: .\fileinfo\pathclassifier.cpp
+msgid "[FileInfo]Remote"
+msgstr ""
+
+#: .\fileinfo\pathclassifier.cpp
+msgid "[FileInfo]Removable Drive"
+msgstr ""
+
+#: .\presets\presetmanager.cpp
+msgid "[Command]Remove Plug-In Settings"
+msgstr ""
+
+#: .\datastore\tagstorecomponent.cpp
+msgid "[TagStore]Remove Tag"
+msgstr ""
+
+#: .\documents\documentblocks.cpp
+msgid "[Documents]Remove from Recent Files list"
+msgstr ""
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Rename"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Rename"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Rename"
+msgstr ""
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Command]Rename File"
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Rename File"
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Rename File..."
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Rename Folder"
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Rename Folder..."
+msgstr ""
+
+#: .\presets\presetnode.cpp
+msgid "[Presets]Rename Preset..."
+msgstr ""
+
+#: .\browser\browser.cpp
+msgid "[Browser]Rename Tab"
+msgstr ""
+
+#: .\browser\browser.cpp
+msgid "[Command]Rename Tab"
+msgstr ""
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]Replace"
+msgstr ""
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Reset"
+msgstr ""
+
+#: .\presets\presetmanager.cpp
+msgid "[Command]Reset Blocklist"
+msgstr ""
+
+#: .\browser\browser.cpp
+msgid "[Browser]Reset Root"
+msgstr ""
+
+#: .\browser\browser.cpp
+msgid "[Command]Reset Root"
+msgstr ""
+
+#: .\actions\trashbinpanel.cpp
+msgid "[TrashBin]Restore"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Restore Version"
+msgstr ""
+
+#: .\documents\documentversions.cpp
+msgid ""
+"[Documents]Restoring version \"%(1)\".\n"
+"\n"
+"Do you want to replace the saved version \"%(2)\" with the current state, or "
+"discard the current state?"
+msgstr ""
+
+#: .\browser\pluginnodes.cpp
+msgid "[Browser]Revert"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Revert"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Save"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Save As"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Save New Version"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Save New Version"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Save to New Folder"
+msgstr ""
+
+#: .\documents\packagedocument.cpp
+msgid "[Documents]Saving %(1)..."
+msgstr ""
+
+#: .\documents\packagedocument.cpp
+msgid "[Documents]Saving: %(1)..."
+msgstr ""
+
+#: .\application.cpp
+msgid "[Application]Scanning Languages..."
+msgstr ""
+
+#: .\application.cpp
+msgid "[Application]Scanning Plug-Ins..."
+msgstr ""
+
+#: .\presets\presetmanager.cpp
+msgid "[Presets]Scanning Plug-Ins..."
+msgstr ""
+
+#: .\presets\presetmanager.cpp
+msgid "[Presets]Scanning Presets..."
+msgstr ""
+
+#: .\application.cpp
+msgid "[Application]Scanning Scripts..."
+msgstr ""
+
+#: .\application.cpp
+msgid "[Application]Script folder not found at:\n"
+msgstr ""
+
+#: .\browser\searchcomponent.cpp
+msgid "[Command]Search"
+msgstr ""
+
+#: .\options\pathlist.cpp
+msgid ""
+"[PathList]Searching the root folder of a volume might be very slow.\n"
+"\n"
+"Do you really want to add %(1)?"
+msgstr ""
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Select"
+msgstr ""
+
+#: .\editing\editor.cpp
+msgid "[Edit]Select All"
+msgstr ""
+
+#: .\editing\editor.cpp
+msgid "[Command]Select All"
+msgstr ""
+
+#: .\editing\tools\selecttool.cpp
+msgid "[Tools]Select Tool"
+msgstr ""
+
+#: .\options\pathlist.cpp
+msgid "[PathList]Select..."
+msgstr ""
+
+#: .\options\serviceoption.cpp
+msgid "[UserOption]Services"
+msgstr ""
+
+#: .\browser\browser.cpp
+msgid "[Browser]Set as Root"
+msgstr ""
+
+#: .\fileinfo\filerenamer.cpp
+msgid "[FileRenamer]Show Extension"
+msgstr ""
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Browser]Show Package Contents"
+msgstr ""
+
+#: .\browser\searchresultlist.cpp
+msgid "[Search]Show in Context"
+msgstr ""
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Browser]Show in Explorer"
+msgstr ""
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Command]Show in Explorer/Finder"
+msgstr ""
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Browser]Show in Finder"
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Some files could not be copied."
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Some files could not be deleted."
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid "[FileOperations]Some files could not be moved."
+msgstr ""
+
+#: .\presets\presetmanager.cpp
+msgid "[Presets]Some plug-ins will be updated next time you start $APPNAME."
+msgstr ""
+
+#: .\etc\multiprogress.cpp
+msgid "[MultiProgress]Step %(1) of %(2)"
+msgstr ""
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]Store %(1)..."
+msgstr ""
+
+#: .\presets\presetcomponent.cpp .\presets\presetdrag.cpp
+msgid "[Presets]Store Preset"
+msgstr ""
+
+#: .\presets\presetcomponent.cpp
+msgid "[Command]Store Preset"
+msgstr ""
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]Store Preset..."
+msgstr ""
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]Store as Default Preset"
+msgstr ""
+
+#: .\presets\presetcomponent.cpp
+msgid "[Command]Store as Default Preset"
+msgstr ""
+
+#: .\documents\documenttemplates.cpp
+msgid "[Documents]Templates"
+msgstr ""
+
+#: .\fileinfo\fileoperations.cpp
+msgid ""
+"[FileOperations]The file \"%(1)\" could not be moved to trash.\n"
+"\n"
+"Do you want to permanently delete it?"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]The file %(1) could not be found!"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]The file format may not preserve all content."
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid ""
+"[Documents]The file has been created with an older version of $APPNAME. "
+"After saving the file you will not be able to load it in the old version "
+"again.\n"
+"\n"
+"Are you sure you want to continue?"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]The file is broken or could not be opened."
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]The file is in use."
+msgstr ""
+
+#: .\options\imageselector.cpp
+msgid ""
+"[ImageSelector]The image size is limited to %(1) x %(2). Do you want to "
+"scale the image?"
+msgstr ""
+
+#: .\documents\autosaver.cpp
+msgid "[Autosave]The original file will be kept as a version then."
+msgstr ""
+
+#: .\documents\documenttemplates.cpp
+msgid "[Documents]The template could not be saved!"
+msgstr ""
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]These %(1) files could not be imported:"
+msgstr ""
+
+#: .\actions\trashbinpanel.cpp
+msgid "[TrashBin]These items could not be restored!"
+msgstr ""
+
+#: .\presets\presettrader.cpp
+msgid "[Presets]This file could not be imported:"
+msgstr ""
+
+#: .\documents\packagedocument.cpp
+msgid ""
+"[Documents]This file is not compatible because it has been created with a "
+"newer version of $APPNAME.\n"
+"\n"
+"This version: %(1)\n"
+"Generator: %(2)"
+msgstr ""
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]This file type already exists."
+msgstr ""
+
+#: .\options\filetypeselector.cpp
+msgid "[FileType]This file type is invalid."
+msgstr ""
+
+#: .\actions\trashbinpanel.cpp
+msgid "[TrashBin]This item could not be restored!"
+msgstr ""
+
+#: .\documents\documentversions.cpp
+msgid "[Documents]Title"
+msgstr ""
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Toggle Select"
+msgstr ""
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 1"
+msgstr ""
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 10"
+msgstr ""
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 2"
+msgstr ""
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 3"
+msgstr ""
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 4"
+msgstr ""
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 5"
+msgstr ""
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 6"
+msgstr ""
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 7"
+msgstr ""
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 8"
+msgstr ""
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Tool 9"
+msgstr ""
+
+#: .\editing\tools\toolbar.cpp
+msgid "[Command]Toolbar"
+msgstr ""
+
+#: .\options\mainoption.cpp
+msgid "[SliderMode]Touch"
+msgstr ""
+
+#: .\options\mainoption.cpp
+msgid ""
+"[UserOption]Turning off hardware acceleration will slow down the user "
+"interface of $APPNAME and is not recommended for regular use."
+msgstr ""
+
+#: .\browser\pluginmanagement.cpp
+msgid "[PlugInManagement]Type"
+msgstr ""
+
+#: .\browser\pluginselector.cpp
+msgid "[PlugInSelector]Type"
+msgstr ""
+
+#: .\datastore\tagcategory.cpp
+msgid "[TagCategory]Type"
+msgstr ""
+
+#: .\actions\actionjournal.cpp
+msgid "[Action]Undo"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Command]Undo"
+msgstr ""
+
+#: .\editing\editor.cpp
+msgid "[Edit]Undo"
+msgstr ""
+
+#: .\fileinfo\pathclassifier.cpp
+msgid "[FileInfo]Unknown"
+msgstr ""
+
+#: .\documents\documentblocks.cpp
+msgid "[Documents]Unpin document from Recent Files list"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Untitled"
+msgstr ""
+
+#: .\browser\browser.cpp
+msgid "[Browser]Up"
+msgstr ""
+
+#: .\presets\presetmanager.cpp
+msgid "[Command]Update Plug-Ins"
+msgstr ""
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]Update Preset"
+msgstr ""
+
+#: .\presets\presetcomponent.cpp
+msgid "[Command]Update Preset"
+msgstr ""
+
+#: .\datastore\tagstore.cpp
+msgid "[TagStore]Updated tags in %(1)\n"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]Use %(1) Format"
+msgstr ""
+
+#: .\options\mainoption.cpp
+msgid ""
+"[UserOption]Use this option only for downwards compatibility with older "
+"third-party plug-ins."
+msgstr ""
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]User Data"
+msgstr ""
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]User Interface"
+msgstr ""
+
+#: .\browser\pluginmanagement.cpp
+msgid "[PlugInManagement]Vendor"
+msgstr ""
+
+#: .\browser\pluginselector.cpp
+msgid "[PlugInSelector]Vendor"
+msgstr ""
+
+#: .\editing\addins\editaddindescription.cpp
+msgid "[Command]View"
+msgstr ""
+
+#: .\browser\pluginbrowser.cpp
+msgid "[Presets]Visible"
+msgstr ""
+
+#: .\browser\filesystemnodes.cpp
+msgid "[Browser]Volumes"
+msgstr ""
+
+#: .\application.cpp
+msgid "[Command]Website"
+msgstr ""
+
+#: .\application.cpp
+msgid "[Application]Welcome to %(1)!"
+msgstr ""
+
+#: .\documents\documentmanager.cpp
+msgid "[Documents]You do not have write permissions at this file location."
+msgstr ""
+
+#: .\options\serviceoption.cpp
+msgid "[UserOption]Your changes will be applied next time you start $APPNAME."
+msgstr ""
+
+#: .\editing\scaleview.cpp
+msgid "[Scale]Zoom"
+msgstr ""
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Zoom"
+msgstr ""
+
+#: .\presets\presetcomponent.cpp
+msgid "[Presets]default"
+msgstr ""
+
+#: .\datastore\tagnodes.cpp
+msgid "[TagStore]other"
+msgstr ""

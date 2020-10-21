@@ -1,0 +1,1 @@
+Please use the default controller assignment printed on the UMX and set the buttons B5-8 to CC 80-83. Use the User Memory to store it.

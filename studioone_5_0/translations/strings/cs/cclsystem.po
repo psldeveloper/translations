@@ -1,0 +1,214 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]%(1) days ago"
+msgstr ""
+
+#: .\plugins\servicemanager.cpp
+msgid "[ServiceManager]%(1) failed!"
+msgstr ""
+
+#: .\plugins\plugcollect.cpp
+msgid "[PlugIns]%(1) has been blocked."
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]%(1) months ago"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]%(1) weeks ago"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]%(1) years ago"
+msgstr ""
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]Access is denied"
+msgstr ""
+
+#: .\fileutilities.cpp
+msgid "[FileType]Application"
+msgstr ""
+
+#: .\fileutilities.cpp
+msgid "[FileType]Application Extension"
+msgstr ""
+
+#: .\fileutilities.cpp
+msgid "[FileType]Binary File"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]GB"
+msgstr ""
+
+#: .\fileutilities.cpp
+msgid "[FileType]HTML File"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In %(1) days"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In %(1) hours"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In less than one hour"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In one day"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]In one hour"
+msgstr ""
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]Invalid Argument"
+msgstr ""
+
+#: .\fileutilities.cpp
+msgid "[FileType]JSON File"
+msgstr ""
+
+#: .\fileutilities.cpp
+msgid "[FileType]Java Properties File"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]KB"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]KB/sec"
+msgstr ""
+
+#: .\localization\languagepack.cpp
+msgid "[FileType]Language Pack"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Last month"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Last week"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Last year"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]MB"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]MB/sec"
+msgstr ""
+
+#: .\fileutilities.cpp
+msgid "[FileType]PDF File"
+msgstr ""
+
+#: .\fileutilities.cpp
+msgid "[FileType]Package File"
+msgstr ""
+
+#: .\packaging\filearchive.cpp
+msgid "[PackageFile]Packaging: %(1)"
+msgstr ""
+
+#: .\fileutilities.cpp
+msgid "[FileType]Rich Text Format"
+msgstr ""
+
+#: .\plugins\servicemanager.cpp
+msgid "[ServiceManager]Starting %(1)..."
+msgstr ""
+
+#: .\plugins\servicemanager.cpp
+msgid "[ServiceManager]Stopping %(1)..."
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]TB"
+msgstr ""
+
+#: .\fileutilities.cpp
+msgid "[FileType]Text File"
+msgstr ""
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]The file exists"
+msgstr ""
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]The file is in use"
+msgstr ""
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]The file is write protected"
+msgstr ""
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]The system cannot find the file specified"
+msgstr ""
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]There is not enough space on the disk"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Today"
+msgstr ""
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]Too many open files"
+msgstr ""
+
+#: .\fileutilities.cpp
+msgid "[FileType]UBJSON File"
+msgstr ""
+
+#: .\nativefilesystem.cpp
+msgid "[FileErrors]Unknown Error"
+msgstr ""
+
+#: .\fileutilities.cpp
+msgid "[FileType]XML File"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]Yesterday"
+msgstr ""
+
+#: .\fileutilities.cpp
+msgid "[FileType]Zip File"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]bytes"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]days"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]hours"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]min"
+msgstr ""
+
+#: .\localization\localeinfo.cpp
+msgid "[Locales]sec"
+msgstr ""

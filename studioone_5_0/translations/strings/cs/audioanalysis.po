@@ -1,0 +1,26 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\silencedetectioncomponent.cpp
+msgid "[SilenceDetection]Little Silence"
+msgstr ""
+
+#: .\silencedetectioncomponent.cpp
+msgid "[SilenceDetection]Lots of Silence"
+msgstr ""
+
+#: .\silencedetectioncomponent.cpp
+msgid "[SilenceDetection]Manual"
+msgstr ""
+
+#: .\silencedetectioncomponent.cpp
+msgid "[SilenceDetection]Noise Floor"
+msgstr ""
+
+#: .\transientdetectioncomponent.cpp
+msgid "[TransientDetection]Sensitive"
+msgstr ""
+
+#: .\transientdetectioncomponent.cpp
+msgid "[TransientDetection]Standard"
+msgstr ""

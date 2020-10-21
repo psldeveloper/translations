@@ -1,0 +1,14 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\plugmain.cpp
+msgid "[TUIO]Support for multi-touch via TUIO protocol"
+msgstr ""
+
+#: .\plugversion.h
+msgid "[TUIO]TUIO Support"
+msgstr ""
+
+#: .\tuiouseroption.cpp
+msgid "[TUIO]Touch Input"
+msgstr ""

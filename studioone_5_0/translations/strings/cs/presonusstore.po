@@ -1,0 +1,42 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\cloudpublisher.cpp
+msgid "[Store]Created By"
+msgstr ""
+
+#: .\cloudpublisher.cpp
+msgid "[Store]File"
+msgstr ""
+
+#: .\cloudpublisher.cpp
+msgid "[Store]Name"
+msgstr ""
+
+#: .\cloudpublisher.cpp
+msgid "[Store]No workspace found."
+msgstr ""
+
+#: .\exchangehandler.cpp
+msgid "[Store]PreSonus Exchange"
+msgstr ""
+
+#: .\plugversion.h
+msgid "[Store]PreSonus Services Support"
+msgstr ""
+
+#: .\marketplacehandler.cpp
+msgid "[Store]PreSonus Shop"
+msgstr ""
+
+#: .\cloudpublisher.cpp
+msgid "[Store]Size"
+msgstr ""
+
+#: .\plugversion.h
+msgid "[Store]Support for PreSonus Shop and Exchange"
+msgstr ""
+
+#: .\cloudpublisher.cpp
+msgid "[Store]Upload to %(1)"
+msgstr ""

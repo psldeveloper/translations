@@ -1,0 +1,90 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]Buy"
+msgstr ""
+
+#: .\exchange.xml
+msgid "[PresetFileInfo]Created by:"
+msgstr ""
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]File transfers will continue in background."
+msgstr ""
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]Files"
+msgstr ""
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]Free"
+msgstr ""
+
+#: .\exchange.xml
+msgid "[WareItemPreview]Install"
+msgstr ""
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]Install"
+msgstr ""
+
+#: .\exchange.xml
+msgid "[WareItemPreview]Installed"
+msgstr ""
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]Loading price..."
+msgstr ""
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]Manage Workspaces"
+msgstr ""
+
+#: .\exchange.xml
+msgid "[PresetFileInfo]Modified:"
+msgstr ""
+
+#: .\marketplace.xml
+msgid "[AudioPreviewPlayerMini]Play"
+msgstr ""
+
+#: .\exchange.xml
+msgid "[PresetFileInfo]Plug-In:"
+msgstr ""
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]Refresh"
+msgstr ""
+
+#: .\exchange.xml .\marketplace.xml
+msgid "[ClientPreview]Sign In"
+msgstr ""
+
+#: .\marketplace.xml
+msgid "[AudioPreviewPlayerMini]Stop"
+msgstr ""
+
+#: .\exchange.xml
+msgid "[WareCollectionPreview]This device is not installed on your system!"
+msgstr ""
+
+#: .\exchange.xml
+msgid "[WareItemPreview]Update"
+msgstr ""
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]Upload"
+msgstr ""
+
+#: .\cloud.xml
+msgid "[CloudUploadDialog]Workspaces"
+msgstr ""
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]excl. VAT"
+msgstr ""
+
+#: .\marketplace.xml
+msgid "[ProductItemPreview]incl. VAT"
+msgstr ""

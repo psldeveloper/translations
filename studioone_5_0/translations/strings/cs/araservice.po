@@ -1,0 +1,30 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\document.cpp
+msgid "[ARA]%(1) is not compatible with %(2). Please check for updates."
+msgstr ""
+
+#: .\plugversion.h
+msgid "[ARA]ARA Plug-In Support"
+msgstr ""
+
+#: .\environment.cpp
+msgid "[ARA]Loading %(1)..."
+msgstr ""
+
+#: .\environment.cpp
+msgid "[ARA]Modify Chords"
+msgstr ""
+
+#: .\environment.cpp
+msgid "[ARA]Saving %(1)..."
+msgstr ""
+
+#: .\document.cpp
+msgid "[ARA]Starting %(1) Integration..."
+msgstr ""
+
+#: .\plugmain.cpp
+msgid "[ARA]Support for Plug-Ins using the ARA Protocol"
+msgstr ""

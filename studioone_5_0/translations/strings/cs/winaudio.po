@@ -1,0 +1,66 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\winaudiodevice.cpp
+msgid "[WindowsAudio]Audio Playback is disabled."
+msgstr ""
+
+#: .\winaudiodevice.cpp
+msgid "[WindowsAudio]Audio Recording is disabled."
+msgstr ""
+
+#: .\winaudiodevice.cpp
+msgid "[WindowsAudio]Failed to open %(1)!"
+msgstr ""
+
+#: .\winaudiomanager.cpp
+msgid "[WindowsAudio]Manage audio devices"
+msgstr ""
+
+#: .\wasapiclient.cpp
+msgid "[WindowsAudio]None (Recording disabled)"
+msgstr ""
+
+#: .\winaudiodevice.cpp
+msgid ""
+"[WindowsAudio]Please make sure that the sample rates of your recording and "
+"playback devices match."
+msgstr ""
+
+#: .\winaudiodevice.cpp
+msgid ""
+"[WindowsAudio]Please make sure that the speaker configuration is set to "
+"stereo."
+msgstr ""
+
+#: .\winaudiomain.cpp
+msgid "[WindowsAudio]Support for Consumer Audio Devices on Windows"
+msgstr ""
+
+#: .\winaudiodevice.cpp
+msgid "[WindowsAudio]The Windows audio service is not running on this system."
+msgstr ""
+
+#: .\winaudiodevice.cpp
+msgid ""
+"[WindowsAudio]The requested audio format is not supported by this device."
+msgstr ""
+
+#: .\winaudiodevice.cpp
+msgid ""
+"[WindowsAudio]The selected audio device is in use by another application."
+msgstr ""
+
+#: .\winaudiodevice.cpp
+msgid "[WindowsAudio]The selected audio device is no longer available."
+msgstr ""
+
+#: .\winaudiodevice.cpp
+msgid ""
+"[WindowsAudio]Unable to open device %(1) in exclusive mode. Falling back to "
+"shared mode."
+msgstr ""
+
+#: .\plugversion.h
+msgid "[WindowsAudio]Windows Audio Support"
+msgstr ""

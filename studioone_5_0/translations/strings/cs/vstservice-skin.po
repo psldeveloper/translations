@@ -1,0 +1,30 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\skin.xml
+msgid "[VSTUserOption]Add..."
+msgstr ""
+
+#: .\skin.xml
+msgid "[VSTUserOption]Locations"
+msgstr ""
+
+#: .\skin.xml
+msgid "[Command]Presets"
+msgstr ""
+
+#: .\skin.xml
+msgid "[VSTUserOption]Remove"
+msgstr ""
+
+#: .\skin.xml
+msgid "[VSTUserOption]Reset Blocklist"
+msgstr ""
+
+#: .\skin.xml
+msgid "[Command]Reset Blocklist"
+msgstr ""
+
+#: .\skin.xml
+msgid "[VSTUserOption]Scan at startup"
+msgstr ""

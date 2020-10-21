@@ -1,0 +1,2 @@
+Please use the default settings for Fader 1-16 and set KN 1-8 to Controller 14, 15, 16, 17, 18, 19, 20 and 21.
+Fader Banks control the mixer channels 1-16. 

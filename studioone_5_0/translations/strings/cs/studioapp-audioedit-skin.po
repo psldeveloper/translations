@@ -1,0 +1,42 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\skin.xml
+msgid "[PluginPresetSelector]$title"
+msgstr ""
+
+#: .\skin.xml
+msgid "[InsertChannelFXDialog]Add Insert to Selected Channels"
+msgstr ""
+
+#: .\skin.xml
+msgid "[InsertInstrumentDialog]Add Instrument to Selected Tracks"
+msgstr ""
+
+#: .\skin.xml
+msgid "[InsertNoteFXDialog]Add Note FX to Selected Tracks"
+msgstr ""
+
+#: .\skin.xml
+msgid "[PluginPresetFxChainSelector]Device"
+msgstr ""
+
+#: .\skin.xml
+msgid "[PluginPresetFxChainSelector]FX Chain"
+msgstr ""
+
+#: .\skin.xml
+msgid "[InsertEventFXDialog]Insert Event FX"
+msgstr ""
+
+#: .\skin.xml
+msgid "[InsertInstrumentDialog]Instrument"
+msgstr ""
+
+#: .\skin.xml
+msgid "[InsertNoteFXDialog]Note FX"
+msgstr ""
+
+#: .\skin.xml
+msgid "[InsertEventFXDialog]Tail"
+msgstr ""

@@ -1,0 +1,54 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\cocoa\gui\fileselector.cocoa.mm .\cocoa\gui\fileselector.ios.mm
+msgid "[FileSelector]All Documents"
+msgstr ""
+
+#: .\win\gui\fileselector.win.cpp
+msgid "[FileSelector]All Files (*.*)"
+msgstr ""
+
+#: .\cocoa\gui\fileselector.cocoa.mm .\cocoa\gui\fileselector.ios.mm
+msgid "[FileSelector]All Readable Documents"
+msgstr ""
+
+#: .\win\gui\fileselector.win.cpp
+msgid "[FileSelector]All Supported Files"
+msgstr ""
+
+#: .\win\system\exceptionhandler.cpp
+msgid ""
+"[Win32]An unexpected error occurred in this application or in a plug-in.\n"
+"A dump file has been created at:\n"
+"\n"
+"%(1)"
+msgstr ""
+
+#: .\win\direct2d\dxgiengine.cpp
+msgid "[Win32]Graphics hardware acceleration issue detected."
+msgstr ""
+
+#: .\cocoa\gui\menu.cocoa.mm
+msgid "[MacMenu]Hide"
+msgstr ""
+
+#: .\cocoa\gui\menu.cocoa.mm
+msgid "[MacMenu]Hide Others"
+msgstr ""
+
+#: .\cocoa\gui\menu.cocoa.mm
+msgid "[MacMenu]Quit"
+msgstr ""
+
+#: .\cocoa\gui\menu.cocoa.mm
+msgid "[MacMenu]Services"
+msgstr ""
+
+#: .\cocoa\gui\menu.cocoa.mm
+msgid "[MacMenu]Show All"
+msgstr ""
+
+#: .\win\direct2d\d2dengine.cpp
+msgid "[Win32]This application requires Windows 10 or later."
+msgstr ""

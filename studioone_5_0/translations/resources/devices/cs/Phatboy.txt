@@ -1,0 +1,1 @@
+Please select Mode III at the switch on the back of your Phatboy. Works on any MIDI channel.

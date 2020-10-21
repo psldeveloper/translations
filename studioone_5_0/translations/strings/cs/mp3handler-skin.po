@@ -1,0 +1,22 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\skin.xml
+msgid "[LameEncoderResolution]Bitrate:"
+msgstr ""
+
+#: .\skin.xml
+msgid "[LameEncoderResolution]Constant bitrate"
+msgstr ""
+
+#: .\skin.xml
+msgid "[LameEncoderResolution]Quality:"
+msgstr ""
+
+#: .\skin.xml
+msgid "[LameEncoderOption]Sample Rate:"
+msgstr ""
+
+#: .\skin.xml
+msgid "[LameEncoderResolution]Variable bitrate"
+msgstr ""

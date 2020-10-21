@@ -1,0 +1,32 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\rewiredevicepool.cpp
+msgid "[ReWire]Another ReWire Application is already running!"
+msgstr ""
+
+#: .\rewiredevicepool.cpp
+msgid "[ReWire]Found ReWire Device"
+msgstr ""
+
+#: .\rewiredevicepool.cpp
+msgid "[ReWire]Please close %(1) first."
+msgstr ""
+
+#: .\plugversion.h
+msgid "[ReWire]ReWire Support"
+msgstr ""
+
+#: .\rewiredevicepool.cpp
+msgid "[ReWire]ReWire is not installed!"
+msgstr ""
+
+#: .\rewireservicemain.cpp
+msgid "[ReWire]Support for Instruments using the ReWire Protocol"
+msgstr ""
+
+#: .\rewiredevicepool.cpp
+msgid ""
+"[ReWire]The ReWire system library is too old (at least %(1).%(2).%(3) "
+"required)."
+msgstr ""

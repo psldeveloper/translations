@@ -1,0 +1,1 @@
+Load the attached Studio One.ncm file into the NI Control Editor . Hold Shift-Control on the Maschine hardware and choose the Studio One Template.

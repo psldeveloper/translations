@@ -1,0 +1,1 @@
+Switch the FaderPort 16 to native mode before using it with Studio One.

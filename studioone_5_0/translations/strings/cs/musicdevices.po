@@ -1,0 +1,26 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\instrument\controllersetup.cpp
+msgid "[ControllerSetup]A"
+msgstr ""
+
+#: .\instrument\controllersetup.cpp
+msgid "[ControllerSetup]CC"
+msgstr ""
+
+#: .\plugversion.h
+msgid "[Devices]External Device Support"
+msgstr ""
+
+#: .\instrument\controllersetup.cpp
+msgid "[ControllerSetup]Folder"
+msgstr ""
+
+#: .\deviceservicemain.cpp
+msgid "[Devices]Support for External MIDI Hardware Devices"
+msgstr ""
+
+#: .\instrument\controllersetup.cpp
+msgid "[ControllerSetup]Title"
+msgstr ""

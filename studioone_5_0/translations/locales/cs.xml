@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocaleInfo	language="cs" title="Čeština">
+	<String x:id="dateFormat" text="%int(3).%int(2).%int(1)"/>				<!-- 9.3.2008 -->
+	<String x:id="friendlyDateFormat" text="%(5), %int(3). %(4) %int(1)"/>	<!-- Sonntag, 9. März 2008 -->
+	<String x:id="timeFormat" text="%int(1:2):%int(2:2):%int(3:2)"/>		<!-- 01:42:00 -->
+
+	<Attributes x:id="weekdays">
+		<Association key="Sun" value="neděle"/>
+		<Association key="Mon" value="pondělí"/>
+		<Association key="Tue" value="úterý"/>
+		<Association key="Wed" value="středa"/>
+		<Association key="Thu" value="čtvrtek"/>
+		<Association key="Fri" value="pátek"/>
+		<Association key="Sat" value="sobota"/>
+	</Attributes>	
+
+	<Attributes x:id="months">
+		<Association key="Jan" value="ledna"/>
+		<Association key="Feb" value="února"/>
+		<Association key="Mar" value="března"/>
+		<Association key="Apr" value="dubna"/>
+		<Association key="May" value="května"/>
+		<Association key="Jun" value="června"/>
+		<Association key="Jul" value="červenece"/>
+		<Association key="Aug" value="srpna"/>
+		<Association key="Sep" value="září"/>
+		<Association key="Oct" value="října"/>
+		<Association key="Nov" value="listopadu"/>
+		<Association key="Dec" value="prosince"/>
+	</Attributes>
+</LocaleInfo>
+

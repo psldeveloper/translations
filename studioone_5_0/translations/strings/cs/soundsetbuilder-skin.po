@@ -1,0 +1,72 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]+"
+msgstr ""
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]-"
+msgstr ""
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Copyright"
+msgstr ""
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Description"
+msgstr ""
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Edit Identifier..."
+msgstr ""
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Enable Content Protection"
+msgstr ""
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Icon"
+msgstr ""
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Identifier"
+msgstr ""
+
+#: .\skin.xml
+msgid ""
+"[SoundSetPropertyEditor]Name of subfolder inside Sound Set to be scanned for "
+"presets (optional)"
+msgstr ""
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Presets"
+msgstr ""
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Remove Image"
+msgstr ""
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Select Image"
+msgstr ""
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Sound Set Properties"
+msgstr ""
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Title"
+msgstr ""
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Vendor"
+msgstr ""
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Version"
+msgstr ""
+
+#: .\skin.xml
+msgid "[SoundSetPropertyEditor]Website"
+msgstr ""

@@ -1,0 +1,1 @@
+﻿Please select Mackie Control operating mode (Hold SET MARKER and REW while connecting USB cable).

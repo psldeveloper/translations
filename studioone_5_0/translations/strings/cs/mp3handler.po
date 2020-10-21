@@ -1,0 +1,6 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\mp3_lame\lameaudiocodec.cpp
+msgid "[FileType]MP3 File"
+msgstr ""

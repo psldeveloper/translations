@@ -1,0 +1,1 @@
+Button 1 opens the Console - Button 4 and 5 step channels page left and right.

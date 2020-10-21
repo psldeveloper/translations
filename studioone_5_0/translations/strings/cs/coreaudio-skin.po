@@ -1,0 +1,14 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\skin.xml
+msgid "[CoreAudioControlPanel]CoreAudio Device Options"
+msgstr ""
+
+#: .\skin.xml
+msgid "[CoreAudioControlPanel]Exclusive Mode"
+msgstr ""
+
+#: .\skin.xml
+msgid "[CoreAudioControlPanel]Options"
+msgstr ""

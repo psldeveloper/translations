@@ -1,0 +1,1 @@
+Shift Wheel is Channel Volume. In / Out zooms (Shift is vertically). Shift Record saves song. Shift Mute is Global Mute. Shift Solo is Global Solo. Shift Add deletes Marker.

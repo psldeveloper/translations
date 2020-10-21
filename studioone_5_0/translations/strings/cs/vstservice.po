@@ -1,0 +1,38 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\vstloaderbase.cpp
+msgid "[VST]Adding VST Plug-In %(1)..."
+msgstr ""
+
+#: .\vstservicemain.cpp
+msgid "[VST]Support for VST 2.4 Audio Processors and Instruments"
+msgstr ""
+
+#: .\vstservicemain.cpp
+msgid "[VST]Support for VST 3.0 Audio Processors and Instruments"
+msgstr ""
+
+#: .\plugversion.h
+msgid "[VST]VST 2.4 Plug-In Support"
+msgstr ""
+
+#: .\plugversion.h
+msgid "[VST]VST 3 Plug-In Support"
+msgstr ""
+
+#: .\vstuseroption.cpp
+msgid "[VSTUserOption]VST Plug-Ins"
+msgstr ""
+
+#: .\vst2\vstpresetfile.cpp
+msgid "[FileType]VST2 Bank"
+msgstr ""
+
+#: .\vst2\vstpresetfile.cpp
+msgid "[FileType]VST2 Program"
+msgstr ""
+
+#: .\vst3\vst3presethandler.cpp
+msgid "[FileType]VST3 Preset"
+msgstr ""

@@ -1,0 +1,1 @@
+Please select factory default preset 1 on the Radium 49/61. Faders 1-8 are mapped to the Console. Data Entry fader is Master volume.

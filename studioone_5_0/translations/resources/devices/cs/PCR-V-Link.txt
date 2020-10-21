@@ -1,0 +1,1 @@
+Please activate "V-Link" on your PCR and set "Receive From" to EDIROL PCR 2. C1 is Quantize, C2 is Delete and C3 is Solo Track. Works with 300, 500 and 800 models.

@@ -1,0 +1,6 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\option.xml
+msgid "[RemoteUserOption]Allow remote control apps to discover this DAW"
+msgstr ""

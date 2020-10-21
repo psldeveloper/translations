@@ -1,0 +1,1 @@
+Output button assigns Fader to Main Out. Bank assigns Fader to Remote Bank. User button toggles Any Solo. Shift switches encoder to transport controler. Footswitch toggles Record. 

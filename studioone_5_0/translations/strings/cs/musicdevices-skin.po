@@ -1,0 +1,18 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\editors.xml
+msgid "[InstrumentDevice]Controller Setup"
+msgstr ""
+
+#: .\editors.xml
+msgid "[ControllerSetup]Controller Setup"
+msgstr ""
+
+#: .\editors.xml
+msgid "[ControllerSetup]Select All"
+msgstr ""
+
+#: .\editors.xml
+msgid "[ControllerSetup]Select None"
+msgstr ""

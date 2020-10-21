@@ -1,0 +1,10 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\midifile.cpp
+msgid "[MidiFile]Do you want to load General MIDI sounds for this file?"
+msgstr ""
+
+#: .\midifile.cpp
+msgid "[MidiFile]Importing Track %(1)..."
+msgstr ""

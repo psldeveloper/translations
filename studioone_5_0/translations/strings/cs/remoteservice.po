@@ -1,0 +1,14 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\remoteuseroption.cpp
+msgid "[Remote]Network"
+msgstr ""
+
+#: .\plugversion.h
+msgid "[Remote]Remote Control Support"
+msgstr ""
+
+#: .\plugmain.cpp
+msgid "[Remote]Support for remote control apps via UCNET"
+msgstr ""

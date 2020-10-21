@@ -1,0 +1,247 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]$APPCOMPANY Account"
+msgstr ""
+
+#: .\application\purchasehandler.cpp
+msgid ""
+"[Licenser]$APPNAME is authorized for a different user. Do you want to "
+"reauthorize $APPNAME?"
+msgstr ""
+
+#: .\application\eulacomponent.cpp
+msgid "[Licenser]%(1) End User License Agreement"
+msgstr ""
+
+#: .\application\eulacomponent.cpp
+msgid "[Licenser]%(1) Terms of Service"
+msgstr ""
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Accessing remote storage"
+msgstr ""
+
+#: .\application\purchasedpackages.cpp
+msgid "[PackageActions]Activate"
+msgstr ""
+
+#: .\application\purchasedpackages.cpp
+msgid "[PackageActions]Activate All"
+msgstr ""
+
+#: .\application\purchasehandler.cpp
+msgid "[Command]Activate Purchased Items"
+msgstr ""
+
+#: .\application\purchasedpackages.cpp
+msgid "[PackageActions]Activated"
+msgstr ""
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Activating product"
+msgstr ""
+
+#: .\application\usercomponent.cpp
+msgid "[Command]Activation"
+msgstr ""
+
+#: .\application\usercomponent.cpp
+msgid "[Licenser]Additional License Information:\n"
+msgstr ""
+
+#: .\application\purchasehandler.cpp
+msgid "[Licenser]All installed items are activated."
+msgstr ""
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]An error occurred at the server (Status %(1))."
+msgstr ""
+
+#: .\application\loginhandler.cpp .\application\purchasehandler.cpp
+#: .\application\usercomponent.cpp
+msgid "[Command]Application"
+msgstr ""
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Authorization"
+msgstr ""
+
+#: .\application\usercomponent.cpp
+msgid "[Licenser]Copy to Clipboard"
+msgstr ""
+
+#: .\application\loginhandler.cpp
+msgid "[Credentials]Credential Manager"
+msgstr ""
+
+#: .\application\purchasehandler.cpp
+msgid ""
+"[Licenser]Do you want to download new purchases from your $APPCOMPANY "
+"Account now?"
+msgstr ""
+
+#: .\application\purchasehandler.cpp
+msgid "[Licenser]Download"
+msgstr ""
+
+#: .\web\licenseserver.cpp
+msgid ""
+"[WebAPI]Failed to connect to the server.\n"
+"Please check your Internet connection and try again."
+msgstr ""
+
+#: .\application\userlicense.cpp
+msgid "[FileType]Invalid License File!"
+msgstr ""
+
+#: .\application\loginhandler.cpp
+msgid "[Credentials]Keychain Access"
+msgstr ""
+
+#: .\application\userlicense.cpp
+msgid "[FileType]License File"
+msgstr ""
+
+#: .\application\userlicense.cpp
+msgid "[FileType]License too old. Please activate $APPNAME again."
+msgstr ""
+
+#: .\application\loginhandler.cpp
+msgid "[Command]Login"
+msgstr ""
+
+#: .\application\licensehandler.cpp
+msgid "[Licenser]Manage Activations"
+msgstr ""
+
+#: .\application\loginhandler.cpp
+msgid "[Credentials]No permissions to change application passwords."
+msgstr ""
+
+#: .\application\purchasehandler.cpp
+msgid "[Licenser]No purchased items installed."
+msgstr ""
+
+#: .\schemes\splice\splicelease.cpp
+msgid "[Licenser]Please check your Rent-to-Own status in the Splice App."
+msgstr ""
+
+#: .\application\activationhandler.cpp
+msgid ""
+"[Licenser]Please enter the Product Key of the $APPNAME version you have "
+"purchased."
+msgstr ""
+
+#: .\application\loginhandler.cpp
+msgid "[Licenser]Please fill in the form completely."
+msgstr ""
+
+#: .\application\loginhandler.cpp
+msgid "[Credentials]Please use %(1) to delete passwords."
+msgstr ""
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Registering product"
+msgstr ""
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Registration"
+msgstr ""
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Retrieving product list"
+msgstr ""
+
+#: .\application\loginhandler.cpp
+msgid "[Licenser]Select Country"
+msgstr ""
+
+#: .\application\activationhandler.cpp
+msgid "[Licenser]Show my existing Product Keys"
+msgstr ""
+
+#: .\application\loginhandler.cpp
+msgid "[Licenser]Sign in"
+msgstr ""
+
+#: .\application\loginhandler.cpp
+msgid "[Licenser]Sign out"
+msgstr ""
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Signing in"
+msgstr ""
+
+#: .\application\purchasehandler.cpp
+msgid "[Licenser]Some items failed to activate."
+msgstr ""
+
+#: .\application\licensehandler.cpp
+msgid "[Licenser]Thank You! $APPNAME has been activated on this computer."
+msgstr ""
+
+#: .\application\loginhandler.cpp
+msgid ""
+"[Licenser]Thank You! An e-mail has been sent to you with a link to activate "
+"your account."
+msgstr ""
+
+#: .\application\userlicense.cpp
+msgid "[FileType]The License has expired!"
+msgstr ""
+
+#: .\application\userlicense.cpp
+msgid "[FileType]The License has not been issued for this computer!"
+msgstr ""
+
+#: .\application\userlicense.cpp
+msgid "[FileType]The License has not been issued for this user!"
+msgstr ""
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]The request failed (%(1))."
+msgstr ""
+
+#: .\application\licensehandler.cpp
+msgid "[Licenser]This computer has been de-activated for use with $APPNAME."
+msgstr ""
+
+#: .\application\usercomponent.cpp
+msgid "[Licenser]This copy is licensed to %(1)"
+msgstr ""
+
+#: .\application\userlicense.cpp
+msgid ""
+"[FileType]This product key requires an additional license that could not be "
+"found on this computer."
+msgstr ""
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Updating membership"
+msgstr ""
+
+#: .\application\usercomponent.cpp
+msgid "[Licenser]User License not found! Please select a new License File."
+msgstr ""
+
+#: .\application\usercomponent.cpp
+msgid "[Licenser]Verifying User License..."
+msgstr ""
+
+#: .\application\licensehandler.cpp
+msgid "[Licenser]You can manage activations in your $APPCOMPANY Account."
+msgstr ""
+
+#: .\schemes\splice\splicelease.cpp
+msgid "[Licenser]Your Splice license for $APPNAME is invalid."
+msgstr ""
+
+#: .\web\licenseserver.cpp
+msgid "[WebAPI]Your authorization has expired. Please log in again."
+msgstr ""
+
+#: .\application\purchasehandler.cpp
+msgid "[Licenser]Your purchased items have been activated."
+msgstr ""

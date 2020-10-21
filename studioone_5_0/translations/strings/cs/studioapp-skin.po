@@ -1,0 +1,9024 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorParts]#9"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[BrowserHomeContent]$APPCOMPANY Exchange and other services"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[UserLicenseExpired]$APPCOMPANY Forum"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[UserLicenseExpired]$APPCOMPANY Shop"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[WebPackageManager]$APPCOMPANY Shop"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid ""
+"[AppStoreWelcome.Intro]$APPCOMPANY offers additonal content and third-party "
+"plug-ins for $APPNAME. To authorize these items, please take the following "
+"steps, either now or any time later:"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[AppStoreWelcome]$APPNAME"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ContentLocationSelector]$APPNAME"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[TaskListDialog]$APPNAME"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[EventListDialog]$APPNAME"
+msgstr ""
+
+#: .\engine\mediapool.xml
+msgid "[RemoveUnusedDialog]$APPNAME"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[UserLicenseExpired]$APPNAME Activation"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[AuthorizationHandlerError]$APPNAME Activation"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[UserLicenseDialog]$APPNAME Activation"
+msgstr ""
+
+#: .\ccl\extensionmanager.xml
+msgid "[ExtensionManager]$APPNAME Extensions"
+msgstr ""
+
+#: .\ccl\extensionmanager.xml
+msgid "[ExtensionAskInstallBox]$APPNAME Extensions"
+msgstr ""
+
+#: .\ccl\contentinstaller.xml
+msgid "[ContentInstaller]$APPNAME Installation"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[PackageManager]$APPNAME Packages"
+msgstr ""
+
+#: .\app\about.xml
+msgid "[AboutFooter]$APPNAME Website"
+msgstr ""
+
+#: .\ccl\contentinstaller.xml
+msgid ""
+"[ContentInstaller]$APPNAME comes with additional content, including loops, "
+"samples, and third-party plug-ins. Please select the packages you want to "
+"install below."
+msgstr ""
+
+#: .\ccl\common.xml
+msgid ""
+"[ContentLocationSelector]$APPNAME will help to keep your media files "
+"organized. All your data like Songs, Projects and Presets will be stored in "
+"a single location."
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[SplitterLevel]$idx"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[FrequencySplitterSlider]$idx"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[TagListItem]$itemTitle"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[TagPaletteItem]$itemTitle"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[TagSearchPaletteItem]$itemTitle"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[Command]$itemTitle"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[ShowSetListScrollTarget]$number"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[TagPalette]$t"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[TagSearchPopup]$t"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorParts]$t"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[NotePopup]$t1"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[NotePopup]$t2"
+msgstr ""
+
+#: .\app\microviews.xml
+msgid "[MutableMicroViewTitle]$title"
+msgstr ""
+
+#: .\app\microviews.xml
+msgid "[MicroViewSliderSizeVariant]$title"
+msgstr ""
+
+#: .\app\microviews.xml
+msgid "[MutableMicroViewToggle]$title"
+msgstr ""
+
+#: .\app\microviews.xml
+msgid "[MutableMicroViewToggleInvert]$title"
+msgstr ""
+
+#: .\app\microviews.xml
+msgid "[MutableMicroViewToggle2]$title"
+msgstr ""
+
+#: .\app\microviews.xml
+msgid "[MutableMicroViewSmallToggle]$title"
+msgstr ""
+
+#: .\app\microviews.xml
+msgid "[MutablePanelSlider]$title"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[InspectorPropertyRadioBox]$title"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[MutableInspectorProperty]$title"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[HUDPopup]$title"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[EditGroupLinkAspect]$title"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MutableNoteRepeatSlider]$title"
+msgstr ""
+
+#: .\devices\surfaces.xml
+msgid "[SurfaceEditorButton]$title"
+msgstr ""
+
+#: .\devices\surfaces.xml
+msgid "[SurfaceEditorToggle]$title"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.Option]$title"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[ShowSetListScrollTarget]$title"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[ShowPatchListScrollTarget]$title"
+msgstr ""
+
+#: .\app\microviews.xml
+msgid "[MicroViewSliderSizeVariant]$tooltip"
+msgstr ""
+
+#: .\app\microviews.xml
+msgid "[MutableMicroViewToggle]$tooltip"
+msgstr ""
+
+#: .\app\microviews.xml
+msgid "[MutableMicroViewToggleInvert]$tooltip"
+msgstr ""
+
+#: .\app\microviews.xml
+msgid "[MutableMicroViewToggle2]$tooltip"
+msgstr ""
+
+#: .\app\microviews.xml
+msgid "[MutableMicroViewSmallToggle]$tooltip"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[MutableInspectorProperty]$tooltip"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[HUDPopup]$tooltip"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MutableNoteRepeatSlider]$tooltip"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[EditPanel.ApplyPart]$tooltip"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[KeySwitchListEditor]&#10226;"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[KeySwitchListEditor]&#10227;"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditorLeftPanel]&#8226;"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[KeySwitchListEditor]&#8593;"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[KeySwitchListEditor]&#8595;"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[ShowPerformanceContent]&#9587;"
+msgstr ""
+
+#: .\engine\automation.xml
+msgid "[AutomationTrackDialog]&gt;"
+msgstr ""
+
+#: .\engine\automation.xml
+msgid "[AutomationTrackDialog]&lt;"
+msgstr ""
+
+#: .\engine\automation.xml
+msgid "[MusicEnvelopeDialog]&lt;&lt; Add"
+msgstr ""
+
+#: .\engine\automation.xml
+msgid "[AutomationTrackDialog]&lt;&lt; Add"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[SearchResultView](Not searchable)"
+msgstr ""
+
+#: .\app\multitrack.xml
+msgid "[MultitrackPropertyEditor]+"
+msgstr ""
+
+#: .\engine\automation.xml
+msgid "[AutomationTrackDialog]+"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[PitchNameEditor]+"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.PresetPart]+"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoOffset]+"
+msgstr ""
+
+#: .\app\multitrack.xml
+msgid "[MultitrackPropertyEditor]-"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoOffset]-"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[ArtistProfile]..."
+msgstr ""
+
+#: .\app\options.xml
+msgid "[SoundSetOption]..."
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ContentLocationOption]..."
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[DocumentTemplateSaveDialog]..."
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[AudioExport]..."
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]..."
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicPatternControlLane]..."
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]..."
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongMetaInfoOption]..."
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoExport]..."
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[AudioFilePublisher]..."
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[ImageMaker]..."
+msgstr ""
+
+#: .\project\project.xml
+msgid "[DetailedInfoTable]..."
+msgstr ""
+
+#: .\project\project.xml
+msgid "[NewProject]..."
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetListHeader]..."
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[NewShow]..."
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[ShowMetaInfoOption]..."
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]/"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ShowTransport]/"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetListItemProperties]/"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectToolbar]0 Min"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]1"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid ""
+"[UserLicenseDialog.OfflinePage]1. Follow this guide for complete Offline "
+"Activation instructions."
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[AppStoreWelcome]1. Select $APPNAME Activation from the $APPNAME menu."
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicStepRecordPanel]1/1"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.BasePart]1/1"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicStepRecordPanel]1/16"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.BasePart]1/16"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicStepRecordPanel]1/2"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.BasePart]1/2"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicStepRecordPanel]1/32"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.BasePart]1/32"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicStepRecordPanel]1/4"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.BasePart]1/4"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicStepRecordPanel]1/64"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.BasePart]1/64"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicStepRecordPanel]1/8"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.BasePart]1/8"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]10"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]11"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]12"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[Analyser]12th"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]13"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]14"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]15"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]16"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[ControlsEditor]16 Buttons"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[ControlsEditor]16 Faders"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[ControlsEditor]16 Knobs"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]2"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[AppStoreWelcome]2. Click &apos;Activate&apos; to activate $APPNAME."
+msgstr ""
+
+#: .\app\licenser.xml
+msgid ""
+"[UserLicenseDialog.OfflinePage]2. You will need the following Activation "
+"Code:"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]3"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid ""
+"[AppStoreWelcome]3. If you do not already have a $APPCOMPANY Account, please "
+"follow the instructions to create a new account."
+msgstr ""
+
+#: .\app\licenser.xml
+msgid ""
+"[UserLicenseDialog.OfflinePage]3. Select the license file you downloaded or "
+"drag it onto this window."
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[Analyser]3rd Oct"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]4"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]5"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]6"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorParts]6"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]7"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]8"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[ControlsEditor]8 Buttons + 8 Knobs + 8 Faders"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectToolbar]80 Min"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]9"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[MixerManager]@cmd.title[Audio Device|Restore Audio Device Settings]"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.Inplace]@cmd.title[Audio|Apply Audio Bend]"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.Detached]@cmd.title[Audio|Apply Audio Bend]"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.ActionPart]@cmd.title[Audio|Create Autofades]"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.ActionPart]@cmd.title[Audio|Merge to Audio Part]"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[StripSilencePanel.Inplace]@cmd.title[Audio|Strip Silence]"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[StripSilencePanel.Detached]@cmd.title[Audio|Strip Silence]"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid ""
+"[ChannelOrganizerSetup]@cmd.title[Channel Components|Show Audio Device "
+"Controls]"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid ""
+"[ChannelOrganizerSetup]@cmd.title[Channel Components|Show Channel Notes]"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid ""
+"[ChannelOrganizerSetup]@cmd.title[Channel Components|Show Group Assignment]"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid ""
+"[ChannelOrganizerSetup]@cmd.title[Channel Components|Show I/O Connections]"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid ""
+"[ChannelOrganizerSetup]@cmd.title[Channel Components|Show Input Controls]"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid ""
+"[ChannelOrganizerSetup]@cmd.title[Channel Components|Show Sends/Cue mix]"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid ""
+"[ChannelOrganizerSetup]@cmd.title[Channel Components|Show VCA Connections]"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[MixScenesManager]@cmd.title[Console|Add Scene]"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[EditScenesManager]@cmd.title[Console|Add Scene]"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]@cmd.title[Console|Enable Listen Bus]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.MasterPart]@cmd.title[Console|Mono]"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]@cmd.title[Console|Solo through Listen Bus]"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[TrackList]@cmd.title[Devices|Activate All Inserts]"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorToolBar]@cmd.title[Edit|Autoscroll]"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[EditorToolBar]@cmd.title[Edit|Autoscroll]"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[SongToolbar]@cmd.title[Edit|Autoscroll]"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectToolbar]@cmd.title[Edit|Autoscroll]"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[ShowToolbar]@cmd.title[Edit|Autoscroll]"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[SongToolbar]@cmd.title[Edit|Toggle Ripple Edit]"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[EditorToolBar]@cmd.title[Edit|Toggle Snap]"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[SongToolbar]@cmd.title[Edit|Toggle Snap]"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[ShowToolbar]@cmd.title[Edit|Toggle Snap]"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.ActionPart]@cmd.title[Event|Fill Gaps]"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.ActionPart]@cmd.title[Event|Quantize on Track]"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.ApplyPart]@cmd.title[Event|Quantize on Track]"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.ApplyPart]@cmd.title[Event|Quantize]"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.PresetPart]@cmd.title[Quantize|Set Program A]"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.PresetPart]@cmd.title[Quantize|Set Program B]"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.PresetPart]@cmd.title[Quantize|Set Program C]"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.PresetPart]@cmd.title[Quantize|Set Program D]"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.PresetPart]@cmd.title[Quantize|Set Program E]"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[SongToolbar]@cmd.title[Record Mode|Input Quantize]"
+msgstr ""
+
+#: .\engine\recordpanel.xml
+msgid "[RecordPanel.Horizontal]@cmd.title[Record Mode|Loop Record Mix]"
+msgstr ""
+
+#: .\engine\recordpanel.xml
+msgid "[RecordPanel.Horizontal]@cmd.title[Record Mode|Loop Record Takes]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]@cmd.title[Record Mode|Record Mode Replace]"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[ShowToolbar]@cmd.title[Show|Perform]"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]@cmd.title[Track|Recall Retrospective Recording]"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[SongToolbar]@cmd.title[Transport|Cursor follows Edit Position]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.Sync]@cmd.title[Transport|External Sync Options]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]@cmd.title[Transport|Precount]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ShowTransport]@cmd.title[Transport|Precount]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Metronome]@cmd.title[Transport|Precount]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Metronome]@cmd.title[Transport|Preroll]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.Sync]@cmd.title[Transport|Sync to External Devices]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]@cmd.title[View|Browser]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ProjectTransport]@cmd.title[View|Browser]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ShowTransport]@cmd.title[View|Browser]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]@cmd.title[View|Console]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ShowTransport]@cmd.title[View|Console]"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[ShowToolbar]@cmd.title[View|Controls]"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditor.ToolGroup0]@cmd.title[View|Drum View]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]@cmd.title[View|Editor]"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[SongToolbar]@cmd.title[View|Info View]"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectToolbar]@cmd.title[View|Info View]"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[ShowToolbar]@cmd.title[View|Info View]"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[InspectorPanel]@cmd.title[View|Inspector]"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[TrackControlsButtonsHeader]@cmd.title[View|Inspector]"
+msgstr ""
+
+#: .\engine\recordpanel.xml
+msgid "[RecordPanel.Horizontal]@cmd.title[View|Note Repeat]"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[ShowToolbar]@cmd.title[View|Overview]"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditor.ToolGroup0]@cmd.title[View|Piano View]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]@cmd.title[View|Record Panel]"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorToolBar]@cmd.title[View|Score View]"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[SongToolbar]@cmd.title[View|Scratch Pad]"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[MixerManager]@cmd.title[View|Show Groups (Channel List)]"
+msgstr ""
+
+#: .\engine\tracklistinspector.xml
+msgid "[TrackListInspectorPanel]@cmd.title[View|Show Groups (Track List)]"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[MixerManager]@cmd.title[View|Show Scenes (Console)]"
+msgstr ""
+
+#: .\engine\tracklistinspector.xml
+msgid "[TrackListInspectorPanel]@cmd.title[View|Show Scenes (Track List)]"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[EditorToolBar]@cmd.title[View|Step Record]"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[InspectorPanel]@cmd.title[View|Track List]"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[TrackControlsButtonsHeader]@cmd.title[View|Track List]"
+msgstr ""
+
+#: .\engine\tracklistinspector.xml
+msgid "[TrackListInspectorPanel]@cmd.title[View|Track List]"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[SongToolbar]@cmd.title[View|Video Player]"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[HomePage.HeaderFileTypes]@cmd.title[]"
+msgstr ""
+
+#: .\app\toolbar.xml
+msgid "[PerspectiveSelector]@cmd.title[]"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[BrowserHomeContent]@cmd.title[]"
+msgstr ""
+
+#: .\ccl\pluginmanager.xml
+msgid "[PlugInManager]@cmd.title[]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.LoopPart]@cmd.title[]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]@cmd.title[]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ProjectTransport]@cmd.title[]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ShowTransport]@cmd.title[]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Metronome]@cmd.title[]"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.MarkerPart]@cmd.title[]"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorToolBar]@cmd.title[]"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditor.ToolGroup0]@cmd.title[]"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditor]@cmd.title[]"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicPatternToolsHeader]@cmd.title[]"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[PatternInspector]@cmd.title[]"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MPControlLaneControls]@cmd.title[]"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[LayerAspectRow2]@cmd.title[]"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectToolbar]@cmd.title[]"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetListHeader]@cmd.title[]"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[ShowPlayerHeader]@cmd.title[]"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]@cmd[Audio Engine|Latency Off]"
+msgstr ""
+
+#: .\engine\recordpanel.xml
+msgid "[RecordPanel.Horizontal]@cmd[Record Functions|Undo All]"
+msgstr ""
+
+#: .\engine\recordpanel.xml
+msgid "[RecordPanel.Horizontal]@cmd[Record Functions|Undo Last Loop]"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]@cmd[Track|Audio Input follows Selection]"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]@cmd[Track|Instrument Input follows Selection]"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]@cmd[Track|Solo follows Selection]"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[ShowSetListScrollTarget]@property:paramValue[Media:Title]"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[ShowPatchListScrollTarget]@property:patchName[$i]"
+msgstr ""
+
+#: .\app\microviews.xml
+msgid "[GenericMicroViewValueBar]@value[]"
+msgstr ""
+
+#: .\app\microviews.xml
+msgid "[GenericMicroViewSlider]@value[]"
+msgstr ""
+
+#: .\app\microviews.xml
+msgid "[MicroViewSliderSizeVariant]@value[]"
+msgstr ""
+
+#: .\app\microviews.xml
+msgid "[MutablePanelSlider]@value[]"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[SplitterLevel]@value[]"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[FrequencySplitterSlider]@value[]"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MutableMacroControlKnob]@value[]"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MutableMacroControlSlider]@value[]"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MacroControlFocusCell]@value[]"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[AutomationTrackInspector]@value[]"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[TrackVolumeSimpleSlider]@value[]"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.PresetPart]A"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]A notated C sounds"
+msgstr ""
+
+#: .\devices\synthcombinator.xml
+msgid ""
+"[SynthCombinatorRouting]A note event splitter can be inserted for 3 or more "
+"instruments"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]Abbreviation"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[Command]About"
+msgstr ""
+
+#: .\app\about.xml
+msgid "[AboutApplication]About $APPNAME"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[HomePage]About $APPNAME"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Metronome]Accent"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicPatternToolsHeader]Accent"
+msgstr ""
+
+#: .\engine\mediapool.xml
+msgid "[LocateMissingFiles]Accept"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.ActionPart]Action"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ToolBar.TasksMenu]Action"
+msgstr ""
+
+#: .\app\toolbar.xml
+msgid "[HistoryPanel]Actions"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[UserLicenseDialog.SpliceActivation]Activate"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[ActivationMode.Subscription]Activate"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[ActivationMode.Retail]Activate"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[FXEditorHeaderRow1]Activate"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[SlotNodeEditHeader]Activate"
+msgstr ""
+
+#: .\devices\musicfxeditor.xml
+msgid "[MusicFXRackSlotView]Activate"
+msgstr ""
+
+#: .\devices\synthrack.xml
+msgid "[AudioSynthRackSlotViewCompact]Activate"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[TrackAutomationContent]Activate"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[FolderTrackAutomationContent]Activate"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[AutomationTrackControlsContent]Activate"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[AutomationAspectFirstRow]Activate"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[Analyser]Activate"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[ActivationMode.Free]Activate $APPNAMEFREE"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventFXInserts]Activate All"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector.FX]Activate All"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[ActivationMode.Demo]Activate Demo Version"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[LayerAspectRow1]Activate Layer"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[UserLicenseDialog.ActivationPage]Activate Offline"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid ""
+"[UserLicenseDialog.ActivationOptions]Activate my purchased version of "
+"$APPNAME"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[UserLicenseDialog.ActivationOptions]Activate with $CLOUDNAME"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[NoteRepeatMasterControls]Active"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Active"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[MusicTrackControls]Activity Meter"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[AudioIOSetup]Add (Mono)"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[AudioIOSetup]Add (Stereo)"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ControlLane]Add / Remove..."
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicPatternControlLane]Add / Remove..."
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[Command]Add Automation Lane"
+msgstr ""
+
+#: .\engine\automation.xml
+msgid "[AutomationTrackDialog]Add Automation Track"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceSlotAuxSetup]Add Aux Channel"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[Command]Add Device"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceRack]Add External Device"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventFXInserts]Add Insert"
+msgstr ""
+
+#: .\devices\synthrack.xml
+msgid "[SynthRack]Add Instrument"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector.FX]Add Note FX"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[Command]Add Player"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[AddPlayerDialog]Add Player"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ArrangerTrackInspector]Add Scratch Pad"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[Command]Add Scratch Pad"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[Command]Add Setlist Item"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MacroControlSetup]Add Targets"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[Command]Add Tracks"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[TrackControlsButtonsHeader]Add Tracks @cmd[]"
+msgstr ""
+
+#: .\engine\recordpanel.xml
+msgid "[RecordPanel.Horizontal]Add a layer for every new take"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[AudioFilePublisher]Add artist to file name"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[AudioFilePublisher]Add track numbers to file name"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[SoundSetOption]Add..."
+msgstr ""
+
+#: .\app\options.xml
+msgid "[BrowserFileTypesOption]Add..."
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[AudioIOSetup]Add..."
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceSetup]Add..."
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MidiMonitor]Aftertouch"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]Aftertouch"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[NoteRepeater]Aftertouch"
+msgstr ""
+
+#: .\app\multitrack.xml
+msgid "[MultitrackPropertyEditor]Album"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongMetaInfoOption]Album"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[TitleAlbumNotes]Album"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[Project]Album"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[Project]Album Title"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Song]Align Center"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Project]Align Center"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Show]Align Center"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Song]Align Left"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Project]Align Left"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Show]Align Left"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Song]Align Right"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Project]Align Right"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Show]Align Right"
+msgstr ""
+
+#: .\ccl\extensionmanager.xml
+msgid "[ExtensionManager.FilterTabs]All"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]All"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]All"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[AudioFilePublisher]All"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MidiMonitor]All Notes Off"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[PanicButtonView]All Notes Off"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.MarkerPart]Analyze"
+msgstr ""
+
+#: .\app\homepage.xml .\app\windowclasses.xml
+msgid "[Command]Application"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[EditPanel.ApplyPart]Apply"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.ApplyPart]Apply"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[RemoteFXEditorHeaderView]Apply DSP to Input Signal"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]Apply Staff Preset"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[EditingOption]Apply folder track color to content"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ColorSchemeOption.Arrangement]Arrangement"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ArrangerTrackInspector]Arranger"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[Command]Arranger"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongMetaInfoOption]Arranger"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[ArrangerTrackEditorView]Arranger"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[ArrangerTrackControls]Arranger"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[DetailedInfoTable]Arranger"
+msgstr ""
+
+#: .\app\multitrack.xml
+msgid "[MultitrackPropertyEditor]Artist"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongMetaInfoOption]Artist"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[TitleAlbumNotes]Artist"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[Project]Artist"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[DetailedInfoTable]Artist"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetListHeader]Artist"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[ShowMetaInfoOption]Artist"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[Project]Artist(s) or Performer(s)"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectTrackControlsContentMedium]Artist(s) or Performer(s)"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[DetailedInfoTable]Artist(s) or Performer(s)"
+msgstr ""
+
+#: .\app\multitrack.xml
+msgid "[MultitrackPropertyEditor]Artwork"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongMetaInfoOption]Artwork"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[DetailedInfoTable]Artwork"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[AddPlayerDialog.AudioOptions]Ascending"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[AddPlayerDialog.InstrumentOptions]Ascending"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[AutoSaveOption]Ask to copy external files when saving Song"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[ParamMapper.RightPart]Assign @cmd[Devices|Assign Current Parameter]"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[DetachedFrameHeader]Attach"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]Audio"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel]Audio Bend"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[AudioChordsLane]Audio Chords"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Audio Chords"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoCodecSelector]Audio Codec"
+msgstr ""
+
+#: .\app\homepage.xml .\devices\transport.xml
+msgid "[Command]Audio Device"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[AudioSetup.Device]Audio Device"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventProperties]Audio Event Properties"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[MixerManager]Audio I/O Setup"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[ConsoleOption]Audio Input follows Selection"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]Audio Input follows Selection"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[AudioSetup.Engine]Audio Roundtrip"
+msgstr ""
+
+#: .\engine\tracklistinspector.xml
+msgid "[TrackListEmbeddedInspector]Audio Tracks"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]Audio device controls"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]Audio resolution used for recording"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[ConsoleOption]Audio track monitoring follows record"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[ConsoleOption]Audio track monitoring mutes playback (Tape style)"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[AudioIOSetup]Audition"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorParts]Audition Chords"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ChordTrackInspector]Audition Chords"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditorLeftPanel]Audition Notes"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[PatternInspector]Audition Notes"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorLeftPanel]Audition Notes"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditorLeftPanel]Audition Notes On/Off"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[PatternInspector]Audition Notes On/Off"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorLeftPanel]Audition Notes On/Off"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorParts]Augmented"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Auto Punch @cmd[Transport|Autopunch]"
+msgstr ""
+
+#: .\engine\audiotransform.xml
+msgid "[AudioTransformDialog]Auto Tail"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[MusicTransformDialog]Auto Tail"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[AddPlayerDialog]Auto-Color"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[EditingOption]Auto-colorize tracks and layers"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[ConsoleOption]Auto-expand selected channel"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]Auto-expand selected channel"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[IconMuteSoloName]Auto: Off"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.ActionPart]Autofades"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.ActionPart]Autofill"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditor.ToolGroup2]Automatically Quantize Selected Notes"
+msgstr ""
+
+#: .\app\options.xml
+msgid ""
+"[AutomationOption]Automatically add envelopes for all touched parameters"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[AutomationOption]Automatically create automation tracks for channels"
+msgstr ""
+
+#: .\app\importsongdata.xml
+msgid "[ImportSongDataOptions]Automation"
+msgstr ""
+
+#: .\engine\automation.xml
+msgid "[MusicEnvelopeDialog]Automation"
+msgstr ""
+
+#: .\engine\automation.xml
+msgid "[AutomationTrackDialog]Automation"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[Command]Automation"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[TrackInspectorAutomationControls]Automation"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[FXEditorHeaderRow2]Automation Mode"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[TrackInspectorAutomationControls]Automation Mode"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[AutomationModeBoxNarrow]Automation Mode"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[AutomationModeBox]Automation Mode"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[AutomationAspectFirstRow]Automation Mode"
+msgstr ""
+
+#: .\engine\tracklistinspector.xml
+msgid "[TrackListEmbeddedInspector]Automation Tracks"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[AutomationOption]Automation follows events"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]Automation follows events"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelSelector]Aux"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[SpectrumMeterSettings]Averaging Speed"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[SpectrumMeterSettings]Avg."
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.PresetPart]B"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicStepRecordPanel]Back"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[UserLicenseDialog.OfflinePage]Back to Activation"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ColorSchemeOption.Main]Background"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[AddPlayerDialog]Backing Track"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector.ProgramSelector]Bank / Prog."
+msgstr ""
+
+#: .\show\show.xml
+msgid "[VirtualInstrumentPlayer.ProgramSelector]Bank / Prog."
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Bar Numbers"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongSetup]Bar Offset"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Metronome]Bars"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[NoteRepeater]Base"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[NoteRepeater]Base Pitch for Key Remote"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[NoteRepeater]Base Pitch for Single Mode"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorMiniParts]Bass"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorParts]Bass"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordEventMiniProperties]Bass"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Metronome]Beat"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.MarkerPart]Bend Marker"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventPropertiesList]Bend Marker"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventMiniProperties.Table]Bend Marker"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[AudioExport]Between Each Marker"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Between Each Marker"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[AudioExport]Between Loop"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Between Loop"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoExport]Between Loop"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[AudioExport]Between Selected Markers"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Between Selected Markers"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoExport]Between Selected Markers"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[AudioExport]Between Song Start/End Marker"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Between Song Start/End Marker"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoExport]Between Song Start/End Marker"
+msgstr ""
+
+#: .\ccl\pluginmanager.xml
+msgid "[PlugInManager]Blocklist"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[MusicBounceDialog]Bounce All"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[MusicBounceDialog]Bounce Instrument Parts"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[MusicBounceDialog]Bounce Track"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Browse"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ProjectTransport]Browse"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ShowTransport]Browse"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[BrowserHomeContent]Browse $APPNAME loop libraries"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[SlotNodeEditHeader]Browse Presets"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[PitchNameEditor]Browse Presets"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[KeySwitchListEditor]Browse Presets"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.PresetPart]Browse Presets"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[BrowserHomeContent]Browse files and folders"
+msgstr ""
+
+#: .\app\windowclasses.xml .\ccl\browser.xml
+msgid "[Browser]Browser"
+msgstr ""
+
+#: .\app\windowclasses.xml .\ccl\browser.xml
+msgid "[Command]Browser"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[ProjectBrowser]Browser"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[ShowBrowser]Browser"
+msgstr ""
+
+#: .\project\burn.xml
+msgid "[BurnerSelectDialog]Burn"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectToolbar]Burn"
+msgstr ""
+
+#: .\project\burn.xml
+msgid "[BurnerSelectDialog]Burn Audio CD"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[FolderTrackControlsContent]Bus Channel"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelSelector]Busses"
+msgstr ""
+
+#: .\app\notion.xml
+msgid "[SendToNotionNoTargets]Buy Notion"
+msgstr ""
+
+#: .\app\microviews.xml
+msgid "[MutableMicroViewBypass]Bypass"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventPropertiesList]Bypass"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventMiniProperties.Table]Bypass"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[FXEditorHeaderRow1]Bypass (automatable)"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[SlotNodeEditHeader]Bypass (automatable)"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[AudioExport]Bypass master effects"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoExport]Bypass master effects"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.PresetPart]C"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]CC Automation Interval"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[ProjectCDProtocol]CD Protocol"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[CDProtocol]CD Protocol"
+msgstr ""
+
+#: .\devices\synthrack.xml
+msgid "[AudioSynthRackSlotViewCompact]CPU"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[PerformanceMonitor.Meters]CPU"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.PerformancePart]CPU Overload"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.PerformancePart]CPU Performance"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[PerformanceMonitor.Cache]Cache"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.CacheActivity]Cache Activity"
+msgstr ""
+
+#: .\app\notion.xml
+msgid "[SendToNotionInner]Cancel"
+msgstr ""
+
+#: .\engine\mediapool.xml
+msgid "[LocateMissingFiles]Cancel Search"
+msgstr ""
+
+#: .\app\options.xml
+msgid ""
+"[MusicOption]Capture note and control data while not recording for later "
+"recall"
+msgstr ""
+
+#: .\engine\mediapool.xml
+msgid "[PlugInFileInfo]Category:"
+msgstr ""
+
+#: .\ccl\pluginmanager.xml
+msgid "[PlugInManager]Change settings for VST Plug-Ins"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid ""
+"[ServiceOption]Changing these advanced settings might lead to improper "
+"function of $APPNAME. You should only continue if you are sure of what you "
+"are doing."
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]Channel"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[FolderTrackInspector]Channel"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ChordTrackInspector]Channel"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]Channel Components"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[MutablePlainButton]Channel Editor"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[ConsoleOption]Channel Editor follows Selection"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[MixerManager]Channel List"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[MutablePlainButton]Channel Mode"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[AudioTrackControlsContent]Channel Mode"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[AudioTrackInspector]Channel Number"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]Channel Number"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[InspectorChannelNumberDelegate]Channel Number"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[FolderTrackInspector]Channel Number"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[AutomationMainContent]Channel Number"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[TrackControlsMainContent]Channel Number"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[SplitterEditView]Channel Split"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]Channel notes"
+msgstr ""
+
+#: .\engine\mediapreview.xml
+msgid "[MusicPreviewPlayer]Channel:"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Channels"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[MusicOption]Chase long notes"
+msgstr ""
+
+#: .\ccl\contentinstaller.xml
+msgid "[ContentInstaller]Check for Available Downloads"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[HomePage]Check for Updates"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[Command]Check for Updates"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[StartupOption]Check for Updates"
+msgstr ""
+
+#: .\ccl\extensionmanager.xml
+msgid "[ExtensionManager]Check for Updates"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid ""
+"[HomePage.HeaderFileTypes]Choose this file type to master and release "
+"multiple songs."
+msgstr ""
+
+#: .\app\homepage.xml
+msgid ""
+"[HomePage.HeaderFileTypes]Choose this file type to record, mix, and produce "
+"a song."
+msgstr ""
+
+#: .\app\homepage.xml
+msgid ""
+"[HomePage.HeaderFileTypes]Choose this file type to rehearse and perform a "
+"show."
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid ""
+"[AddPlayerDialog]Choose this type for backing track playback from audio "
+"files."
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid ""
+"[AddPlayerDialog]Choose this type to play a virtual instrument from a "
+"keyboard or pad controller."
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid ""
+"[AddPlayerDialog]Choose this type to use a microphone, guitar, or other "
+"instrument and apply effects."
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[AudioChordEventProperties]Chord"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordEventInspector]Chord"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ChordTrackInspector]Chord Audition Enabled"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorMiniParts]Chord Selector"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordInspectorPopup]Chord Selector"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordEventInspector]Chord Track"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[AudioEditor.ToolGroup2]Chords"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ChordTrackInspector]Chords"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[ChordTrackEditorView]Chords"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[ChordTrackControls]Chords"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[PerformanceMonitor.CacheOptions]Cleanup Cache"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[FilterBar]Clear"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[SearchBar]Clear"
+msgstr ""
+
+#: .\app\startup.xml
+msgid "[MessageWindow]Clear"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MidiMonitor]Clear"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[KeySwitchListEditor]Clear"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.PatternPart]Clear"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[Command]Clear Lane"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.PatternPart]Clear Pattern"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[Command]Clear Pattern"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[TagPalette]Clear Tags"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[KeySwitchListEditor]Clear list"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[PopupSliderMetronomeVolume]Click Volume: @value[]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Metronome]Click in Play"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Metronome]Click in Precount Only"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[ParamMapper.LeftPart.Inner]Click+Drag Parameter"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[InputLevelsContent]Clip"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[HoldValues]Clip"
+msgstr ""
+
+#: .\app\notion.xml
+msgid "[SendToNotionNoTargets]Close"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[DetachedFrameHeader]Close"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[AttachedFrameControls]Close"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[MixerManager]Close"
+msgstr ""
+
+#: .\devices\synthcombinator.xml
+msgid "[CombinatorContentTitleBar]Close"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicStepRecordPanel]Close"
+msgstr ""
+
+#: .\engine\recordpanel.xml
+msgid "[RecordPanel]Close"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoPlayer]Close"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[StripSilencePanel.DetectionPart]Close Threshold"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[AudioExport]Close after export"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Close after export"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[BrowserHomeContent]Cloud"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[AddPlayerDialog]Color"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[FocusNodeParamView]Color Selector"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[EditorLeftPanelHeader]Color Selector"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[EditorLeftPanelHeader_TrackColor]Color Selector"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[EventHeadline]Color Selector"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[AudioTrackInspector]Color Selector"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]Color Selector"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[AutomationTrackInspector]Color Selector"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[FolderTrackInspector]Color Selector"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ArrangerTrackInspector]Color Selector"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ChordTrackInspector]Color Selector"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[EmptyTrackControls]Color Selector"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetListItemProperties]Color Selector"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ColorSchemeOption.Plugins]Colored"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[ConsoleOption]Colorize channel strips"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]Colorize channel strips"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[ConsoleOption]Colorize plug-in header"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]Colorize plug-in header"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[EditingOption]Colorize track controls"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]Colorize track controls"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongMetaInfoOption]Comment"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[DetailedInfoTable]Comment"
+msgstr ""
+
+#: .\devices\synthrack.xml
+msgid "[SynthRack]Compact"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[CDProtocol]Compact View"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[FXEditorHeaderRow2]Compare"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongMetaInfoOption]Composer"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[DetailedInfoTable]Composer"
+msgstr ""
+
+#: .\ccl\contentinstaller.xml
+msgid "[ContentInstaller]Configuration:"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[Setup]Configure Audio Device..."
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[Setup]Configure External Devices..."
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Console]Console"
+msgstr ""
+
+#: .\app\windowclasses.xml .\devices\audiomixer.xml
+msgid "[Command]Console"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[MixerConsole]Console"
+msgstr ""
+
+#: .\app\importsongdata.xml
+msgid "[ImportSongDataOptions]Console Options"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorToolBar]Continuous Layout"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ColorSchemeOption.Levels]Contrast"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[ParamMapper.MappingPart]Control"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[ControlLinkView]Control Link"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[AudioSetup.Device]Control Panel"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[SurfacePlacementEditor]Control Surface Placement"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MidiMonitor]Controllers"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]Controllers"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Controls"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[ShowToolbar]Controls"
+msgstr ""
+
+#: .\engine\mediapool.xml
+msgid "[ConvertFilesDialog]Convert Files"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[UserLicenseDialog.OfflinePage]Copy"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[FXEditorHeaderRow2]Copy"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MacroTargetCurve]Copy"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[Command]Copy Ranges to Track"
+msgstr ""
+
+#: .\app\importsongdata.xml
+msgid "[ImportSongDataOptions]Copy files to song folder"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[UserLicenseDialog.OfflinePage]Copy to Clipboard"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ArrangerTrackInspector]Copy to new Scratch Pad"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[Command]Copy to new Scratch Pad"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongMetaInfoOption]Copyright"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[Analyser]Corr"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[AddPlayerDialog]Count"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid ""
+"[MusicTransformDialog]Create audio tracks for all instrument outputs. If "
+"disengaged, only the output assigned in the track inspector is rendered."
+msgstr ""
+
+#: .\app\notion.xml
+msgid "[SendToNotionInner]Create lead sheet"
+msgstr ""
+
+#: .\ccl\extensionmanager.xml
+msgid "[ExtensionPropertiesInplace]Created by"
+msgstr ""
+
+#: .\engine\mediapool.xml .\engine\mediapreview.xml
+msgid "[PresetFileInfo]Created by:"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongSetup]Creator"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectSetup]Creator"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[ShowSetup]Creator"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[AudioIOSetup.OutputDeviceInfo]Cue"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[SnapshotRecallOptionsContent]Cue Mix"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[ConsoleOption]Cue mix mute follows channel"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]Cursor follows Edit Position"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[Analyser]Curve"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[MusicOption]Cut long notes at part end"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.PresetPart]D"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[LoudnessInfoTable]DC"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectToolbar]DDP"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ColorSchemeOption.Plugins]Dark"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ColorSchemeOption.Score]Dark"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ColorSchemeOption.Levels]Dark"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[TimeScrollBar+Zoom]Data Zoom"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicPatternPartEditorContent]Data Zoom"
+msgstr ""
+
+#: .\engine\mediapool.xml
+msgid "[MediaPoolHeader]Data Zoom"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[EditPanel.ApplyPart]Default"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]Default Instrument Input"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditorLeftPanel]Default Velocity"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorLeftPanel]Default Velocity"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[AutomationOption]Default envelopes for new Audio Tracks"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]Default tempo setting for audio tracks"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[AudioTrackInspector]Delay"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]Delay"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[Command]Delete"
+msgstr ""
+
+#: .\engine\mediapool.xml
+msgid "[RemoveUnusedDialog.Options]Delete Files permanently"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ArrangerTrackInspector]Delete Range"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[Command]Delete Range"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ArrangerTrackInspector]Delete Scratch Pad"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[Command]Delete Scratch Pad"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MarkerTrackInspector]Delete Selected Markers @cmd[Edit|Delete]"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[MarkerTrackControls]Delete Selected Markers @cmd[Edit|Delete]"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[SignatureTrackControls]Delete Selected Signature @cmd[Edit|Delete]"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[TempoTrackControls]Delete Tempo Change"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[Command]Delete Variation"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[HomePage.RSS]Demos and Tutorials"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[DocumentTemplateSaveDialog]Description"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[SaveNewVersionDialog]Description"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[StorePresetDialog]Description"
+msgstr ""
+
+#: .\ccl\pluginmanager.xml
+msgid "[PlugInManager]Deselect All"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[AttachedFrameControls]Detach"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[MixerManager]Detach"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.MarkerPart]Detection"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[StripSilencePanel.DetectionPart]Detection"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[AutomationTrackInspector]Device"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[TrackAutomationContent]Device"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[FolderTrackAutomationContent]Device"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[AutomationTrackControlsContent]Device"
+msgstr ""
+
+#: .\project\burn.xml
+msgid "[BurnerSelectDialog]Device"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[AudioSetup.Device]Device Block Size"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceAddDialog]Device Model"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceEditDialog]Device Model"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceAddDialog]Device Name"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceEditDialog]Device Name"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[MusicBounceDialog]Device Name"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[AudioFilePublisher]Digital Release"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectToolbar]Digital Release"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorParts]Diminished"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[DirectInputPopupItem]Direct Input"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[DirectInputItem]Direct Input"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[DirectInputPopupItem]Direct Input Channel"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[DirectInputItem]Direct Input Channel"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[FXEditorHeaderDirectInput]Direct Inputs"
+msgstr ""
+
+#: .\app\plugscanner.xml
+msgid "[PlugInScanner]Disable"
+msgstr ""
+
+#: .\ccl\extensionmanager.xml
+msgid "[ExtensionManager]Disable"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventFXAndPropertiesList]Disable"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[AutomationOption]Disable events under automation envelopes"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[PerformanceMonitor.Meters]Disc"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.PerformancePart]Disc Overload"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.PerformancePart]Disc Performance"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongSetup]Display Mode"
+msgstr ""
+
+#: .\ccl\extensionmanager.xml
+msgid "[ExtensionAskInstallBox]Do you want to install this Extension?"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Command]Document Setup"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorToolPaletteNotes]Dotted"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditorLeftPanel]Dotted"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicStepRecordPanel]Dotted"
+msgstr ""
+
+#: .\devices\synthcombinator.xml
+msgid ""
+"[CombinatorSynthChannelSelect]Double Click: Edit Name, Keep Pressed: Select "
+"Channel Color"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid ""
+"[ChannelLabelBig]Double Click: Edit Name, Keep Pressed: Select Channel Color"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid ""
+"[MacroControlEditBox]Double Click: Edit Name, Keep Pressed: Select Color"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorToolPaletteNotes]Double Dotted"
+msgstr ""
+
+#: .\engine\mediapool.xml
+msgid "[WebFileInfo]Download"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventFXInserts]Drag FX Chain from here"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[RoutingEditView]Drag New Splitter From Here"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[FXEditorHeaderRow1]Drag Preset from here"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid ""
+"[SurfacePlacementEditor]Drag devices between groups to change their "
+"placement."
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Metronome]Drag file here to select additional sound"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[EditingOption]Draw event badges"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[EditingOption]Draw events translucent (grid shines through)"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[EditingOption]Draw smooth waveforms"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[AudioSetup.Engine]Dropout Protection"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[PerformanceMonitor]Dropout Protection"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicPatternPartEditorContent]Drum Mode"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[Command]Drum View"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ArrangerTrackInspector]Duplicate"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[Command]Duplicate"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[LayerAspectRow1]Duplicate Layer"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[Command]Duplicate Variation"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[AudioExport]Duration"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Duration"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoExport]Duration"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.PresetPart]E"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[DetailedInfoTable]EAN"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[DetailedInfoTable]EAN/UPC code"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[LoudnessInfoTable]EBU"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[EBUDetailValues]EBU +18"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[EBUDetailValues]EBU +18 Metering"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[Analyser]EBU R128"
+msgstr ""
+
+#: .\app\windowclasses.xml .\engine\inspector.xml .\engine\trackcontrols.xml
+msgid "[Command]Edit"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Edit"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditor]Edit"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicPatternPartEditorContent]Edit"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid ""
+"[ParamMapper.LeftPart.Inner]Edit Automation @cmd[Automation|Show Current "
+"Parameter]"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[ParamMapper.MappingPart]Edit Device"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[EditGroupSelector]Edit Group"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[KeySwitchLaneControl]Edit Key Switches"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[KeySwitchListEditor]Edit Key Switches"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[EventProperties]Edit Lock"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventPropertiesList]Edit Lock"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioPartProperties]Edit Lock"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[MusicPartProperties]Edit Lock"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[EventNodeMiniProperties.Table]Edit Lock"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventMiniProperties.Table]Edit Lock"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[MusicPartMiniProperties.Table]Edit Lock"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[SurfaceMapping]Edit Mapping"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelector]Edit Next Chord"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[Command]Edit Next Pattern"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[InspectorNotesForm]Edit Note..."
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[PitchNameEditor]Edit Pitch Names"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelector]Edit Previous Chord"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[Command]Edit Previous Pattern"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelSelector]Edit Remote Bank"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceSetup]Edit..."
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[EditGroupMiniProperties]Editing"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]Editing"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[AudioFXEditorEmbedded]Editor"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[Editor]Editor"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectFader]Editor"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[PatternInspector]Editor follows Cursor"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[PatternInspector]Editor shows Pattern at Cursor position"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[BrowserHomeContent]Effects"
+msgstr ""
+
+#: .\project\burn.xml
+msgid "[BurnerSelectDialog]Eject"
+msgstr ""
+
+#: .\ccl\extensionmanager.xml
+msgid "[ExtensionManager]Enable"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicStepRecordPanel]Enable"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventFXAndPropertiesList]Enable"
+msgstr ""
+
+#: .\app\options.xml
+msgid ""
+"[AudioEngineOption]Enable &apos;Play overlaps&apos; for new audio tracks"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]Enable &apos;Play overlaps&apos; for new audio tracks"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[AutoSaveOption]Enable Autosave"
+msgstr ""
+
+#: .\app\multitrack.xml
+msgid "[MultitrackPropertyEditor]Enable Content Protection"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[DpiAwarenessOption]Enable High DPI Mode"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]Enable Listen Bus"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[FXEditorHeaderRow1]Enable Low Latency Monitoring"
+msgstr ""
+
+#: .\devices\synthrack.xml
+msgid "[SynthRack]Enable Low Latency Monitoring"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptionsMPE]Enable MPE"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector.ProgramSelector]Enable Program"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[VirtualInstrumentPlayer.ProgramSelector]Enable Program"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid ""
+"[MusicPatternToolsHeader]Enable Record / Step Record @cmd[Step Record|Enable]"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[SpectrumMeterSettings]Enable Smoothing"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreSetupContent]Enable Transposition"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[EditingOption]Enable crosshair cursor for tools"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]Enable crosshair cursor for tools"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[GraphicsEngineOption]Enable graphics hardware acceleration"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[AudioSetup.Engine]Enable low latency monitoring for instruments"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[MusicOption]Enable retrospective recording"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid ""
+"[SpectrumMeterSettings]Enable slope compensation (+3dB/oct. for Pink Noise)"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[ConsoleOption]Enable undo"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[NoteEventProperties]End"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[EventProperties]End"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordEventProperties]End"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventPropertiesList]End"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioPartProperties]End"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[MusicPartProperties]End"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.OptionsPart]End"
+msgstr ""
+
+#: .\app\options.xml
+msgid ""
+"[MusicOption]Enlarge record part to reveal notes recorded during precount"
+msgstr ""
+
+#: .\engine\tracklistinspector.xml
+msgid "[TrackListEmbeddedInspector]Envelopes"
+msgstr ""
+
+#: .\project\burn.xml
+msgid "[BurnerSelectDialog]Erase"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid ""
+"[NoteRepeatMasterControls]Erase Notes in Record Mix Mode @cmd[Record Mode|"
+"Note Erase]"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoPlayer]Error Loading Video"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[Command]Event"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[EditingOption]Event Appearance"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventFXAndPropertiesList]Event Effects are currently offline"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid ""
+"[AudioEventFXAndPropertiesList]Event Effects processing in realtime, click "
+"to render"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventFXAndPropertiesList]Event Effects rendered, click to restore"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventFXAndPropertiesList]Event Effects, click to activate"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventFXAndPropertiesList]Event Effects, click to disable"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventFXAndPropertiesList]Event FX"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[EventProperties]Event Properties"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[NoEventProperties]Event Properties"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioPartProperties]Event Properties"
+msgstr ""
+
+#: .\app\importsongdata.xml
+msgid "[ImportSongDataOptions]Events"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[StripSilencePanel.EventsPart]Events"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[AddPlayerDialog.InstrumentOptions]Existing Instrument"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[ShowPerformanceContent]Exit Performance"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[AudioTrackControls]Expand Envelopes"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[MusicTrackControls]Expand Envelopes"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[BasicFolderTrackControls]Expand Envelopes"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[BasicAutomationTrackControls]Expand Envelopes"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[AudioTrackControls]Expand Layers"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[MusicTrackControls]Expand Layers"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[EditingOption]Expand layers after recording takes"
+msgstr ""
+
+#: .\app\about.xml
+msgid "[LicenseZone]Expiration Date:"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[AudioExport]Export Mixdown"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[AudioExport]Export Range"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Export Range"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoExport]Export Range"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Export Stems"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoExport]Export Video"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[AudioIOSetup]Export..."
+msgstr ""
+
+#: .\devices\synthrack.xml
+msgid "[SynthRack]Extended"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[MixerManager]External"
+msgstr ""
+
+#: .\app\homepage.xml .\devices\devices.xml .\devices\musicdevices.xml
+msgid "[Command]External Devices"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceRack]External Devices"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Command]External Sync Options"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoPlayer]Extract Audio"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[Analyser]FFT"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelSelector]FX"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[StripSilencePanel.EventsPart]Fade In"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.ActionPart]Fade Length"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[StripSilencePanel.EventsPart]Fade Out"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventPropertiesList]Fade-In"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectEventMiniProperties.Table]Fade-In"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventPropertiesList]Fade-Out"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectEventMiniProperties.Table]Fade-Out"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[ConsoleOption]Fader Mode"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Fast Forward"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ProjectTransport]Fast Forward"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ShowTransport]Fast Forward"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[NewsFeed]Feed not available."
+msgstr ""
+
+#: .\app\homepage.xml .\devices\transport.xml
+msgid "[Command]File"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventPropertiesList]File Tempo"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventMiniProperties.Table]File Tempo"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoCodecSelector]File Type"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[BrowserFileTypesOption]File Types shown in Browser"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[AudioExport]Filename"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoExport]Filename"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Filename Prefix"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[BrowserHomeContent]Files"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[Command]Fill Lane"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[FilterBar]Filter"
+msgstr ""
+
+#: .\ccl\pluginmanager.xml
+msgid "[PlugInManager]Filter"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]Filter"
+msgstr ""
+
+#: .\engine\tracklistinspector.xml
+msgid "[FindTrackPopup]Find Track"
+msgstr ""
+
+#: .\engine\audiotransform.xml
+msgid "[AudioTransformDialog]Fixed Tail"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[MusicTransformDialog]Fixed Tail"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[SurfaceMapping]Focus Device"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[ControlLinkView]Focus Device"
+msgstr ""
+
+#: .\engine\tracklistinspector.xml
+msgid "[TrackListEmbeddedInspector]Folder Tracks"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[ChordTrackControls]Follow"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicStepRecordPanel]Follow Q"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditorLeftPanel]Follow Quantize"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicStepRecordPanel]Follow Quantize"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[AudioTrackInspector]Follow chords"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]Follow chords"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Font"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[AudioExport]Format"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Format"
+msgstr ""
+
+#: .\engine\mediapool.xml
+msgid "[ConvertFilesDialog]Format"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[AudioFilePublisher]Format"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[ImageMaker]Format"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]Format of ruler and main time display"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongSetup]Frame Offset"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongSetup]Frame Rate"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[ShowSetup]Frame Rate"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[Analyser]Freeze"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[SplitterEditView]Frequency Split"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorToolBar]Full Score Page Layout"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[GadgetNavigator]Gadgets"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventPropertiesList]Gain"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectEventMiniProperties.Table]Gain"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventPropertiesList]Gain Envelope"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventMiniProperties.Table]Gain Envelope"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[NoteRepeater]Gate"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicPatternToolsHeader]Gate"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongSetup]Generator"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectSetup]Generator"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[ShowSetup]Generator"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[ArtistProfile]Genre"
+msgstr ""
+
+#: .\app\multitrack.xml
+msgid "[MultitrackPropertyEditor]Genre"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongMetaInfoOption]Genre"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[DetailedInfoTable]Genre"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[BrowserHomeContent]Get add-ons from $APPCOMPANY Shop"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[TrackList]Global Mute @cmd[Console|Global Mute]"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[TrackList]Global Solo @cmd[Console|Global Solo]"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditor]Global Track Visibility"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[AudioEditor]Global Track Visibility"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[TrackControlsButtonsHeader]Global Track Visibility"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Command]Goto Loop End"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Command]Goto Loop Start"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Command]Goto Next Event"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Command]Goto Next Marker"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Command]Goto Previous Event"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Command]Goto Previous Marker"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.Inplace]Grid"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.Detached]Grid"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.Inplace]Groove"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.Detached]Groove"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.TrackPart]Group"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[AudioTrackInspector]Group"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]Group"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[SurfacePlacementEditor]Group 1"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[SurfacePlacementEditor]Group 2"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[SurfacePlacementEditor]Group 3"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[SurfacePlacementEditor]Group 4"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[FolderTrackControlsContent]Group Tracks"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]Group assignment"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]Grouping"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.TrackPart]Guides"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[AudioSetup.Engine]Hardware Monitoring Available"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[SpectrumMeterSettings]Height"
+msgstr ""
+
+#: .\app\about.xml .\app\homepage.xml .\app\toolbar.xml
+msgid "[Command]Help"
+msgstr ""
+
+#: .\ccl\pluginmanager.xml
+msgid "[PlugInManager]Hide All"
+msgstr ""
+
+#: .\app\toolbar.xml .\app\windowclasses.xml
+msgid "[HistoryPanel]History"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]History"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[SpectrumMeterSettings]Hold"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[HomePage]Home"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ColorSchemeOption.Levels]Hue Shift"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[EULADialog]I Accept"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[EULADialog]I Decline"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[ActivationMode.Retail]I have purchased an upgrade of $APPNAME"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ServiceOption]I&apos;ll be careful, I promise!"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[MixerManager]I/O"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]I/O connections"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[FixedEBUR128Display]INT"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[LoudnessInfoTable]INT"
+msgstr ""
+
+#: .\app\multitrack.xml
+msgid "[MultitrackPropertyEditor]ISRC"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[DetailedInfoTable]ISRC"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[DocumentTemplateSaveDialog]Icon"
+msgstr ""
+
+#: .\app\multitrack.xml
+msgid "[MultitrackPropertyEditor]Identifier"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid ""
+"[UserLicenseDialog.OfflinePage]If your computer is not connected to the "
+"Internet, please take the following steps to activate $APPNAME:"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]Ignore Plug-In Latency"
+msgstr ""
+
+#: .\app\options.xml
+msgid ""
+"[AudioEngineOption]Ignore audio device timestamps (use system clock instead)"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectToolbar]Image"
+msgstr ""
+
+#: .\app\importsongdata.xml
+msgid "[ImportSongDataOptions]Import Song Data"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoPlayer]Import Video"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[AudioExport]Import to track"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Import to track"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[NewProject]Import tracks from DDP Image"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[AudioIOSetup]Import..."
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]In"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongSetup]Include effects when updating mastering file"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[FXEditorHeaderRow1]Include sources of bus channels without Mix FX"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[SaveNewVersionDialog]Incremental version"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongPopup.Info]Info"
+msgstr ""
+
+#: .\app\infoview.xml .\app\windowclasses.xml
+msgid "[InfoView]Info View"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Info View"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]Initial length of song"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]Initial tempo of song"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]Initial time signature of song"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[FxRackPlayerControls]Input"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[VirtualInstrumentPlayerControls]Input"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[AddPlayerDialog.AudioOptions]Input"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[AddPlayerDialog.InstrumentOptions]Input"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditorLeftPanel]Input Chord"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[SnapshotRecallOptionsContent]Input Controls"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[AudioSetup.Device]Input Latency"
+msgstr ""
+
+#: .\devices\musicfxeditor.xml
+msgid "[MusicFXRackSlotView]Input Mode"
+msgstr ""
+
+#: .\engine\recordpanel.xml
+msgid "[RecordPanel.Horizontal]Input Quantize"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]Input controls"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[MixerManager]Inputs"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[AudioIOSetup]Inputs"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[Command]Insert"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MarkerTrackInspector]Insert Marker @cmd[]"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[MarkerTrackControls]Insert Marker @cmd[]"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[Command]Insert Rest"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid ""
+"[SignatureTrackControls]Insert Signature @cmd[Edit|Insert Time Signature] "
+"@cmd[Edit|Insert Key Signature]"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[TempoTrackControls]Insert Tempo Change"
+msgstr ""
+
+#: .\app\importsongdata.xml
+msgid "[ImportSongDataOptions]Inserts"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[RoutingEditView]Inserts"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[SnapshotRecallOptionsContent]Inserts"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[EditGroupMiniProperties]Inserts"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventFXInserts]Inserts"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Inspector"
+msgstr ""
+
+#: .\ccl\contentinstaller.xml
+msgid "[ContentInstaller]Install"
+msgstr ""
+
+#: .\ccl\extensionmanager.xml
+msgid "[ExtensionAskInstallBox]Install"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[DemosFeedNotInstalled]Install Demos and Tutorials..."
+msgstr ""
+
+#: .\app\melodyne.xml
+msgid "[MelodynePlaceholder]Install Now"
+msgstr ""
+
+#: .\ccl\extensionmanager.xml
+msgid "[ExtensionManager.InstallMenu]Install from $APPCOMPANY Account"
+msgstr ""
+
+#: .\ccl\extensionmanager.xml
+msgid "[ExtensionManager.InstallMenu]Install from File..."
+msgstr ""
+
+#: .\ccl\contentinstaller.xml
+msgid "[ContentInstaller]Install from:"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[SoundSetOption]Install to:"
+msgstr ""
+
+#: .\ccl\contentinstaller.xml
+msgid "[ContentInstaller]Install to:"
+msgstr ""
+
+#: .\ccl\extensionmanager.xml
+msgid "[ExtensionManager]Install..."
+msgstr ""
+
+#: .\engine\mediapool.xml
+msgid "[LocateMissingFiles]Install..."
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[Command]Installation"
+msgstr ""
+
+#: .\ccl\contentinstaller.xml
+msgid ""
+"[ContentInstaller]Installation will continue in background. You can choose "
+"to skip this step now and install the content any time later from the "
+"$APPNAME menu."
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[MixerManager]Instr."
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[AudioSetup.Engine]Instrument"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditorChannelControls]Instrument"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[PatternInspector]Instrument"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ChordTrackInspector]Instrument"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[VirtualInstrumentPlayerControls]Instrument"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]Instrument Channel"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ChordTrackInspector]Instrument Channel"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[MusicTrackControlsContent]Instrument Channel"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditorChannelControls]Instrument Editor"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[PatternInspector]Instrument Editor"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]Instrument Editor"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ChordTrackInspector]Instrument Editor"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[TrackAutomationFirstRow]Instrument Editor"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[TrackAutomationContent]Instrument Editor"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[MusicTrackControlsFirstRow]Instrument Editor"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[MusicTrackControlsContent]Instrument Editor"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[IconMuteSoloName]Instrument Editor"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorParts]Instrument Input"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]Instrument Input"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[MusicTrackControlsContent]Instrument Input"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[ConsoleOption]Instrument Input follows Selection"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]Instrument Input follows Selection"
+msgstr ""
+
+#: .\engine\recordpanel.xml
+msgid "[RecordPanel.Horizontal]Instrument Loop Record"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]Instrument Output"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ChordTrackInspector]Instrument Output"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[MusicTrackControlsContent]Instrument Output"
+msgstr ""
+
+#: .\engine\tracklistinspector.xml
+msgid "[TrackListEmbeddedInspector]Instrument Tracks"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[ConsoleOption]Instrument track monitoring follows record"
+msgstr ""
+
+#: .\app\importsongdata.xml
+msgid "[ImportSongDataOptions]Instruments"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[BrowserHomeContent]Instruments"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelSelector]Instruments"
+msgstr ""
+
+#: .\devices\synthcombinator.xml
+msgid "[SynthCombinatorRouting]Instruments"
+msgstr ""
+
+#: .\devices\synthrack.xml
+msgid "[SynthRack]Instruments"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[FixedEBUR128Display]Integrated (EBU R128)"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[LoudnessInfoTable]Integrated (EBU R128)"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]Interfaces"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorMiniParts]Intervals"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorParts]Intervals"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordEventMiniProperties]Intervals"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MacroTargetCurve]Invert X"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MacroTargetCurve]Invert Y"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ShowTransport]Item Time"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[Analyser]K-12"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[Analyser]K-14"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[Analyser]K-20"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[DetachedFrameHeader]Keep Editor Open"
+msgstr ""
+
+#: .\devices\synthcombinator.xml
+msgid "[CombinatorContentTitleBar]Keep Editor Open"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]Keep FX channels to the right"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]Keep VCA channels to the right"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]Keep bus channels to the right"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Key"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ShowTransport]Key"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[NoteRepeater]Key Range for Key Remote"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[NoteRepeatMasterControls]Key Remote"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ChordTrackInspector]Key Signature"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]Key Signature"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetListItemProperties]Key Signature"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.LoopPart]L"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[LoudnessInfoTable]L"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[FixedEBUR128Display]LRA"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[LoudnessInfoTable]LRA"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[FixedEBUR128Display]LU"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[LoudnessInfoTable]LU"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[FixedEBUR128Display]LUFS"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[LoudnessInfoTable]LUFS"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[ShowPlayerTracks]Large"
+msgstr ""
+
+#: .\app\notion.xml
+msgid "[SendToNotionNoTargets]Launch Notion"
+msgstr ""
+
+#: .\app\notion.xml
+msgid "[SendToNotionInner]Launch Notion on this computer"
+msgstr ""
+
+#: .\app\importsongdata.xml
+msgid "[ImportSongDataOptions]Layers"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[AudioTrackInspector]Layers"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]Layers"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[TrackLayerSelector]Layers"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[TrackNameAndLayer]Layers"
+msgstr ""
+
+#: .\engine\tracklistinspector.xml
+msgid "[TrackListEmbeddedInspector]Layers"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[AudioTrackInspector]Layers follow events"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]Layers follow events"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorLeftPanel]Layout"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreSetupContent]Layout Style"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[DemosFeedNotInstalled]Learn how to use $APPNAME"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[ActivationMode.Subscription]Learn more about $CLOUDNAME"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[Command]Left"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[LoudnessInfoTable]Left Channel Average RMS (3 seconds integration)"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[LoudnessInfoTable]Left Channel DC Offset"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[LoudnessInfoTable]Left Channel True Peak"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditorLeftPanel]Length"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[NoteEventProperties]Length"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetListItemProperties]Length"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[SpectrumMeterSettings]Level Max"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[SpectrumMeterSettings]Level Min"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[SplitterEditView]Levels"
+msgstr ""
+
+#: .\app\about.xml
+msgid "[LicenseZone]License Type:"
+msgstr ""
+
+#: .\app\about.xml
+msgid "[LicenseZone]Licensed to:"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ColorSchemeOption.Plugins]Light"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ColorSchemeOption.Score]Light"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ColorSchemeOption.Levels]Light"
+msgstr ""
+
+#: .\app\toolbar.xml
+msgid "[ToolBar]Link Arrow and Range Tools"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[EditorToolBar]Link Arrow and Range Tools"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicPatternPartEditorContent]Link Horizontal and Vertical Zoom"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]Link expansion and visibility of folder tracks"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[FXEditorHeaderRow2]Link to DSP"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]Link visibility of Track List and Console"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[StripSilencePanel.DetectionPart]Linked"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[StripSilencePanel.EventsPart]Linked"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]Listen Bus"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[PatternInspector]Load"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[PatternInspector]Load Pattern Preset"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ColorSchemePresetOption]Load Preset"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Metronome]Load Preset"
+msgstr ""
+
+#: .\engine\mediapool.xml
+msgid "[LocateMissingFiles]Locate File..."
+msgstr ""
+
+#: .\engine\mediapool.xml
+msgid "[LocateMissingFiles]Locate Missing Files"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[EditingOption]Locate when clicked in empty space"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]Locate when clicked in empty space"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[AudioExport]Location"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Location"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoExport]Location"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[AudioFilePublisher]Location"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[ImageMaker]Location"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[SoundSetOption]Locations"
+msgstr ""
+
+#: .\engine\tracklistinspector.xml
+msgid "[MusicTrackListInspectorPanel]Lock Track List"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[ShowMetaInfoOption]Logo"
+msgstr ""
+
+#: .\engine\mediapool.xml .\engine\mediapreview.xml
+msgid "[AudioPreviewPlayer]Loop"
+msgstr ""
+
+#: .\engine\mediapool.xml .\engine\mediapreview.xml
+msgid "[MusicPreviewPlayer]Loop"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Loop Active @cmd[Transport|Toggle Loop]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ProjectTransport]Loop Active @cmd[Transport|Toggle Loop]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ShowTransport]Loop Active @cmd[Transport|Toggle Loop]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.LoopPart]Loop length: @property[controller.loopLength]"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[BrowserHomeContent]Loops"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectTrackInspector]Loudness Information"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[FixedEBUR128Display]Loudness Range (EBU R128)"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[LoudnessInfoTable]Loudness Range (EBU R128)"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[AudioSetup.Engine]Low Latency"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[AudioSetup.Engine]Low Latency Instrument Monitoring Active"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ColorSchemeOption.Levels]Luminance"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.MidiActivityPart]MIDI"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]MIDI Channels"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MidiMonitor]MIDI Filter"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.MidiActivityPart]MIDI Input"
+msgstr ""
+
+#: .\devices\surfaces.xml
+msgid "[SurfaceEditorLearn]MIDI Learn"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[SyncOption]MIDI Machine Control"
+msgstr ""
+
+#: .\app\windowclasses.xml .\devices\devices.xml
+msgid "[MidiMonitor]MIDI Monitor"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]MIDI Monitor"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.MidiActivityPart]MIDI Output"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[SyncOption]MIDI Time Code"
+msgstr ""
+
+#: .\devices\synthcombinator.xml
+msgid "[SynthCombinatorPageSelector]Macro Controls"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MacroControlsHeader]Macro Controls Mapping"
+msgstr ""
+
+#: .\devices\synthcombinator.xml
+msgid "[SynthCombinatorPageSelector]Macro Controls Mapping"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[SpectrumMeterSettings]Magnitude Range"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorParts]Major"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[AudioIOSetup]Make Default"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[ImageMaker]Make Image"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[Command]Manage Parameters"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[PlugInBrowserHeader]Manage Plug-Ins"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceAddDialog]Manufacturer"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceEditDialog]Manufacturer"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Margins"
+msgstr ""
+
+#: .\devices\transport.xml .\engine\trackcontrols.xml
+msgid "[Command]Marker"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MarkerTrackInspector]Marker"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[MarkerTrackEditorView]Marker"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[MarkerTrackControls]Marker"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[MarkerTrack]Marker Track"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[ProjectMarkerTrack]Marker Track"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.MasterPart]Master Volume"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[HomePage.HeaderFileTypes]Master and Release"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectTrackIcon]Mastering File Status / Edit Song"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[StripSilencePanel.DetectionPart]Material"
+msgstr ""
+
+#: .\engine\audiotransform.xml
+msgid "[AudioTransformDialog]Max Length"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[MusicTransformDialog]Max Length"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[DetachedFrameHeader]Maximize"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoPlayer]Maximize"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[TempoTrackControls]Maximum BPM"
+msgstr ""
+
+#: .\app\importsongdata.xml
+msgid "[ImportSongDataOptions]Media Options"
+msgstr ""
+
+#: .\engine\mediapool.xml
+msgid "[MediaPool]Media Pool"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[ShowPlayerTracks]Medium"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicPatternPartEditorContent]Melodic Mode"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.ActionPart]Merge"
+msgstr ""
+
+#: .\app\notion.xml
+msgid "[SendToNotionInner]Merge into open document"
+msgstr ""
+
+#: .\app\startup.xml
+msgid "[MessageWindow]Messages"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Messages"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Metronome"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ShowTransport]Metronome"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Metronome @cmd[Transport|Click]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ShowTransport]Metronome @cmd[Transport|Click]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Metronome]Metronome @cmd[Transport|Click]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Metronome]Metronome Active"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[MetronomeSetup]Metronome Setup"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Metronome Setup"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Metronome Setup"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ShowTransport]Metronome Setup"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Metronome]Metronome Setup"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[TempoTrackControls]Minimum BPM"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[StripSilencePanel.EventsPart]Minimum Length"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorParts]Minor"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MissingDeviceDialog]Missing Devices"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Mix"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ShowTransport]Mix"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoExport]Mixdown Options"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ColorSchemeOption.Levels]Mode"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.MarkerPart]Mode"
+msgstr ""
+
+#: .\engine\mediapool.xml .\engine\mediapreview.xml
+msgid "[PresetFileInfo]Modified:"
+msgstr ""
+
+#: .\devices\surfaces.xml
+msgid "[SurfaceKeyboardView]Modulation"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[EBUDetailValues]Momentary"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[TCMutablePlainButton]Monitor"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[MutablePlainButton]Monitor"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[AudioSetup.Engine]Monitoring Latencies"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]Monitoring follows record"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]Monitoring mutes playback (Tape style)"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[AudioExport]Mono"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoExport]Mono"
+msgstr ""
+
+#: .\app\melodyne.xml
+msgid "[MelodynePlaceholder.Link]More Information"
+msgstr ""
+
+#: .\app\notion.xml
+msgid "[SendToNotionNoTargets]More Information"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[KeySwitchListEditor]Move Item Down"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[KeySwitchListEditor]Move Item Up"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicStepRecordPanel]Move backward and undo"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorToolBar]Move backwards and undo"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicStepRecordPanel]Move forward"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Multi-Measure Rests"
+msgstr ""
+
+#: .\app\multitrack.xml
+msgid "[MultitrackPropertyEditor]Multitrack File Properties"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[MusicPartProperties]Music Part Properties"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[AutomationOption]Mute"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[TCMutablePlainButton]Mute"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[MutablePlainButton]Mute"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[SnapshotRecallOptionsContent]Mute"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[NoteEventProperties]Mute"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[MuteButtonView]Mute"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[IconMuteSoloName]Mute"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[EditGroupMiniProperties]Mute / Solo"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoPlayer]Mute Audio"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[SplitterEditView]Mute Output"
+msgstr ""
+
+#: .\ccl\extensionmanager.xml
+msgid "[ExtensionManager.FilterTabs]My Extensions"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[StorePresetDialog]Name"
+msgstr ""
+
+#: .\ccl\pluginmanager.xml
+msgid "[PlugInManager]Name"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]Name"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.PatternPart]Name"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[AddPlayerDialog]Name"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[MixerManager]Narrow / Normal"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[AudioSetup.Engine]Native Low Latency Monitoring Available"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[Command]Navigation"
+msgstr ""
+
+#: .\app\windowclasses.xml .\ccl\navigator.xml
+msgid "[Navigator]Navigator"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[AddPlayerDialog.InstrumentOptions]New Instrument"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[Command]New Project"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[NewProject]New Project"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[HomePage.HeaderFileTypes]New Project..."
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[Command]New Show"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[NewShow]New Show"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[HomePage.HeaderFileTypes]New Show..."
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[Command]New Song"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]New Song"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[HomePage.HeaderFileTypes]New Song..."
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[Command]New Variation"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[HomePage.RSS]News Feed"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[Command]Next"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[NextItemView]Next"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[SearchBar]Next Page"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[FXEditorHeaderRow1]Next Preset @cmd[]"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[FXEditorHeaderRow1]Next Program"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector.ProgramSelector]Next Program"
+msgstr ""
+
+#: .\engine\automation.xml
+msgid "[AutomationTrackDialog]Next Track"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[TaskListDialog]No"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[EventListDialog]No"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.PerformancePart]No Audio Device"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoPlayer]No Codec"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[UserLicenseDialog.ActivationPage]No Internet connection?"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[NoSetListItemProperties]No Setlist item selected"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[AudioChordEventInspector]No chord selected"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordInspectorContent]No chord selected"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[NoteEventInspector]No event selected"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[NoEventProperties]No event selected"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[EditingOption]No overlap when editing events"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]No overlap when editing events"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[NoPatternView]No pattern selected"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[SideChainSourceEmpty]No sources available"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[NoTrackEditor]No track selected"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[NoTrackInspector]No track selected"
+msgstr ""
+
+#: .\engine\mediapreview.xml
+msgid "[MusicClipPreview]No track selected"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]None"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[AudioFilePublisher]None"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[SplitterEditView]Normal"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[Project]Normal"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetList]Normal"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventPropertiesList]Normalize"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectEventMiniProperties.Table]Normalize"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Notation Size"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditor.ToolGroup2]Note Color"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditor.ToolGroup2]Note Coloring Scheme"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[NoteRepeatMasterControls]Note Erase"
+msgstr ""
+
+#: .\devices\synthcombinator.xml
+msgid "[SynthCombinatorRouting]Note FX"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector.FX]Note FX"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[TrackAutomationFirstRow]Note FX Editor"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[TrackAutomationContent]Note FX Editor"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[MusicTrackControlsFirstRow]Note FX Editor"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[MusicTrackControlsContent]Note FX Editor"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MidiMonitor]Note On/Off"
+msgstr ""
+
+#: .\app\windowclasses.xml .\devices\musicdevices.xml
+msgid "[NoteRepeater]Note Repeat"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Note Repeat"
+msgstr ""
+
+#: .\engine\recordpanel.xml
+msgid "[RecordPanel.Horizontal]Note Repeat"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid ""
+"[NoteRepeatMasterControls]Note Repeat Active @cmd[Record Mode|Note Repeat]"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorToolPaletteNotes]Notehead Symbol"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[TitleAlbumNotes]Notes"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid ""
+"[MusicDeviceSetup]Notify me if devices are unavailable when $APPNAME starts"
+msgstr ""
+
+#: .\app\notion.xml
+msgid ""
+"[SendToNotionNoTargets]Notion 6 or later must be installed on this computer "
+"or in the network. Studio One could not detect that Notion is currently "
+"running."
+msgstr ""
+
+#: .\app\notion.xml
+msgid "[SendToNotionInner]Notion on:"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[CurrentItemValueBarView]Now Playing"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ChordTrackInspector]Octave"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[Analyser]Octave"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.Sync]Off"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Metronome]Offbeat"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventFXAndPropertiesList]Offline"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[UserLicenseDialog.OfflinePage]Offline Activation Guide"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoOffset]Offset"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[ActivationMode.Retail]Old Product Key"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.Sync]On"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoPlayer]Online"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[Command]Open"
+msgstr ""
+
+#: .\app\soundselector.xml
+msgid "[SoundSetFileSelector]Open"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[TrackControlsButtonsHeader]Open Arranger Track"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Open CD Protocol"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[TrackControlsButtonsHeader]Open Chord Track"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.MidiActivityPart]Open MIDI Monitor"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Open Marker Track"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[TrackControlsButtonsHeader]Open Marker Track"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[TrackControlsButtonsHeader]Open Secondary Ruler"
+msgstr ""
+
+#: .\app\homepage.xml .\devices\transport.xml
+msgid "[Command]Open Setup"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Open Signature Track"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[TrackControlsButtonsHeader]Open Signature Track"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Open Tempo Track"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[TrackControlsButtonsHeader]Open Tempo Track"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[StripSilencePanel.DetectionPart]Open Threshold"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[HomePage.HeaderFileTypes]Open existing file"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[HomePage.HeaderFileTypes]Open..."
+msgstr ""
+
+#: .\ccl\overlays.xml
+msgid "[UserOptionDialog]Options"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[MixerManager]Options"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Metronome]Options"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[PerformanceMonitor.Cache]Options"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[AudioExport]Options"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Options"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[TrackControlsButtonsHeader]Options"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[AudioFilePublisher]Options"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[ImageMaker]Options"
+msgstr ""
+
+#: .\project\burn.xml
+msgid "[BurnerSelectDialog]Options"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Orientation"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid ""
+"[UserLicenseExpired]Otherwise, we look forward to your feedback on how we "
+"can make $APPNAME better for you. Please visit our forums with any feature "
+"requests."
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]Out"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ChordTrackInspector]Out"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[AudioExport]Output"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoExport]Output"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[BackingTrackPlayerControls]Output"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[FxRackPlayerControls]Output"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[AddPlayerDialog.AudioOptions]Output"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[AddPlayerDialog.InstrumentOptions]Output"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[AudioSetup.Device]Output Latency"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[FXEditorHeaderRow1]Outputs"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[MixerManager]Outputs"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[AudioIOSetup]Outputs"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceEditorHeaderView]Outputs"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[AudioExport]Overlap"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Overlap"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Overview"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[ShowToolbar]Overview"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Packages"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Page Layout"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Page Size"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[AutomationOption]Pan"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[SnapshotRecallOptionsContent]Pan"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[EditGroupMiniProperties]Pan"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[ParamMapper.LeftPart.Inner]Parameter"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[TrackInspectorAutomationControls]Parameter"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[ParamMapper]Parameter Mapping Control"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[ParamMapperTransparent]Parameter Mapping Control"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[FXEditorHeaderRow1]Passthrough"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[FXEditorHeaderRow2]Paste"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MacroTargetCurve]Paste"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[IconMuteSoloName]Patch Automation"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[PatchListColumnView]Patches"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[PatchSection]Patches"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[Command]Pattern"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[PatternInspector]Pattern"
+msgstr ""
+
+#: .\app\windowclasses.xml .\engine\editor.xml
+msgid "[MusicPatternPartEditor]Pattern Editor"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicPatternToolsHeader]Pattern Inspector"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetListItemProperties]Pause"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectTrackControlsContentMedium]Pause (Pre Track)"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[SpectrumMeterSettings]Peak Hold Speed"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[HoldValues]Peak Left [dB]"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[HoldValues]Peak Right [dB]"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[Analyser]Peak/RMS"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[ShowToolbar]Perform"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.PerformancePart]Performance"
+msgstr ""
+
+#: .\app\windowclasses.xml .\devices\transport.xml
+msgid "[PerformanceMonitor]Performance Monitor"
+msgstr ""
+
+#: .\app\windowclasses.xml .\devices\transport.xml
+msgid "[Command]Performance Monitor"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[PerspectiveSelector]PerspectiveSelector"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[Command]Piano View"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[NoteRepeater]Pitch"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[NoteEventProperties]Pitch"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[NoteControllerLaneHeader]Pitch"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MidiMonitor]Pitch Bend"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]Pitch Bend"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[PitchNameSetup]Pitch Names"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptionsMPE]Pitch Range"
+msgstr ""
+
+#: .\devices\surfaces.xml
+msgid "[SurfaceKeyboardView]Pitchbend"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceSetup]Placement..."
+msgstr ""
+
+#: .\engine\mediapool.xml .\engine\mediapreview.xml
+msgid "[AudioPreviewPlayer]Play"
+msgstr ""
+
+#: .\engine\mediapool.xml .\engine\mediapreview.xml
+msgid "[MusicPreviewPlayer]Play"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[MusicBounceDialog]Play"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoPlayer]Play"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Metronome]Play 6/8 click like 2 x 3/8 etc."
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioPartProperties]Play Mode"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ChordTrackInspector]Play Track"
+msgstr ""
+
+#: .\engine\mediapool.xml .\engine\mediapreview.xml
+msgid "[AudioPreviewPlayer]Play at song tempo"
+msgstr ""
+
+#: .\engine\mediapool.xml .\engine\mediapreview.xml
+msgid "[MusicPreviewPlayer]Play at song tempo"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[AudioTrackInspector]Play overlaps"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]Play overlaps"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[AudioSetup.Device]Playback Device"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetListItemControlsSmall]Playback Mode"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetListItemProperties]Playback Mode"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetListItemMiniProperties]Playback Mode"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ChordTrackInspector]Playback Octave"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ChordTrackInspector]Playback Velocity"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[PlayerSelectorView]Player"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[ShowPlayerHeader]Players"
+msgstr ""
+
+#: .\engine\mediapool.xml
+msgid "[MusicPreviewPlayer]Playing on"
+msgstr ""
+
+#: .\ccl\extensionmanager.xml
+msgid ""
+"[ExtensionManager]Please restart $APPNAME for the changes to take effect."
+msgstr ""
+
+#: .\app\windowclasses.xml .\ccl\browser.xml
+msgid "[Command]Plug-In Manager"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[BrowserHomeContent]Plug-In Manager"
+msgstr ""
+
+#: .\ccl\pluginmanager.xml
+msgid "[PlugInManager]Plug-In Manager"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[ConsoleOption]Plug-In Menu"
+msgstr ""
+
+#: .\engine\mediapool.xml .\engine\mediapreview.xml
+msgid "[PresetFileInfo]Plug-In:"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ColorSchemeOption.Plugins]Plug-Ins"
+msgstr ""
+
+#: .\app\plugscanner.xml
+msgid "[PlugInScanner]Plug-in Scanner"
+msgstr ""
+
+#: .\ccl\pluginmanager.xml
+msgid "[PlugInManager]Plug-ins"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MidiMonitor]Poly Pressure"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[BrowserHomeContent]Pool"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongMetaInfoOption]Pop-up when Song opens"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectTrackInspector]Post FX"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[StripSilencePanel.EventsPart]Post-Roll"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorParts]Power Chord"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectTrackInspector]Pre FX"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[StripSilencePanel.EventsPart]Pre-Roll"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[AudioEngineOption]Pre-record audio input"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Metronome]Precount"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Metronome]Precount / Preroll Bars"
+msgstr ""
+
+#: .\ccl\overlays.xml
+msgid "[UserOptionDialog]Preferences"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Metronome]Preroll"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Preroll @cmd[Transport|Preroll]"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[MusicTransformDialog]Preserve Instrument Track State"
+msgstr ""
+
+#: .\engine\audiotransform.xml
+msgid "[AudioTransformDialog]Preserve Realtime State"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Preserve mono tracks"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]Preserve order of channels with folder track"
+msgstr ""
+
+#: .\devices\synthrack.xml
+msgid "[AudioSynthRackSlotViewExtended]Preset"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[AddPlayerDialog.AudioOptions]Preset"
+msgstr ""
+
+#: .\ccl\browser.xml .\ccl\pluginmanager.xml .\devices\audiofxeditor.xml
+msgid "[Command]Presets"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[Command]Previous"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[SearchBar]Previous Page"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[FXEditorHeaderRow1]Previous Preset @cmd[]"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[FXEditorHeaderRow1]Previous Program"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector.ProgramSelector]Previous Program"
+msgstr ""
+
+#: .\engine\automation.xml
+msgid "[AutomationTrackDialog]Previous Track"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[Command]Print"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[AudioSetup.Engine]Process Block Size"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[AudioSetup.Engine]Process Precision"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventFXInserts]Process Volume after Event Effects"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[AudioSetup.Engine]Processing"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[UserLicenseDialog.SpliceActivation]Product Key"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[ActivationMode.Retail]Product Key"
+msgstr ""
+
+#: .\app\about.xml
+msgid "[LicenseZone]Product Key:"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector.ProgramSelector]Program"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[VirtualInstrumentPlayer.ProgramSelector]Program"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MidiMonitor]Program Change"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]Program Change"
+msgstr ""
+
+#: .\ccl\extensionmanager.xml
+msgid "[ExtensionManager.FilterTabs]Program Extensions"
+msgstr ""
+
+#: .\app\toolbar.xml
+msgid "[PerspectiveSelector]Project"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Project]Project"
+msgstr ""
+
+#: .\devices\transport.xml .\project\project.xml
+msgid "[Command]Project"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[ProjectEditor]Project Editor"
+msgstr ""
+
+#: .\ccl\overlays.xml
+msgid "[UserOptionDialog]Project Setup"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Command]Project Setup"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[NewProject]Project Title"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[ProjectToolbar]Project Toolbar"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[DocumentBlocks]Projects"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[AudioExport]Publishing"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Publishing"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[AudioFilePublisher]Publishing"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[ImageMaker]Publishing"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[NoteRepeater]Quantize"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.ActionPart]Quantize"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[EditorToolBar]Quantize"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizePanel]Quantize"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[Command]Quantize"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[SongToolbar]Quantize"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.ActionPart]Quantize Strength"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[EditorToolBar]Quantize Value"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[SongToolbar]Quantize Value"
+msgstr ""
+
+#: .\engine\recordpanel.xml
+msgid "[RecordPanel.Horizontal]Quantize played notes during record"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicStepRecordPanel]Quintuplet"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.TypePart]Quintuplet"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.LoopPart]R"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[LoudnessInfoTable]R"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[LoudnessInfoTable]R128"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.PerformancePart]RAM"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[PerformanceMonitor.Meters]RAM"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.PerformancePart]RAM Overload"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[LoudnessInfoTable]RMS"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[HoldValues]RMS Left [dB]"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[HoldValues]RMS Right [dB]"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[NoteRepeater]Range"
+msgstr ""
+
+#: .\devices\synthcombinator.xml
+msgid "[SynthNodeEditView]Range"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.OptionsPart]Range"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[SpectrumMeterSettings]Range"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[NoteRepeatMasterControls]Rate"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[BrowserHomeContent]Re-Index Presets"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[Command]Re-Index Presets"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[IconMuteSoloName]Read"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[AddPlayerDialog]Real Instrument"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[SnapshotRecallOptionsContent]Recall Input Channels"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[RecallMarkerPopup]Recall Marker"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[SnapshotRecallOptionsContent]Recall Options"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[SnapshotRecallOptionsContent]Recall Output Channels"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]Receive From"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MidiMonitor]Received"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[DocumentBlocks]Recent Files"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[ParamMapper.LeftPart.Inner]Recent Parameters"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[Command]Reconnect"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MidiMonitor]Reconnect..."
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceSetup]Reconnect..."
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[TCMutablePlainButton]Record"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[MutablePlainButton]Record"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[EditGroupMiniProperties]Record / Monitor"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Record @cmd[Transport|Record]"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[MusicBounceDialog]Record Input"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[AudioTrackControlsContent]Record Input"
+msgstr ""
+
+#: .\app\multitrack.xml
+msgid "[MultitrackPropertyEditor]Record Label"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[MusicBounceDialog]Record Level"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Record Max"
+msgstr ""
+
+#: .\engine\recordpanel.xml
+msgid "[RecordPanel.Horizontal]Record Mix"
+msgstr ""
+
+#: .\engine\recordpanel.xml
+msgid "[RecordPanel.Horizontal]Record Mode"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[AudioEngineOption]Record Offset"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[MusicOption]Record Offset"
+msgstr ""
+
+#: .\app\windowclasses.xml .\engine\recordpanel.xml
+msgid "[RecordPanel]Record Panel"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Record Panel"
+msgstr ""
+
+#: .\engine\recordpanel.xml
+msgid "[RecordPanel.Horizontal]Record Takes"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[HomePage.HeaderFileTypes]Record and Mix"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[AudioEngineOption]Record tempo information to audio files"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[AudioSetup.Device]Recording Device"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[KeySwitchListEditor]Redo"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[AutomationOption]Reduction level"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[HomePage.HeaderFileTypes]Rehearse and Perform"
+msgstr ""
+
+#: .\app\multitrack.xml
+msgid "[MultitrackPropertyEditor]Release Year"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[AudioSetup.Device]Release audio device in background"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[RemainingTimeView]Remaining"
+msgstr ""
+
+#: .\app\windowclasses.xml .\devices\transport.xml
+msgid "[RemainingRecordTime]Remaining Record Time"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Remaining Record Time"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Remaining Record Time"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Remaining Record Time (Low)"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelSelector]Remote"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[SoundSetOption]Remove"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[BrowserFileTypesOption]Remove"
+msgstr ""
+
+#: .\ccl\pluginmanager.xml
+msgid "[PlugInManager]Remove"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[AudioIOSetup]Remove"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceSetup]Remove"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.MarkerPart]Remove"
+msgstr ""
+
+#: .\engine\automation.xml
+msgid "[MusicEnvelopeDialog]Remove &gt;&gt;"
+msgstr ""
+
+#: .\engine\automation.xml
+msgid "[AutomationTrackDialog]Remove &gt;&gt;"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[Command]Remove Automation Lane"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ControlLane]Remove Automation Lane"
+msgstr ""
+
+#: .\engine\mediapool.xml
+msgid "[LocateMissingFiles]Remove File..."
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[ArtistProfile]Remove Image"
+msgstr ""
+
+#: .\app\multitrack.xml
+msgid "[MultitrackPropertyEditor]Remove Image"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[DocumentTemplateSaveDialog]Remove Image"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongMetaInfoOption]Remove Image"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[DetailedInfoTable]Remove Image"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetListHeader]Remove Image"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[ShowMetaInfoOption]Remove Image"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[MusicTransformDialog]Remove Instrument"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[LayerAspectRow1]Remove Layer"
+msgstr ""
+
+#: .\ccl\pluginmanager.xml
+msgid "[PlugInManager]Remove Plug-In Settings"
+msgstr ""
+
+#: .\ccl\pluginmanager.xml
+msgid "[Command]Remove Plug-In Settings"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MacroControlSetup]Remove Targets"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoPlayer]Remove Video"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Metronome]Render"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventFXAndPropertiesList]Render"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[MusicTransformDialog]Render All Channels"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Command]Render Click"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[RenderClick]Render Click"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[MusicTransformDialog]Render Inserts"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[RenderClick]Render Loop Range"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[RenderClick]Render Range"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid ""
+"[MusicTransformDialog]Render insert effects to audio. If disengaged, inserts "
+"are kept for realtime processing and automation."
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Metronome]Repeat Accent"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[NoteRepeater]Repeat Pitch for Single Mode"
+msgstr ""
+
+#: .\engine\recordpanel.xml
+msgid "[RecordPanel.Horizontal]Repeat Pitch for Single Mode"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[NoteRepeatMasterControls]Repeat Rate"
+msgstr ""
+
+#: .\engine\recordpanel.xml
+msgid "[RecordPanel.Horizontal]Replace"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[DocumentTemplateSaveDialog]Replace Existing..."
+msgstr ""
+
+#: .\engine\recordpanel.xml
+msgid ""
+"[RecordPanel.Horizontal]Replace overlapping data in record @cmd[Record Mode|"
+"Record Mode Replace]"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ColorSchemePresetOption]Reset"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MacroTargetCurve]Reset"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[PitchNameEditor]Reset"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[FixedEBUR128Display]Reset"
+msgstr ""
+
+#: .\ccl\pluginmanager.xml
+msgid "[PlugInManager]Reset Blocklist"
+msgstr ""
+
+#: .\ccl\pluginmanager.xml
+msgid "[Command]Reset Blocklist"
+msgstr ""
+
+#: .\ccl\pluginmanager.xml
+msgid "[PlugInManager]Reset Filter"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[AudioIOSetup]Reset to Default"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicPatternToolsHeader]Resolution"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]Resolution"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongSetup]Resolution"
+msgstr ""
+
+#: .\engine\audiocodec.xml
+msgid "[PCMEncoderOption]Resolution:"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorToolPaletteNotes]Rest"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicStepRecordPanel]Rest"
+msgstr ""
+
+#: .\ccl\extensionmanager.xml
+msgid "[ExtensionManager]Restart now"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.MarkerPart]Restore"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventFXAndPropertiesList]Restore"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceSlotAuxSetup]Restore Default"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[RestoreDocumentVersion]Restore Version"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[DemosFeed]Retrieving Feed... please wait..."
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[NewsFeed]Retrieving Feed... please wait..."
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]Retrospective Recording"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Return to Zero @cmd[Transport|Return to Zero]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ProjectTransport]Return to Zero @cmd[Transport|Return to Zero]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ShowTransport]Return to Zero @cmd[Transport|Return to Zero]"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[MusicOption]Reveal precount notes"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Rewind"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ProjectTransport]Rewind"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ShowTransport]Rewind"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[Command]Right"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[LoudnessInfoTable]Right Channel Average RMS (3 seconds integration)"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[LoudnessInfoTable]Right Channel DC Offset"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[LoudnessInfoTable]Right Channel True Peak"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditorLeftPanel]Root"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorMiniParts]Root"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorParts]Root"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordEventMiniProperties]Root"
+msgstr ""
+
+#: .\devices\synthcombinator.xml
+msgid "[SynthCombinatorPageSelector]Routing"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[SecondaryTimerulerTrackControls]Ruler"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid ""
+"[UserLicenseDialog.ActivationOptions]Run $APPNAMEFREE - the feature limited "
+"FREE version"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[AudioSetup.Device]Sample Rate"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Sample Rate"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ProjectTransport]Sample Rate"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ShowTransport]Sample Rate"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]Sample Rate"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongSetup]Sample Rate"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[NewProject]Sample Rate"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectSetup]Sample Rate"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[NewShow]Sample Rate"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[ShowSetup]Sample Rate"
+msgstr ""
+
+#: .\engine\audiocodec.xml
+msgid "[PCMEncoderOption]Sample Rate:"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]Sample rate used for playback and record"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ColorSchemeOption.Levels]Saturation"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[DocumentTemplateSaveDialog]Save As Template"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[CDProtocol]Save As..."
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceDialog.Icon]Save Attachment"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceSlotAuxSetup]Save Default"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[SaveNewVersionDialog]Save New Version"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[AutoSaveOption]Save Options"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[PatchSection]Save Patch"
+msgstr ""
+
+#: .\app\startup.xml
+msgid "[MessageWindow]Save as..."
+msgstr ""
+
+#: .\ccl\common.xml
+msgid ""
+"[SaveNewVersionDialog]Save current state as alternate version and continue "
+"working on original document."
+msgstr ""
+
+#: .\ccl\common.xml
+msgid ""
+"[SaveNewVersionDialog]Save current state as incremental version and update "
+"document to this version."
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditorLeftPanel]Scale"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[DpiAwarenessOption]Scaling"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[MixScenesManager]Scenes"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[EditScenesManager]Scenes"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ColorSchemeOption.Score]Score"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[Command]Score"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[Command]Score View"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[ScratchPad]Scratch Pad"
+msgstr ""
+
+#: .\app\windowclasses.xml .\engine\inspector.xml
+msgid "[Command]Scratch Pad"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[DocumentBlocks]Search"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[SearchBar]Search"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[BrowserMainTabs]Search @cmd.title[]"
+msgstr ""
+
+#: .\engine\mediapool.xml
+msgid "[LocateMissingFiles]Search in Folder..."
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[Command]SearchTag"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[SpectrumMeterSettings]Segment Height"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[Analyser]Segments"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Select"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[AudioFilePublisher]Select"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[ArtistProfile]Select Image"
+msgstr ""
+
+#: .\app\multitrack.xml
+msgid "[MultitrackPropertyEditor]Select Image"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[DocumentTemplateSaveDialog]Select Image"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongMetaInfoOption]Select Image"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[DetailedInfoTable]Select Image"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetListHeader]Select Image"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[ShowMetaInfoOption]Select Image"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetListItem]Select Item Color"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[LayerAspectRow1]Select Layer Color"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid "[UserLicenseDialog.OfflinePage]Select License File..."
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[TrackInspectorAutomationControls]Select Parameter"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[TrackInspectorAutomationControls]Select Parameter Color"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[AutomationColorAndSelect]Select Parameter Color"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[AutomationAspectFirstRow]Select Parameter Color"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditor.ToolGroup2]Select Part Automation with Notes"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[PlayerControls]Select Player Color"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[PlugInSelector]Select Plug-In"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[AudioTrackControls]Select Track Color"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[MusicTrackControls]Select Track Color"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[BasicFolderTrackControls]Select Track Color"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[BasicAutomationTrackControls]Select Track Color"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[BasicLayerAspectControls]Select Track Color"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[BasicAutomationAspectControls]Select Track Color"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[TrackControls]Select Track Color"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectTrackInspector]Select Track Color"
+msgstr ""
+
+#: .\engine\mediapool.xml
+msgid "[MusicClipPreview]Select an instrument track for playback"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[SelectScenePopup]Select scene"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[SnapshotRecallOptionsContent]Selected Channels only"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]Selection"
+msgstr ""
+
+#: .\app\notion.xml
+msgid "[SendToNotionInner]Send"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]Send MIDI Clock"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]Send MIDI Timecode"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]Send To"
+msgstr ""
+
+#: .\app\notion.xml
+msgid "[SendToNotionInner]Send audio files to Notion on:"
+msgstr ""
+
+#: .\app\notion.xml
+msgid "[SendToNotionInner]Send audio mixdown"
+msgstr ""
+
+#: .\app\notion.xml
+msgid "[SendToNotionInner]Send note data of entire song"
+msgstr ""
+
+#: .\app\notion.xml
+msgid "[SendToNotionInner]Send note data of selected tracks"
+msgstr ""
+
+#: .\app\notion.xml
+msgid "[SendToNotionDialog]Send to Notion"
+msgstr ""
+
+#: .\app\importsongdata.xml
+msgid "[ImportSongDataOptions]Sends"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[SnapshotRecallOptionsContent]Sends"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[EditGroupMiniProperties]Sends"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]Sends/Cue mix"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MidiMonitor]Sent"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicStepRecordPanel]Septuplet"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.TypePart]Septuplet"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ServiceOption]Services"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[Command]Set Every 2nd Step"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[Command]Set Every 4th Step"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Show]Setlist"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[SetListColumnView]Setlist"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetListHeader]Setlist"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[Setup]Setup"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[Command]Setup"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Command]Setup General"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[Command]Setup Meta Information"
+msgstr ""
+
+#: .\ccl\extensionmanager.xml
+msgid "[ExtensionManager.FilterTabs]Shared Extensions"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[Command]Shift Lane"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Shop"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[BrowserHomeContent]Shop"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[EBUDetailValues]Short-Term"
+msgstr ""
+
+#: .\app\toolbar.xml
+msgid "[PerspectiveSelector]Show"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[Command]Show"
+msgstr ""
+
+#: .\ccl\pluginmanager.xml
+msgid "[PlugInManager]Show All"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MidiMonitor]Show All"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[TrackControlsButtonsHeader]Show Automation @cmd[Track|Show Envelopes]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[PerformanceMonitor.CacheOptions]Show Cache Folder"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Show Channel Banks"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[Command]Show Cloud"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongMetaInfoOption]Show Copyright Notice"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[PerformanceMonitor]Show Devices"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[Command]Show Effects"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Show External Devices"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[Command]Show Files"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[BrowserListView]Show Gallery"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Show Groups (Channel List)"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Show Groups (Track List)"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Show Inputs"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Show Instrument Rack"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[Command]Show Instruments"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[BrowserHomeContent]Show Instruments and Note FX"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorLeftPanel]Show Layout Options"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[BrowserListView]Show List"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[Command]Show Loops"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[Analyser]Show Loudness Meter"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorLeftPanel]Show Musical Symbols"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Show Outputs"
+msgstr ""
+
+#: .\ccl\contentinstaller.xml
+msgid "[ContentInstaller]Show Packages"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MacroControlShowExpandButtonView]Show Pads"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MacroControlViewPadsSkinContent]Show Pads"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[Analyser]Show Peak and RMS (Norm Sine 0dBFS)"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[Command]Show Pool"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[Analyser]Show RMS on K-System 12 Scale"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[Analyser]Show RMS on K-System 14 Scale"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[Analyser]Show RMS on K-System 20 Scale"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Show Scenes (Console)"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Show Scenes (Track List)"
+msgstr ""
+
+#: .\ccl\overlays.xml
+msgid "[UserOptionDialog]Show Setup"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[Command]Show Shop"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[BrowserViewModeButtons]Show Thumbnails"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[NewShow]Show Title"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorLeftPanel]Show Track Settings"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[EditingOption]Show channel numbers in tracks"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]Show channel numbers in tracks"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[EditingOption]Show chords on events"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]Show chords on events"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[EditingOption]Show envelopes on instrument parts"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[EditingOption]Show event names"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]Show event names"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[BrowserHomeContent]Show files used in this Song"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[BrowserHomeContent]Show installed Effects"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]Show instrument part envelopes"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]Show track notes"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.MarkerPart]Show/Hide Bend Marker"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventFXAndPropertiesList]Show/Hide Event Effects"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[ControlsEditor]Show/Hide Preview"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[BasicFolderTrackControls]Show/Hide Tracks"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetListHeader]Show/Hide more"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditor]Show/hide Automation Lanes"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MPControlLaneControls]Show/hide Automation Lanes"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectTrackInspector]Show/hide Loudness Information"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[Project]Show/hide more"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[TrackControls]Show/hide more"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[DocumentBlocks]Shows"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[FXEditorHeaderRow1]Sidechain"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[SignatureEditor]Signature"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[SignatureTrackEditorView]Signature"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[SignatureTrackControls]Signature"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[NoteRepeatMasterControls]Single Mode"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorToolBar]Single Track Page Layout"
+msgstr ""
+
+#: .\app\plugscanner.xml
+msgid "[PlugInScanner]Skip"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[MusicBounceDialog]Skip Track"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[SpectrumMeterSettings]Slope"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[Project]Small"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetList]Small"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[ShowPlayerTracks]Small"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[MixerManager]Small / Large"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[SpectrumMeterSettings]Smooth"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[EditorToolBar]Snap"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[SongToolbar]Snap"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[EditorToolBar]Snap Timebase"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[SongToolbar]Snap Timebase"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicEditorLeftPanel]Snap Value"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[TCMutablePlainButton]Solo"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[MutablePlainButton]Solo"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[IconMuteSoloName]Solo"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[TCMutablePlainButton]Solo (Solo Safe use Shift)"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[MutablePlainButton]Solo (Solo Safe use Shift)"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[LayerAspectRow1]Solo Layer"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[ConsoleOption]Solo follows Selection"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]Solo follows Selection"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]Solo through Listen Bus"
+msgstr ""
+
+#: .\app\importsongdata.xml
+msgid "[ImportSongDataOptions]Song"
+msgstr ""
+
+#: .\app\toolbar.xml
+msgid "[PerspectiveSelector]Song"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Song]Song"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Inspector]Song"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[SongToolbar]Song"
+msgstr ""
+
+#: .\app\windowclasses.xml .\devices\transport.xml .\engine\songdialogs.xml
+msgid "[Command]Song"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[ShowToolbar]Song"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongSetup]Song End"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[SongInformation]Song Information"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Song Information"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongPopup]Song Information"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]Song Length"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongPopup.Notes]Song Notes"
+msgstr ""
+
+#: .\ccl\overlays.xml
+msgid "[UserOptionDialog]Song Setup"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongSetup]Song Start"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]Song Title"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[DocumentBlocks]Songs"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongMetaInfoOption]Songwriter"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[DetailedInfoTable]Songwriter"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[Analyser]Sono"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[PlugInBrowserHeader]Sort by: "
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[TagChainSelector]Sort by: "
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[PlugInBrowserPopup]Sort by: "
+msgstr ""
+
+#: .\engine\mediapool.xml
+msgid "[MediaPoolHeader]Sort by: "
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoCodecSelector]Source Format"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[FXEditorHeaderRow1]Sources"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Sources"
+msgstr ""
+
+#: .\ccl\contentinstaller.xml
+msgid "[ContentInstaller]Space available:"
+msgstr ""
+
+#: .\engine\mediapool.xml .\engine\mediapreview.xml
+msgid "[VolumeFileInfo]Space free:"
+msgstr ""
+
+#: .\ccl\contentinstaller.xml
+msgid "[ContentInstaller]Space required:"
+msgstr ""
+
+#: .\engine\mediapool.xml
+msgid "[VolumeFileInfo]Space used:"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[Analyser]Spectrum Mode"
+msgstr ""
+
+#: .\project\burn.xml
+msgid "[BurnerSelectDialog]Speed"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventPropertiesList]Speedup"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventMiniProperties.Table]Speedup"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]Split Channels"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[SplitterEditView]Split Mode"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[SplitterEditView]Splits"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[RoutingEditView]Splitter"
+msgstr ""
+
+#: .\devices\synthcombinator.xml
+msgid "[SynthCombinatorRouting]Splitter"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Staff Spacing"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]Staff Type"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[AudioSetup.Engine]Standard"
+msgstr ""
+
+#: .\app\toolbar.xml
+msgid "[PerspectiveSelector]Start"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[NoteEventProperties]Start"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[EventProperties]Start"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[MarkerEventProperties]Start"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordEventProperties]Start"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventPropertiesList]Start"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioPartProperties]Start"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[MusicPartProperties]Start"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.OptionsPart]Start"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetListItemProperties]Start"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Start @cmd[Transport|Start]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ProjectTransport]Start @cmd[Transport|Start]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ShowTransport]Start @cmd[Transport|Start]"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[TransportControlsView]Start @cmd[Transport|Start]"
+msgstr ""
+
+#: .\app\toolbar.xml
+msgid "[Command]Start Page"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Start]Start Page"
+msgstr ""
+
+#: .\engine\tracklistinspector.xml
+msgid "[FindTrackPopup]Start typing a track name..."
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[StepRecord]Step Record"
+msgstr ""
+
+#: .\app\windowclasses.xml .\engine\editor.xml
+msgid "[Command]Step Record"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorToolBar]Step Record"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicStepRecordPanel]Step Record"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicPatternToolsHeader]Steps"
+msgstr ""
+
+#: .\engine\mediapool.xml .\engine\mediapreview.xml
+msgid "[AudioPreviewPlayer]Stop"
+msgstr ""
+
+#: .\engine\mediapool.xml .\engine\mediapreview.xml
+msgid "[MusicPreviewPlayer]Stop"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[MusicBounceDialog]Stop"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoPlayer]Stop"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Stop @cmd[Transport|Stop]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ProjectTransport]Stop @cmd[Transport|Stop]"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ShowTransport]Stop @cmd[Transport|Stop]"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[TransportControlsView]Stop @cmd[Transport|Stop]"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[MarkerEventProperties]Stop at Marker"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[MarkerMiniProperties]Stop at Marker"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[PatternInspector]Store"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[PatternInspector]Store Pattern Preset"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[ColorSchemePresetOption]Store Preset"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[StorePresetDialog]Store Preset"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[Metronome]Store Preset"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[PitchNameEditor]Store Preset"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.PresetPart]Store Preset"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicStepRecordPanel]Straight"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.TypePart]Straight"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.ActionPart]Strength"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]Stretch audio files to Song tempo"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongSetup]Stretch audio files to Song tempo"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioPartProperties]Stretch events"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[StripSilencePanel]Strip Silence"
+msgstr ""
+
+#: .\app\notion.xml
+msgid ""
+"[SendToNotionNoTargets]Studio One can send instrument tracks and audio files "
+"to Notion. In Notion you can create a score and print parts for musicians."
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]Styles"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[StorePresetDialog]Subfolder"
+msgstr ""
+
+#: .\engine\audiotransform.xml
+msgid ""
+"[AudioTransformDialog]Support retransformation to audio track with insert "
+"effects."
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[MusicTransformDialog]Support retransformation to instrument track."
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[MixGroupManager]Suspend all groups"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[EditGroupManager]Suspend all groups"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[SuspendGroupPopup]Suspend group"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicPatternToolsHeader]Swing"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.TypePart]Swing"
+msgstr ""
+
+#: .\app\toolbar.xml
+msgid "[Command]Switch To Project"
+msgstr ""
+
+#: .\app\toolbar.xml
+msgid "[Command]Switch To Show"
+msgstr ""
+
+#: .\app\toolbar.xml
+msgid "[Command]Switch To Song"
+msgstr ""
+
+#: .\engine\audiotransform.xml
+msgid ""
+"[AudioTransformDialog]Switch between automatic tail detection and fixed tail "
+"of given length."
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid ""
+"[MusicTransformDialog]Switch between automatic tail detection and fixed tail "
+"of given length."
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorLeftPanel]Symbols"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel.Sync]Sync"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[SyncOption]Sync to External Devices"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid ""
+"[EditorToolBar]Synchronize Editor to Arrangement @cmd[Edit|Synchronize "
+"Editor to Arrangement]"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MidiMonitor]System Common"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MidiMonitor]System Exclusive"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid "[MidiMonitor]System Realtime"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]System Spacing"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[FixedEBUR128Display]TP"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[LoudnessInfoTable]TP"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]Tab Strings"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]Tab Type"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[TagPalette]Tag Palette"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[TagListEditBox]Tag Search"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[SearchBar]Tags"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[TagPalette]Tags"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[TagInspector]Tags:"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventFXInserts]Tail"
+msgstr ""
+
+#: .\engine\recordpanel.xml
+msgid "[RecordPanel.Horizontal]Takes to Layers"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Tap Tempo"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[NewShow]Templates"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Tempo"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ShowTransport]Tempo"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[AudioTrackInspector]Tempo"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]Tempo"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[TempoTrackControls]Tempo"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[Command]Tempo"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetListItemProperties]Tempo"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[TempoEditor]Tempo Editor"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreSetupContent]Tempos"
+msgstr ""
+
+#: .\project\burn.xml
+msgid "[BurnerSelectDialog]Test Write"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Text Font"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Text Size"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid ""
+"[AuthorizationHandlerError]Thank you for purchasing $APPNAME from the Mac "
+"App Store."
+msgstr ""
+
+#: .\app\licenser.xml
+msgid ""
+"[AppStoreWelcome.Intro]Thank you for purchasing $APPNAME from the Mac App "
+"Store."
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid ""
+"[VideoCodecSelector]The source codecs are not supported by the selected file "
+"type."
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[HomePage]There is a new version of $APPNAME available."
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[GhostDeviceEditor]This device is disabled!"
+msgstr ""
+
+#: .\devices\audiofxeditor.xml
+msgid "[GhostDeviceEditor]This device is not installed on your system!"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.MarkerPart]Threshold"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventPropertiesList]Threshold"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventMiniProperties.Table]Threshold"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[CurrentTimeView]Time"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[BigTimeDisplay]Time Display"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Time Display"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[BigTime]Time Display"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[EventProperties]Time Lock"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventPropertiesList]Time Lock"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioPartProperties]Time Lock"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[MusicPartProperties]Time Lock"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[EventNodeMiniProperties.Table]Time Lock"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventMiniProperties.Table]Time Lock"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[MusicPartMiniProperties.Table]Time Lock"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]Time Signature"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetListItemProperties]Time Signature"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[TimeScrollBar+Zoom]Time Zoom"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicPatternPartEditorContent]Time Zoom"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ShowTransport]Time in current Setlist Item"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ProjectTransport]Time in current Track"
+msgstr ""
+
+#: .\ccl\overlays.xml
+msgid "[ProgressStepView]Time remaining:"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[EditorToolBar]Timebase"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]Timebase"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[AutomationTrackInspector]Timebase"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[FolderTrackInspector]Timebase"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[SongToolbar]Timebase"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]Timebase"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongSetup]Timebase"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[MarkerTrackControls]Timebase: @value[]"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[ArrangerTrackControls]Timebase: @value[]"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[MusicOption]Timecode follows loop"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[RenderClick]Timeline Start To Song End"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[EditorToolBar]Timeruler Format"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[SongToolbar]Timeruler Format"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.TrackPart]Timestretch"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[AudioTrackInspector]Timestretch"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Timing"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ShowTransport]Timing"
+msgstr ""
+
+#: .\app\multitrack.xml
+msgid "[MultitrackPropertyEditor]Title"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[DocumentTemplateSaveDialog]Title"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongMetaInfoOption]Title"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[TitleAlbumNotes]Title"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[ShowPlayerHeader]Title"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[ShowMetaInfoOption]Title"
+msgstr ""
+
+#: .\app\melodyne.xml
+msgid ""
+"[MelodynePlaceholder]To activate this capability please install Melodyne."
+msgstr ""
+
+#: .\app\licenser.xml
+msgid ""
+"[AuthorizationHandlerError]To use this function a $APPCOMPANY Account is "
+"required. Please activate $APPNAME from the $APPNAME Activation menu first."
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[BrowserViewModeButtons]Toggle Tree Mode"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[PerformanceMonitor.Cache]Total"
+msgstr ""
+
+#: .\show\performance.xml
+msgid "[CurrentTimeView]Total"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[TransportPanel]Total Plug-In Delay"
+msgstr ""
+
+#: .\engine\mediapool.xml .\engine\mediapreview.xml
+msgid "[VolumeFileInfo]Total size:"
+msgstr ""
+
+#: .\engine\audioediting.xml
+msgid "[AudioBendPanel.TrackPart]Track"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorLeftPanel]Track"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[Command]Track"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[LayerAspectRow2]Track"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectTrackControlsLength]Track Length"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[TrackListInspector]Track List"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Track List"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[EditorLeftPanelHeader_TrackList]Track List"
+msgstr ""
+
+#: .\engine\tracklistinspector.xml
+msgid "[MusicTrackListInspectorPanel]Track List"
+msgstr ""
+
+#: .\engine\tracklistinspector.xml
+msgid "[ScoreTrackListInspectorPanel]Track List"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[MusicBounceDialog]Track Name"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongPopup.TrackNotes]Track Notes"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[AudioTrackInspector]Track Number"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]Track Number"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[AutomationMainContent]Track Number"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[TrackControlsMainContent]Track Number"
+msgstr ""
+
+#: .\app\importsongdata.xml
+msgid "[ImportSongDataOptions]Track Options"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ChordTrackInspector]Track Playback Enabled"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[ProjectTransport]Track Time"
+msgstr ""
+
+#: .\engine\tracklistinspector.xml
+msgid "[TrackListEmbeddedInspector]Track Visibility"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectTrackControlsLength]Track is disabled"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[AudioFilePublisher]Track range"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[TrackList]TrackList"
+msgstr ""
+
+#: .\app\importsongdata.xml
+msgid "[ImportSongDataOptions]Tracks"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelSelector]Tracks"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Tracks"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[AudioFilePublisher]Tracks"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[SongUpdater]Tracks"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[TransferManager]Transfers"
+msgstr ""
+
+#: .\app\windowclasses.xml
+msgid "[Command]Transfers"
+msgstr ""
+
+#: .\ccl\webfsbrowser.xml
+msgid "[TransferActivity]Transfers"
+msgstr ""
+
+#: .\engine\audiotransform.xml
+msgid "[AudioTransformDialog]Transform Audio Track"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[MusicTransformDialog]Transform Instrument Track"
+msgstr ""
+
+#: .\app\windowclasses.xml .\devices\transport.xml
+msgid "[TransportPanel]Transport"
+msgstr ""
+
+#: .\app\windowclasses.xml .\devices\transport.xml
+msgid "[Command]Transport"
+msgstr ""
+
+#: .\app\windowclasses.xml .\devices\transport.xml
+msgid "[ProjectTransport]Transport"
+msgstr ""
+
+#: .\app\windowclasses.xml .\devices\transport.xml
+msgid "[ShowTransport]Transport"
+msgstr ""
+
+#: .\devices\synthcombinator.xml
+msgid "[SynthNodeEditView]Transpose"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventPropertiesList]Transpose"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[MusicPartProperties]Transpose"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventMiniProperties.Table]Transpose"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[MusicPartMiniProperties.Table]Transpose"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]Transpose"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]Transposition"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[MusicStepRecordPanel]Triplet"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.TypePart]Triplet"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[FixedEBUR128Display]True Peak"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid ""
+"[UserLicenseDialog.ActivationOptions]Try the full version for a time limited "
+"demo period"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventPropertiesList]Tune"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventMiniProperties.Table]Tune"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[AudioTrackInspector]Tune Mode"
+msgstr ""
+
+#: .\ccl\pluginmanager.xml
+msgid "[PlugInManager]Turn Plug-In Formats on or off"
+msgstr ""
+
+#: .\ccl\pluginmanager.xml
+msgid "[PlugInManager]Type"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[NoteControllerLaneHeader]Type"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorMiniParts]Type"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorParts]Type"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordEventMiniProperties]Type"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[SuspendGroupPopup]Type group number or name"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[RecallMarkerPopup]Type marker number or name"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[SelectScenePopup]Type scene number or name"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid "[KeySwitchListEditor]Undo"
+msgstr ""
+
+#: .\engine\recordpanel.xml
+msgid "[RecordPanel.Horizontal]Undo All Loops"
+msgstr ""
+
+#: .\engine\recordpanel.xml
+msgid "[RecordPanel.Horizontal]Undo Last Loop"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[SurfacePlacementEditor]Ungrouped"
+msgstr ""
+
+#: .\ccl\extensionmanager.xml
+msgid "[ExtensionManager]Uninstall"
+msgstr ""
+
+#: .\engine\musicdialogs.xml
+msgid ""
+"[MusicTransformDialog]Unload instrument and remove it from the rack. This "
+"option is only available, if no other tracks are using the instrument."
+msgstr ""
+
+#: .\app\multitrack.xml
+msgid "[MultitrackPropertyEditor]Update"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectToolbar]Update"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectTrackInspector]Update Loudness"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[Command]Update Mastering Files"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[SongUpdater]Update Mastering Files"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[HomePage]Update Now"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[PatchSection]Update Patch"
+msgstr ""
+
+#: .\ccl\pluginmanager.xml
+msgid "[PlugInManager]Update Plug-Ins"
+msgstr ""
+
+#: .\ccl\pluginmanager.xml
+msgid "[Command]Update Plug-Ins"
+msgstr ""
+
+#: .\app\toolbar.xml
+msgid "[PerspectiveSelector]Upgrade"
+msgstr ""
+
+#: .\app\toolbar.xml
+msgid "[Command]Upgrade"
+msgstr ""
+
+#: .\project\burn.xml
+msgid "[BurnerSelectDialog]Use Burnproof"
+msgstr ""
+
+#: .\devices\musicdevices.xml
+msgid "[MusicDeviceOptions]Use MIDI Clock Start"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[AudioEngineOption]Use cache for timestretched audio files"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[AutoSaveOption]Use cached plug-in data on save"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[AudioEngineOption]Use dithering for playback and audio file export"
+msgstr ""
+
+#: .\devices\devices.xml
+msgid ""
+"[AudioSetup.Engine]Use native low latency monitoring instead of hardware "
+"monitoring"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[AudioFilePublisher]Use range of events"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[AudioFilePublisher]Use range of track markers"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[AudioExport]Use realtime processing"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Use realtime processing"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoExport]Use realtime processing"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[AudioFilePublisher]Use realtime processing"
+msgstr ""
+
+#: .\project\audiofile.xml
+msgid "[ImageMaker]Use realtime processing"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[AudioEngineOption]Use realtime processing to update mastering files"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoCodecSelector]Use source codecs"
+msgstr ""
+
+#: .\project\burn.xml
+msgid "[BurnerSelectDialog]Use temporary image file"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[AudioIOSetup.InputDeviceInfo]Used"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[AudioIOSetup.OutputDeviceInfo]Used"
+msgstr ""
+
+#: .\devices\transport.xml
+msgid "[PerformanceMonitor.Cache]Used"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[NewSong]User"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[NewShow]User"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid ""
+"[ContentLocationOption]User Data Location (Songs, Projects, Shows, Presets, "
+"etc.)"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelSelector]VCA"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]VCA connections"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[EnvelopePointMiniProperties.Table]Value"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[AutomationTrackInspector]Value"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[PatternInspector]Variations"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[NoteEventProperties]Velocity"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[MusicPartProperties]Velocity"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[MusicPartMiniProperties.Table]Velocity"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]Velocity"
+msgstr ""
+
+#: .\engine\inspector.xml
+msgid "[ChordTrackInspector]Velocity"
+msgstr ""
+
+#: .\engine\quantize.xml
+msgid "[QuantizeSetup.OptionsPart]Velocity"
+msgstr ""
+
+#: .\ccl\pluginmanager.xml
+msgid "[PlugInManager]Vendor"
+msgstr ""
+
+#: .\engine\mediapool.xml
+msgid "[PlugInFileInfo]Vendor:"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetListHeader]Venue"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[ShowMetaInfoOption]Venue"
+msgstr ""
+
+#: .\ccl\extensionmanager.xml
+msgid "[ExtensionPropertiesInplace]Version"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[NoteEventProperties]Vertical Snap On/Off"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoExport]Video"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoCodecSelector]Video Codec"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoExport]Video Format"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoPlayer]Video Not Loaded"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoPlayer]Video Offset"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoOffset]Video Offset"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoPlayer]Video Options"
+msgstr ""
+
+#: .\engine\videoplayer.xml
+msgid "[VideoPlayer]Video Support Not Installed"
+msgstr ""
+
+#: .\app\toolbar.xml .\app\windowclasses.xml .\ccl\browser.xml
+#: .\devices\transport.xml .\engine\editor.xml
+msgid "[Command]View"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[HomePage]View Release Notes"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[AddPlayerDialog]Virtual Instrument"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[ChannelOrganizerSetup]Visibility"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[SnapshotRecallOptionsContent]Visibility"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[InplaceOptions]Visibility"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[ArtworkPage]Visit Artist Website"
+msgstr ""
+
+#: .\engine\mediapool.xml
+msgid "[PackageVolumeInfo]Visit Website"
+msgstr ""
+
+#: .\engine\mediapool.xml
+msgid "[PlugInFileInfo]Visit Website"
+msgstr ""
+
+#: .\app\options.xml
+msgid "[AutomationOption]Volume"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[SnapshotRecallOptionsContent]Volume"
+msgstr ""
+
+#: .\devices\editgroups.xml
+msgid "[EditGroupMiniProperties]Volume"
+msgstr ""
+
+#: .\engine\mediapool.xml .\engine\mediapreview.xml
+msgid "[AudioPreviewPlayer]Volume"
+msgstr ""
+
+#: .\app\importsongdata.xml
+msgid "[ImportSongDataOptions]Volume &amp; Pan"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[ProjectFader]Volume: @value[]"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[Analyser]WF"
+msgstr ""
+
+#: .\app\about.xml
+msgid "[Command]Website"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[ArtistProfile]Website"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongMetaInfoOption]Website"
+msgstr ""
+
+#: .\app\licenser.xml
+msgid ""
+"[UserLicenseDialog.ActivationPage]Welcome! To authorize this computer for "
+"the use of $APPNAME, please select your version and activate it below."
+msgstr ""
+
+#: .\app\options.xml
+msgid "[StartupOption]When $APPNAME starts"
+msgstr ""
+
+#: .\app\melodyne.xml
+msgid ""
+"[MelodynePlaceholder]With Melodyne you can modify pitch, timing, loudness, "
+"and other properties of single notes in your audio material, from tiny "
+"intonation correction up to complete reworking."
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[AudioExport]Write tempo to audio files"
+msgstr ""
+
+#: .\engine\audioexport.xml
+msgid "[TrackExport]Write tempo to audio files"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[DocumentTemplateSaveDialog]X"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongMetaInfoOption]Year"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[TitleAlbumNotes]Year"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[DetailedInfoTable]Year"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[TaskListDialog]Yes"
+msgstr ""
+
+#: .\ccl\common.xml
+msgid "[EventListDialog]Yes"
+msgstr ""
+
+#: .\app\notion.xml
+msgid ""
+"[SendToNotionInner]You can also send audio files to Notion from the file "
+"browser."
+msgstr ""
+
+#: .\ccl\common.xml
+msgid ""
+"[ContentLocationSelector]You can change this location later in the "
+"Preference window."
+msgstr ""
+
+#: .\app\licenser.xml
+msgid ""
+"[AppStoreWelcome]You can then select $APPNAME Installation from the $APPNAME "
+"menu to install the additional content."
+msgstr ""
+
+#: .\app\licenser.xml
+msgid ""
+"[UserLicenseExpired]Your demo period has ended. We hope you enjoyed using "
+"$APPNAME and made some great music. If you would like to purchase a copy of "
+"$APPNAME now, please visit our shop or a local dealer."
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[Setup]Zero Latency Monitoring"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditor]Zoom"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorParts]b11"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorParts]b7"
+msgstr ""
+
+#: .\project\analyser.xml
+msgid "[FixedEBUR128Display]dB"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[LoudnessInfoTable]dB"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[TempoTrackControls]max"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[TempoTrackControls]min"
+msgstr ""
+
+#: .\devices\audiomixer.xml
+msgid "[AudioIOSetup.OutputDeviceInfo]mix"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorParts]sus2"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[ChordSelectorParts]sus4"
+msgstr ""
+
+#: .\app\homepage.xml
+msgid "[ArtistProfile]x"
+msgstr ""
+
+#: .\ccl\browser.xml
+msgid "[TagListItem]x"
+msgstr ""
+
+#: .\engine\songdialogs.xml
+msgid "[SongMetaInfoOption]x"
+msgstr ""
+
+#: .\project\project.xml
+msgid "[DetailedInfoTable]x"
+msgstr ""
+
+#: .\show\show.xml
+msgid "[SetListHeader]x"
+msgstr ""
+
+#: .\show\showdialogs.xml
+msgid "[ShowMetaInfoOption]x"
+msgstr ""

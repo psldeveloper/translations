@@ -1,0 +1,194 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+#: .\client.xml
+msgid "[SoundCloudManager]Add Tracks..."
+msgstr ""
+
+#: .\client.xml
+msgid "[TrackPropertyView]Allow external streams at 128 kbps"
+msgstr ""
+
+#: .\client.xml
+msgid "[TrackPropertyView]Artwork"
+msgstr ""
+
+#: .\client.xml
+msgid "[SoundCloudAuthorization]Attempt to connect with SoundCloud failed!"
+msgstr ""
+
+#: .\client.xml
+msgid "[TrackPropertyView]BPM"
+msgstr ""
+
+#: .\client.xml
+msgid "[SoundCloudAuthorization]Cancel"
+msgstr ""
+
+#: .\browser.xml
+msgid "[ClientPreview]Connect with SoundCloud"
+msgstr ""
+
+#: .\client.xml
+msgid "[NotSignedInView]Connect with SoundCloud"
+msgstr ""
+
+#: .\client.xml
+msgid "[SoundCloudManager]Connect with SoundCloud"
+msgstr ""
+
+#: .\client.xml
+msgid "[SoundCloudConnectDialog]Connect with SoundCloud"
+msgstr ""
+
+#: .\client.xml
+msgid "[SoundCloudManager]De-Authorize"
+msgstr ""
+
+#: .\client.xml
+msgid "[TrackPropertyView]Description"
+msgstr ""
+
+#: .\browser.xml
+msgid "[TrackPreview]Download"
+msgstr ""
+
+#: .\client.xml
+msgid "[TrackPropertyView]Genre"
+msgstr ""
+
+#: .\client.xml
+msgid "[TrackPropertyView]ISRC"
+msgstr ""
+
+#: .\client.xml
+msgid "[TrackPropertyView]Key"
+msgstr ""
+
+#: .\client.xml
+msgid "[TrackPropertyView]Keywords"
+msgstr ""
+
+#: .\client.xml
+msgid "[TrackPropertyView]Label Name"
+msgstr ""
+
+#: .\client.xml
+msgid "[TrackPropertyView]License"
+msgstr ""
+
+#: .\client.xml
+msgid "[TrackPropertyView]Make original downloadable"
+msgstr ""
+
+#: .\client.xml
+msgid "[TrackPropertyView]More info"
+msgstr ""
+
+#: .\client.xml
+msgid "[ActivityFeedItems]No recent activity."
+msgstr ""
+
+#: .\client.xml
+msgid "[SoundCloudManager]No track selected"
+msgstr ""
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Comments"
+msgstr ""
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Downloads"
+msgstr ""
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Favorites"
+msgstr ""
+
+#: .\browser.xml
+msgid "[UserPreview]Number of Followers"
+msgstr ""
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Followers"
+msgstr ""
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Playbacks"
+msgstr ""
+
+#: .\browser.xml
+msgid "[UserPreview]Number of Tracks"
+msgstr ""
+
+#: .\client.xml
+msgid "[StatsAreaView]Number of Tracks"
+msgstr ""
+
+#: .\client.xml
+msgid "[TrackPropertyView]Purchase URL"
+msgstr ""
+
+#: .\client.xml
+msgid "[TrackPropertyView]Release Name"
+msgstr ""
+
+#: .\client.xml
+msgid "[TrackPropertyView]Release date"
+msgstr ""
+
+#: .\client.xml
+msgid "[TrackPropertyView]Remove Image"
+msgstr ""
+
+#: .\client.xml
+msgid "[SoundCloudManager]Remove all"
+msgstr ""
+
+#: .\client.xml
+msgid "[SoundCloudAuthorization]Retry"
+msgstr ""
+
+#: .\client.xml
+msgid "[TrackPropertyView]Select Image"
+msgstr ""
+
+#: .\browser.xml
+msgid "[ClientPreview]SoundCloud Client"
+msgstr ""
+
+#: .\client.xml
+msgid "[SoundCloudManager]SoundCloud Client"
+msgstr ""
+
+#: .\client.xml
+msgid "[TrackPropertyView]This track is available publicly"
+msgstr ""
+
+#: .\client.xml
+msgid "[TrackPropertyView]Title"
+msgstr ""
+
+#: .\client.xml
+msgid "[TrackPropertyView]Track Type"
+msgstr ""
+
+#: .\client.xml
+msgid "[TrackPropertyView]Track info"
+msgstr ""
+
+#: .\client.xml
+msgid "[SoundCloudManager]Upload"
+msgstr ""
+
+#: .\client.xml
+msgid "[TrackPropertyView]Video URL"
+msgstr ""
+
+#: .\client.xml
+msgid "[SoundCloudAuthorization]Waiting for SoundCloud to respond..."
+msgstr ""
+
+#: .\client.xml
+msgid "[SoundCloudAuthorization]You are now connected to SoundCloud."
+msgstr ""
