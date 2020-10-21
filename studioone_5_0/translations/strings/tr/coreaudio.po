@@ -9,6 +9,8 @@ msgid "[CoreAudio]CoreAudio Support"
 msgstr "CoreAudio Desteği"
 
 #: .\coreaudiomain.cpp
-msgid "[CoreAudio]Support for low latency Audio Devices on OS X"
-msgstr "OS X sisteminde ses kartlarında düşük gecikme desteği"
+msgid "[CoreAudio]Support for low latency Audio Devices on macOS"
+msgstr ""
 
+#~ msgid "[CoreAudio]Support for low latency Audio Devices on OS X"
+#~ msgstr "OS X sisteminde ses kartlarında düşük gecikme desteği"

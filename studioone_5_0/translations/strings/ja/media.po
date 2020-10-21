@@ -92,6 +92,10 @@ msgstr "ドリアン"
 msgid "[Resolution]Dotted"
 msgstr "付点あり"
 
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Edit Key Signature"
+msgstr "調号を編集"
+
 #: .\envelopes\envelopefunctions.cpp
 msgid "[Events]Edit Value"
 msgstr "値を編集"
@@ -119,6 +123,10 @@ msgstr "イベントを挿入"
 #: .\events\eventfunctions.cpp
 msgid "[EventFunctions]Insert Events"
 msgstr "イベントを挿入"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Insert Key Signature"
+msgstr "調号を挿入"
 
 #: .\envelopes\envelopeactions.cpp
 msgid "[EnvelopeActions]Insert Point"
@@ -165,6 +173,10 @@ msgid "[MusicalScale]Major Pentatonic"
 msgstr "メジャーペンタトニック"
 
 #: .\music\musicalscale.cpp
+msgid "[MusicalScale]Major Triad"
+msgstr "メジャートライアド"
+
+#: .\music\musicalscale.cpp
 msgid "[MusicalScale]Melodic Minor"
 msgstr "メロディックマイナー"
 
@@ -179,6 +191,10 @@ msgstr "マイナー"
 #: .\music\musicalscale.cpp
 msgid "[MusicalScale]Minor Pentatonic"
 msgstr "マイナーペンタトニック"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Minor Triad"
+msgstr "マイナートライアド"
 
 #: .\music\musicalscale.cpp
 msgid "[MusicalScale]Mixolydian"
@@ -323,6 +339,10 @@ msgstr "クオンタイズ"
 #: .\music\beatlistparam.cpp
 msgid "[Resolution]Quintuplet"
 msgstr "5連符"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Remove Key Signature"
+msgstr "調号を削除"
 
 #: .\music\notecontroller.cpp
 msgid "[NoteController]Remove Note Controller \"%(1)\""

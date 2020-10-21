@@ -98,7 +98,7 @@ msgstr "A"
 
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Accent"
-msgstr "(Acento)"
+msgstr "Acento"
 
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Accent with Staccatissimo"
@@ -144,6 +144,10 @@ msgstr "Arpejo abaixo"
 msgid "[ScoreSymbols]Arpeggio up"
 msgstr "Arpejo acima"
 
+#: .\editor\tools\scoreselecttool.cpp
+msgid "[ScoreSelectTool]Arrow Tool"
+msgstr "Ferramenta Seta"
+
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Articulation"
 msgstr "Articulação"
@@ -168,6 +172,18 @@ msgstr "B"
 msgid "[Command]Back"
 msgstr "Voltar"
 
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Banjo, 4-string"
+msgstr "Banjo, 4 cordas"
+
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Banjo, 5-string"
+msgstr "Banjo, 5 cordas"
+
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Banjo, mountain"
+msgstr "Banjo, mountain"
+
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Barline"
 msgstr "Linha de compasso"
@@ -176,6 +192,10 @@ msgstr "Linha de compasso"
 msgid "[ScoreInstrument]Basic"
 msgstr "Básico"
 
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Bass"
+msgstr "Baixo"
+
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Bass 8vb Clef"
 msgstr "Clave de Fa 8vb"
@@ -183,6 +203,14 @@ msgstr "Clave de Fa 8vb"
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Bass Clef"
 msgstr "Clave de Fa"
+
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Bass, 5-string"
+msgstr "Baixo, 5 cordas"
+
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Bass, 6-string"
+msgstr "Baixo, 6 cordas"
 
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Beaming"
@@ -200,6 +228,10 @@ msgstr "Inferior Esquerdo"
 msgid "[ScorePageText]Bottom Right"
 msgstr "Inferior Direito"
 
+#: .\scoredata\scoreinstrumentregistry.cpp
+msgid "[ScoreInstrument]Brass"
+msgstr "Metais"
+
 #: .\scorebase\scorescale.cpp
 msgid "[ScoreScale]C"
 msgstr "C"
@@ -215,6 +247,18 @@ msgstr "Círculo-X"
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Clef"
 msgstr "Clave"
+
+#: .\editor\scorepagelayout.cpp
+msgid "[Notation]Concert Pitch"
+msgstr "Altura de Concerto"
+
+#: .\editor\scorepagelayout.cpp
+msgid "[Notation]Concert Tuning"
+msgstr "Afinação de Concerto"
+
+#: .\editor\scorepagelayout.cpp
+msgid "[Notation]Continous"
+msgstr "Contínuo"
 
 #: .\scorebase\lookups\pagetextlookups.cpp
 msgid "[ScorePageText]Copyright"
@@ -308,7 +352,15 @@ msgstr "Nota Dupla Semibreve"
 msgid "[ScoreSymbols]Double Whole Rest"
 msgstr "Pausa Dupla Semibreve"
 
-#: .\editor\scoreeditcomponent.cpp
+#: .\editor\tools\scoreselecttool.cpp
+msgid "[ScoreSelectTool]Draw Selection"
+msgstr "Desenhar Seleção"
+
+#: .\scoredata\scoreinstrumentregistry.cpp
+msgid "[ScoreInstrument]Drums / Cymbals"
+msgstr "Bateria / Pratos"
+
+#: .\editor\scorepartsetup.cpp
 msgid "[Notation]Drumset"
 msgstr "Kit de Bateria"
 
@@ -327,6 +379,14 @@ msgstr "Dinâmica"
 #: .\scorebase\scorescale.cpp
 msgid "[ScoreScale]E"
 msgstr "E"
+
+#: .\editor\scorepagelayout.cpp
+msgid "[Notation]Each Measure"
+msgstr "Cada Compasso"
+
+#: .\editor\scorepagelayout.cpp
+msgid "[Notation]Each System"
+msgstr "Cada Sistema"
 
 #: .\editor\scoreeditcomponent.cpp
 msgid "[Command]Edit"
@@ -460,9 +520,29 @@ msgstr "Nota Graciosa"
 msgid "[ScoreSymbols]Grace Quarter Note"
 msgstr "Nota Graciosa Seminima"
 
-#: .\editor\scoreeditcomponent.cpp
+#: .\editor\scorepartsetup.cpp
 msgid "[Notation]Grand Staff"
 msgstr "Sistema"
+
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Guitar"
+msgstr "Violão"
+
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Guitar, 7-string"
+msgstr "Violão, 7 cordas"
+
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Guitar, drop D"
+msgstr "Violão, drop D"
+
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Guitar, open D"
+msgstr "Violão, D aberto"
+
+#: .\scoredata\scoreinstrumentregistry.cpp
+msgid "[ScoreInstrument]Guitars / Basses"
+msgstr "Violões / Baixos"
 
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Hairpins"
@@ -548,13 +628,33 @@ msgstr "Inserir Trilo"
 msgid "[ScoreSymbols]Key signature"
 msgstr "Armadura"
 
+#: .\scoredata\scoreinstrumentregistry.cpp
+msgid "[ScoreInstrument]Keyboards / Harp"
+msgstr "Teclados / Harpa"
+
+#: .\editor\scorepagelayout.cpp
+msgid "[Notation]Landscape"
+msgstr "Paisagem"
+
 #: .\scoredata\scoreinstrumentmanager.cpp
 msgid "[Notation]Loading Sound '%(1)'"
 msgstr "Carregando Som '%(1)'"
 
+#: .\editor\scorecontinuousheaderview.cpp
+msgid "[ScoreView]Locate"
+msgstr "Localizar"
+
+#: .\editor\tools\scoreselecttool.cpp
+msgid "[ScoreSelectTool]Locate"
+msgstr "Localizar"
+
 #: .\editor\scoreeditcomponent.cpp
 msgid "[Command]Locate Selection"
 msgstr "Localizar Seleção"
+
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Mandolin"
+msgstr "Mandolin"
 
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Mezzo-staccato"
@@ -568,9 +668,21 @@ msgstr "Mezzoforte"
 msgid "[ScoreSymbols]Mezzopiano"
 msgstr "Mezzopiano"
 
-#: .\editor\tools\scoreselecttool.cpp
+#: .\editor\tools\scoreitemdraghandler.cpp
 msgid "[Notation]Modify Score Object"
 msgstr "Modificar Objeto da Partitura"
+
+#: .\editor\tools\scoreselecttool.cpp
+msgid "[ScoreSelectTool]Move Score Item"
+msgstr "Mover Item da Partitura"
+
+#: .\editor\scorecontinuousheaderview.cpp
+msgid "[ScoreView]Move, Zoom"
+msgstr "Mover, Zoom"
+
+#: .\editor\tools\scoreselecttool.cpp
+msgid "[ScoreSelectTool]Move, Zoom"
+msgstr "Mover, Zoom"
 
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Natural"
@@ -583,6 +695,10 @@ msgstr "Navegação"
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Neutral Clef"
 msgstr "Clave de Percussão"
+
+#: .\editor\scorepagelayout.cpp
+msgid "[Notation]None"
+msgstr "Nada"
 
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Normal"
@@ -608,13 +724,37 @@ msgstr "Sinais de Oitava"
 msgid "[ScorePageText]Odds"
 msgstr "Ímpares"
 
-#: .\editor\scoreeditcomponent.cpp
-msgid "[Notation]Organ"
-msgstr "Órgão"
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]One Octave Higher"
+msgstr "Uma Oitava Acima"
+
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]One Octave Lower"
+msgstr "Uma Oitava Abaixo"
+
+#: .\editor\tools\scoreselecttool.cpp
+msgid "[ScoreSelectTool]Open Selection Range"
+msgstr "Abrir Faixa de Seleção"
+
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Other"
+msgstr "outro"
+
+#: .\scoredata\scoreinstrumentregistry.cpp
+msgid "[ScoreInstrument]Other Percussion"
+msgstr "Outra Percussão"
 
 #: .\scorebase\lookups\pagetextlookups.cpp
 msgid "[ScorePageText]Page Number"
 msgstr "Número de Página"
+
+#: .\editor\scorepagelayout.cpp
+msgid "[Notation]Pages Across"
+msgstr "Páginas Através"
+
+#: .\editor\scorepagelayout.cpp
+msgid "[Notation]Pages Down"
+msgstr "Páginas Abaixo"
 
 #: .\scorebase\lookups\pagetextlookups.cpp
 msgid "[ScorePageText]Part Name"
@@ -636,10 +776,6 @@ msgstr "Inicia Pedal"
 msgid "[ScoreSymbols]Pedal up"
 msgstr "Libera pedal"
 
-#: .\editor\scoreeditcomponent.cpp
-msgid "[Notation]Percussion"
-msgstr "Percussão"
-
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Percussion Clef"
 msgstr "Clave de Percussão"
@@ -660,9 +796,17 @@ msgstr "Piano pianissimo"
 msgid "[ScoreSymbols]Piano piano pianissimo"
 msgstr "Piano piano pianissimo"
 
+#: .\scoredata\scoreinstrumentregistry.cpp
+msgid "[ScoreInstrument]Pitched Percussion"
+msgstr "Percussão Melódica"
+
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Portamento"
 msgstr "Portamento"
+
+#: .\editor\scorepagelayout.cpp
+msgid "[Notation]Portrait"
+msgstr "Retrato"
 
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Quarter Note"
@@ -671,6 +815,10 @@ msgstr "Nota Semínima"
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Quarter Rest"
 msgstr "Pausa Semínima"
+
+#: .\scorebase\scoreactions.cpp
+msgid "[Notation]Rename Instrument"
+msgstr "Renomear Instrumento"
 
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Repeat end"
@@ -684,6 +832,26 @@ msgstr "Repetição inicial"
 msgid "[ScoreSymbols]Rest"
 msgstr "Interv./Pausa"
 
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Same Octave"
+msgstr "Mesma Oitava"
+
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Same Octave Higher"
+msgstr "Mesma Oitava Acima"
+
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Same Octave Lower"
+msgstr "Mesma Oitava Abaixo"
+
+#: .\scoredata\scoreinstrumentregistry.cpp
+msgid "[ScoreInstrument]Saxophones"
+msgstr "Saxofones"
+
+#: .\editor\tools\scoreselecttool.cpp
+msgid "[ScoreSelectTool]Select"
+msgstr "Selecionar"
+
 #: .\editor\scoreeditcomponent.cpp
 msgid "[Notation]Select All In Grand Staff"
 msgstr "Selecionar Tudo no Sistema"
@@ -696,9 +864,61 @@ msgstr "Selecionar Tudo no Pentagrama"
 msgid "[Notation]Select Clef"
 msgstr "Selecionar Clave"
 
-#: .\editor\scoreeditcomponent.cpp
-msgid "[Notation]Set Staff type"
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Set Abbreviation"
+msgstr "Ajustar Abreviação"
+
+#: .\scorebase\scoreactions.cpp
+msgid "[Notation]Set Instrument Transposition"
+msgstr "Ajustar Transposição de Instrumento"
+
+#: .\editor\scorepagelayout.cpp
+msgid "[Notation]Set Measure Numbering"
+msgstr "Ajustar Numeração de Compasso"
+
+#: .\editor\scorepagelayout.cpp
+msgid "[Notation]Set Multi-Measure Rests"
+msgstr "Ajustar Pausas de Multiplos Compassos"
+
+#: .\editor\scorepagelayout.cpp
+msgid "[Notation]Set Notation Size"
+msgstr "Ajustar Tamanho da Notação"
+
+#: .\editor\scorepagelayout.cpp
+msgid "[Notation]Set Page Orientation"
+msgstr "Ajustar Orientação da Página"
+
+#: .\editor\scorepagelayout.cpp
+msgid "[Notation]Set Paper Format"
+msgstr "Ajustar Formato do papel"
+
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Set Part Name"
+msgstr "Ajustar Nome da Parte"
+
+#: .\editor\scorepagelayout.cpp
+msgid "[Notation]Set Staff Spacing"
+msgstr "Ajustar Espaçamento de Pauta"
+
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Set Staff Type"
 msgstr "Configurar Tipo de Pentagrama"
+
+#: .\editor\scorepagelayout.cpp
+msgid "[Notation]Set System Spacing"
+msgstr "Ajustar Espaçamento de Sistema"
+
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Set Tablature Tuning"
+msgstr "Ajustar Afinação de Tablatura"
+
+#: .\editor\scorepagelayout.cpp
+msgid "[Notation]Set Transpose Mode"
+msgstr "Ajustar Modo de Transposição"
+
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Set Transposition"
+msgstr "Ajustar Transposição"
 
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Sforzando"
@@ -728,6 +948,10 @@ msgstr "Sforzato fortissimo"
 msgid "[ScoreSymbols]Sharp"
 msgstr "Sustenido"
 
+#: .\editor\scorepagelayout.cpp
+msgid "[Notation]Show System Breaks"
+msgstr "Exibir Pausas de Sistemas"
+
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Signature"
 msgstr "Fórmula de Compasso"
@@ -735,6 +959,10 @@ msgstr "Fórmula de Compasso"
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Single Barline"
 msgstr "Linha de Compasso"
+
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Single Line"
+msgstr "Linha Única"
 
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Sixteenth Note"
@@ -768,6 +996,10 @@ msgstr "Legato"
 msgid "[ScoreSymbols]Soprano Clef"
 msgstr "Clave de Dó (Soprano)"
 
+#: .\scoredata\scoreinstrumentregistry.cpp
+msgid "[ScoreInstrument]Special"
+msgstr "Especial"
+
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Staccatissimo"
 msgstr "Staccatissimo"
@@ -776,15 +1008,11 @@ msgstr "Staccatissimo"
 msgid "[ScoreSymbols]Staccato"
 msgstr "Staccato"
 
-#: .\editor\scoreeditcomponent.cpp
-msgid "[Notation]Staff type"
-msgstr "Tipo de Pentagrama"
-
-#: .\editor\scoreeditcomponent.cpp
+#: .\editor\scorepartsetup.cpp
 msgid "[Notation]Standard"
 msgstr "Padrão"
 
-#: .\editor\scoreeditcomponent.cpp
+#: .\editor\scorepartsetup.cpp
 msgid "[Notation]Standard + TAB"
 msgstr "Padrão + TAB"
 
@@ -795,6 +1023,10 @@ msgstr "Gravação Passo-a-Passo"
 #: .\editor\scoresteprecord.cpp
 msgid "[Command]Step Record"
 msgstr "Gravação Passo-a-Passo"
+
+#: .\scoredata\scoreinstrumentregistry.cpp
+msgid "[ScoreInstrument]Strings"
+msgstr "Cordas"
 
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Strong Accent"
@@ -816,7 +1048,7 @@ msgstr "Acento Forte com Tenuto"
 msgid "[ScorePageText]Subtitle"
 msgstr "Legenda"
 
-#: .\editor\scoreeditcomponent.cpp
+#: .\editor\scorepartsetup.cpp
 msgid "[Notation]Tablature"
 msgstr "Tablatura"
 
@@ -835,6 +1067,10 @@ msgstr "Ligadura"
 #: .\editor\tools\editnoteaction.cpp
 msgid "[Notation]Tie Notes"
 msgstr "Notas em Ligadura"
+
+#: .\editor\scorecontinuousheaderview.cpp
+msgid "[ScoreView]Time Ruler"
+msgstr "Régua de Tempo"
 
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Time signature"
@@ -863,6 +1099,10 @@ msgstr "Transporte"
 #: .\editor\scoreeditmodel.cpp
 msgid "[Notation]Transpose Selection"
 msgstr "Transposição da Seleção"
+
+#: .\editor\scorepagelayout.cpp
+msgid "[Notation]Transposed"
+msgstr "Transposto"
 
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Treble 15ma Clef"
@@ -928,6 +1168,30 @@ msgstr "Trilo (natural)"
 msgid "[ScoreSymbols]Trill (sharp)"
 msgstr "Trilo (sustenido)"
 
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Two Octaves Higher"
+msgstr "Duas Oitavas Acima"
+
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Two Octaves Lower"
+msgstr "Duas Oitavas Abaixo"
+
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Ukulele"
+msgstr "Ukulele"
+
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Ukulele, baritone"
+msgstr "Ukulele, barítono"
+
+#: .\editor\scorepartsetup.cpp
+msgid "[Notation]Ukulele, low G"
+msgstr "Ukulele, G grave"
+
+#: .\scoredata\scoreinstrumentregistry.cpp
+msgid "[ScoreInstrument]Vocal"
+msgstr "Voz"
+
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]Whole Note"
 msgstr "Nota Semibreve"
@@ -936,12 +1200,24 @@ msgstr "Nota Semibreve"
 msgid "[ScoreSymbols]Whole Rest"
 msgstr "Pausa Semibreve"
 
+#: .\scoredata\scoreinstrumentregistry.cpp
+msgid "[ScoreInstrument]Woodwinds"
+msgstr "Madeiras"
+
 #: .\editor\scoresymbolpalette.cpp
 msgid "[ScoreSymbols]X-Symbol"
 msgstr "Símbolo-X"
 
+#: .\editor\scorecontinuousheaderview.cpp
+msgid "[ScoreView]Zoom"
+msgstr "Zoom"
+
 #: .\editor\scoreeditcomponent.cpp
 msgid "[Command]Zoom"
+msgstr "Zoom"
+
+#: .\editor\tools\scoreselecttool.cpp
+msgid "[ScoreSelectTool]Zoom"
 msgstr "Zoom"
 
 #: .\editor\scoreeditcomponent.cpp
@@ -972,8 +1248,8 @@ msgstr "mais rápido"
 msgid "[ScoreInstrument]in"
 msgstr "En"
 
-#: .\layout\scorepasteup.cpp
-msgid "[ScorePasteUp]in"
+#: .\layout\process\scorelayoutprocessor.cpp
+msgid "[Notation]in"
 msgstr "En"
 
 #: .\scorebase\lookups\adjustlookups.cpp
@@ -999,4 +1275,19 @@ msgstr "transposição abaixo"
 #: .\scorebase\lookups\adjustlookups.cpp
 msgid "[ScoreAdjustment]transpose up"
 msgstr "transposição acima"
+
+#~ msgid "[Notation]Organ"
+#~ msgstr "Órgão"
+
+#~ msgid "[Notation]Percussion"
+#~ msgstr "Percussão"
+
+#~ msgid "[Notation]Set Staff type"
+#~ msgstr "Configurar Tipo de Pentagrama"
+
+#~ msgid "[Notation]Staff type"
+#~ msgstr "Tipo de Pentagrama"
+
+#~ msgid "[ScorePasteUp]in"
+#~ msgstr "En"
 

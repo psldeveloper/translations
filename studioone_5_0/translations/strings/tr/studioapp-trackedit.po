@@ -85,6 +85,10 @@ msgid "Default"
 msgstr "Varsayılan"
 
 #: .\translation.js
+msgid "[TrackEdit]Extend by Grid"
+msgstr ""
+
+#: .\translation.js
 msgid "[TrackEdit]Extract to Chord Track"
 msgstr "Akor İzine Çıkar"
 
@@ -106,7 +110,7 @@ msgstr "Enstrüman"
 
 #: .\translation.js
 msgid "[TrackEdit]Invert Track Selection"
-msgstr ""
+msgstr "İz seçimini tersine çevir"
 
 #: .\translation.js
 msgid "[TrackEdit]Merge Events"
@@ -170,7 +174,7 @@ msgstr "Sessize alınmış klipleri seç"
 
 #: .\translation.js
 msgid "[TrackEdit]Select Muted Tracks"
-msgstr ""
+msgstr "Sessize alınmış izleri seç"
 
 #: .\translation.js
 msgid "[TrackEdit]Send to Back"
@@ -183,6 +187,10 @@ msgstr "Öne Al"
 #: .\translation.js
 msgid "[TrackEdit]Separate Shared Copies"
 msgstr "Paylaşılmış Kopyaları Ayır"
+
+#: .\translation.js
+msgid "[TrackEdit]Shorten by Grid"
+msgstr ""
 
 #: .\translation.js
 msgid "[TrackEdit]Split at Grid"

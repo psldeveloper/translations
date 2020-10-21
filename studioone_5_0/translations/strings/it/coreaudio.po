@@ -9,6 +9,9 @@ msgid "[CoreAudio]CoreAudio Support"
 msgstr "Supporto CoreAudio"
 
 #: .\coreaudiomain.cpp
-msgid "[CoreAudio]Support for low latency Audio Devices on OS X"
-msgstr "Supporto a bassa latenza per Dispositivi Audio su OS X"
+msgid "[CoreAudio]Support for low latency Audio Devices on macOS"
+msgstr "Supporto a bassa latenza per Dispositivi Audio su macOS"
+
+#~ msgid "[CoreAudio]Support for low latency Audio Devices on OS X"
+#~ msgstr "Supporto a bassa latenza per Dispositivi Audio su OS X"
 

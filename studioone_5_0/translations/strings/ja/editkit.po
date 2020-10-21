@@ -100,8 +100,8 @@ msgstr "データズームアウト"
 msgid "[Command]Delete"
 msgstr "削除"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Denominator"
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Denominator"
 msgstr "分母"
 
 #: .\quantize\quantizelength.cpp
@@ -136,14 +136,27 @@ msgstr "共有を複製"
 msgid "[Command]Duplicate and Insert"
 msgstr "複製して挿入"
 
-#: .\events\eventeditcomponent.cpp .\timeedit\snaptimeprovider.cpp
-#: .\timeedit\timeeditcomponent.cpp .\timeedit\timelinecomponent.cpp
-#: .\timeedit\timeselectioncomponent.cpp .\timeedit\timesnapper.cpp
+#: .\events\eventeditcomponent.cpp .\timeedit\signatureeditlayer.cpp
+#: .\timeedit\snaptimeprovider.cpp .\timeedit\timeeditcomponent.cpp
+#: .\timeedit\timelinecomponent.cpp .\timeedit\timeselectioncomponent.cpp
+#: .\timeedit\timesnapper.cpp
 msgid "[Command]Edit"
 msgstr "編集"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Edit Time Signature"
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Edit Key Signature"
+msgstr "調号を編集"
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Edit Key Signature"
+msgstr "調号を編集"
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Edit Time Signature"
+msgstr "拍子を編集"
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Edit Time Signature"
 msgstr "拍子を編集"
 
 #: .\timeedit\timerulerview.cpp
@@ -198,6 +211,14 @@ msgstr "グルーヴ"
 msgid "[Command]Insert"
 msgstr "挿入"
 
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Insert Key Signature"
+msgstr "調号を挿入"
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Insert Key Signature"
+msgstr "調号を挿入"
+
 #: .\music\keyswitcheditview.cpp
 msgid "[KeySwitches]Insert Key Switch"
 msgstr "キースイッチを挿入"
@@ -210,8 +231,12 @@ msgstr "ポイントを挿入"
 msgid "[Tempo]Insert Tempo"
 msgstr "テンポを挿入"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Insert Time Signature"
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Insert Time Signature"
+msgstr "拍子を挿入"
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Insert Time Signature"
 msgstr "拍子を挿入"
 
 #: .\music\keyswitcheditview.cpp
@@ -234,8 +259,8 @@ msgstr "最後のイベント拡張"
 msgid "[EventEditHandler]Length: %(1)"
 msgstr "長さ: %(1)"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Locate"
+#: .\timeedit\timeeditmodel.cpp
+msgid "[TimeEdit]Locate"
 msgstr "検索"
 
 #: .\timeedit\timeeditcomponent.cpp
@@ -330,8 +355,8 @@ msgstr "カーソルへ移動"
 msgid "[Command]Move to Cursor"
 msgstr "カーソルへ移動"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Move, Zoom"
+#: .\timeedit\timeeditmodel.cpp
+msgid "[TimeEdit]Move, Zoom"
 msgstr "移動、ズーム"
 
 #: .\music\musicedittasks.cpp
@@ -398,9 +423,17 @@ msgstr "上にナッジ"
 msgid "[Command]Nudge Up Fine"
 msgstr "上に細かくナッジ"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Numerator"
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Numerator"
 msgstr "分子"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Edit]Open Secondary Ruler"
+msgstr "セカンダリルーラーを開く"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Open Secondary Ruler"
+msgstr "セカンダリルーラーを開く"
 
 #: .\music\musicedittasks.cpp
 msgid "[MusicEdit]Operations specific to note events"
@@ -502,12 +535,24 @@ msgstr "ズームをやり直す"
 msgid "[TimeSnapper]Relative Grid"
 msgstr "相対グリッド"
 
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Remove Key Signature"
+msgstr "調号を削除"
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Remove Key Signature"
+msgstr "調号を削除"
+
 #: .\tempo\tempoeditmodel.cpp
 msgid "[Tempo]Remove Tempo"
 msgstr "テンポを削除"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Remove Time Signature"
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Remove Time Signature"
+msgstr "拍子を削除"
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Remove Time Signature"
 msgstr "拍子を削除"
 
 #: .\timeedit\timelinecomponent.cpp
@@ -694,8 +739,8 @@ msgstr "カーソル位置で分割"
 msgid "[Command]Split at Cursor"
 msgstr "カーソル位置で分割"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Start/Stop"
+#: .\timeedit\timeeditmodel.cpp
+msgid "[TimeEdit]Start/Stop"
 msgstr "スタート/停止"
 
 #: .\timeedit\timelinecomponent.cpp
@@ -713,6 +758,10 @@ msgstr "カーブを直線に"
 #: .\events\eventedithandler.cpp
 msgid "[EventFigures]Stretch"
 msgstr "ストレッチ"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Swap Ruler Formats"
+msgstr "ルーラーフォーマットを交換"
 
 #: .\tempo\tempoeditcomponent.cpp
 msgid "[Command]Tempo"
@@ -810,10 +859,6 @@ msgstr "表示"
 msgid "[Command]Zoom"
 msgstr "ズーム"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Zoom"
-msgstr "ズーム"
-
 #: .\timeedit\timelinecomponent.cpp
 msgid "[Command]Zoom Full"
 msgstr "フルズーム"
@@ -865,6 +910,33 @@ msgstr "選択へズーム"
 #: .\timeedit\timelinecomponent.cpp
 msgid "[Command]Zoom to Selection Horizontally"
 msgstr "選択へ水平ズーム"
+
+#~ msgid "[TimeRulerView]Denominator"
+#~ msgstr "分母"
+
+#~ msgid "[TimeRulerView]Edit Time Signature"
+#~ msgstr "拍子を編集"
+
+#~ msgid "[TimeRulerView]Insert Time Signature"
+#~ msgstr "拍子を挿入"
+
+#~ msgid "[TimeRulerView]Locate"
+#~ msgstr "検索"
+
+#~ msgid "[TimeRulerView]Move, Zoom"
+#~ msgstr "移動、ズーム"
+
+#~ msgid "[TimeRulerView]Numerator"
+#~ msgstr "分子"
+
+#~ msgid "[TimeRulerView]Remove Time Signature"
+#~ msgstr "拍子を削除"
+
+#~ msgid "[TimeRulerView]Start/Stop"
+#~ msgstr "スタート/停止"
+
+#~ msgid "[TimeRulerView]Zoom"
+#~ msgstr "ズーム"
 
 #~ msgid "[TimeEditModel]Move to Cursor"
 #~ msgstr "カーソルへ移動"

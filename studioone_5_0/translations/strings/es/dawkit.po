@@ -108,6 +108,10 @@ msgstr "Adjuntar pista"
 msgid "[Command]Apply Patch"
 msgstr "Aplicar patch"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Apply Staff Preset"
+msgstr "Aplicar preset de pentagrama"
+
 #: .\project\publish\audiodiscpublisher.cpp
 msgid "[AudioDiscPublisher]Arranger"
 msgstr "Arreglador"
@@ -215,6 +219,10 @@ msgstr "Contenido"
 #: .\show\editing\setlistitemcomponent.cpp
 msgid "[SetListItem]Continue"
 msgstr "Continuar"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Continuous"
+msgstr "Contínua"
 
 #: .\score\scoreeditor.cpp
 msgid "[ScoreEditor]Convert to Grand Staff"
@@ -462,6 +470,10 @@ msgstr "No se pudo escribir el vídeo."
 msgid "[Command]File"
 msgstr "Archivo"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]First Only"
+msgstr "Sólo el primero"
+
 #: .\project\editing\projecteditcomponent.cpp
 msgid "[Command]First Track"
 msgstr "Primera pista"
@@ -489,6 +501,10 @@ msgstr "Ir al marcador anterior"
 #: .\song\songvideohandler.cpp
 msgid "[Video]Half Size"
 msgstr "Mitad de tamaño"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Hide Tempos"
+msgstr "Ocultar tempos"
 
 #: .\project\publish\audiodiscpublisher.cpp
 msgid "[AudioDiscPublisher]ISRC"
@@ -544,6 +560,10 @@ msgstr "Insertar nombrado"
 msgid "[SetList]Item"
 msgstr "Elemento"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Large"
+msgstr "Grande"
+
 #: .\project\editing\projecteditcomponent.cpp
 msgid "[Command]Last Track"
 msgstr "Última pista"
@@ -593,6 +613,10 @@ msgstr "Crear imagen"
 #: .\show\editing\showeditcomponent.cpp .\song\songmarker.cpp
 msgid "[Command]Marker"
 msgstr "Marcador"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Medium"
+msgstr "Medio"
 
 #: .\show\document\showsetup.cpp
 msgid "[ShowSetup]Meta Information"
@@ -704,9 +728,17 @@ msgstr "No"
 msgid "[BurnerDialog]No Device"
 msgstr "No hay ningún dispositivo"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]No Titles"
+msgstr "Sin títulos"
+
 #: .\show\model\showplayer.cpp
 msgid "[Player]None"
 msgstr "Ninguno"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Normal"
+msgstr "Normal"
 
 #: .\project\editing\projectedittasks.cpp
 msgid "[AudioEdit]Normalize Audio"
@@ -747,6 +779,10 @@ msgstr "Abrir pista se tempo"
 #: .\project\publish\audiodiscpublisher.cpp
 msgid "[AudioDiscPublisher]Opening the CD Burning Engine failed."
 msgstr "Falló motor de grabación de CD al abrir."
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Pages"
+msgstr "Páginas"
 
 #: .\score\scoreeditor.cpp
 msgid "[ScoreEditor]Paint Tool"
@@ -828,6 +864,10 @@ msgstr "Elemento anterior de la lista"
 #: .\project\editing\projecteditcomponent.cpp
 msgid "[Command]Previous Track"
 msgstr "Pista anterior"
+
+#: .\score\scoreeditor.cpp
+msgid "[Command]Print"
+msgstr "Imprimir"
 
 #: .\project\document\projectcomponent.cpp
 #: .\project\editing\projecteditcomponent.cpp
@@ -976,6 +1016,10 @@ msgstr "Guardar patch"
 #: .\show\model\showplayer.cpp
 msgid "[Player]Save Patch..."
 msgstr "Guardar patch..."
+
+#: .\score\scoreeditor.cpp
+msgid "[Command]Score"
+msgstr "Partitura"
 
 #: .\score\scoreeditor.cpp
 msgid "[ScoreEditor]Select All"
@@ -1193,6 +1237,10 @@ msgstr "Ajustar título del elemento de la lista"
 msgid "[Command]Set Start and End to Selection"
 msgstr "Establecer principio y fin para la selección"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Set Text Font"
+msgstr "Ajustar fuente del texto"
+
 #: .\project\model\projectfunctions.cpp
 msgid "[ProjectFunctions]Set Track Pause"
 msgstr "Ajuste de pausa de pista"
@@ -1200,6 +1248,10 @@ msgstr "Ajuste de pausa de pista"
 #: .\song\songvideohandler.cpp
 msgid "[Command]Set Video Offset"
 msgstr "Establecer Video Offset"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Setup Page"
+msgstr "Configuración de página"
 
 #: .\show\document\performancecomponent.cpp .\show\document\showcomponent.cpp
 #: .\show\editing\setlistcomponent.cpp .\show\editing\showeditcomponent.cpp
@@ -1216,9 +1268,21 @@ msgstr "Actuación"
 msgid "[Show]Show Setup"
 msgstr "Mostrar configuración"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Show Tempos"
+msgstr "Mostrar tempos"
+
 #: .\song\songcontroller.cpp
 msgid "[Command]Show in Explorer/Finder"
 msgstr "Mostara en Explorador/Buscador"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Single Track"
+msgstr "Pista única"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Small"
+msgstr "Pequeña"
 
 #: .\show\model\showplayer.cpp
 msgid "[Command]Solo"
@@ -1327,6 +1391,10 @@ msgstr "Hubo un error durante la creación de la imagen!"
 #: .\project\publish\projectpublisher.cpp
 msgid "[ProjectPublisher]This project does not contain any enabled tracks."
 msgstr "Este proyecto no contiene ninguna pista habilitada."
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Tiny"
+msgstr "Pequeña"
 
 #: .\project\publish\audiodiscpublisher.cpp
 msgid "[AudioDiscPublisher]Title"
@@ -1460,6 +1528,10 @@ msgstr "Instrumento virtual"
 #: .\song\songvideorenderer.cpp
 msgid "[Video]Writing Video File..."
 msgstr "Escribiendo archivo de vídeo..."
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]X-Large"
+msgstr "Extra grande"
 
 #: .\song\songmaster.cpp
 msgid "[SongMaster]Yes"

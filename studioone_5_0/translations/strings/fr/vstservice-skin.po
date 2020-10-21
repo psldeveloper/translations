@@ -22,11 +22,11 @@ msgstr "Retirer"
 
 #: .\skin.xml
 msgid "[VSTUserOption]Reset Blocklist"
-msgstr "Réinitialiser la liste noire"
+msgstr "Réinitialiser la liste de blocage"
 
 #: .\skin.xml
 msgid "[Command]Reset Blocklist"
-msgstr "Réinitialiser la liste noire"
+msgstr "Réinitialiser la liste de blocage"
 
 #: .\skin.xml
 msgid "[VSTUserOption]Scan at startup"

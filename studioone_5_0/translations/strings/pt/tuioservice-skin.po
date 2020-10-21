@@ -6,7 +6,7 @@ msgstr ""
 
 #: .\option.xml
 msgid "[TUIOUserOption]Connect multi-touch device with monitor number"
-msgstr "Vincular dispositivo multi-toque ao número de monitor"
+msgstr "Vincular dispositivo multi-toque monitor"
 
 #: .\option.xml
 msgid "[TUIOUserOption]Enable TUIO multi-touch devices on UDP port"

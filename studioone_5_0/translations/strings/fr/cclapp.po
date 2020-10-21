@@ -288,6 +288,10 @@ msgstr "Supprimer le fichier..."
 msgid "[FileOperations]Delete Folder..."
 msgstr "Supprimer le dossier..."
 
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Delete Objects"
+msgstr "Supprimer les objets"
+
 #: .\browser\pluginnodes.cpp
 msgid "[Browser]Delete Thumbnail"
 msgstr "Supprimer la vignette"
@@ -418,7 +422,7 @@ msgstr "Souhaitez-vous retirer ce dossier?"
 
 #: .\presets\presetmanager.cpp
 msgid "[Presets]Do you want to rescan blocked plug-ins next time you start $APPNAME?"
-msgstr "Souhaitez-vous rescanner les plug-ins blacklistés au prochain démarrage de $APPNAME?"
+msgstr "Souhaitez-vous rescanner les plug-ins bloqués au prochain démarrage de $APPNAME?"
 
 #: .\application.cpp
 msgid "[Application]Do you want to restart $APPNAME now?"
@@ -484,6 +488,10 @@ msgstr "Activer"
 #: .\browser\browser.cpp
 msgid "[Command]Enter"
 msgstr "Entrée"
+
+#: .\editing\tools\selecttool.cpp
+msgid "[Tools]Eraser Tool"
+msgstr "Outil gomme"
 
 #: .\browser\filexportdraghandler.cpp
 msgid "[FileExport]Export"
@@ -588,6 +596,10 @@ msgstr "Avant"
 #: .\options\useroption.cpp
 msgid "[UserOption]General"
 msgstr "Général"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Graphics settings will be applied next time you start $APPNAME."
+msgstr "Les réglages graphiques s'appliqueront au prochain démarrage de $APPNAME."
 
 #: .\application.cpp
 msgid "[Command]Help"
@@ -875,6 +887,10 @@ msgid "[Documents]Pin document to Recent Files list"
 msgstr "Attacher le document à la liste Fichiers récents"
 
 #: .\options\mainoption.cpp
+msgid "[UserOption]Please note that the user interface of $APPNAME will appear blurry on high resolution screens."
+msgstr "Veuillez noter que l'interface utilisateur de $APPNAME sera floue sur des écrans haute résolution."
+
+#: .\options\mainoption.cpp
 msgid "[UserOption]Please note that third-party plug-ins will appear smaller if they do not support scaling."
 msgstr "Sachez que les plug-ins d'autres marques peuvent apparaître plus petits s'ils ne prennent pas en charge la mise à l'échelle."
 
@@ -1053,7 +1069,7 @@ msgstr "Réinitialiser"
 
 #: .\presets\presetmanager.cpp
 msgid "[Command]Reset Blocklist"
-msgstr "Réinitialiser la liste noire"
+msgstr "Réinitialiser la liste de blocage"
 
 #: .\browser\browser.cpp
 msgid "[Browser]Reset Root"
@@ -1363,6 +1379,10 @@ msgstr "Barre d'outils"
 msgid "[SliderMode]Touch"
 msgstr "Toucher"
 
+#: .\options\mainoption.cpp
+msgid "[UserOption]Turning off hardware acceleration will slow down the user interface of $APPNAME and is not recommended for regular use."
+msgstr "Désactiver l'accélération ralentira l'interface utilisateur de $APPNAME et n'est pas recommandé en utilisation normale."
+
 #: .\browser\pluginmanagement.cpp
 msgid "[PlugInManagement]Type"
 msgstr "Type"
@@ -1424,6 +1444,10 @@ msgid "[Documents]Use %(1) Format"
 msgstr "Utiliser le format %(1)"
 
 #: .\options\mainoption.cpp
+msgid "[UserOption]Use this option only for downwards compatibility with older third-party plug-ins."
+msgstr "N'utilisez cette option que pour une rétrocompatibilité avec d'anciens plug-ins tiers."
+
+#: .\options\mainoption.cpp
 msgid "[UserOption]User Data"
 msgstr "Données utilisateur"
 
@@ -1469,6 +1493,10 @@ msgstr "Vos changements s'appliqueront au prochain démarrage de $APPNAME."
 
 #: .\editing\scaleview.cpp
 msgid "[Scale]Zoom"
+msgstr "Zoom"
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Zoom"
 msgstr "Zoom"
 
 #: .\presets\presetcomponent.cpp

@@ -82,7 +82,7 @@ msgstr "Wszystkie tagi są poprawne."
 
 #: .\application.cpp
 msgid "[Application]An instance of $APPNAME is already running."
-msgstr "$APPNAME jest już uruchomiony!"
+msgstr "$APPNAME jest już uruchomiony!."
 
 #: .\fileinfo\filerenamer.cpp
 msgid "[FileRenamer]An object with this name already exists."
@@ -288,6 +288,10 @@ msgstr "Usuń plik..."
 msgid "[FileOperations]Delete Folder..."
 msgstr "Usuń folder..."
 
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Delete Objects"
+msgstr "Usuń obiekty"
+
 #: .\browser\pluginnodes.cpp
 msgid "[Browser]Delete Thumbnail"
 msgstr "Usuń miniaturę"
@@ -334,7 +338,7 @@ msgstr "Odrzuć"
 
 #: .\documents\recentdocuments.cpp
 msgid "[Documents]Do you really want to clear the list of recent files?\n\nThis action can not be undone."
-msgstr "Czy na pewno chcesz wyczyścić listę ostatnio uzywanych plików?\n\nTej operacji nie można cofnąć."
+msgstr "Czy na pewno chcesz wyczyścić listę ostatnio używanych plików?\n\nTej operacji nie można cofnąć."
 
 #: .\documents\documentmanager.cpp
 msgid "[Documents]Do you really want to delete the Undo History?\n\nThis action can not be undone."
@@ -485,6 +489,10 @@ msgstr "Włącz"
 msgid "[Command]Enter"
 msgstr "Enter"
 
+#: .\editing\tools\selecttool.cpp
+msgid "[Tools]Eraser Tool"
+msgstr "Narzędzie gumki"
+
 #: .\browser\filexportdraghandler.cpp
 msgid "[FileExport]Export"
 msgstr "Eksport"
@@ -588,6 +596,10 @@ msgstr "Przewiń do przodu"
 #: .\options\useroption.cpp
 msgid "[UserOption]General"
 msgstr "Ogólne"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Graphics settings will be applied next time you start $APPNAME."
+msgstr "Ustawienia grafiki zostaną zastosowane przy następnym uruchomieniu $APPNAME."
 
 #: .\application.cpp
 msgid "[Command]Help"
@@ -875,6 +887,10 @@ msgid "[Documents]Pin document to Recent Files list"
 msgstr "Przypnij dokument do listy ostatnio otwieranych plików"
 
 #: .\options\mainoption.cpp
+msgid "[UserOption]Please note that the user interface of $APPNAME will appear blurry on high resolution screens."
+msgstr "Interfejs użytkownika $APPNAME może być niewyraźny na ekranach o wysokiej rozdzielczości."
+
+#: .\options\mainoption.cpp
 msgid "[UserOption]Please note that third-party plug-ins will appear smaller if they do not support scaling."
 msgstr "Zwróć uwagę, że interfejs wtyczek innych producentów może być mniejszy, jeżeli te nie obsługują skalowania."
 
@@ -888,7 +904,7 @@ msgstr "Podaj nazwę pliku."
 
 #: .\application.cpp
 msgid "[Application]Plug-In folder not found at:\n"
-msgstr "Nie znaleziono folderu wtyczek na:\n"
+msgstr "Nie znaleziono folderu wtyczek w:\n"
 
 #: .\pluginclass.cpp
 msgid "[CCL]Plug-in Thumbnails"
@@ -1133,7 +1149,7 @@ msgstr "Skanowanie skryptów..."
 
 #: .\application.cpp
 msgid "[Application]Script folder not found at:\n"
-msgstr "Nie znaleziono folderu skryptów\n"
+msgstr "Nie znaleziono folderu skryptów w:\n"
 
 #: .\browser\searchcomponent.cpp
 msgid "[Command]Search"
@@ -1363,6 +1379,10 @@ msgstr "Pasek narzędzi"
 msgid "[SliderMode]Touch"
 msgstr "Dotyk"
 
+#: .\options\mainoption.cpp
+msgid "[UserOption]Turning off hardware acceleration will slow down the user interface of $APPNAME and is not recommended for regular use."
+msgstr "Wyłączenie akceleracji sprzętowej spowolni działanie interfejsu $APPNAME i nie jest zalecane przy normalnym użyciu."
+
 #: .\browser\pluginmanagement.cpp
 msgid "[PlugInManagement]Type"
 msgstr "Typ"
@@ -1424,6 +1444,10 @@ msgid "[Documents]Use %(1) Format"
 msgstr "Użyj formatu %(1)"
 
 #: .\options\mainoption.cpp
+msgid "[UserOption]Use this option only for downwards compatibility with older third-party plug-ins."
+msgstr "Użyj tej opcji tylko w przypadku wstecznej kompatybilności ze starszymi, zewnętrznymi wtyczkami."
+
+#: .\options\mainoption.cpp
 msgid "[UserOption]User Data"
 msgstr "Dane użytkownika"
 
@@ -1469,6 +1493,10 @@ msgstr "Zmiany zostaną wprowadzone przy następnym uruchomieniu  $APPNAME."
 
 #: .\editing\scaleview.cpp
 msgid "[Scale]Zoom"
+msgstr "Powiększenie"
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Zoom"
 msgstr "Powiększenie"
 
 #: .\presets\presetcomponent.cpp

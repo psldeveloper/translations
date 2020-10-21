@@ -14,7 +14,7 @@ msgstr "Menüyü Düzenle"
 
 #: .\skin.xml
 msgid "[FontSelectorDialog]Font"
-msgstr ""
+msgstr "Yazı Tipi"
 
 #: .\skin.xml
 msgid "[HelpViewer]Help Viewer"
@@ -42,7 +42,7 @@ msgstr "Komut Seçiniz"
 
 #: .\skin.xml
 msgid "[FontSelectorDialog]Select Font"
-msgstr ""
+msgstr "Yazı Tiipi Seç"
 
 #: .\skin.xml
 msgid "[FontSelectorDialog]Size"

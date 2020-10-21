@@ -14,7 +14,7 @@ msgstr "括弧"
 
 #: .\scoreedittasks.xml
 msgid "[MakeTupletDialog]Fit"
-msgstr "元:"
+msgstr "音符数"
 
 #: .\scoreedittasks.xml
 msgid "[MakeTupletDialog]Hide"
@@ -30,7 +30,7 @@ msgstr "音程種類"
 
 #: .\scoreedittasks.xml
 msgid "[MakeTupletDialog]Into"
-msgstr "結果:"
+msgstr "拍"
 
 #: .\scoreedittasks.xml
 msgid "[MakeTupletDialog]Make Custom Tuplet"
@@ -46,7 +46,7 @@ msgstr "表示"
 
 #: .\scoreedittasks.xml
 msgid "[MakeTupletDialog]Show as ratio"
-msgstr "割合で表示"
+msgstr "比で表示"
 
 #: .\scoreedittasks.xml
 msgid "[TransposeDialog]Transpose"

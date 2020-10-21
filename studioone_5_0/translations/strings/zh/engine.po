@@ -201,6 +201,10 @@ msgstr "[PoolNodes]是否删除此剪辑的所有附件?\n\n此操作无法撤�
 msgid "[Command]Arm"
 msgstr "准备"
 
+#: .\base\model\trackclassifier.cpp
+msgid "[GlobalTrack]Arranger"
+msgstr "编曲器"
+
 #: .\editing\arrangereditlayer.cpp
 msgid "[Command]Arranger"
 msgstr "编曲器"
@@ -308,6 +312,14 @@ msgstr "浏览器"
 msgid "[Engine]Building Preview..."
 msgstr "正在生成预览..."
 
+#: .\audio\audioenvelopefunctions.cpp
+msgid "[Engine:AudioEnvelopeActions]Bypass %(1) Envelope"
+msgstr "旁路%(1)包络"
+
+#: .\application\audioedit\audioenvelopetasks.cpp
+msgid "[AudioEdit]Bypass Gain Envelope"
+msgstr "旁路增益包络"
+
 #: .\audio\audiobouncer.cpp
 msgid "[AudioBouncer]Cannot bounce protected content."
 msgstr "无法混缩受保护内容。"
@@ -362,6 +374,10 @@ msgstr "和弦轨道"
 
 #: .\audioediting\audioedittask.cpp
 msgid "[AudioEdit]Chords"
+msgstr "和弦"
+
+#: .\base\model\trackclassifier.cpp
+msgid "[GlobalTrack]Chords"
 msgstr "和弦"
 
 #: .\base\model\arrangertrack.cpp
@@ -901,7 +917,8 @@ msgid "[Command]Duplicate Variation"
 msgstr "创建变奏副本"
 
 #: .\audioediting\audiobendeditlayer.cpp .\editing\chordeditlayer.cpp
-#: .\editing\eventsnapper.cpp .\editing\tracklistcomponent.cpp
+#: .\editing\eventsnapper.cpp .\editing\trackchannelnamefilter.cpp
+#: .\editing\tracklistcomponent.cpp .\editing\trackvisibilityhandler.cpp
 #: .\musicediting\patterneditcomponent.cpp
 msgid "[Command]Edit"
 msgstr "编辑"
@@ -954,7 +971,7 @@ msgstr "编辑音轨"
 msgid "[Automation]Edit Value"
 msgstr "编辑值"
 
-#: .\editing\trackeditor.cpp
+#: .\editing\globaltrackscomponent.cpp .\editing\trackeditor.cpp
 msgid "[Command]Editor"
 msgstr "编辑器"
 
@@ -1068,6 +1085,10 @@ msgid "[VideoEdit]Extract Audio to %(1):"
 msgstr "将音频提取到%(1):"
 
 #: .\application\audioedit\audiochordtasks.cpp
+msgid "[AudioEdit]Extract Key Signatures from Event"
+msgstr "从事件中提取调号"
+
+#: .\application\audioedit\audiochordtasks.cpp
 msgid "[AudioEdit]Extract to Chord Track"
 msgstr "提取到和弦轨道"
 
@@ -1110,6 +1131,18 @@ msgstr "填充通道"
 #: .\musicediting\patterneditcomponent.cpp
 msgid "[Command]Fill Lane"
 msgstr "填充通道"
+
+#: .\editing\trackchannelnamefilter.cpp
+msgid "[Command]Filter Channels"
+msgstr "过滤通道"
+
+#: .\editing\trackchannelnamefilter.cpp
+msgid "[Command]Filter Tracks"
+msgstr "过滤轨"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Find Track"
+msgstr "查找音轨"
 
 #: .\audioediting\audioedithandler.cpp
 msgid "[AudioEditHandler]Fine"
@@ -1219,13 +1252,53 @@ msgstr "隐藏"
 msgid "[Automation]Hide \"%(1)\""
 msgstr "隐藏 \"%(1)\""
 
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Audio Tracks"
+msgstr "隐藏音轨"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Disabled Tracks"
+msgstr "隐藏已禁用的轨"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Empty Tracks"
+msgstr "隐藏空轨"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Enabled Tracks"
+msgstr "隐藏已启用的轨"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Instrument Tracks"
+msgstr "隐藏乐器轨"
+
 #: .\editing\tracklayercomponent.cpp
 msgid "[TrackLayers]Hide Layer"
 msgstr "隐藏层"
 
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Muted Tracks"
+msgstr "隐藏静音轨"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Selected Tracks"
+msgstr "隐藏所选轨"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Soloed Tracks"
+msgstr "隐藏独奏轨"
+
 #: .\editing\trackcontroller.cpp
 msgid "[Track]Hide Track"
 msgstr "隐藏音轨"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Tracks with Events in Loop Range"
+msgstr "在循环范围内隐藏事件轨"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Tracks with Events under Cursor"
+msgstr "隐藏光标下的事件轨"
 
 #: .\musicediting\drumpitchlistmanager.cpp
 msgid "[DrumPitchNameSetup]Hide Unused"
@@ -1552,6 +1625,10 @@ msgstr "映射"
 
 #: .\base\media\mediamarker.cpp
 msgid "[Engine:MediaMarker]Marker"
+msgstr "标记"
+
+#: .\base\model\trackclassifier.cpp
+msgid "[GlobalTrack]Marker"
 msgstr "标记"
 
 #: .\editing\markercomponent.cpp
@@ -2176,6 +2253,10 @@ msgstr "调出标记 8"
 msgid "[Command]Recall Marker 9"
 msgstr "调出标记 9"
 
+#: .\editing\mediatrackcontroller.cpp
+msgid "[Command]Recall Retrospective Recording"
+msgstr "调用回溯性录音"
+
 #: .\automation\automationfunctions.cpp
 msgid "[Engine:AutomationFunctions]Reconnect Automation"
 msgstr "重新连接自动控制"
@@ -2219,6 +2300,10 @@ msgstr "录音"
 #: .\musicediting\musicrecordcomponent.cpp
 msgid "[Command]Record Takes to Layers"
 msgstr "录音至分层"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Redo Visibility Change"
+msgstr "重做可见性更改"
 
 #: .\automationediting\automationtrackcomponent.cpp
 #: .\automationediting\automationtracklistcomponent.cpp
@@ -2517,6 +2602,10 @@ msgstr "还原事件FX"
 msgid "[AudioEdit]Restore Timing"
 msgstr "还原时间修整"
 
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Retrospective Record"
+msgstr "回溯性记录"
+
 #: .\application\audioedit\audioreversetask.cpp
 msgid "[AudioEdit]Reverse Audio"
 msgstr "音频反转"
@@ -2528,6 +2617,14 @@ msgstr " 根音%(1)"
 #: .\application\musicloop\loopedittasks.cpp
 msgid "[Engine]Root Key"
 msgstr "根密钥"
+
+#: .\base\model\trackclassifier.cpp
+msgid "[GlobalTrack]Ruler"
+msgstr "标尺"
+
+#: .\audioediting\audioretunecomponent.cpp
+msgid "[Tune Mode]Scale"
+msgstr "音阶"
 
 #: .\pool\locatefilescomponent.cpp
 msgid "[LocateFiles]Scanning folder: "
@@ -2657,10 +2754,6 @@ msgstr "设置每个第四步"
 msgid "[Command]Set Every 4th Step"
 msgstr "设置每个第四步"
 
-#: .\base\model\chordfunctions.cpp
-msgid "[Edit]Set Key Signature"
-msgstr "设置音调符号"
-
 #: .\base\model\actiondescriptions.cpp
 msgid "[ActionDescriptions]Set Marker Type"
 msgstr "设置标记类别"
@@ -2706,6 +2799,18 @@ msgstr "显示/隐藏自动控制"
 msgid "[DrumPitchNameSetup]Show All"
 msgstr "显示所有"
 
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show All Tracks"
+msgstr "显示所有轨"
+
+#: .\editing\globaltrackscomponent.cpp
+msgid "[Command]Show Arranger Track in Editor"
+msgstr "在编辑器中显示编配轨"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Audio Tracks"
+msgstr "显示音轨"
+
 #: .\musicediting\musiccontrollane.cpp
 msgid "[Command]Show Automation Lanes"
 msgstr " 显示自动通道"
@@ -2717,6 +2822,10 @@ msgstr "显示弯音标记"
 #: .\editing\tracklistcomponent.cpp
 msgid "[Command]Show Channel Editor"
 msgstr "显示通道编辑器"
+
+#: .\editing\globaltrackscomponent.cpp
+msgid "[Command]Show Chord Track in Editor"
+msgstr "在编辑器中显示和弦轨"
 
 #: .\base\model\chordfunctions.cpp
 msgid "[Edit]Show Chords"
@@ -2731,6 +2840,18 @@ msgstr "显示默认设置"
 msgid "[Command]Show Device"
 msgstr "显示设备"
 
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Disabled Tracks"
+msgstr "显示已禁用的轨"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Empty Tracks"
+msgstr "显示空轨"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Enabled Tracks"
+msgstr "显示已启用的轨"
+
 #: .\editing\tracklistcomponent.cpp
 msgid "[Command]Show Envelopes"
 msgstr "显示包络"
@@ -2742,6 +2863,14 @@ msgstr " 显示资源管理器/寻找器中文件夹"
 #: .\editing\tracklistcomponent.cpp
 msgid "[Command]Show Instrument Editor"
 msgstr "显示乐器编辑器"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Instrument Tracks"
+msgstr "显示乐轨"
+
+#: .\editing\globaltrackscomponent.cpp
+msgid "[Command]Show Marker Track in Editor"
+msgstr "在编辑器中显示标记轨"
 
 #: .\pool\mediapoolbrowser.cpp
 msgid "[PoolBrowser]Show Media Folder in Explorer"
@@ -2755,6 +2884,10 @@ msgstr "在资源管理器/Finder中显示媒体文件夹"
 msgid "[PoolBrowser]Show Media Folder in Finder"
 msgstr "在Finder中显示媒体文件夹"
 
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Muted Tracks"
+msgstr "显示静音轨"
+
 #: .\editing\tracklistcomponent.cpp
 msgid "[Command]Show Note FX Editor"
 msgstr " 显示 Note FX 编辑器"
@@ -2762,6 +2895,26 @@ msgstr " 显示 Note FX 编辑器"
 #: .\editing\tracklistcomponent.cpp
 msgid "[Command]Show Routing Editor"
 msgstr " 显示路线编辑器"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Selected Tracks"
+msgstr "显示所选的轨"
+
+#: .\editing\globaltrackscomponent.cpp
+msgid "[Command]Show Signature Track in Editor"
+msgstr "在编辑器中显示节拍轨"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Soloed Tracks"
+msgstr "显示独奏轨"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Tracks with Events in Loop Range"
+msgstr "在循环范围内显示事件"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Tracks with Events under Cursor"
+msgstr "在光标下显示带有事件的轨"
 
 #: .\editing\trackcontroller.cpp
 msgid "[Track]Show in Console"
@@ -2786,6 +2939,10 @@ msgstr "显示此音轨的\"%(1)\"自动控制"
 #: .\musicediting\partautomationdraghandler.cpp
 msgid "[Automation]Show the \"%(1)\" Part Automation"
 msgstr "显示\"%(1)\"片段的自动控制"
+
+#: .\base\model\trackclassifier.cpp
+msgid "[GlobalTrack]Signature"
+msgstr " 标记"
 
 #: .\application\audioedit\audiobendaddin.cpp
 msgid "[Engine]Slice"
@@ -2960,6 +3117,10 @@ msgstr "单条录音 #%(1:3) (%(2))"
 msgid "[Audio]Tape"
 msgstr " 磁带"
 
+#: .\base\model\trackclassifier.cpp
+msgid "[GlobalTrack]Tempo"
+msgstr "速度"
+
 #: .\audioediting\audioedithandler.cpp
 msgid "[AudioEditHandler]Tempo: %(1)  Length: %(2)"
 msgstr "速度: %(1)  长度: %(2)"
@@ -3059,9 +3220,9 @@ msgstr "触控"
 #: .\application\audioedit\audiotracktransformtask.cpp
 #: .\application\musicedit\musictracktransformtask.cpp
 #: .\editing\editgroupscomponent.cpp .\editing\foldertrackcomponent.cpp
-#: .\editing\layereditlayer.cpp .\editing\monitorfollower.cpp
-#: .\editing\trackcontroller.cpp .\editing\tracklayercomponent.cpp
-#: .\editing\tracklistcomponent.cpp
+#: .\editing\layereditlayer.cpp .\editing\mediatrackcontroller.cpp
+#: .\editing\monitorfollower.cpp .\editing\trackcontroller.cpp
+#: .\editing\tracklayercomponent.cpp .\editing\tracklistcomponent.cpp
 msgid "[Command]Track"
 msgstr "音轨"
 
@@ -3173,6 +3334,10 @@ msgstr "撤销所有"
 #: .\musicediting\musicrecordcomponent.cpp
 msgid "[Command]Undo Last Loop"
 msgstr "撤销上一次循环"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Undo Visibility Change"
+msgstr "撤销可见性更改"
 
 #: .\audioediting\audioretunecomponent.cpp
 msgid "[Tune Mode]Universal"
@@ -3323,6 +3488,9 @@ msgstr "已使用%(1)次"
 #: .\pool\mediapoolnodes.cpp
 msgid "[PoolNodes]used %(1) times"
 msgstr "已使用%(1)次"
+
+#~ msgid "[Edit]Set Key Signature"
+#~ msgstr "设置音调符号"
 
 #~ msgid "[Record]Dropouts occured during record. The drive used for recording might not be fast enough."
 #~ msgstr "录音时发生丢音。用于录音的硬盘速率可能不够快。"

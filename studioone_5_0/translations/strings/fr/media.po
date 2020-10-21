@@ -92,6 +92,10 @@ msgstr "Dorien"
 msgid "[Resolution]Dotted"
 msgstr "Pointée"
 
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Edit Key Signature"
+msgstr "Changer la tonalité"
+
 #: .\envelopes\envelopefunctions.cpp
 msgid "[Events]Edit Value"
 msgstr "Éditer la valeur"
@@ -119,6 +123,10 @@ msgstr "Insérer un événement"
 #: .\events\eventfunctions.cpp
 msgid "[EventFunctions]Insert Events"
 msgstr "Insérer des événements"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Insert Key Signature"
+msgstr "Insérer une tonalité"
 
 #: .\envelopes\envelopeactions.cpp
 msgid "[EnvelopeActions]Insert Point"
@@ -165,6 +173,10 @@ msgid "[MusicalScale]Major Pentatonic"
 msgstr "Majeurer pentatonique"
 
 #: .\music\musicalscale.cpp
+msgid "[MusicalScale]Major Triad"
+msgstr "Triade majeure"
+
+#: .\music\musicalscale.cpp
 msgid "[MusicalScale]Melodic Minor"
 msgstr "Mineure mélodique"
 
@@ -179,6 +191,10 @@ msgstr "Mineur"
 #: .\music\musicalscale.cpp
 msgid "[MusicalScale]Minor Pentatonic"
 msgstr "Mineure pentatonique"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Minor Triad"
+msgstr "Triade mineure"
 
 #: .\music\musicalscale.cpp
 msgid "[MusicalScale]Mixolydian"
@@ -323,6 +339,10 @@ msgstr "Quantifier"
 #: .\music\beatlistparam.cpp
 msgid "[Resolution]Quintuplet"
 msgstr "Quintolet"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Remove Key Signature"
+msgstr "Supprimer l'armure"
 
 #: .\music\notecontroller.cpp
 msgid "[NoteController]Remove Note Controller \"%(1)\""

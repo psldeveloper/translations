@@ -170,6 +170,14 @@ msgstr ""
 msgid "[PostFaderInserts]Drag FX Chain from here"
 msgstr ""
 
+#: .\audiochannel.xml
+msgid "[AudioSends]Drag Send Chain from here"
+msgstr ""
+
+#: .\audiochannel.xml
+msgid "[AudioSendsCueMixEmbedded]Drag Send Chain from here"
+msgstr ""
+
 #: .\audiochannel.narrow.xml
 msgid "[AudioChannel.Narrow.Content]Enable Hardware Monitoring"
 msgstr ""

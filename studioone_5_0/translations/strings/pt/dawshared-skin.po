@@ -176,6 +176,14 @@ msgstr "Arraste Cadeia de Efeitos Daquí"
 msgid "[PostFaderInserts]Drag FX Chain from here"
 msgstr "Arraste Cadeia de Efeitos Daquí"
 
+#: .\audiochannel.xml
+msgid "[AudioSends]Drag Send Chain from here"
+msgstr "Arrastar Cadeia de Envios daqui"
+
+#: .\audiochannel.xml
+msgid "[AudioSendsCueMixEmbedded]Drag Send Chain from here"
+msgstr "Arrastar Cadeia de Envios daqui"
+
 #: .\audiochannel.narrow.xml
 msgid "[AudioChannel.Narrow.Content]Enable Hardware Monitoring"
 msgstr "Ativar Monitoração por Hardware"
@@ -286,7 +294,7 @@ msgstr "Mix FX"
 
 #: .\audiochannel.small.xml
 msgid "[MixerChannelButtonBlock]Monitor"
-msgstr "Monitor"
+msgstr "Monitoração"
 
 #: .\audiochannel.narrow.xml
 msgid "[AudioChannel.Narrow.Content]Mono"

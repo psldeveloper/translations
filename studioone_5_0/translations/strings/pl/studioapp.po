@@ -69,6 +69,10 @@ msgid "[SystemInfo]Application"
 msgstr "Aplikacja"
 
 #: .\studioapp.cpp
+msgid "[StudioApp]Arrow Tool"
+msgstr "Narzędzie strzałki"
+
+#: .\studioapp.cpp
 msgid "[StudioApp]Artist Profile"
 msgstr "Profil artysty"
 
@@ -590,7 +594,7 @@ msgstr "Włącz / Wyłącz nakładanie"
 
 #: .\appoptions.cpp
 msgid "[Command]Toggle Range Tool in upper event area"
-msgstr "Zmień narzędzie zakresu w górnrj części obiektu."
+msgstr "Zmień narzędzie zakresu w górnej części obiektu"
 
 #: .\appoptions.cpp
 msgid "[Command]Toolbar"

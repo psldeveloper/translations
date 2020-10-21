@@ -40,7 +40,7 @@ msgstr "Satın Alınan Ürünleri Aktive Et"
 
 #: .\application\purchasedpackages.cpp
 msgid "[PackageActions]Activated"
-msgstr ""
+msgstr "Aktifleştirildi"
 
 #: .\web\licenseserver.cpp
 msgid "[WebAPI]Activating product"
@@ -231,7 +231,7 @@ msgstr ""
 "Bu ürün anahtarı bu bilgisayarda bulunamayan ek bir lisans gerektirmektedir."
 
 #: .\web\licenseserver.cpp
-msgid "[WebAPI]Updating subscription"
+msgid "[WebAPI]Updating membership"
 msgstr ""
 
 #: .\application\usercomponent.cpp

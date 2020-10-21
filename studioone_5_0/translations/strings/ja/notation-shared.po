@@ -6,15 +6,15 @@ msgstr ""
 
 #: .\edittasks\transposetask.cpp
 msgid "[ScoreEdit]Add One Octave"
-msgstr "1オクターブを追加"
+msgstr "1オクターブ上"
 
 #: .\edittasks\transposetask.cpp
 msgid "[ScoreEdit]Add Three Octaves"
-msgstr "3オクターブを追加"
+msgstr "3オクターブ上"
 
 #: .\edittasks\transposetask.cpp
 msgid "[ScoreEdit]Add Two Octaves"
-msgstr "2オクターブを追加"
+msgstr "2オクターブ上"
 
 #: .\edittasks\transposetask.cpp
 msgid "[ScoreEdit]Augmented"

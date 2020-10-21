@@ -537,6 +537,10 @@ msgid "[Menu]Previous Parameter"
 msgstr "Parâmetro Anterior"
 
 #: .\menubar.xml
+msgid "[Menu]Print Score"
+msgstr "Imprimir Partitura"
+
+#: .\menubar.xml
 msgid "[Menu]Project"
 msgstr "Projeto"
 
@@ -559,6 +563,10 @@ msgstr "Painel de Gravação"
 #: .\menubar.xml
 msgid "[Menu]Redo"
 msgstr "Refazer"
+
+#: .\menubar.xml
+msgid "[Menu]Redo Visibility Change"
+msgstr "Refazer Alteração de Visibilidade"
 
 #: .\menubar.xml
 msgid "[Menu]Redo Zoom"
@@ -838,7 +846,7 @@ msgstr "Sincronizar a Dispositivos Externos"
 
 #: .\menubar.xml
 msgid "[Menu]System Information"
-msgstr "Informação do sistema"
+msgstr "Informações do sistema"
 
 #: .\menubar.xml
 msgid "[Menu]Time Display"
@@ -913,6 +921,10 @@ msgid "[Menu]Undo"
 msgstr "Desfazer"
 
 #: .\menubar.xml
+msgid "[Menu]Undo Visibility Change"
+msgstr "Desfazer Alteração de Visibilidade"
+
+#: .\menubar.xml
 msgid "[Menu]Undo Zoom"
 msgstr "Desfazer Zoom"
 
@@ -939,6 +951,10 @@ msgstr "Exibir"
 #: .\menubar.xml
 msgid "[Menu]View Release Notes"
 msgstr "Ver Notas da Versão"
+
+#: .\menubar.xml
+msgid "[Menu]Visibility"
+msgstr "Visibilidade"
 
 #: .\menubar.xml
 msgid "[Menu]Windows"

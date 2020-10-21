@@ -3,6 +3,6 @@ msgid "[CoreMidi]CoreMIDI Support"
 msgstr ""
 
 #: .\midiservicemain.cpp
-msgid "[CoreMidi]Support for MIDI gear on OS X"
+msgid "[CoreMidi]Support for MIDI gear on macOS"
 msgstr ""
 

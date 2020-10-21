@@ -74,7 +74,7 @@ msgstr "Partitura"
 
 #: .\edittasks\transposetask.cpp
 msgid "[ScoreEdit]Second"
-msgstr "Segundo"
+msgstr "Segunda"
 
 #: .\edittasks\transposetask.cpp
 msgid "[ScoreEdit]Seventh"

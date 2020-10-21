@@ -46,7 +46,7 @@ msgstr "Titre"
 
 #: .\plugversion.h
 msgid "[SoundCloud]Upload to SoundCloud"
-msgstr "Envoyer sur SoundCloud"
+msgstr "Téléverser sur Soundcloud"
 
 #: .\tracklist.cpp
 msgid "[SoundCloud]Uploading..."

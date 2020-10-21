@@ -236,6 +236,10 @@ msgstr "Un signal invalide est survenu."
 msgid "[AudioIOType]Analog"
 msgstr "Analogique"
 
+#: .\audiomixer\audiosendfolder.cpp
+msgid "[AudioSendSlot]Append Sends"
+msgstr "Ajouter des départs"
+
 #: .\surfaces\editor\mappinghandler.cpp
 msgid "[MappingHandler]Assign \"%(1)\" to %(2) on %(3)"
 msgstr "Assigner \"%(1)\" à %(2) dans %(3)"
@@ -486,6 +490,10 @@ msgstr "Couleur"
 msgid "[DeviceFolder]Combine %(1)"
 msgstr "Combiner %(1)"
 
+#: .\audiosynths\audiosynthfolder.cpp
+msgid "[AudioSynth]Compact"
+msgstr "Compacte"
+
 #: .\music\setup\musicdevicesetup.cpp
 msgid "[MusicDeviceSetup]Configure..."
 msgstr "Configurer..."
@@ -551,6 +559,10 @@ msgstr "Copier les réglages de canal"
 #: .\audioeffects\audiofxgraph.cpp
 msgid "[AudioFXGraph]Copy Effect"
 msgstr "Copier l'effet"
+
+#: .\audiomixer\audiosendfolder.cpp
+msgid "[AudioSendSlot]Copy Sends"
+msgstr "Copier les départs"
 
 #: .\audiosynths\audiosynthfolder.cpp
 msgid "[AudioSynth]Copy to Clipboard"
@@ -801,6 +813,10 @@ msgstr "Effet"
 msgid "[DeviceFolder]Expand"
 msgstr "Déployer"
 
+#: .\audiosynths\audiosynthfolder.cpp
+msgid "[AudioSynth]Extended"
+msgstr "Étendu"
+
 #: .\music\musicdevicemanager.cpp
 msgid "[MusicDevices]External Devices"
 msgstr "Périphériques externes"
@@ -836,6 +852,10 @@ msgstr "Fader"
 #: .\base\devicefolder.cpp
 msgid "[DeviceFolder]Favorite"
 msgstr "Favori"
+
+#: .\mixerconsole\mixerconsole.cpp
+msgid "[Command]Find Channel"
+msgstr "Trouver le canal"
 
 #: .\surfaces\editor\editcomponent.cpp
 msgid "[SurfaceEditor]Focus:"
@@ -904,6 +924,10 @@ msgstr "Groupe"
 #: .\mixer\editgroupmanager.cpp
 msgid "[Command]Group"
 msgstr "Groupe"
+
+#: .\audiomixer\hardwareintegration\hardwarestoragemanager.cpp
+msgid "[Hardware]Hardware Integration"
+msgstr "Intégration de matériel"
 
 #: .\hardware\hardwaremixermanager.cpp
 msgid "[Hardware]Hardware Monitoring"

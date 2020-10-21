@@ -38,7 +38,7 @@ msgstr "(devre dışı)"
 
 #: .\packages\extensionmanagerpackages.cpp
 msgid "[PackageActions]Abort Uninstall"
-msgstr ""
+msgstr "Kaldırmayı iptal et"
 
 #: .\extensions\backupmanager.cpp .\extensions\contentinstaller.cpp
 #: .\extensions\extensionmanager.cpp
@@ -47,7 +47,7 @@ msgstr "Uygulama"
 
 #: .\packages\packagemanager.cpp
 msgid "[PackageManager]Available Packages"
-msgstr ""
+msgstr "Mevcut paketler"
 
 #: .\extensions\backupmanager.cpp
 msgid "[BackupManager]Backup"
@@ -116,7 +116,7 @@ msgstr ""
 
 #: .\packages\packagemanager.cpp
 msgid "[PackageManager]Contains %(1) items"
-msgstr ""
+msgstr "%(1) birim ihtiva eder"
 
 #: .\extensions\contentinstaller.cpp
 msgid "[Installer]Copy"
@@ -140,7 +140,7 @@ msgstr ""
 
 #: .\packages\unifiedpackagesource.cpp
 msgid "[PackageSource]Development Content"
-msgstr ""
+msgstr "Geliştirme içeriği"
 
 #: .\packages\unifiedpackageaction.cpp
 msgid "[PackageActions]Disable"
@@ -188,7 +188,7 @@ msgstr "Genişletmeler"
 
 #: .\packages\unifiedpackagesource.cpp
 msgid "[PackageSource]Factory Content"
-msgstr ""
+msgstr "Fabrika İçeriği"
 
 #: .\extensions\backupmanager.cpp
 msgid "[BackupManager]Failed to create backup."
@@ -200,7 +200,7 @@ msgstr ""
 
 #: .\extensions\extensiondescription.cpp
 msgid "[Extensions]Failed to uninstall %(1)!"
-msgstr ""
+msgstr "%(1) kaldırılamadı!"
 
 #: .\extensions\backupmanager.cpp
 msgid "[BackupManager]Failed to upload backup."
@@ -256,7 +256,7 @@ msgstr "Eksik olanları kur"
 
 #: .\packages\packagefilter.cpp
 msgid "[PackageFilter]Installable"
-msgstr ""
+msgstr "Kurulabilir"
 
 #: .\extensions\contentinstaller.cpp
 msgid "[Command]Installation"
@@ -272,7 +272,7 @@ msgstr "Kurulum iptal edildi!"
 
 #: .\packages\unifiedpackageinstaller.cpp
 msgid "[UnifiedPackageInstaller]Installation failed for %(1)."
-msgstr ""
+msgstr "%(1) in kurulumu başarısız oldu!"
 
 #: .\extensions\extensiondescription.cpp
 msgid "[Extensions]Installation failed!"
@@ -292,7 +292,7 @@ msgstr "Kuruldu"
 
 #: .\packages\packagemanager.cpp
 msgid "[PackageManager]Installed Packages"
-msgstr ""
+msgstr "Kurulmuş olan paketler"
 
 #: .\extensions\appupdater.cpp
 msgid "[Updater]Installed version: %(1)"
@@ -352,7 +352,7 @@ msgstr ""
 
 #: .\packages\packagefilter.cpp
 msgid "[PackageFilter]Origin"
-msgstr ""
+msgstr "Kaynak"
 
 #: .\packages\packagefilter.cpp
 msgid "[PackageFilter]Other"
@@ -424,12 +424,12 @@ msgstr "Durum"
 
 #: .\extensions\extensiondescription.cpp
 msgid "[Extensions]Target directory is locked by %(1)."
-msgstr ""
+msgstr "Hedef klasör %(1) tarafından kilitli"
 
 #: .\extensions\extensiondescription.cpp
 msgid ""
 "[Extensions]The installation file is not compatible with this application."
-msgstr ""
+msgstr "Kurulum dosyası bu uygulama ile uyumlu değil."
 
 #: .\extensions\extensiondescription.cpp
 msgid "[Extensions]The installation file is not compatible with this platform."
@@ -481,7 +481,7 @@ msgstr "Kaldır"
 
 #: .\packages\unifiedpackageaction.cpp
 msgid "[PackageActions]Uninstall All"
-msgstr ""
+msgstr "Kerşeyi Kaldır"
 
 #: .\extensions\backupmanager.cpp
 msgid "[BackupManager]Unknown"
@@ -517,7 +517,7 @@ msgstr "Yükleniyor..."
 
 #: .\packages\unifiedpackagesource.cpp
 msgid "[PackageSource]User Content"
-msgstr ""
+msgstr "Kullanıcı İçeriği"
 
 #: .\extensions\backupmanager.cpp
 msgid "[BackupManager]Version"

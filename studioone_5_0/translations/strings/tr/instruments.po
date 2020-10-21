@@ -58,7 +58,7 @@ msgstr "Ornekler Ekle"
 
 #: .\sampler\impact\impactviews.cpp
 msgid "[DrumPadInsertHandler]Insert to next free pad"
-msgstr ""
+msgstr "Bir sonraki boş pad'e yükle"
 
 #: .\sampler\storage\settings.cpp
 msgid "[SamplerUserOption]Instrument Library"
@@ -139,3 +139,4 @@ msgstr "Başlık"
 #: .\sampler\insertsamplehandler.cpp
 msgid "[SampleDragHandler]White Keys"
 msgstr "Beyaz Tuşlar"
+

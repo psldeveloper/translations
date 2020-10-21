@@ -5,46 +5,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: .\skin.xml
-msgid "[VistaAudioWarning]Alternatively, please check if there is a dedicated audio driver available from the device manufacturer."
+msgid "[WindowsAudioWarning]Alternatively, please check if there is a dedicated audio driver available from the device manufacturer."
 msgstr "Opcjonalnie, sprawdź czy istnieje dedykowany sterownik audio od producenta urządzenia."
 
 #: .\skin.xml
-msgid "[VistaAudioControlPanel]Exclusive Mode"
+msgid "[WindowsAudioControlPanel]Exclusive Mode"
 msgstr "Tryb wyłączności"
 
 #: .\skin.xml
-msgid "[VistaAudioWarning]For $APPCOMPANY devices, please download and install Universal Control from the $APPCOMPANY website."
+msgid "[WindowsAudioWarning]For $APPCOMPANY devices, please download and install Universal Control from the $APPCOMPANY website."
 msgstr "W przypadku urządzeń $APPCOMPANY, pobierz i zainstaluj Universal Control ze strony $APPCOMPANY."
 
 #: .\skin.xml
-msgid "[VistaAudioControlPanel]Latency [ms]"
+msgid "[WindowsAudioControlPanel]Latency [ms]"
 msgstr "Latencja [ms]"
 
 #: .\skin.xml
-msgid "[VistaAudioControlPanel]Manage audio devices"
+msgid "[WindowsAudioControlPanel]Manage audio devices"
 msgstr "Zarządzaj urządzeniami audio"
 
 #: .\skin.xml
-msgid "[VistaAudioWarning]Manage audio devices"
+msgid "[WindowsAudioWarning]Manage audio devices"
 msgstr "Zarządzaj urządzeniami audio"
 
 #: .\skin.xml
-msgid "[VistaAudioControlPanel]Options"
+msgid "[WindowsAudioControlPanel]Options"
 msgstr "Opcje"
 
 #: .\skin.xml
-msgid "[VistaAudioControlPanel]Playback Device"
+msgid "[WindowsAudioControlPanel]Playback Device"
 msgstr "Urządzenie odtwarzające"
 
 #: .\skin.xml
-msgid "[VistaAudioControlPanel]Recording Device"
+msgid "[WindowsAudioControlPanel]Recording Device"
 msgstr "Urządzenie nagrywające"
 
 #: .\skin.xml
-msgid "[VistaAudioControlPanel]Windows Audio"
+msgid "[WindowsAudioControlPanel]Windows Audio"
 msgstr "Windows Audio"
 
 #: .\skin.xml
-msgid "[VistaAudioWarning]Windows Audio"
+msgid "[WindowsAudioWarning]Windows Audio"
 msgstr "Windows Audio"
 

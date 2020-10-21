@@ -176,6 +176,14 @@ msgstr "Arrastre cadenas FX desde aquí"
 msgid "[PostFaderInserts]Drag FX Chain from here"
 msgstr "Arrastre cadenas FX desde aquí"
 
+#: .\audiochannel.xml
+msgid "[AudioSends]Drag Send Chain from here"
+msgstr "Arrastrar cadena de Envíos desde aquí"
+
+#: .\audiochannel.xml
+msgid "[AudioSendsCueMixEmbedded]Drag Send Chain from here"
+msgstr "Arrastrar cadena de Envíos desde aquí"
+
 #: .\audiochannel.narrow.xml
 msgid "[AudioChannel.Narrow.Content]Enable Hardware Monitoring"
 msgstr "Habilitar monitoreo de hardware"

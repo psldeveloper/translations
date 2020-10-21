@@ -288,6 +288,10 @@ msgstr "ファイルを削除..."
 msgid "[FileOperations]Delete Folder..."
 msgstr "フォルダーを削除..."
 
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Delete Objects"
+msgstr "オブジェクトを削除"
+
 #: .\browser\pluginnodes.cpp
 msgid "[Browser]Delete Thumbnail"
 msgstr "サムネイルを削除"
@@ -485,6 +489,10 @@ msgstr "有効化"
 msgid "[Command]Enter"
 msgstr "Enter"
 
+#: .\editing\tools\selecttool.cpp
+msgid "[Tools]Eraser Tool"
+msgstr "消しゴムツール"
+
 #: .\browser\filexportdraghandler.cpp
 msgid "[FileExport]Export"
 msgstr "エクスポート"
@@ -588,6 +596,10 @@ msgstr "先へ進む"
 #: .\options\useroption.cpp
 msgid "[UserOption]General"
 msgstr "一般"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Graphics settings will be applied next time you start $APPNAME."
+msgstr "グラフィックス設定は $APPNAME の次回起動時に適用されます。"
 
 #: .\application.cpp
 msgid "[Command]Help"
@@ -873,6 +885,10 @@ msgstr "ペースト"
 #: .\documents\documentblocks.cpp
 msgid "[Documents]Pin document to Recent Files list"
 msgstr "ドキュメントを最近使ったファイルリストに貼り付ける"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Please note that the user interface of $APPNAME will appear blurry on high resolution screens."
+msgstr " $APPNAME のユーザーインターフェースは高解像度のスクリーンではぼやけて見えます。"
 
 #: .\options\mainoption.cpp
 msgid "[UserOption]Please note that third-party plug-ins will appear smaller if they do not support scaling."
@@ -1363,6 +1379,10 @@ msgstr "ツールバー"
 msgid "[SliderMode]Touch"
 msgstr "タッチ"
 
+#: .\options\mainoption.cpp
+msgid "[UserOption]Turning off hardware acceleration will slow down the user interface of $APPNAME and is not recommended for regular use."
+msgstr "ハードウェアアクセラレーションをオフにすると $APPNAME ユーザーインターフェースの速度が低下します。常用はおすすめできません。"
+
 #: .\browser\pluginmanagement.cpp
 msgid "[PlugInManagement]Type"
 msgstr "タイプ"
@@ -1424,6 +1444,10 @@ msgid "[Documents]Use %(1) Format"
 msgstr "%(1) フォーマットを使用"
 
 #: .\options\mainoption.cpp
+msgid "[UserOption]Use this option only for downwards compatibility with older third-party plug-ins."
+msgstr "このオプションは古いサードパーティ製プラグインとの下方互換の目的でのみ使用してください。"
+
+#: .\options\mainoption.cpp
 msgid "[UserOption]User Data"
 msgstr "ユーザーデータ"
 
@@ -1469,6 +1493,10 @@ msgstr "変更は $APPNAME の次回起動時に適用されます。"
 
 #: .\editing\scaleview.cpp
 msgid "[Scale]Zoom"
+msgstr "ズーム"
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Zoom"
 msgstr "ズーム"
 
 #: .\presets\presetcomponent.cpp

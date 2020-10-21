@@ -210,8 +210,8 @@ msgid "[FileType]This product key requires an additional license that could not 
 msgstr "Dieser Produktschlüssel erfordert eine zusätzliche Lizenz, die auf diesem Computer nicht gefunden wurde."
 
 #: .\web\licenseserver.cpp
-msgid "[WebAPI]Updating subscription"
-msgstr "Abonnement aktualisieren"
+msgid "[WebAPI]Updating membership"
+msgstr "Mitgliedschaft aktualisieren"
 
 #: .\application\usercomponent.cpp
 msgid "[Licenser]User License not found! Please select a new License File."
@@ -236,6 +236,9 @@ msgstr "Ihre Autorisierung ist abgelaufen. Bitte melden Sie sich erneut an."
 #: .\application\purchasehandler.cpp
 msgid "[Licenser]Your purchased items have been activated."
 msgstr "Ihre gekauften Artikel wurden aktiviert."
+
+#~ msgid "[WebAPI]Updating subscription"
+#~ msgstr "Abonnement aktualisieren"
 
 #~ msgid "[Licenser]$APPCOMPANY Account"
 #~ msgstr "$APPCOMPANY-Account"

@@ -10,7 +10,7 @@ msgstr "#9"
 
 #: .\ccl\browser.xml
 msgid "[BrowserHomeContent]$APPCOMPANY Exchange and other services"
-msgstr ""
+msgstr "$APPCOMPANY Exchange ve diğer servisler"
 
 #: .\app\licenser.xml
 msgid "[UserLicenseExpired]$APPCOMPANY Forum"
@@ -189,6 +189,10 @@ msgstr "$title"
 msgid "[MutableInspectorProperty]$title"
 msgstr "$title"
 
+#: .\app\shared.xml
+msgid "[HUDPopup]$title"
+msgstr ""
+
 #: .\devices\editgroups.xml
 msgid "[EditGroupLinkAspect]$title"
 msgstr "$title"
@@ -241,6 +245,10 @@ msgstr "$tooltip"
 msgid "[MutableInspectorProperty]$tooltip"
 msgstr "$tooltip"
 
+#: .\app\shared.xml
+msgid "[HUDPopup]$tooltip"
+msgstr ""
+
 #: .\devices\musicdevices.xml
 msgid "[MutableNoteRepeatSlider]$tooltip"
 msgstr "$tooltip"
@@ -290,8 +298,8 @@ msgid "[AutomationTrackDialog]&lt;&lt; Add"
 msgstr "&lt;&lt; Ekle"
 
 #: .\ccl\browser.xml
-msgid "[SearchBar](Not searchable)"
-msgstr "(Arama Yapılamaz)"
+msgid "[SearchResultView](Not searchable)"
+msgstr ""
 
 #: .\app\multitrack.xml
 msgid "[MultitrackPropertyEditor]+"
@@ -344,10 +352,6 @@ msgstr "..."
 #: .\engine\audioexport.xml
 msgid "[TrackExport]..."
 msgstr "..."
-
-#: .\engine\editor.xml
-msgid "[ControlLane]..."
-msgstr ""
 
 #: .\engine\editor.xml
 msgid "[MusicPatternControlLane]..."
@@ -776,6 +780,10 @@ msgstr "@cmd.title[Record Mode|Record Mode Replace]"
 msgid "[ShowToolbar]@cmd.title[Show|Perform]"
 msgstr ""
 
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]@cmd.title[Track|Recall Retrospective Recording]"
+msgstr ""
+
 #: .\engine\song.xml
 msgid "[SongToolbar]@cmd.title[Transport|Cursor follows Edit Position]"
 msgstr "@cmd.title[Transport|Cursor follows Edit Position]"
@@ -853,8 +861,8 @@ msgid "[InspectorPanel]@cmd.title[View|Inspector]"
 msgstr "@cmd.title[View|Inspector]"
 
 #: .\engine\song.xml
-msgid "[Song]@cmd.title[View|Inspector]"
-msgstr "@cmd.title[View|Inspector]"
+msgid "[TrackControlsButtonsHeader]@cmd.title[View|Inspector]"
+msgstr ""
 
 #: .\engine\recordpanel.xml
 msgid "[RecordPanel.Horizontal]@cmd.title[View|Note Repeat]"
@@ -905,8 +913,8 @@ msgid "[InspectorPanel]@cmd.title[View|Track List]"
 msgstr "@cmd.title[View|Track List]"
 
 #: .\engine\song.xml
-msgid "[Song]@cmd.title[View|Track List]"
-msgstr "@cmd.title[View|Track List]"
+msgid "[TrackControlsButtonsHeader]@cmd.title[View|Track List]"
+msgstr ""
 
 #: .\engine\tracklistinspector.xml
 msgid "[TrackListInspectorPanel]@cmd.title[View|Track List]"
@@ -1076,11 +1084,19 @@ msgstr "@value[]"
 msgid "[QuantizeSetup.PresetPart]A"
 msgstr "A"
 
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]A notated C sounds"
+msgstr ""
+
 #: .\devices\synthcombinator.xml
 msgid ""
 "[SynthCombinatorRouting]A note event splitter can be inserted for 3 or more "
 "instruments"
 msgstr "3 veya daha fazla enstrüman için note klip bölücü eklenebilir"
+
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]Abbreviation"
+msgstr ""
 
 #: .\app\homepage.xml
 msgid "[Command]About"
@@ -1143,8 +1159,8 @@ msgid "[MusicFXRackSlotView]Activate"
 msgstr "Aktive Et"
 
 #: .\devices\synthrack.xml
-msgid "[AudioSynthRackSlotView]Activate"
-msgstr "Aktive Et"
+msgid "[AudioSynthRackSlotViewCompact]Activate"
+msgstr ""
 
 #: .\engine\trackcontrols.xml
 msgid "[TrackAutomationContent]Activate"
@@ -1289,8 +1305,8 @@ msgid "[Command]Add Tracks"
 msgstr "İz Ekle"
 
 #: .\engine\song.xml
-msgid "[Song]Add Tracks @cmd[]"
-msgstr "İz Ekle @cmd[]"
+msgid "[TrackControlsButtonsHeader]Add Tracks @cmd[]"
+msgstr ""
 
 #: .\engine\recordpanel.xml
 msgid "[RecordPanel.Horizontal]Add a layer for every new take"
@@ -1432,6 +1448,10 @@ msgstr "Uygula"
 msgid "[RemoteFXEditorHeaderView]Apply DSP to Input Signal"
 msgstr "Giriş Sinyaline DSP Uygula"
 
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]Apply Staff Preset"
+msgstr ""
+
 #: .\app\options.xml
 msgid "[EditingOption]Apply folder track color to content"
 msgstr "İçeriğe klasör izi rengini uygula"
@@ -1451,6 +1471,10 @@ msgstr "Sanatçı"
 #: .\engine\songdialogs.xml
 msgid "[SongMetaInfoOption]Arranger"
 msgstr "Aranjör"
+
+#: .\engine\trackcontrols.xml
+msgid "[ArrangerTrackEditorView]Arranger"
+msgstr ""
 
 #: .\engine\trackcontrols.xml
 msgid "[ArrangerTrackControls]Arranger"
@@ -1781,6 +1805,14 @@ msgstr ""
 msgid "[MusicTrackInspector.ProgramSelector]Bank / Prog."
 msgstr "Bank / Prog."
 
+#: .\show\show.xml
+msgid "[VirtualInstrumentPlayer.ProgramSelector]Bank / Prog."
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Bar Numbers"
+msgstr ""
+
 #: .\engine\songdialogs.xml
 msgid "[SongSetup]Bar Offset"
 msgstr "Offset"
@@ -1969,6 +2001,14 @@ msgstr "Notion Satın Al"
 msgid "[MutableMicroViewBypass]Bypass"
 msgstr "ByPass"
 
+#: .\engine\eventinspector.xml
+msgid "[AudioEventPropertiesList]Bypass"
+msgstr ""
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventMiniProperties.Table]Bypass"
+msgstr ""
+
 #: .\devices\audiofxeditor.xml
 msgid "[FXEditorHeaderRow1]Bypass (automatable)"
 msgstr "Bypass (Otomasyon yapılabilir)"
@@ -2001,6 +2041,10 @@ msgstr "CD Protokolü"
 msgid "[CDProtocol]CD Protocol"
 msgstr "CD Protokolü"
 
+#: .\devices\synthrack.xml
+msgid "[AudioSynthRackSlotViewCompact]CPU"
+msgstr ""
+
 #: .\devices\transport.xml
 msgid "[PerformanceMonitor.Meters]CPU"
 msgstr "CPU"
@@ -2028,6 +2072,12 @@ msgstr "Vazgeç"
 #: .\engine\mediapool.xml
 msgid "[LocateMissingFiles]Cancel Search"
 msgstr "Aramayı Durdur"
+
+#: .\app\options.xml
+msgid ""
+"[MusicOption]Capture note and control data while not recording for later "
+"recall"
+msgstr ""
 
 #: .\engine\mediapool.xml
 msgid "[PlugInFileInfo]Category:"
@@ -2215,6 +2265,10 @@ msgid "[ChordTrackInspector]Chords"
 msgstr "Akorlar"
 
 #: .\engine\trackcontrols.xml
+msgid "[ChordTrackEditorView]Chords"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
 msgid "[ChordTrackControls]Chords"
 msgstr "Akorlar"
 
@@ -2222,12 +2276,16 @@ msgstr "Akorlar"
 msgid "[PerformanceMonitor.CacheOptions]Cleanup Cache"
 msgstr "Ara Belleği Temize"
 
-#: .\app\startup.xml
-msgid "[MessageWindow]Clear"
+#: .\app\shared.xml
+msgid "[FilterBar]Clear"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[SearchBar]Clear"
 msgstr "Temizle"
 
-#: .\ccl\browser.xml
-msgid "[SearchBar]Clear"
+#: .\app\startup.xml
+msgid "[MessageWindow]Clear"
 msgstr "Temizle"
 
 #: .\devices\devices.xml
@@ -2422,6 +2480,10 @@ msgstr "Yorum"
 msgid "[DetailedInfoTable]Comment"
 msgstr "Yorum"
 
+#: .\devices\synthrack.xml
+msgid "[SynthRack]Compact"
+msgstr ""
+
 #: .\project\audiofile.xml
 msgid "[CDProtocol]Compact View"
 msgstr "Kompakt Görünüm"
@@ -2465,6 +2527,10 @@ msgstr "Konsol"
 #: .\app\importsongdata.xml
 msgid "[ImportSongDataOptions]Console Options"
 msgstr "Konsol seçenekleri"
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorToolBar]Continuous Layout"
+msgstr ""
 
 #: .\ccl\common.xml
 msgid "[ColorSchemeOption.Levels]Contrast"
@@ -2705,6 +2771,10 @@ msgstr ""
 #: .\engine\trackcontrols.xml
 msgid "[MarkerTrackControls]Delete Selected Markers @cmd[Edit|Delete]"
 msgstr "Seçili İşaretleri Sil @cmd[Düzenle|Sil]"
+
+#: .\engine\trackcontrols.xml
+msgid "[SignatureTrackControls]Delete Selected Signature @cmd[Edit|Delete]"
+msgstr ""
 
 #: .\engine\trackcontrols.xml
 msgid "[TempoTrackControls]Delete Tempo Change"
@@ -3008,7 +3078,7 @@ msgstr "EBU +18 Metering"
 msgid "[Analyser]EBU R128"
 msgstr "EBU R128"
 
-#: .\app\windowclasses.xml .\engine\inspector.xml
+#: .\app\windowclasses.xml .\engine\inspector.xml .\engine\trackcontrols.xml
 msgid "[Command]Edit"
 msgstr "Düzenle"
 
@@ -3199,6 +3269,10 @@ msgstr ""
 msgid "[MusicTrackInspector.ProgramSelector]Enable Program"
 msgstr "Programı Etkinleştir"
 
+#: .\show\show.xml
+msgid "[VirtualInstrumentPlayer.ProgramSelector]Enable Program"
+msgstr ""
+
 #: .\engine\editor.xml
 msgid ""
 "[MusicPatternToolsHeader]Enable Record / Step Record @cmd[Step Record|Enable]"
@@ -3208,6 +3282,10 @@ msgstr "Kayıt / Step Kayıdı Etkinleştir @cmd[Step Record|Enable]"
 msgid "[SpectrumMeterSettings]Enable Smoothing"
 msgstr "Yumuşatmayı Etkinleştir"
 
+#: .\engine\editor.xml
+msgid "[ScoreSetupContent]Enable Transposition"
+msgstr ""
+
 #: .\app\options.xml
 msgid "[EditingOption]Enable crosshair cursor for tools"
 msgstr "Araçlar için artı imleci etkinleştir"
@@ -3216,9 +3294,17 @@ msgstr "Araçlar için artı imleci etkinleştir"
 msgid "[InplaceOptions]Enable crosshair cursor for tools"
 msgstr "Araçlar için artı imleci etkinleştir"
 
+#: .\ccl\common.xml
+msgid "[GraphicsEngineOption]Enable graphics hardware acceleration"
+msgstr ""
+
 #: .\devices\devices.xml
 msgid "[AudioSetup.Engine]Enable low latency monitoring for instruments"
 msgstr "Enstrümanlar İçin Düşük Gecikmeli Dinlemeyi Etkinleştir."
+
+#: .\app\options.xml
+msgid "[MusicOption]Enable retrospective recording"
+msgstr ""
 
 #: .\project\analyser.xml
 msgid ""
@@ -3277,8 +3363,8 @@ msgid ""
 msgstr "Kayıt Miks Modunda Notaları Sil @cmd[Kayıt Modu|Note Sil]"
 
 #: .\engine\videoplayer.xml
-msgid "[VideoPlayer]Error Loading Movie"
-msgstr "Filmi Yüklerken Hata Oluştu"
+msgid "[VideoPlayer]Error Loading Video"
+msgstr ""
 
 #: .\engine\trackcontrols.xml
 msgid "[Command]Event"
@@ -3402,6 +3488,10 @@ msgstr "Video Dışa Aktar"
 msgid "[AudioIOSetup]Export..."
 msgstr "Dışa Aktar..."
 
+#: .\devices\synthrack.xml
+msgid "[SynthRack]Extended"
+msgstr ""
+
 #: .\devices\audiomixer.xml
 msgid "[MixerManager]External"
 msgstr "Harici"
@@ -3518,6 +3608,10 @@ msgstr "Dosyalar"
 msgid "[Command]Fill Lane"
 msgstr "Doldurma Çizgisi"
 
+#: .\app\shared.xml
+msgid "[FilterBar]Filter"
+msgstr ""
+
 #: .\ccl\pluginmanager.xml
 msgid "[PlugInManager]Filter"
 msgstr "Filtre"
@@ -3525,6 +3619,10 @@ msgstr "Filtre"
 #: .\devices\musicdevices.xml
 msgid "[MusicDeviceOptions]Filter"
 msgstr "Filtre"
+
+#: .\engine\tracklistinspector.xml
+msgid "[FindTrackPopup]Find Track"
+msgstr ""
 
 #: .\engine\audiotransform.xml
 msgid "[AudioTransformDialog]Fixed Tail"
@@ -3570,6 +3668,10 @@ msgstr "Akorları takip et"
 msgid "[MusicTrackInspector]Follow chords"
 msgstr "Akorları takip et"
 
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Font"
+msgstr ""
+
 #: .\engine\audioexport.xml
 msgid "[AudioExport]Format"
 msgstr "Format"
@@ -3613,6 +3715,10 @@ msgstr "Dondur"
 #: .\devices\audiofxeditor.xml
 msgid "[SplitterEditView]Frequency Split"
 msgstr "Frekans Bölme"
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorToolBar]Full Score Page Layout"
+msgstr ""
 
 #: .\app\windowclasses.xml
 msgid "[GadgetNavigator]Gadgets"
@@ -3672,7 +3778,7 @@ msgstr "Tür"
 
 #: .\ccl\browser.xml
 msgid "[BrowserHomeContent]Get add-ons from $APPCOMPANY Shop"
-msgstr ""
+msgstr "$APPCOMPANY Mağazasından eklent al"
 
 #: .\engine\song.xml
 msgid "[TrackList]Global Mute @cmd[Console|Global Mute]"
@@ -3681,6 +3787,18 @@ msgstr "Global Mute @cmd[Konsol|Global Mute]"
 #: .\engine\song.xml
 msgid "[TrackList]Global Solo @cmd[Console|Global Solo]"
 msgstr "Global Solo @cmd[Konsol|Global Solo]"
+
+#: .\engine\editor.xml
+msgid "[MusicEditor]Global Track Visibility"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[AudioEditor]Global Track Visibility"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[TrackControlsButtonsHeader]Global Track Visibility"
+msgstr ""
 
 #: .\devices\transport.xml
 msgid "[Command]Goto Loop End"
@@ -3999,6 +4117,12 @@ msgstr "İşaret Ekle @cmd[]"
 #: .\engine\editor.xml
 msgid "[Command]Insert Rest"
 msgstr "Rest Ekle"
+
+#: .\engine\trackcontrols.xml
+msgid ""
+"[SignatureTrackControls]Insert Signature @cmd[Edit|Insert Time Signature] "
+"@cmd[Edit|Insert Key Signature]"
+msgstr ""
 
 #: .\engine\trackcontrols.xml
 msgid "[TempoTrackControls]Insert Tempo Change"
@@ -4377,6 +4501,10 @@ msgstr "Katmanlar"
 msgid "[TrackLayerSelector]Layers"
 msgstr ""
 
+#: .\engine\trackcontrols.xml
+msgid "[TrackNameAndLayer]Layers"
+msgstr ""
+
 #: .\engine\tracklistinspector.xml
 msgid "[TrackListEmbeddedInspector]Layers"
 msgstr "Katmanlar"
@@ -4388,6 +4516,14 @@ msgstr "Katmanlar klipleri takip eder"
 #: .\engine\inspector.xml
 msgid "[MusicTrackInspector]Layers follow events"
 msgstr "Katmanlar klipleri takip eder"
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorLeftPanel]Layout"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreSetupContent]Layout Style"
+msgstr ""
 
 #: .\app\homepage.xml
 msgid "[DemosFeedNotInstalled]Learn how to use $APPNAME"
@@ -4499,7 +4635,7 @@ msgstr "Yükle"
 
 #: .\engine\editor.xml
 msgid "[PatternInspector]Load Pattern Preset"
-msgstr ""
+msgstr "Kalıp preseti yükle"
 
 #: .\ccl\common.xml
 msgid "[ColorSchemePresetOption]Load Preset"
@@ -4693,12 +4829,20 @@ msgstr "Üretici"
 msgid "[MusicDeviceEditDialog]Manufacturer"
 msgstr "Üretici"
 
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Margins"
+msgstr ""
+
 #: .\devices\transport.xml .\engine\trackcontrols.xml
 msgid "[Command]Marker"
 msgstr "İşaret"
 
 #: .\engine\inspector.xml
 msgid "[MarkerTrackInspector]Marker"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[MarkerTrackEditorView]Marker"
 msgstr ""
 
 #: .\engine\trackcontrols.xml
@@ -4929,9 +5073,9 @@ msgstr ""
 msgid "[MusicStepRecordPanel]Move forward"
 msgstr ""
 
-#: .\engine\videoplayer.xml
-msgid "[VideoPlayer]Movie Not Loaded"
-msgstr "Film Yüklü değil"
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Multi-Measure Rests"
+msgstr ""
 
 #: .\app\multitrack.xml
 msgid "[MultitrackPropertyEditor]Multitrack File Properties"
@@ -4940,10 +5084,6 @@ msgstr "Çok İzli Dosya Özellikleri"
 #: .\engine\eventinspector.xml
 msgid "[MusicPartProperties]Music Part Properties"
 msgstr "Müizik Bölümü Özellikleri"
-
-#: .\engine\editor.xml
-msgid "[ScoreEditorLeftPanel]Musical Symbols"
-msgstr ""
 
 #: .\app\options.xml
 msgid "[AutomationOption]Mute"
@@ -4996,6 +5136,10 @@ msgstr "İsim"
 #: .\ccl\pluginmanager.xml
 msgid "[PlugInManager]Name"
 msgstr "İsim"
+
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]Name"
+msgstr ""
 
 #: .\engine\quantize.xml
 msgid "[QuantizeSetup.PatternPart]Name"
@@ -5077,7 +5221,7 @@ msgstr "Sonraki"
 msgid "[NextItemView]Next"
 msgstr ""
 
-#: .\ccl\browser.xml
+#: .\app\shared.xml
 msgid "[SearchBar]Next Page"
 msgstr "Sonraki Sayfa"
 
@@ -5177,6 +5321,10 @@ msgstr "Yok"
 msgid "[SplitterEditView]Normal"
 msgstr "Normal"
 
+#: .\project\project.xml
+msgid "[Project]Normal"
+msgstr ""
+
 #: .\show\show.xml
 msgid "[SetList]Normal"
 msgstr ""
@@ -5188,6 +5336,10 @@ msgstr "Normalize"
 #: .\project\project.xml
 msgid "[ProjectEventMiniProperties.Table]Normalize"
 msgstr "Normalize"
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Notation Size"
+msgstr ""
 
 #: .\engine\editor.xml
 msgid "[MusicEditor.ToolGroup2]Note Color"
@@ -5245,6 +5397,10 @@ msgstr "Note Tekrar"
 msgid ""
 "[NoteRepeatMasterControls]Note Repeat Active @cmd[Record Mode|Note Repeat]"
 msgstr "Nota Tekrar Aktif @cmd[Record Mode|Note Repeat]"
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorToolPaletteNotes]Notehead Symbol"
+msgstr ""
 
 #: .\engine\songdialogs.xml
 msgid "[TitleAlbumNotes]Notes"
@@ -5321,16 +5477,16 @@ msgid "[SoundSetFileSelector]Open"
 msgstr "Açık"
 
 #: .\engine\song.xml
-msgid "[Song]Open Arranger Track"
-msgstr "Aranjör İzi Aç"
+msgid "[TrackControlsButtonsHeader]Open Arranger Track"
+msgstr ""
 
 #: .\app\windowclasses.xml
 msgid "[Command]Open CD Protocol"
 msgstr "CD Protokolü Aç"
 
 #: .\engine\song.xml
-msgid "[Song]Open Chord Track"
-msgstr "Akor İzi Aç"
+msgid "[TrackControlsButtonsHeader]Open Chord Track"
+msgstr ""
 
 #: .\devices\transport.xml
 msgid "[TransportPanel.MidiActivityPart]Open MIDI Monitor"
@@ -5341,20 +5497,32 @@ msgid "[Command]Open Marker Track"
 msgstr "İşaretçi İzi Aç"
 
 #: .\engine\song.xml
-msgid "[Song]Open Marker Track"
-msgstr "İşaretçi İzi Aç"
+msgid "[TrackControlsButtonsHeader]Open Marker Track"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[TrackControlsButtonsHeader]Open Secondary Ruler"
+msgstr ""
 
 #: .\app\homepage.xml .\devices\transport.xml
 msgid "[Command]Open Setup"
 msgstr "Kurulumu Aç"
 
 #: .\app\windowclasses.xml
+msgid "[Command]Open Signature Track"
+msgstr ""
+
+#: .\engine\song.xml
+msgid "[TrackControlsButtonsHeader]Open Signature Track"
+msgstr ""
+
+#: .\app\windowclasses.xml
 msgid "[Command]Open Tempo Track"
 msgstr "Tempo İzi Aç"
 
 #: .\engine\song.xml
-msgid "[Song]Open Tempo Track"
-msgstr "Tempo İzi Aç"
+msgid "[TrackControlsButtonsHeader]Open Tempo Track"
+msgstr ""
 
 #: .\engine\audioediting.xml
 msgid "[StripSilencePanel.DetectionPart]Open Threshold"
@@ -5393,8 +5561,8 @@ msgid "[TrackExport]Options"
 msgstr "Seçenekler"
 
 #: .\engine\song.xml
-msgid "[Song]Options"
-msgstr "Seçenekler"
+msgid "[TrackControlsButtonsHeader]Options"
+msgstr ""
 
 #: .\project\audiofile.xml
 msgid "[AudioFilePublisher]Options"
@@ -5407,6 +5575,10 @@ msgstr "Seçenekler"
 #: .\project\burn.xml
 msgid "[BurnerSelectDialog]Options"
 msgstr "Seçenekler"
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Orientation"
+msgstr ""
 
 #: .\app\licenser.xml
 msgid ""
@@ -5488,6 +5660,14 @@ msgstr ""
 #: .\app\windowclasses.xml
 msgid "[Command]Packages"
 msgstr "Paketler"
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Page Layout"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Page Size"
+msgstr ""
 
 #: .\app\options.xml
 msgid "[AutomationOption]Pan"
@@ -5830,6 +6010,10 @@ msgstr "Mono İzleri Koru"
 msgid "[ChannelOrganizerSetup]Preserve order of channels with folder track"
 msgstr "Klasör İzleri ile Kanalların Sıralarını Koru"
 
+#: .\devices\synthrack.xml
+msgid "[AudioSynthRackSlotViewExtended]Preset"
+msgstr ""
+
 #: .\show\showdialogs.xml
 msgid "[AddPlayerDialog.AudioOptions]Preset"
 msgstr ""
@@ -5842,7 +6026,7 @@ msgstr "Presetler"
 msgid "[Command]Previous"
 msgstr "Önceki"
 
-#: .\ccl\browser.xml
+#: .\app\shared.xml
 msgid "[SearchBar]Previous Page"
 msgstr "Önceki Sayfa"
 
@@ -5861,6 +6045,10 @@ msgstr "Önceki Program"
 #: .\engine\automation.xml
 msgid "[AutomationTrackDialog]Previous Track"
 msgstr "Önceki İz"
+
+#: .\engine\editor.xml
+msgid "[Command]Print"
+msgstr ""
 
 #: .\devices\devices.xml
 msgid "[AudioSetup.Engine]Process Block Size"
@@ -5893,6 +6081,10 @@ msgstr "Ürün Anahtarı:"
 #: .\engine\inspector.xml
 msgid "[MusicTrackInspector.ProgramSelector]Program"
 msgstr "Program"
+
+#: .\show\show.xml
+msgid "[VirtualInstrumentPlayer.ProgramSelector]Program"
+msgstr ""
 
 #: .\devices\devices.xml
 msgid "[MidiMonitor]Program Change"
@@ -6324,11 +6516,11 @@ msgstr "Katmanı Kaldır"
 
 #: .\ccl\pluginmanager.xml
 msgid "[PlugInManager]Remove Plug-In Settings"
-msgstr ""
+msgstr "Plug-In Ayarlarını Kaldır"
 
 #: .\ccl\pluginmanager.xml
 msgid "[Command]Remove Plug-In Settings"
-msgstr ""
+msgstr "Plug-In Ayarlarını Kaldır"
 
 #: .\devices\devices.xml
 msgid "[MacroControlSetup]Remove Targets"
@@ -6493,6 +6685,10 @@ msgstr ""
 msgid "[NewsFeed]Retrieving Feed... please wait..."
 msgstr "Akış bulunuyor... Lütfen bekleyin..."
 
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]Retrospective Recording"
+msgstr ""
+
 #: .\devices\transport.xml
 msgid "[TransportPanel]Return to Zero @cmd[Transport|Return to Zero]"
 msgstr "Sıfıra Dön @cmd[Transport|Sıfıra Dön]"
@@ -6556,6 +6752,10 @@ msgstr "Kök"
 #: .\devices\synthcombinator.xml
 msgid "[SynthCombinatorPageSelector]Routing"
 msgstr "Yönlendirme"
+
+#: .\engine\trackcontrols.xml
+msgid "[SecondaryTimerulerTrackControls]Ruler"
+msgstr ""
 
 #: .\app\licenser.xml
 msgid ""
@@ -6683,6 +6883,10 @@ msgid "[ColorSchemeOption.Score]Score"
 msgstr ""
 
 #: .\engine\editor.xml
+msgid "[Command]Score"
+msgstr ""
+
+#: .\engine\editor.xml
 msgid "[Command]Score View"
 msgstr ""
 
@@ -6694,17 +6898,17 @@ msgstr "Not Defteri"
 msgid "[Command]Scratch Pad"
 msgstr "Not Defteri"
 
+#: .\app\homepage.xml
+msgid "[DocumentBlocks]Search"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[SearchBar]Search"
+msgstr ""
+
 #: .\ccl\browser.xml
 msgid "[BrowserMainTabs]Search @cmd.title[]"
 msgstr "Arama @cmd.title[]"
-
-#: .\ccl\browser.xml
-msgid "[SearchBar]Search for"
-msgstr "Şunu Ara"
-
-#: .\ccl\browser.xml
-msgid "[SearchBar]Search in"
-msgstr "Şurada Ara"
 
 #: .\engine\mediapool.xml
 msgid "[LocateMissingFiles]Search in Folder..."
@@ -6952,7 +7156,7 @@ msgstr "Meta Bilgi Kurulumu"
 
 #: .\ccl\extensionmanager.xml
 msgid "[ExtensionManager.FilterTabs]Shared Extensions"
-msgstr ""
+msgstr "Paylaşılan Genişletmeler"
 
 #: .\engine\editor.xml
 msgid "[Command]Shift Lane"
@@ -6960,11 +7164,11 @@ msgstr "Şeridi Değiştir"
 
 #: .\app\windowclasses.xml
 msgid "[Command]Shop"
-msgstr ""
+msgstr "Mağaza"
 
 #: .\ccl\browser.xml
 msgid "[BrowserHomeContent]Shop"
-msgstr ""
+msgstr "Mağaza"
 
 #: .\project\analyser.xml
 msgid "[EBUDetailValues]Short-Term"
@@ -6987,8 +7191,8 @@ msgid "[MidiMonitor]Show All"
 msgstr ""
 
 #: .\engine\song.xml
-msgid "[Song]Show Automation @cmd[Track|Show Envelopes]"
-msgstr "Otomasyon'u Göster @cmd[İz|Zarfları Göster]"
+msgid "[TrackControlsButtonsHeader]Show Automation @cmd[Track|Show Envelopes]"
+msgstr ""
 
 #: .\devices\transport.xml
 msgid "[PerformanceMonitor.CacheOptions]Show Cache Folder"
@@ -7024,7 +7228,7 @@ msgstr "Dosyaları Göster"
 
 #: .\ccl\browser.xml
 msgid "[BrowserListView]Show Gallery"
-msgstr ""
+msgstr "Galeriyi Göster"
 
 #: .\app\windowclasses.xml
 msgid "[Command]Show Groups (Channel List)"
@@ -7050,9 +7254,13 @@ msgstr "Enstrümanları Göster"
 msgid "[BrowserHomeContent]Show Instruments and Note FX"
 msgstr "Enstrümanları ve Nota FX'leri göster"
 
+#: .\engine\editor.xml
+msgid "[ScoreEditorLeftPanel]Show Layout Options"
+msgstr ""
+
 #: .\ccl\browser.xml
 msgid "[BrowserListView]Show List"
-msgstr ""
+msgstr "Listeyi Göster"
 
 #: .\ccl\browser.xml
 msgid "[Command]Show Loops"
@@ -7061,6 +7269,10 @@ msgstr "Loop'ları Göster"
 #: .\project\analyser.xml
 msgid "[Analyser]Show Loudness Meter"
 msgstr "Loudness Metre'yi Göster"
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorLeftPanel]Show Musical Symbols"
+msgstr ""
 
 #: .\app\windowclasses.xml
 msgid "[Command]Show Outputs"
@@ -7112,7 +7324,7 @@ msgstr ""
 
 #: .\ccl\browser.xml
 msgid "[Command]Show Shop"
-msgstr ""
+msgstr "Mağazayı Göster"
 
 #: .\ccl\browser.xml
 msgid "[BrowserViewModeButtons]Show Thumbnails"
@@ -7120,6 +7332,10 @@ msgstr "Küçük resimleri Göster"
 
 #: .\show\showdialogs.xml
 msgid "[NewShow]Show Title"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorLeftPanel]Show Track Settings"
 msgstr ""
 
 #: .\app\options.xml
@@ -7214,9 +7430,25 @@ msgstr ""
 msgid "[FXEditorHeaderRow1]Sidechain"
 msgstr "Sidechain"
 
+#: .\app\windowclasses.xml
+msgid "[SignatureEditor]Signature"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[SignatureTrackEditorView]Signature"
+msgstr ""
+
+#: .\engine\trackcontrols.xml
+msgid "[SignatureTrackControls]Signature"
+msgstr ""
+
 #: .\devices\musicdevices.xml
 msgid "[NoteRepeatMasterControls]Single Mode"
 msgstr "Tek Mod'u"
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorToolBar]Single Track Page Layout"
+msgstr ""
 
 #: .\app\plugscanner.xml
 msgid "[PlugInScanner]Skip"
@@ -7229,6 +7461,10 @@ msgstr "İzi Atla"
 #: .\project\analyser.xml
 msgid "[SpectrumMeterSettings]Slope"
 msgstr "Eğim"
+
+#: .\project\project.xml
+msgid "[Project]Small"
+msgstr ""
 
 #: .\show\show.xml
 msgid "[SetList]Small"
@@ -7462,6 +7698,14 @@ msgstr "Bölücü"
 msgid "[SynthCombinatorRouting]Splitter"
 msgstr "Bölücü"
 
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Staff Spacing"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]Staff Type"
+msgstr ""
+
 #: .\devices\devices.xml
 msgid "[AudioSetup.Engine]Standard"
 msgstr "Standart"
@@ -7530,6 +7774,10 @@ msgstr "Başlangıç Sayfası"
 msgid "[Start]Start Page"
 msgstr "Başlangıç Sayfası"
 
+#: .\engine\tracklistinspector.xml
+msgid "[FindTrackPopup]Start typing a track name..."
+msgstr ""
+
 #: .\app\windowclasses.xml
 msgid "[StepRecord]Step Record"
 msgstr "Adım Kayıt"
@@ -7592,11 +7840,11 @@ msgstr ""
 
 #: .\engine\editor.xml
 msgid "[PatternInspector]Store"
-msgstr ""
+msgstr "Mağaza"
 
 #: .\engine\editor.xml
 msgid "[PatternInspector]Store Pattern Preset"
-msgstr ""
+msgstr "Mağaza Kalıp Preset"
 
 #: .\ccl\common.xml
 msgid "[ColorSchemePresetOption]Store Preset"
@@ -7717,6 +7965,10 @@ msgid ""
 "of given length."
 msgstr "Otomatik kuyruk algılama ile sabit uzunluklu kuyruk arası geçiş yap"
 
+#: .\engine\editor.xml
+msgid "[ScoreEditorLeftPanel]Symbols"
+msgstr ""
+
 #: .\devices\transport.xml
 msgid "[TransportPanel.Sync]Sync"
 msgstr ""
@@ -7745,6 +7997,10 @@ msgstr "Sistem Özel"
 msgid "[MidiMonitor]System Realtime"
 msgstr "Sistem Gerçek Zaman"
 
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]System Spacing"
+msgstr ""
+
 #: .\project\analyser.xml
 msgid "[FixedEBUR128Display]TP"
 msgstr "TP"
@@ -7753,16 +8009,28 @@ msgstr "TP"
 msgid "[LoudnessInfoTable]TP"
 msgstr "TP"
 
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]Tab Strings"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]Tab Type"
+msgstr ""
+
 #: .\ccl\browser.xml
 msgid "[TagPalette]Tag Palette"
 msgstr "Etiket Seçenekleri"
 
-#: .\app\windowclasses.xml
-msgid "[TagPalette]Tags"
+#: .\ccl\browser.xml
+msgid "[TagListEditBox]Tag Search"
+msgstr ""
+
+#: .\app\shared.xml
+msgid "[SearchBar]Tags"
 msgstr "Etiketler"
 
-#: .\ccl\browser.xml
-msgid "[SearchBar]Tags"
+#: .\app\windowclasses.xml
+msgid "[TagPalette]Tags"
 msgstr "Etiketler"
 
 #: .\ccl\browser.xml
@@ -7817,9 +8085,21 @@ msgstr ""
 msgid "[TempoEditor]Tempo Editor"
 msgstr "Tempo Düzenleyici"
 
+#: .\engine\editor.xml
+msgid "[ScoreSetupContent]Tempos"
+msgstr ""
+
 #: .\project\burn.xml
 msgid "[BurnerSelectDialog]Test Write"
 msgstr "Test Yaz"
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Text Font"
+msgstr ""
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Text Size"
+msgstr ""
 
 #: .\app\licenser.xml
 msgid ""
@@ -8043,7 +8323,7 @@ msgstr ""
 
 #: .\ccl\browser.xml
 msgid "[BrowserViewModeButtons]Toggle Tree Mode"
-msgstr ""
+msgstr "Ağaç Modunu Aç/Kapa"
 
 #: .\devices\transport.xml
 msgid "[PerformanceMonitor.Cache]Total"
@@ -8064,6 +8344,10 @@ msgstr "Toplam boyut:"
 #: .\engine\audioediting.xml
 msgid "[AudioBendPanel.TrackPart]Track"
 msgstr "İz"
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorLeftPanel]Track"
+msgstr ""
 
 #: .\engine\song.xml
 msgid "[Command]Track"
@@ -8132,6 +8416,10 @@ msgstr "İz Playback etkin"
 #: .\devices\transport.xml
 msgid "[ProjectTransport]Track Time"
 msgstr "İz Zamanı"
+
+#: .\engine\tracklistinspector.xml
+msgid "[TrackListEmbeddedInspector]Track Visibility"
+msgstr ""
 
 #: .\project\project.xml
 msgid "[ProjectTrackControlsLength]Track is disabled"
@@ -8224,6 +8512,10 @@ msgstr "Transpoze"
 #: .\engine\inspector.xml
 msgid "[MusicTrackInspector]Transpose"
 msgstr "Transpoze"
+
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]Transposition"
+msgstr ""
 
 #: .\engine\editor.xml
 msgid "[MusicStepRecordPanel]Triplet"
@@ -8536,6 +8828,10 @@ msgid "[VideoExport]Video Format"
 msgstr "Video Format"
 
 #: .\engine\videoplayer.xml
+msgid "[VideoPlayer]Video Not Loaded"
+msgstr ""
+
+#: .\engine\videoplayer.xml
 msgid "[VideoPlayer]Video Offset"
 msgstr "Video Offset"
 
@@ -8778,6 +9074,51 @@ msgstr ""
 #: .\show\showdialogs.xml
 msgid "[ShowMetaInfoOption]x"
 msgstr ""
+
+#~ msgid "[SearchBar](Not searchable)"
+#~ msgstr "(Arama Yapılamaz)"
+
+#~ msgid "[Song]@cmd.title[View|Inspector]"
+#~ msgstr "@cmd.title[View|Inspector]"
+
+#~ msgid "[Song]@cmd.title[View|Track List]"
+#~ msgstr "@cmd.title[View|Track List]"
+
+#~ msgid "[AudioSynthRackSlotView]Activate"
+#~ msgstr "Aktive Et"
+
+#~ msgid "[Song]Add Tracks @cmd[]"
+#~ msgstr "İz Ekle @cmd[]"
+
+#~ msgid "[VideoPlayer]Error Loading Movie"
+#~ msgstr "Filmi Yüklerken Hata Oluştu"
+
+#~ msgid "[VideoPlayer]Movie Not Loaded"
+#~ msgstr "Film Yüklü değil"
+
+#~ msgid "[Song]Open Arranger Track"
+#~ msgstr "Aranjör İzi Aç"
+
+#~ msgid "[Song]Open Chord Track"
+#~ msgstr "Akor İzi Aç"
+
+#~ msgid "[Song]Open Marker Track"
+#~ msgstr "İşaretçi İzi Aç"
+
+#~ msgid "[Song]Open Tempo Track"
+#~ msgstr "Tempo İzi Aç"
+
+#~ msgid "[Song]Options"
+#~ msgstr "Seçenekler"
+
+#~ msgid "[SearchBar]Search for"
+#~ msgstr "Şunu Ara"
+
+#~ msgid "[SearchBar]Search in"
+#~ msgstr "Şurada Ara"
+
+#~ msgid "[Song]Show Automation @cmd[Track|Show Envelopes]"
+#~ msgstr "Otomasyon'u Göster @cmd[İz|Zarfları Göster]"
 
 #~ msgid "[PlugInManager]Blacklist"
 #~ msgstr "Karaliste"

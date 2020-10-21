@@ -537,6 +537,10 @@ msgid "[Menu]Previous Parameter"
 msgstr "Parámetro anterior"
 
 #: .\menubar.xml
+msgid "[Menu]Print Score"
+msgstr "Imprimir partitura"
+
+#: .\menubar.xml
 msgid "[Menu]Project"
 msgstr "Proyecto"
 
@@ -559,6 +563,10 @@ msgstr "Panel de grabación"
 #: .\menubar.xml
 msgid "[Menu]Redo"
 msgstr "Rehacer"
+
+#: .\menubar.xml
+msgid "[Menu]Redo Visibility Change"
+msgstr "Rehacer cambio de visibilidad"
 
 #: .\menubar.xml
 msgid "[Menu]Redo Zoom"
@@ -913,6 +921,10 @@ msgid "[Menu]Undo"
 msgstr "Deshacer"
 
 #: .\menubar.xml
+msgid "[Menu]Undo Visibility Change"
+msgstr "Deshacer cambio de visibilidad"
+
+#: .\menubar.xml
 msgid "[Menu]Undo Zoom"
 msgstr "Deshacer Zoom"
 
@@ -939,6 +951,10 @@ msgstr "Ver"
 #: .\menubar.xml
 msgid "[Menu]View Release Notes"
 msgstr "Ver notas de lanzamiento"
+
+#: .\menubar.xml
+msgid "[Menu]Visibility"
+msgstr "Visibilidad"
 
 #: .\menubar.xml
 msgid "[Menu]Windows"

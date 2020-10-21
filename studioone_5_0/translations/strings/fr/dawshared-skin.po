@@ -176,6 +176,14 @@ msgstr "D'ici, faites glisser la chaîne d'effets"
 msgid "[PostFaderInserts]Drag FX Chain from here"
 msgstr "D'ici, faites glisser la chaîne d'effets"
 
+#: .\audiochannel.xml
+msgid "[AudioSends]Drag Send Chain from here"
+msgstr "Faire glisser de là la chaîne de départ"
+
+#: .\audiochannel.xml
+msgid "[AudioSendsCueMixEmbedded]Drag Send Chain from here"
+msgstr "Faire glisser de là la chaîne de départ"
+
 #: .\audiochannel.narrow.xml
 msgid "[AudioChannel.Narrow.Content]Enable Hardware Monitoring"
 msgstr "Activer l'écoute matérielle"

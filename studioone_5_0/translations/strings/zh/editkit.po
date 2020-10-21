@@ -100,8 +100,8 @@ msgstr "缩小数据"
 msgid "[Command]Delete"
 msgstr "删除"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Denominator"
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Denominator"
 msgstr "分母"
 
 #: .\quantize\quantizelength.cpp
@@ -136,14 +136,27 @@ msgstr "创建共享副本"
 msgid "[Command]Duplicate and Insert"
 msgstr "复制并插入"
 
-#: .\events\eventeditcomponent.cpp .\timeedit\snaptimeprovider.cpp
-#: .\timeedit\timeeditcomponent.cpp .\timeedit\timelinecomponent.cpp
-#: .\timeedit\timeselectioncomponent.cpp .\timeedit\timesnapper.cpp
+#: .\events\eventeditcomponent.cpp .\timeedit\signatureeditlayer.cpp
+#: .\timeedit\snaptimeprovider.cpp .\timeedit\timeeditcomponent.cpp
+#: .\timeedit\timelinecomponent.cpp .\timeedit\timeselectioncomponent.cpp
+#: .\timeedit\timesnapper.cpp
 msgid "[Command]Edit"
 msgstr "编辑"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Edit Time Signature"
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Edit Key Signature"
+msgstr "编辑调号"
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Edit Key Signature"
+msgstr "编辑调号"
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Edit Time Signature"
+msgstr "编辑拍号"
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Edit Time Signature"
 msgstr "编辑拍号"
 
 #: .\timeedit\timerulerview.cpp
@@ -198,6 +211,14 @@ msgstr "律动"
 msgid "[Command]Insert"
 msgstr "插入"
 
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Insert Key Signature"
+msgstr "插入调号"
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Insert Key Signature"
+msgstr "插入调号"
+
 #: .\music\keyswitcheditview.cpp
 msgid "[KeySwitches]Insert Key Switch"
 msgstr " 插入音调切换"
@@ -210,8 +231,12 @@ msgstr "插入点"
 msgid "[Tempo]Insert Tempo"
 msgstr "插入速度"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Insert Time Signature"
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Insert Time Signature"
+msgstr "插入拍号"
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Insert Time Signature"
 msgstr "插入拍号"
 
 #: .\music\keyswitcheditview.cpp
@@ -234,8 +259,8 @@ msgstr "最后一个事件扩展"
 msgid "[EventEditHandler]Length: %(1)"
 msgstr "长度: %(1)"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Locate"
+#: .\timeedit\timeeditmodel.cpp
+msgid "[TimeEdit]Locate"
 msgstr "定位"
 
 #: .\timeedit\timeeditcomponent.cpp
@@ -330,8 +355,8 @@ msgstr "移动到指针"
 msgid "[Command]Move to Cursor"
 msgstr "移动到指针"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Move, Zoom"
+#: .\timeedit\timeeditmodel.cpp
+msgid "[TimeEdit]Move, Zoom"
 msgstr "移动, 缩放"
 
 #: .\music\musicedittasks.cpp
@@ -398,9 +423,17 @@ msgstr "向上微调"
 msgid "[Command]Nudge Up Fine"
 msgstr "细微向上推进"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Numerator"
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Numerator"
 msgstr "分子"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Edit]Open Secondary Ruler"
+msgstr "打开第二标尺"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Open Secondary Ruler"
+msgstr "打开第二标尺"
 
 #: .\music\musicedittasks.cpp
 msgid "[MusicEdit]Operations specific to note events"
@@ -502,12 +535,24 @@ msgstr "重做缩放"
 msgid "[TimeSnapper]Relative Grid"
 msgstr "相对栅格"
 
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Remove Key Signature"
+msgstr "删除调号"
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Remove Key Signature"
+msgstr "删除调号"
+
 #: .\tempo\tempoeditmodel.cpp
 msgid "[Tempo]Remove Tempo"
 msgstr "移除速度"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Remove Time Signature"
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Remove Time Signature"
+msgstr "移除拍号"
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Remove Time Signature"
 msgstr "移除拍号"
 
 #: .\timeedit\timelinecomponent.cpp
@@ -694,8 +739,8 @@ msgstr "在光标处拆分"
 msgid "[Command]Split at Cursor"
 msgstr "在光标处拆分"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Start/Stop"
+#: .\timeedit\timeeditmodel.cpp
+msgid "[TimeEdit]Start/Stop"
 msgstr "开始/结束"
 
 #: .\timeedit\timelinecomponent.cpp
@@ -713,6 +758,10 @@ msgstr "伸直曲线"
 #: .\events\eventedithandler.cpp
 msgid "[EventFigures]Stretch"
 msgstr "伸缩"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Swap Ruler Formats"
+msgstr "交换标尺格式"
 
 #: .\tempo\tempoeditcomponent.cpp
 msgid "[Command]Tempo"
@@ -810,10 +859,6 @@ msgstr "查看"
 msgid "[Command]Zoom"
 msgstr "缩放"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Zoom"
-msgstr "缩放"
-
 #: .\timeedit\timelinecomponent.cpp
 msgid "[Command]Zoom Full"
 msgstr "最大缩放"
@@ -865,6 +910,33 @@ msgstr "缩放到所选"
 #: .\timeedit\timelinecomponent.cpp
 msgid "[Command]Zoom to Selection Horizontally"
 msgstr "水平缩放到所选"
+
+#~ msgid "[TimeRulerView]Denominator"
+#~ msgstr "分母"
+
+#~ msgid "[TimeRulerView]Edit Time Signature"
+#~ msgstr "编辑拍号"
+
+#~ msgid "[TimeRulerView]Insert Time Signature"
+#~ msgstr "插入拍号"
+
+#~ msgid "[TimeRulerView]Locate"
+#~ msgstr "定位"
+
+#~ msgid "[TimeRulerView]Move, Zoom"
+#~ msgstr "移动, 缩放"
+
+#~ msgid "[TimeRulerView]Numerator"
+#~ msgstr "分子"
+
+#~ msgid "[TimeRulerView]Remove Time Signature"
+#~ msgstr "移除拍号"
+
+#~ msgid "[TimeRulerView]Start/Stop"
+#~ msgstr "开始/结束"
+
+#~ msgid "[TimeRulerView]Zoom"
+#~ msgstr "缩放"
 
 #~ msgid "[TimeEditModel]Move to Cursor"
 #~ msgstr "移动到指针"

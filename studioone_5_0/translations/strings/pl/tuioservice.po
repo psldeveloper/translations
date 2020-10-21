@@ -3,10 +3,11 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=79; plural=(n == 1) ? 0 : (0 == 0) && (n % 10 >= 2) && (n % 10 <= 4) && (n % 100 >= 12) && (n % 100 <= 14) ? 1 : 2;\n"
 
 #: .\plugmain.cpp
 msgid "[TUIO]Support for multi-touch via TUIO protocol"
-msgstr "Obsługa multi-touch poprzez protokół TUIO"
+msgstr "Obsługa multi-touch poprzez protok�ł TUIO"
 
 #: .\plugversion.h
 msgid "[TUIO]TUIO Support"

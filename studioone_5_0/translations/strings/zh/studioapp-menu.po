@@ -537,6 +537,10 @@ msgid "[Menu]Previous Parameter"
 msgstr "上一个参数"
 
 #: .\menubar.xml
+msgid "[Menu]Print Score"
+msgstr "打印乐谱"
+
+#: .\menubar.xml
 msgid "[Menu]Project"
 msgstr "项目"
 
@@ -559,6 +563,10 @@ msgstr "录音面板"
 #: .\menubar.xml
 msgid "[Menu]Redo"
 msgstr "重做"
+
+#: .\menubar.xml
+msgid "[Menu]Redo Visibility Change"
+msgstr "重做可见性更改"
 
 #: .\menubar.xml
 msgid "[Menu]Redo Zoom"
@@ -913,6 +921,10 @@ msgid "[Menu]Undo"
 msgstr "撤销"
 
 #: .\menubar.xml
+msgid "[Menu]Undo Visibility Change"
+msgstr "撤销可见性更改"
+
+#: .\menubar.xml
 msgid "[Menu]Undo Zoom"
 msgstr "撤销缩放"
 
@@ -939,6 +951,10 @@ msgstr "查看"
 #: .\menubar.xml
 msgid "[Menu]View Release Notes"
 msgstr "查看发布说明"
+
+#: .\menubar.xml
+msgid "[Menu]Visibility"
+msgstr "可视性"
 
 #: .\menubar.xml
 msgid "[Menu]Windows"

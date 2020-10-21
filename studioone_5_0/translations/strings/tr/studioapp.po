@@ -69,6 +69,10 @@ msgid "[SystemInfo]Application"
 msgstr ""
 
 #: .\studioapp.cpp
+msgid "[StudioApp]Arrow Tool"
+msgstr ""
+
+#: .\studioapp.cpp
 msgid "[StudioApp]Artist Profile"
 msgstr "Sanatçı Profili"
 
@@ -452,7 +456,7 @@ msgstr "Notion'a Yolla"
 
 #: .\sidebar.cpp
 msgid "[Sidebar]Shop"
-msgstr ""
+msgstr "Mağaza"
 
 #: .\automationhandler.cpp
 msgid "[AutomationHandler]Show Automation"
@@ -488,7 +492,7 @@ msgstr "Havuzu Göster"
 
 #: .\sidebar.cpp
 msgid "[Command]Show Shop"
-msgstr ""
+msgstr "Mağazayı Göster"
 
 #: .\devicepresetrevealer.cpp
 msgid "[DevicePresets]Show in Browser"
@@ -622,7 +626,7 @@ msgstr ""
 
 #: .\appoptions.cpp
 msgid "[Command]Toggle Range Tool in upper event area"
-msgstr ""
+msgstr "Alan aracını üst olay alanında geçiştir"
 
 #: .\appoptions.cpp
 msgid "[Command]Toolbar"

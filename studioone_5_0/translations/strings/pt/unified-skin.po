@@ -126,11 +126,11 @@ msgstr "Caso seu computador não esteja conectado à Internet, baixe o Arquivo d
 
 #: .\cclcommon.xml
 msgid "[CommandSchemeOption]Keyboard mapping scheme"
-msgstr "Mapa do Esquema do Teclado"
+msgstr "Esquema do Teclado"
 
 #: .\cclcommon.xml
 msgid "[CommandEditorOption]Keyboard mapping scheme"
-msgstr "Mapa do Esquema do Teclado"
+msgstr "Esquema do Teclado"
 
 #: .\cclcommon.xml
 msgid "[LocaleOption]Language"

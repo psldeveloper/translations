@@ -86,6 +86,10 @@ msgstr ""
 msgid "[Resolution]Dotted"
 msgstr ""
 
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Edit Key Signature"
+msgstr ""
+
 #: .\envelopes\envelopefunctions.cpp
 msgid "[Events]Edit Value"
 msgstr ""
@@ -112,6 +116,10 @@ msgstr ""
 
 #: .\events\eventfunctions.cpp
 msgid "[EventFunctions]Insert Events"
+msgstr ""
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Insert Key Signature"
 msgstr ""
 
 #: .\envelopes\envelopeactions.cpp
@@ -159,6 +167,10 @@ msgid "[MusicalScale]Major Pentatonic"
 msgstr ""
 
 #: .\music\musicalscale.cpp
+msgid "[MusicalScale]Major Triad"
+msgstr ""
+
+#: .\music\musicalscale.cpp
 msgid "[MusicalScale]Melodic Minor"
 msgstr ""
 
@@ -172,6 +184,10 @@ msgstr ""
 
 #: .\music\musicalscale.cpp
 msgid "[MusicalScale]Minor Pentatonic"
+msgstr ""
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Minor Triad"
 msgstr ""
 
 #: .\music\musicalscale.cpp
@@ -316,6 +332,10 @@ msgstr ""
 
 #: .\music\beatlistparam.cpp
 msgid "[Resolution]Quintuplet"
+msgstr ""
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Remove Key Signature"
 msgstr ""
 
 #: .\music\notecontroller.cpp

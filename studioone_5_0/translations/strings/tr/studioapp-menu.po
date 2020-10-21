@@ -26,7 +26,7 @@ msgstr "$APPNAME Kurulumu"
 
 #: .\menubar.xml
 msgid "[Menu]$APPNAME Packages"
-msgstr ""
+msgstr "$APPNAME Paketleri"
 
 #: .\menubar.xml
 msgid "[Menu]$APPNAME Reference Manual"
@@ -537,6 +537,10 @@ msgid "[Menu]Previous Parameter"
 msgstr "Bir Önceki Parametre"
 
 #: .\menubar.xml
+msgid "[Menu]Print Score"
+msgstr ""
+
+#: .\menubar.xml
 msgid "[Menu]Project"
 msgstr "Proje"
 
@@ -559,6 +563,10 @@ msgstr "Kayıt Paneli"
 #: .\menubar.xml
 msgid "[Menu]Redo"
 msgstr "Tekrarla"
+
+#: .\menubar.xml
+msgid "[Menu]Redo Visibility Change"
+msgstr ""
 
 #: .\menubar.xml
 msgid "[Menu]Redo Zoom"
@@ -782,7 +790,7 @@ msgstr ""
 
 #: .\menubar.xml
 msgid "[Menu]Show Shop"
-msgstr ""
+msgstr "Mağazayı Göster"
 
 #: .\menubar.xml
 msgid "[Menu]Show in Console"
@@ -913,6 +921,10 @@ msgid "[Menu]Undo"
 msgstr "Geri Al"
 
 #: .\menubar.xml
+msgid "[Menu]Undo Visibility Change"
+msgstr ""
+
+#: .\menubar.xml
 msgid "[Menu]Undo Zoom"
 msgstr "Zoom'u Geri Al"
 
@@ -939,6 +951,10 @@ msgstr "Görünüm"
 #: .\menubar.xml
 msgid "[Menu]View Release Notes"
 msgstr "Sürüm Notlarını Görüntüle"
+
+#: .\menubar.xml
+msgid "[Menu]Visibility"
+msgstr ""
 
 #: .\menubar.xml
 msgid "[Menu]Windows"

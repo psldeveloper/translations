@@ -205,7 +205,7 @@ msgid "[FileType]This product key requires an additional license that could not 
 msgstr ""
 
 #: .\web\licenseserver.cpp
-msgid "[WebAPI]Updating subscription"
+msgid "[WebAPI]Updating membership"
 msgstr ""
 
 #: .\application\usercomponent.cpp

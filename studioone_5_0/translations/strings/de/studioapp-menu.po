@@ -537,6 +537,10 @@ msgid "[Menu]Previous Parameter"
 msgstr "Vorheriger Parameter"
 
 #: .\menubar.xml
+msgid "[Menu]Print Score"
+msgstr "Notation drucken"
+
+#: .\menubar.xml
 msgid "[Menu]Project"
 msgstr "Projekt"
 
@@ -559,6 +563,10 @@ msgstr "Aufnahmeoptionen"
 #: .\menubar.xml
 msgid "[Menu]Redo"
 msgstr "Wiederholen"
+
+#: .\menubar.xml
+msgid "[Menu]Redo Visibility Change"
+msgstr "Sichtbarkeitsänderung wiederholen"
 
 #: .\menubar.xml
 msgid "[Menu]Redo Zoom"
@@ -913,6 +921,10 @@ msgid "[Menu]Undo"
 msgstr "Rückgängig"
 
 #: .\menubar.xml
+msgid "[Menu]Undo Visibility Change"
+msgstr "Sichtbarkeitsänderung rückgängig"
+
+#: .\menubar.xml
 msgid "[Menu]Undo Zoom"
 msgstr "Zoom rückgängig"
 
@@ -939,6 +951,10 @@ msgstr "Ansicht"
 #: .\menubar.xml
 msgid "[Menu]View Release Notes"
 msgstr "Versionshinweise anzeigen"
+
+#: .\menubar.xml
+msgid "[Menu]Visibility"
+msgstr "Sichtbarkeit"
 
 #: .\menubar.xml
 msgid "[Menu]Windows"

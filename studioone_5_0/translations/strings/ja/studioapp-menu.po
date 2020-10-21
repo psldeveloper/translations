@@ -537,6 +537,10 @@ msgid "[Menu]Previous Parameter"
 msgstr "前のパラメーター"
 
 #: .\menubar.xml
+msgid "[Menu]Print Score"
+msgstr "スコアを印刷"
+
+#: .\menubar.xml
 msgid "[Menu]Project"
 msgstr "プロジェクト"
 
@@ -559,6 +563,10 @@ msgstr "録音パネル"
 #: .\menubar.xml
 msgid "[Menu]Redo"
 msgstr "やり直す"
+
+#: .\menubar.xml
+msgid "[Menu]Redo Visibility Change"
+msgstr "表示変更をやり直す"
 
 #: .\menubar.xml
 msgid "[Menu]Redo Zoom"
@@ -913,6 +921,10 @@ msgid "[Menu]Undo"
 msgstr "取り消す"
 
 #: .\menubar.xml
+msgid "[Menu]Undo Visibility Change"
+msgstr "表示変更を取り消す"
+
+#: .\menubar.xml
 msgid "[Menu]Undo Zoom"
 msgstr "ズームを取り消す"
 
@@ -939,6 +951,10 @@ msgstr "表示"
 #: .\menubar.xml
 msgid "[Menu]View Release Notes"
 msgstr "リリースノートを表示"
+
+#: .\menubar.xml
+msgid "[Menu]Visibility"
+msgstr "可視性"
 
 #: .\menubar.xml
 msgid "[Menu]Windows"

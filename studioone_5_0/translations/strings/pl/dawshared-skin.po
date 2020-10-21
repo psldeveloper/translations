@@ -42,19 +42,19 @@ msgstr "Aktywuj"
 
 #: .\audiochannel.xml
 msgid "[AudioInserts]Activate All"
-msgstr "Aktywuj wszystko"
+msgstr "Aktywuj wszystkie"
 
 #: .\audiochannel.xml
 msgid "[PostFaderInserts]Activate All"
-msgstr "Aktywuj wszystko"
+msgstr "Aktywuj wszystkie"
 
 #: .\audiochannel.xml
 msgid "[AudioSends]Activate All"
-msgstr "Aktywuj wszystko"
+msgstr "Aktywuj wszystkie"
 
 #: .\audiochannel.xml
 msgid "[AudioSendsCueMixEmbedded]Activate All"
-msgstr "Aktywuj wszystko"
+msgstr "Aktywuj wszystkie"
 
 #: .\audiochannel.xml
 msgid "[AudioInserts]Add Insert"
@@ -175,6 +175,14 @@ msgstr "Przeciągnij stąd łańcuch FX"
 #: .\audiochannel.xml
 msgid "[PostFaderInserts]Drag FX Chain from here"
 msgstr "Przeciągnij stąd łańcuch FX"
+
+#: .\audiochannel.xml
+msgid "[AudioSends]Drag Send Chain from here"
+msgstr "Przeciągnij stąd łańcuch wysyłki"
+
+#: .\audiochannel.xml
+msgid "[AudioSendsCueMixEmbedded]Drag Send Chain from here"
+msgstr "Przeciągnij stąd łańcuch wysyłki"
 
 #: .\audiochannel.narrow.xml
 msgid "[AudioChannel.Narrow.Content]Enable Hardware Monitoring"
@@ -434,7 +442,7 @@ msgstr "Wybierz FX miksu"
 
 #: .\audiochannel.xml
 msgid "[AudioSendRackSlotView]Send Level: @value[]"
-msgstr "Poziom wysyłki: @value[]"
+msgstr "@value[]"
 
 #: .\audiochannel.xml
 msgid "[AudioSends]Sends"

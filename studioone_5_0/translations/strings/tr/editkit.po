@@ -100,9 +100,9 @@ msgstr "Veri Uzaklaştır"
 msgid "[Command]Delete"
 msgstr "Sil"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Denominator"
-msgstr "Bölen"
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Denominator"
+msgstr ""
 
 #: .\quantize\quantizelength.cpp
 msgid "[Quantize]Dotted"
@@ -136,15 +136,28 @@ msgstr "Paylaşılanı Kopyala"
 msgid "[Command]Duplicate and Insert"
 msgstr "Kopayala ve araya ekle"
 
-#: .\events\eventeditcomponent.cpp .\timeedit\snaptimeprovider.cpp
-#: .\timeedit\timeeditcomponent.cpp .\timeedit\timelinecomponent.cpp
-#: .\timeedit\timeselectioncomponent.cpp .\timeedit\timesnapper.cpp
+#: .\events\eventeditcomponent.cpp .\timeedit\signatureeditlayer.cpp
+#: .\timeedit\snaptimeprovider.cpp .\timeedit\timeeditcomponent.cpp
+#: .\timeedit\timelinecomponent.cpp .\timeedit\timeselectioncomponent.cpp
+#: .\timeedit\timesnapper.cpp
 msgid "[Command]Edit"
 msgstr "Düzenle"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Edit Time Signature"
-msgstr "Zaman İmzasını Düzenle"
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Edit Key Signature"
+msgstr ""
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Edit Key Signature"
+msgstr ""
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Edit Time Signature"
+msgstr ""
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Edit Time Signature"
+msgstr ""
 
 #: .\timeedit\timerulerview.cpp
 msgid "[TimeRulerView]Enable Play Start Marker"
@@ -198,6 +211,14 @@ msgstr "Groove"
 msgid "[Command]Insert"
 msgstr "Araya Ekle"
 
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Insert Key Signature"
+msgstr ""
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Insert Key Signature"
+msgstr ""
+
 #: .\music\keyswitcheditview.cpp
 msgid "[KeySwitches]Insert Key Switch"
 msgstr ""
@@ -210,9 +231,13 @@ msgstr "Araya Nokta Ekle"
 msgid "[Tempo]Insert Tempo"
 msgstr "Araya Tempo Ekle"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Insert Time Signature"
-msgstr "Araya Zaman İmzası Ekle"
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Insert Time Signature"
+msgstr ""
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Insert Time Signature"
+msgstr ""
 
 #: .\music\keyswitcheditview.cpp
 msgid "[KeySwitches]Key Switch Name"
@@ -234,9 +259,9 @@ msgstr "Sonuncu Klipi Genişlet"
 msgid "[EventEditHandler]Length: %(1)"
 msgstr "Uzunluk: %(1)"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Locate"
-msgstr "Yerini Sapta"
+#: .\timeedit\timeeditmodel.cpp
+msgid "[TimeEdit]Locate"
+msgstr ""
 
 #: .\timeedit\timeeditcomponent.cpp
 msgid "[Command]Locate Mouse Cursor"
@@ -330,9 +355,9 @@ msgstr "İmlece Taşı"
 msgid "[Command]Move to Cursor"
 msgstr "İmlece Taşı"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Move, Zoom"
-msgstr "Taşıı, Zoom"
+#: .\timeedit\timeeditmodel.cpp
+msgid "[TimeEdit]Move, Zoom"
+msgstr ""
 
 #: .\music\musicedittasks.cpp
 msgid "[MusicEdit]Musical Functions"
@@ -398,9 +423,17 @@ msgstr "Yukarı ittir"
 msgid "[Command]Nudge Up Fine"
 msgstr "Yukarı hafif ittir"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Numerator"
-msgstr "Nümeratör"
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Numerator"
+msgstr ""
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Edit]Open Secondary Ruler"
+msgstr ""
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Open Secondary Ruler"
+msgstr ""
 
 #: .\music\musicedittasks.cpp
 msgid "[MusicEdit]Operations specific to note events"
@@ -502,13 +535,25 @@ msgstr "Zoom'u tekrarla"
 msgid "[TimeSnapper]Relative Grid"
 msgstr "Göreceli ızgara"
 
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Remove Key Signature"
+msgstr ""
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Remove Key Signature"
+msgstr ""
+
 #: .\tempo\tempoeditmodel.cpp
 msgid "[Tempo]Remove Tempo"
 msgstr "Tempo'yu kaldır"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Remove Time Signature"
-msgstr "Zaman İmzasını Kaldır"
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Remove Time Signature"
+msgstr ""
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Remove Time Signature"
+msgstr ""
 
 #: .\timeedit\timelinecomponent.cpp
 msgid "[Command]Restore Zoom State"
@@ -694,9 +739,9 @@ msgstr "İmleçten Böl"
 msgid "[Command]Split at Cursor"
 msgstr "İmleçten Böl"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Start/Stop"
-msgstr "Durdur/Başlat"
+#: .\timeedit\timeeditmodel.cpp
+msgid "[TimeEdit]Start/Stop"
+msgstr ""
 
 #: .\timeedit\timelinecomponent.cpp
 msgid "[Command]Store Zoom State"
@@ -713,6 +758,10 @@ msgstr "Eğriyi Düzelt"
 #: .\events\eventedithandler.cpp
 msgid "[EventFigures]Stretch"
 msgstr "Uzat"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Swap Ruler Formats"
+msgstr ""
 
 #: .\tempo\tempoeditcomponent.cpp
 msgid "[Command]Tempo"
@@ -810,10 +859,6 @@ msgstr "Görünüm"
 msgid "[Command]Zoom"
 msgstr "Zoom"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Zoom"
-msgstr "Zoom"
-
 #: .\timeedit\timelinecomponent.cpp
 msgid "[Command]Zoom Full"
 msgstr "Tümünü Zoom'la"
@@ -832,11 +877,11 @@ msgstr "Hassas Yaklaştırma (Zoom In)"
 
 #: .\timeedit\timelinecomponent.cpp
 msgid "[Command]Zoom In Vertical"
-msgstr "Dikey yaklaştır"
+msgstr "Yatay Yaklaştırma"
 
 #: .\timeedit\timelinecomponent.cpp
 msgid "[Command]Zoom In Vertical Fine"
-msgstr ""
+msgstr "Hassas Yatay Yaklaştırma"
 
 #: .\timeedit\timelinecomponent.cpp
 msgid "[Command]Zoom Out"
@@ -852,7 +897,7 @@ msgstr "Dikey uzaklaştır"
 
 #: .\timeedit\timelinecomponent.cpp
 msgid "[Command]Zoom Out Vertical Fine"
-msgstr ""
+msgstr "Hassas Yatay Uzaklaştırma"
 
 #: .\timeedit\timelinecomponent.cpp
 msgid "[Command]Zoom to Loop"
@@ -865,6 +910,33 @@ msgstr "Seçimi Zoom'la"
 #: .\timeedit\timelinecomponent.cpp
 msgid "[Command]Zoom to Selection Horizontally"
 msgstr "Seçimi yatay olarak Zoom'la"
+
+#~ msgid "[TimeRulerView]Denominator"
+#~ msgstr "Bölen"
+
+#~ msgid "[TimeRulerView]Edit Time Signature"
+#~ msgstr "Zaman İmzasını Düzenle"
+
+#~ msgid "[TimeRulerView]Insert Time Signature"
+#~ msgstr "Araya Zaman İmzası Ekle"
+
+#~ msgid "[TimeRulerView]Locate"
+#~ msgstr "Yerini Sapta"
+
+#~ msgid "[TimeRulerView]Move, Zoom"
+#~ msgstr "Taşıı, Zoom"
+
+#~ msgid "[TimeRulerView]Numerator"
+#~ msgstr "Nümeratör"
+
+#~ msgid "[TimeRulerView]Remove Time Signature"
+#~ msgstr "Zaman İmzasını Kaldır"
+
+#~ msgid "[TimeRulerView]Start/Stop"
+#~ msgstr "Durdur/Başlat"
+
+#~ msgid "[TimeRulerView]Zoom"
+#~ msgstr "Zoom"
 
 #~ msgid "[TimeEditModel]Move to Cursor"
 #~ msgstr "İmlece Taşı"

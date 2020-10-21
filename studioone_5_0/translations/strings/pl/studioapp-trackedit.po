@@ -85,6 +85,10 @@ msgid "Default"
 msgstr "Domyślne"
 
 #: .\translation.js
+msgid "[TrackEdit]Extend by Grid"
+msgstr "Rozszerzony do siatki"
+
+#: .\translation.js
 msgid "[TrackEdit]Extract to Chord Track"
 msgstr "Wyodrębnij na ścieżkę akordów"
 
@@ -183,6 +187,10 @@ msgstr "Przenieś na wierzch"
 #: .\translation.js
 msgid "[TrackEdit]Separate Shared Copies"
 msgstr "Oddziel kopię współzależną"
+
+#: .\translation.js
+msgid "[TrackEdit]Shorten by Grid"
+msgstr "Skrócony do siatki"
 
 #: .\translation.js
 msgid "[TrackEdit]Split at Grid"

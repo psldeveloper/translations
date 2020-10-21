@@ -236,6 +236,10 @@ msgstr "Si è verificato un segnale non valido."
 msgid "[AudioIOType]Analog"
 msgstr "Analogico"
 
+#: .\audiomixer\audiosendfolder.cpp
+msgid "[AudioSendSlot]Append Sends"
+msgstr "Aggiungi mandate"
+
 #: .\surfaces\editor\mappinghandler.cpp
 msgid "[MappingHandler]Assign \"%(1)\" to %(2) on %(3)"
 msgstr "Assegna \"%(1)\" a %(2) su %(3)"
@@ -486,6 +490,10 @@ msgstr "Colore"
 msgid "[DeviceFolder]Combine %(1)"
 msgstr "Unisci %(1)"
 
+#: .\audiosynths\audiosynthfolder.cpp
+msgid "[AudioSynth]Compact"
+msgstr "Compatta"
+
 #: .\music\setup\musicdevicesetup.cpp
 msgid "[MusicDeviceSetup]Configure..."
 msgstr "Configura..."
@@ -551,6 +559,10 @@ msgstr "Copia le impostazioni del canale"
 #: .\audioeffects\audiofxgraph.cpp
 msgid "[AudioFXGraph]Copy Effect"
 msgstr "Copia Effetto"
+
+#: .\audiomixer\audiosendfolder.cpp
+msgid "[AudioSendSlot]Copy Sends"
+msgstr "Copia Mandate"
 
 #: .\audiosynths\audiosynthfolder.cpp
 msgid "[AudioSynth]Copy to Clipboard"
@@ -801,6 +813,10 @@ msgstr "Evento FX"
 msgid "[DeviceFolder]Expand"
 msgstr "Espandi"
 
+#: .\audiosynths\audiosynthfolder.cpp
+msgid "[AudioSynth]Extended"
+msgstr "Esteso"
+
 #: .\music\musicdevicemanager.cpp
 msgid "[MusicDevices]External Devices"
 msgstr "Dispositivi Esterni"
@@ -836,6 +852,10 @@ msgstr "Fader"
 #: .\base\devicefolder.cpp
 msgid "[DeviceFolder]Favorite"
 msgstr "Preferito"
+
+#: .\mixerconsole\mixerconsole.cpp
+msgid "[Command]Find Channel"
+msgstr "Trova Canale"
 
 #: .\surfaces\editor\editcomponent.cpp
 msgid "[SurfaceEditor]Focus:"
@@ -904,6 +924,10 @@ msgstr "Gruppo"
 #: .\mixer\editgroupmanager.cpp
 msgid "[Command]Group"
 msgstr "Gruppo"
+
+#: .\audiomixer\hardwareintegration\hardwarestoragemanager.cpp
+msgid "[Hardware]Hardware Integration"
+msgstr "Integrazione Hardware"
 
 #: .\hardware\hardwaremixermanager.cpp
 msgid "[Hardware]Hardware Monitoring"

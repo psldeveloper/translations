@@ -14,7 +14,7 @@ msgstr "Makro %(1)"
 
 #: .\hardware\ucmixerconnector.cpp
 msgid "[UCMixerConnector]%(1) is currently unresponsive."
-msgstr "%(1) nie odpowiada"
+msgstr "%(1) nie odpowiada."
 
 #: .\hardware\ucmixerconnector.cpp
 msgid "[UCMixerConnector]%(1) mixer available in network"
@@ -235,6 +235,10 @@ msgstr "Pojawił się nieprawidłowy sygnał."
 #: .\audiomixer\setup\audioiomatrix.cpp
 msgid "[AudioIOType]Analog"
 msgstr "Analogowe"
+
+#: .\audiomixer\audiosendfolder.cpp
+msgid "[AudioSendSlot]Append Sends"
+msgstr "Dołącz wysyłki"
 
 #: .\surfaces\editor\mappinghandler.cpp
 msgid "[MappingHandler]Assign \"%(1)\" to %(2) on %(3)"
@@ -486,17 +490,21 @@ msgstr "Kolor"
 msgid "[DeviceFolder]Combine %(1)"
 msgstr "Połącz %(1)"
 
+#: .\audiosynths\audiosynthfolder.cpp
+msgid "[AudioSynth]Compact"
+msgstr "Kompaktowy"
+
 #: .\music\setup\musicdevicesetup.cpp
 msgid "[MusicDeviceSetup]Configure..."
 msgstr "Skonfiguruj..."
 
 #: .\macrocontrol\macrocontrolset.cpp
 msgid "[MacroControls]Connect \"%(1)\" to %(2) Control"
-msgstr "Połącz \"%(1)\" z kontrolką makro %(2)"
+msgstr "Połącz \"%(1)\" z kontrolką %(2)"
 
 #: .\macrocontrol\macrocontrolset.cpp
 msgid "[MacroControls]Connect \"%(1)\" to %(2) Control %(3)"
-msgstr "Połącz \"%(1)\" z kontrolką makro %(2) %(3)"
+msgstr "Połącz \"%(1)\" z kontrolką %(2) %(3)"
 
 #: .\base\deviceeditfunctions.cpp
 msgid "[ActionDescriptions]Connect Channel"
@@ -522,7 +530,7 @@ msgstr "Sceny konsolety"
 
 #: .\macrocontrol\macrocontrolsetup.cpp
 msgid "[MacroControlSetup]Control"
-msgstr "Mackie Control"
+msgstr "Kontrolka"
 
 #: .\music\setup\musicdeviceadddialog.cpp
 msgid "[MusicDeviceAddDialog]Control Surface"
@@ -551,6 +559,10 @@ msgstr "Kopiuj ustawienia kanału"
 #: .\audioeffects\audiofxgraph.cpp
 msgid "[AudioFXGraph]Copy Effect"
 msgstr "Kopiuj efekt"
+
+#: .\audiomixer\audiosendfolder.cpp
+msgid "[AudioSendSlot]Copy Sends"
+msgstr "Kopiuj wysyłki"
 
 #: .\audiosynths\audiosynthfolder.cpp
 msgid "[AudioSynth]Copy to Clipboard"
@@ -801,6 +813,10 @@ msgstr "FX obiektu"
 msgid "[DeviceFolder]Expand"
 msgstr "Rozwiń"
 
+#: .\audiosynths\audiosynthfolder.cpp
+msgid "[AudioSynth]Extended"
+msgstr "Rozszerzony"
+
 #: .\music\musicdevicemanager.cpp
 msgid "[MusicDevices]External Devices"
 msgstr "Urządzenia zdalne"
@@ -836,6 +852,10 @@ msgstr "Tłumik"
 #: .\base\devicefolder.cpp
 msgid "[DeviceFolder]Favorite"
 msgstr "Ulubione"
+
+#: .\mixerconsole\mixerconsole.cpp
+msgid "[Command]Find Channel"
+msgstr "Znajdź kanał"
 
 #: .\surfaces\editor\editcomponent.cpp
 msgid "[SurfaceEditor]Focus:"
@@ -904,6 +924,10 @@ msgstr "Grupa"
 #: .\mixer\editgroupmanager.cpp
 msgid "[Command]Group"
 msgstr "Grupa"
+
+#: .\audiomixer\hardwareintegration\hardwarestoragemanager.cpp
+msgid "[Hardware]Hardware Integration"
+msgstr "Integracja ze sprzętem"
 
 #: .\hardware\hardwaremixermanager.cpp
 msgid "[Hardware]Hardware Monitoring"
@@ -2517,7 +2541,7 @@ msgstr "Write"
 
 #: .\music\musicdevicemanager.cpp
 msgid "[MusicDevices]Your MIDI configuration has changed. This might be due to removable devices currently not plugged in.\n\nDo you want to reconnect your external devices now?"
-msgstr "Konfiguracja MIDI uległa zmianie. Być może Twoje urządzenia wymienne nie są teraz podłączone\n\nCzy chcesz je teraz ponownie podłączyć?"
+msgstr "Konfiguracja MIDI uległa zmianie. Być może Twoje urządzenia wymienne nie są teraz podłączone.\n\nCzy chcesz je teraz ponownie podłączyć?"
 
 #~ msgid "[MidiTimeCode]%(1) FPS"
 #~ msgstr "%(1) FPS"

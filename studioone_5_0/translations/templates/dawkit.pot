@@ -102,6 +102,10 @@ msgstr ""
 msgid "[Command]Apply Patch"
 msgstr ""
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Apply Staff Preset"
+msgstr ""
+
 #: .\project\publish\audiodiscpublisher.cpp
 msgid "[AudioDiscPublisher]Arranger"
 msgstr ""
@@ -208,6 +212,10 @@ msgstr ""
 
 #: .\show\editing\setlistitemcomponent.cpp
 msgid "[SetListItem]Continue"
+msgstr ""
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Continuous"
 msgstr ""
 
 #: .\score\scoreeditor.cpp
@@ -459,6 +467,10 @@ msgstr ""
 msgid "[Command]File"
 msgstr ""
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]First Only"
+msgstr ""
+
 #: .\project\editing\projecteditcomponent.cpp
 msgid "[Command]First Track"
 msgstr ""
@@ -485,6 +497,10 @@ msgstr ""
 
 #: .\song\songvideohandler.cpp
 msgid "[Video]Half Size"
+msgstr ""
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Hide Tempos"
 msgstr ""
 
 #: .\project\publish\audiodiscpublisher.cpp
@@ -544,6 +560,10 @@ msgstr ""
 msgid "[SetList]Item"
 msgstr ""
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Large"
+msgstr ""
+
 #: .\project\editing\projecteditcomponent.cpp
 msgid "[Command]Last Track"
 msgstr ""
@@ -594,6 +614,10 @@ msgstr ""
 #: .\show\editing\showeditcomponent.cpp
 #: .\song\songmarker.cpp
 msgid "[Command]Marker"
+msgstr ""
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Medium"
 msgstr ""
 
 #: .\show\document\showsetup.cpp
@@ -707,8 +731,16 @@ msgstr ""
 msgid "[BurnerDialog]No Device"
 msgstr ""
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]No Titles"
+msgstr ""
+
 #: .\show\model\showplayer.cpp
 msgid "[Player]None"
+msgstr ""
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Normal"
 msgstr ""
 
 #: .\project\editing\projectedittasks.cpp
@@ -750,6 +782,10 @@ msgstr ""
 
 #: .\project\publish\audiodiscpublisher.cpp
 msgid "[AudioDiscPublisher]Opening the CD Burning Engine failed."
+msgstr ""
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Pages"
 msgstr ""
 
 #: .\score\scoreeditor.cpp
@@ -832,6 +868,10 @@ msgstr ""
 
 #: .\project\editing\projecteditcomponent.cpp
 msgid "[Command]Previous Track"
+msgstr ""
+
+#: .\score\scoreeditor.cpp
+msgid "[Command]Print"
 msgstr ""
 
 #: .\project\document\projectcomponent.cpp
@@ -982,6 +1022,10 @@ msgstr ""
 
 #: .\show\model\showplayer.cpp
 msgid "[Player]Save Patch..."
+msgstr ""
+
+#: .\score\scoreeditor.cpp
+msgid "[Command]Score"
 msgstr ""
 
 #: .\score\scoreeditor.cpp
@@ -1210,12 +1254,20 @@ msgstr ""
 msgid "[Command]Set Start and End to Selection"
 msgstr ""
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Set Text Font"
+msgstr ""
+
 #: .\project\model\projectfunctions.cpp
 msgid "[ProjectFunctions]Set Track Pause"
 msgstr ""
 
 #: .\song\songvideohandler.cpp
 msgid "[Command]Set Video Offset"
+msgstr ""
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Setup Page"
 msgstr ""
 
 #: .\show\document\performancecomponent.cpp
@@ -1237,8 +1289,20 @@ msgstr ""
 msgid "[Show]Show Setup"
 msgstr ""
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Show Tempos"
+msgstr ""
+
 #: .\song\songcontroller.cpp
 msgid "[Command]Show in Explorer/Finder"
+msgstr ""
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Single Track"
+msgstr ""
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Small"
 msgstr ""
 
 #: .\show\model\showplayer.cpp
@@ -1348,6 +1412,10 @@ msgstr ""
 
 #: .\project\publish\projectpublisher.cpp
 msgid "[ProjectPublisher]This project does not contain any enabled tracks."
+msgstr ""
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Tiny"
 msgstr ""
 
 #: .\project\publish\audiodiscpublisher.cpp
@@ -1483,6 +1551,10 @@ msgstr ""
 
 #: .\song\songvideorenderer.cpp
 msgid "[Video]Writing Video File..."
+msgstr ""
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]X-Large"
 msgstr ""
 
 #: .\song\songmaster.cpp

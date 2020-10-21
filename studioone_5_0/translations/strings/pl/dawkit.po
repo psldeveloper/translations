@@ -10,7 +10,7 @@ msgstr "\"%(1)\" nie obsługuje wybranego formatu pliku."
 
 #: .\song\stemrenderer.cpp
 msgid "[StemRenderer](Disabled)"
-msgstr "(wyłączone)"
+msgstr "(Wyłączone)"
 
 #: .\song\stemrenderer.cpp
 msgid "[StemRenderer](Empty)"
@@ -74,11 +74,11 @@ msgstr "Dodaj odtwarzacz..."
 
 #: .\show\editing\showplayerlistcomponent.cpp
 msgid "[Command]Add Real Instrument Player"
-msgstr "Dodaj odtwarzacz prawdziwego instrumentu"
+msgstr "Dodaj odtwarzacz rzeczywistego instrumentu"
 
 #: .\show\editing\showplayerview.cpp
 msgid "[Player]Add Real Instrument Player"
-msgstr "Dodaj odtwarzacz prawdziwego instrumentu"
+msgstr "Dodaj odtwarzacz rzeczywistego instrumentu"
 
 #: .\show\editing\setlistcomponent.cpp
 msgid "[Command]Add Setlist Item"
@@ -107,6 +107,10 @@ msgstr "Dołącz ścieżkę"
 #: .\show\editing\showplayerinspector.cpp
 msgid "[Command]Apply Patch"
 msgstr "Zastosuj zestaw"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Apply Staff Preset"
+msgstr "Zastosuj zestaw pięciolinii"
 
 #: .\project\publish\audiodiscpublisher.cpp
 msgid "[AudioDiscPublisher]Arranger"
@@ -217,12 +221,16 @@ msgid "[SetListItem]Continue"
 msgstr "Kontynuuj"
 
 #: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Continuous"
+msgstr "Ciągły"
+
+#: .\score\scoreeditor.cpp
 msgid "[ScoreEditor]Convert to Grand Staff"
-msgstr "Konwertuj na podwójną pięciolinię"
+msgstr "Zmień na podwójną pięciolinię"
 
 #: .\score\scoreeditor.cpp
 msgid "[ScoreEditor]Convert to Single Staff"
-msgstr "Konwertuj na pojedynczą pięciolinię"
+msgstr "Zmień na pojedynczą pięciolinię"
 
 #: .\song\songcontroller.cpp
 msgid "[Command]Copy"
@@ -246,7 +254,7 @@ msgstr "Nie można zaimportować pliku!"
 
 #: .\project\document\projectcomponent.cpp
 msgid "[Project]Could not import file! The file format is unsupported."
-msgstr "Nie można zaimportować pliku! Ten format pliku nie jest obsługiwany."
+msgstr "[Project]Could not import file! Ten format pliku nie jest obsługiwany."
 
 #: .\project\publish\ddpimagemaker.cpp
 msgid "[DDPImageMaker]DDP image failed."
@@ -254,11 +262,11 @@ msgstr "Tworzenie obrazu DDP nie powiodło się."
 
 #: .\show\editing\showplayerlistcomponent.cpp
 msgid "[PlayerList]Default"
-msgstr "domyślne"
+msgstr "Domyślne"
 
 #: .\show\model\showplayer.cpp
 msgid "[Player]Default Patch: %(1)"
-msgstr "Domyślny zestaw: %(1)"
+msgstr "Domyślny odtwarzacz: %(1)"
 
 #: .\song\songvideohandler.cpp
 msgid "[Video]Default Size"
@@ -419,11 +427,11 @@ msgstr "Kasowanie nie powiodło się."
 
 #: .\song\songcontroller.cpp
 msgid "[Command]Export Mixdown"
-msgstr "Eksportuj pełny miks"
+msgstr "Eksportuj miks"
 
 #: .\song\songcontroller.cpp
 msgid "[Command]Export Stems"
-msgstr "Eksportuj częściowy miks"
+msgstr "Eksportuj do osobnych plików"
 
 #: .\song\songvideohandler.cpp
 msgid "[Command]Export Video"
@@ -462,6 +470,10 @@ msgstr "Nie udało się zapisać wideo."
 msgid "[Command]File"
 msgstr "Plik"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]First Only"
+msgstr "Tylko pierwszy"
+
 #: .\project\editing\projecteditcomponent.cpp
 msgid "[Command]First Track"
 msgstr "Do pierwszej ścieżki"
@@ -489,6 +501,10 @@ msgstr "Przejdź do poprzedniego markera"
 #: .\song\songvideohandler.cpp
 msgid "[Video]Half Size"
 msgstr "Połowa rozmiaru"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Hide Tempos"
+msgstr "Ukryj tempa"
 
 #: .\project\publish\audiodiscpublisher.cpp
 msgid "[AudioDiscPublisher]ISRC"
@@ -542,7 +558,11 @@ msgstr "Wstaw z nazwą"
 
 #: .\show\editing\setlistcomponent.cpp
 msgid "[SetList]Item"
-msgstr "Element"
+msgstr "Pozycja"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Large"
+msgstr "Duży"
 
 #: .\project\editing\projecteditcomponent.cpp
 msgid "[Command]Last Track"
@@ -554,7 +574,7 @@ msgstr "Długość"
 
 #: .\project\editing\projectedithandler.cpp
 msgid "[ProjectEditHandler]Length: %(1)"
-msgstr "Długość: %(1)"
+msgstr "[ProjectEditHandler]Length: %(1)"
 
 #: .\show\editing\showeditmodel.cpp
 msgid "[EventEditHandler]Length: %(1)"
@@ -562,7 +582,7 @@ msgstr "Długość: %(1)"
 
 #: .\project\editing\projectedithandler.cpp
 msgid "[ProjectEditHandler]Length: %(1)  Pause: %(2)"
-msgstr "Długość: %(1)  Pauza: %(2)"
+msgstr "[ProjectEditHandler]Length: %(1)  Pause: %(2)"
 
 #: .\project\document\projectcomponent.cpp .\show\document\showcomponent.cpp
 #: .\song\songcontroller.cpp
@@ -593,6 +613,10 @@ msgstr "Utwórz obraz"
 #: .\show\editing\showeditcomponent.cpp .\song\songmarker.cpp
 msgid "[Command]Marker"
 msgstr "Markery"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Medium"
+msgstr "Średnia"
 
 #: .\show\document\showsetup.cpp
 msgid "[ShowSetup]Meta Information"
@@ -704,9 +728,17 @@ msgstr "Nie"
 msgid "[BurnerDialog]No Device"
 msgstr "Brak urządzenia"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]No Titles"
+msgstr "Bez tytułów"
+
 #: .\show\model\showplayer.cpp
 msgid "[Player]None"
 msgstr "Brak"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Normal"
+msgstr "Normalne"
 
 #: .\project\editing\projectedittasks.cpp
 msgid "[AudioEdit]Normalize Audio"
@@ -722,11 +754,11 @@ msgstr "Nie wszystkie utwory mogą zostać dodane na dysk audio, ponieważ te mo
 
 #: .\song\stemrenderer.cpp
 msgid "[StemRenderer]Nothing to export. Please select one or more tracks and set Loop or Markers."
-msgstr "Brak danych do eksportu. Wybierz ścieżki i ustaw pętlę lub markery."
+msgstr "[StemRenderer]Nothing to export. Wybierz ścieżki i ustaw pętlę lub markery."
 
 #: .\song\songrenderer.cpp
 msgid "[SongRenderer]Nothing to export. Please set Loop or Markers first."
-msgstr "Brak danych do eksportu. Ustaw pętlę lub markery."
+msgstr "[SongRenderer]Nothing to export. Ustaw pętlę lub markery."
 
 #: .\show\editing\globaltracklistcomponent.cpp
 msgid "[Command]Open Arranger Track"
@@ -747,6 +779,10 @@ msgstr "Otwórz ścieżkę tempa"
 #: .\project\publish\audiodiscpublisher.cpp
 msgid "[AudioDiscPublisher]Opening the CD Burning Engine failed."
 msgstr "Uruchomienie silnika nagrywania CD nie powiodło się."
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Pages"
+msgstr "Strony"
 
 #: .\score\scoreeditor.cpp
 msgid "[ScoreEditor]Paint Tool"
@@ -771,7 +807,7 @@ msgstr "Pauza"
 
 #: .\show\document\performancecomponent.cpp
 msgid "[Command]Perform"
-msgstr "Wykonanie"
+msgstr "Tryb sceny"
 
 #: .\show\editing\setlistiteminspector.cpp
 msgid "[PatchList]Player"
@@ -828,6 +864,10 @@ msgstr "Poprzednia pozycja setlisty"
 #: .\project\editing\projecteditcomponent.cpp
 msgid "[Command]Previous Track"
 msgstr "Poprzednia ścieżka"
+
+#: .\score\scoreeditor.cpp
+msgid "[Command]Print"
+msgstr "Wydruk"
 
 #: .\project\document\projectcomponent.cpp
 #: .\project\editing\projecteditcomponent.cpp
@@ -887,7 +927,7 @@ msgstr "Usuń pozycję setlisty"
 
 #: .\project\document\projectcomponent.cpp .\song\songcontroller.cpp
 msgid "[Command]Remove Track"
-msgstr "Usuń utwór"
+msgstr "Usuń ścieżkę"
 
 #: .\project\model\projectfunctions.cpp
 msgid "[ProjectFunctions]Remove Track"
@@ -976,6 +1016,10 @@ msgstr "Zapisz zestaw"
 #: .\show\model\showplayer.cpp
 msgid "[Player]Save Patch..."
 msgstr "Zapisz zestaw..."
+
+#: .\score\scoreeditor.cpp
+msgid "[Command]Score"
+msgstr "Partytura"
 
 #: .\score\scoreeditor.cpp
 msgid "[ScoreEditor]Select All"
@@ -1193,6 +1237,10 @@ msgstr "Ustaw tytuł pozycji setlisty"
 msgid "[Command]Set Start and End to Selection"
 msgstr "Ustaw start i koniec na zaznaczeniu"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Set Text Font"
+msgstr "Ustaw czcionkę"
+
 #: .\project\model\projectfunctions.cpp
 msgid "[ProjectFunctions]Set Track Pause"
 msgstr "Ustaw pauzę utworu"
@@ -1201,12 +1249,16 @@ msgstr "Ustaw pauzę utworu"
 msgid "[Command]Set Video Offset"
 msgstr "Ustaw przesunięcie wideo"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Setup Page"
+msgstr "Strona konfiguracji"
+
 #: .\show\document\performancecomponent.cpp .\show\document\showcomponent.cpp
 #: .\show\editing\setlistcomponent.cpp .\show\editing\showeditcomponent.cpp
 #: .\show\editing\showeditmodel.cpp .\show\editing\showplayerinspector.cpp
 #: .\show\editing\showplayerlistcomponent.cpp .\show\model\showplayer.cpp
 msgid "[Command]Show"
-msgstr "Występ"
+msgstr "Pokaż"
 
 #: .\show\document\showdocument.cpp
 msgid "[Show]Show"
@@ -1216,9 +1268,21 @@ msgstr "Występ"
 msgid "[Show]Show Setup"
 msgstr "Konfiguracja występu"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Show Tempos"
+msgstr "Pokaż tempa"
+
 #: .\song\songcontroller.cpp
 msgid "[Command]Show in Explorer/Finder"
 msgstr "Pokaż w Eksploratorze/Szukaczu"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Single Track"
+msgstr "Pojedyncza ścieżka"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Small"
+msgstr "Mały"
 
 #: .\show\model\showplayer.cpp
 msgid "[Command]Solo"
@@ -1262,11 +1326,11 @@ msgstr "Podziel utwór przy kursorze"
 
 #: .\project\publish\projectburner.cpp
 msgid "[ProjectBurner]Start to burn audio disc at %(1) times"
-msgstr "Rozpocznij wypalanie dysku audio %(1) razy"
+msgstr "Wypal dysk audio %(1) razy"
 
 #: .\project\publish\ddpimagemaker.cpp
 msgid "[DDPImageMaker]Start to write DDP image at %(1) times"
-msgstr "Rozpocznij zapisywanie obrazu DDP %(1) razy"
+msgstr "Zapisz obraz DDP %(1) razy"
 
 #: .\show\editing\showeditmodel.cpp
 msgid "[EventEditHandler]Start: %(1) (%(2))\nPause: %(3)"
@@ -1290,7 +1354,7 @@ msgstr "Kod ISRC jest niepoprawnie sformatowany.\n\nPowinien on zawierać 12 zna
 
 #: .\song\songvideorenderer.cpp
 msgid "[Video]The audio codec does not support the current sample rate. The rate will be converted to %(1) kHz."
-msgstr "Kodek audio nie obsługuje bieżącej częstotliwości próbkowania. Częstotliwość zostanie zmieniona na%(1) kHz."
+msgstr "Kodek audio nie obsługuje bieżącej częstotliwości próbkowania. Częstotliwość zostanie zmieniona na %(1) kHz."
 
 #: .\project\publish\burnerdialog.cpp
 msgid "[BurnerDialog]The device could not be opened"
@@ -1306,7 +1370,7 @@ msgstr "Nie udało się zaktualizować: następujących plików:"
 
 #: .\song\songrenderer.cpp
 msgid "[SongRenderer]The following issues occurred during export:"
-msgstr "Podczas eksportu wystąpiły następujące błędy:"
+msgstr "Podczas eksportu wystąpiły następujące problemy:"
 
 #: .\song\songmaster.cpp
 msgid "[SongMaster]The mastering file of this song is up-to-date."
@@ -1327,6 +1391,10 @@ msgstr "Wystąpił błąd podczas tworzenia obrazu!"
 #: .\project\publish\projectpublisher.cpp
 msgid "[ProjectPublisher]This project does not contain any enabled tracks."
 msgstr "Ten projekt nie zawiera żadnych włączonych utworów."
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Tiny"
+msgstr "Bardzo mały"
 
 #: .\project\publish\audiodiscpublisher.cpp
 msgid "[AudioDiscPublisher]Title"
@@ -1459,7 +1527,11 @@ msgstr "Wirtualny instrument"
 
 #: .\song\songvideorenderer.cpp
 msgid "[Video]Writing Video File..."
-msgstr "Zapisywanie pliku wideo..."
+msgstr "Nagrywanie Video CD..."
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]X-Large"
+msgstr "Bardzo duży"
 
 #: .\song\songmaster.cpp
 msgid "[SongMaster]Yes"
@@ -1472,6 +1544,12 @@ msgstr "Powiększenie"
 #: .\show\editing\showdraghandler.cpp
 msgid "[ShowDragHandler]new Player"
 msgstr "nowy odtwarzacz"
+
+#~ msgid "[ScoreEditor]Hide Tempi"
+#~ msgstr "Ukryj tempa"
+
+#~ msgid "[ScoreEditor]Show Tempi"
+#~ msgstr "Pokaż tempa"
 
 #~ msgid "[Marker]Insert Marker"
 #~ msgstr "Wstaw marker"

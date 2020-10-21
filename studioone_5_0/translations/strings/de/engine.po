@@ -201,6 +201,10 @@ msgstr "Möchten Sie wirklich alle Anhänge des Clips löschen?\n\nDiese Aktion 
 msgid "[Command]Arm"
 msgstr "Aufnahme aktivieren"
 
+#: .\base\model\trackclassifier.cpp
+msgid "[GlobalTrack]Arranger"
+msgstr "Arranger"
+
 #: .\editing\arrangereditlayer.cpp
 msgid "[Command]Arranger"
 msgstr "Arranger"
@@ -308,6 +312,14 @@ msgstr "Browser"
 msgid "[Engine]Building Preview..."
 msgstr "Erzeuge Vorschau..."
 
+#: .\audio\audioenvelopefunctions.cpp
+msgid "[Engine:AudioEnvelopeActions]Bypass %(1) Envelope"
+msgstr "%(1)-Hüllkurve umgehen"
+
+#: .\application\audioedit\audioenvelopetasks.cpp
+msgid "[AudioEdit]Bypass Gain Envelope"
+msgstr "Lautstärkekurve umgehen"
+
 #: .\audio\audiobouncer.cpp
 msgid "[AudioBouncer]Cannot bounce protected content."
 msgstr "Geschützte Inhalte sind nicht exportierbar."
@@ -362,6 +374,10 @@ msgstr "Akkordspur"
 
 #: .\audioediting\audioedittask.cpp
 msgid "[AudioEdit]Chords"
+msgstr "Akkorde"
+
+#: .\base\model\trackclassifier.cpp
+msgid "[GlobalTrack]Chords"
 msgstr "Akkorde"
 
 #: .\base\model\arrangertrack.cpp
@@ -901,7 +917,8 @@ msgid "[Command]Duplicate Variation"
 msgstr "Variation duplizieren"
 
 #: .\audioediting\audiobendeditlayer.cpp .\editing\chordeditlayer.cpp
-#: .\editing\eventsnapper.cpp .\editing\tracklistcomponent.cpp
+#: .\editing\eventsnapper.cpp .\editing\trackchannelnamefilter.cpp
+#: .\editing\tracklistcomponent.cpp .\editing\trackvisibilityhandler.cpp
 #: .\musicediting\patterneditcomponent.cpp
 msgid "[Command]Edit"
 msgstr "Bearbeiten"
@@ -954,7 +971,7 @@ msgstr "Spur bearbeiten"
 msgid "[Automation]Edit Value"
 msgstr "Wert bearbeiten"
 
-#: .\editing\trackeditor.cpp
+#: .\editing\globaltrackscomponent.cpp .\editing\trackeditor.cpp
 msgid "[Command]Editor"
 msgstr "Editor"
 
@@ -1068,6 +1085,10 @@ msgid "[VideoEdit]Extract Audio to %(1):"
 msgstr "Ton nach %(1) extrahieren:"
 
 #: .\application\audioedit\audiochordtasks.cpp
+msgid "[AudioEdit]Extract Key Signatures from Event"
+msgstr "Tonart aus Event extrahieren"
+
+#: .\application\audioedit\audiochordtasks.cpp
 msgid "[AudioEdit]Extract to Chord Track"
 msgstr "Auf Akkordspur extrahieren"
 
@@ -1110,6 +1131,18 @@ msgstr "Zeile füllen"
 #: .\musicediting\patterneditcomponent.cpp
 msgid "[Command]Fill Lane"
 msgstr "Zeile füllen"
+
+#: .\editing\trackchannelnamefilter.cpp
+msgid "[Command]Filter Channels"
+msgstr "Kanäle filtern"
+
+#: .\editing\trackchannelnamefilter.cpp
+msgid "[Command]Filter Tracks"
+msgstr "Spuren filtern"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Find Track"
+msgstr "Spur finden"
 
 #: .\audioediting\audioedithandler.cpp
 msgid "[AudioEditHandler]Fine"
@@ -1219,17 +1252,57 @@ msgstr "Ausblenden"
 msgid "[Automation]Hide \"%(1)\""
 msgstr "\"%(1)\" ausblenden"
 
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Audio Tracks"
+msgstr "Audiospuren ausblenden"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Disabled Tracks"
+msgstr "Deaktivierte Spuren ausblenden"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Empty Tracks"
+msgstr "Leere Spuren ausblenden"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Enabled Tracks"
+msgstr "Aktivierte Spuren ausblenden"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Instrument Tracks"
+msgstr "Instrumentenspuren ausblenden"
+
 #: .\editing\tracklayercomponent.cpp
 msgid "[TrackLayers]Hide Layer"
 msgstr "Ebene ausblenden"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Muted Tracks"
+msgstr "Stummgeschaltete Spuren ausblenden"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Selected Tracks"
+msgstr "Ausgewählte Spuren ausblenden"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Soloed Tracks"
+msgstr "Solospuren ausblenden"
 
 #: .\editing\trackcontroller.cpp
 msgid "[Track]Hide Track"
 msgstr "Spur ausblenden"
 
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Tracks with Events in Loop Range"
+msgstr "Spuren mit Events im Loopbereich ausblenden"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Tracks with Events under Cursor"
+msgstr "Spuren mit Events unter dem Cursor ausblenden"
+
 #: .\musicediting\drumpitchlistmanager.cpp
 msgid "[DrumPitchNameSetup]Hide Unused"
-msgstr "Unbenutzte verstecken"
+msgstr "Unbenutzte ausblenden"
 
 #: .\pool\mediapoolbrowser.cpp
 msgid "[PoolBrowser]Image"
@@ -1552,6 +1625,10 @@ msgstr "Verlauf"
 
 #: .\base\media\mediamarker.cpp
 msgid "[Engine:MediaMarker]Marker"
+msgstr "Marker"
+
+#: .\base\model\trackclassifier.cpp
+msgid "[GlobalTrack]Marker"
 msgstr "Marker"
 
 #: .\editing\markercomponent.cpp
@@ -2176,6 +2253,10 @@ msgstr "Marker 8 aufrufen"
 msgid "[Command]Recall Marker 9"
 msgstr "Marker 9 aufrufen"
 
+#: .\editing\mediatrackcontroller.cpp
+msgid "[Command]Recall Retrospective Recording"
+msgstr "Retrospektive Aufnahme einfügen"
+
 #: .\automation\automationfunctions.cpp
 msgid "[Engine:AutomationFunctions]Reconnect Automation"
 msgstr "Automation neu verbinden"
@@ -2219,6 +2300,10 @@ msgstr "Take"
 #: .\musicediting\musicrecordcomponent.cpp
 msgid "[Command]Record Takes to Layers"
 msgstr "Takes auf Ebenen aufnehmen"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Redo Visibility Change"
+msgstr "Sichtbarkeitsänderung wiederholen"
 
 #: .\automationediting\automationtrackcomponent.cpp
 #: .\automationediting\automationtracklistcomponent.cpp
@@ -2479,7 +2564,7 @@ msgstr "Fadelänge zurücksetzen"
 
 #: .\application\audioedit\audioenvelopetasks.cpp
 msgid "[AudioEdit]Reset Gain Envelope"
-msgstr "Lautstärke-Automationskurve zurücksetzen"
+msgstr "Lautstärkekurve zurücksetzen"
 
 #: .\audioediting\audioedithandler.cpp
 msgid "[AudioEditHandler]Reset Level"
@@ -2517,6 +2602,10 @@ msgstr "Event-FX wiederherstellen"
 msgid "[AudioEdit]Restore Timing"
 msgstr "Timing wiederherstellen"
 
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Retrospective Record"
+msgstr "Retrospektive Aufnahme"
+
 #: .\application\audioedit\audioreversetask.cpp
 msgid "[AudioEdit]Reverse Audio"
 msgstr "Audio umkehren"
@@ -2528,6 +2617,14 @@ msgstr "Grundton %(1)"
 #: .\application\musicloop\loopedittasks.cpp
 msgid "[Engine]Root Key"
 msgstr "Grundton"
+
+#: .\base\model\trackclassifier.cpp
+msgid "[GlobalTrack]Ruler"
+msgstr "Lineal"
+
+#: .\audioediting\audioretunecomponent.cpp
+msgid "[Tune Mode]Scale"
+msgstr "Skala"
 
 #: .\pool\locatefilescomponent.cpp
 msgid "[LocateFiles]Scanning folder: "
@@ -2657,10 +2754,6 @@ msgstr "Jeden vierten Step setzen"
 msgid "[Command]Set Every 4th Step"
 msgstr "Jeden vierten Step setzen"
 
-#: .\base\model\chordfunctions.cpp
-msgid "[Edit]Set Key Signature"
-msgstr "Tonart setzen"
-
 #: .\base\model\actiondescriptions.cpp
 msgid "[ActionDescriptions]Set Marker Type"
 msgstr "Markertyp setzen"
@@ -2706,6 +2799,18 @@ msgstr "Automation ein-/ausblenden"
 msgid "[DrumPitchNameSetup]Show All"
 msgstr "Alle einblenden"
 
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show All Tracks"
+msgstr "Alle Spuren anzeigen"
+
+#: .\editing\globaltrackscomponent.cpp
+msgid "[Command]Show Arranger Track in Editor"
+msgstr "Arrangerspur im Editor anzeigen"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Audio Tracks"
+msgstr "Audiospuren anzeigen"
+
 #: .\musicediting\musiccontrollane.cpp
 msgid "[Command]Show Automation Lanes"
 msgstr "Automationszeilen anzeigen"
@@ -2717,6 +2822,10 @@ msgstr "Bend Marker zeigen"
 #: .\editing\tracklistcomponent.cpp
 msgid "[Command]Show Channel Editor"
 msgstr "Kanaleditor öffnen"
+
+#: .\editing\globaltrackscomponent.cpp
+msgid "[Command]Show Chord Track in Editor"
+msgstr "Akkordspur im Editor anzeigen"
 
 #: .\base\model\chordfunctions.cpp
 msgid "[Edit]Show Chords"
@@ -2731,6 +2840,18 @@ msgstr "Standard anzeigen"
 msgid "[Command]Show Device"
 msgstr "Gerät anzeigen"
 
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Disabled Tracks"
+msgstr "Deaktivierte Spuren anzeigen"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Empty Tracks"
+msgstr "Leere Spuren anzeigen"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Enabled Tracks"
+msgstr "Aktive Spuren anzeigen"
+
 #: .\editing\tracklistcomponent.cpp
 msgid "[Command]Show Envelopes"
 msgstr "Automationskurven anzeigen"
@@ -2742,6 +2863,14 @@ msgstr "Ordner im Finder/Explorer anzeigen"
 #: .\editing\tracklistcomponent.cpp
 msgid "[Command]Show Instrument Editor"
 msgstr "Instrumenteneditor öffnen"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Instrument Tracks"
+msgstr "Instrumentenspuren anzeigen"
+
+#: .\editing\globaltrackscomponent.cpp
+msgid "[Command]Show Marker Track in Editor"
+msgstr "Markerspur im Editor anzeigen"
 
 #: .\pool\mediapoolbrowser.cpp
 msgid "[PoolBrowser]Show Media Folder in Explorer"
@@ -2755,6 +2884,10 @@ msgstr "Medienordner im Explorer/Finder zeigen"
 msgid "[PoolBrowser]Show Media Folder in Finder"
 msgstr "Medienordner im Finder zeigen"
 
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Muted Tracks"
+msgstr "Stummgeschaltete Spuren anzeigen"
+
 #: .\editing\tracklistcomponent.cpp
 msgid "[Command]Show Note FX Editor"
 msgstr "Note FX-Editor anzeigen"
@@ -2762,6 +2895,26 @@ msgstr "Note FX-Editor anzeigen"
 #: .\editing\tracklistcomponent.cpp
 msgid "[Command]Show Routing Editor"
 msgstr "Routing-Editor anzeigen"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Selected Tracks"
+msgstr "Ausgewählte Spuren anzeigen"
+
+#: .\editing\globaltrackscomponent.cpp
+msgid "[Command]Show Signature Track in Editor"
+msgstr "Ton-/Taktartspur im Editor anzeigen"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Soloed Tracks"
+msgstr "Solospuren anzeigen"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Tracks with Events in Loop Range"
+msgstr "Spuren mit Events im Loopbereich anzeigen"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Tracks with Events under Cursor"
+msgstr "Spuren mit Events unter dem Cursor anzeigen"
 
 #: .\editing\trackcontroller.cpp
 msgid "[Track]Show in Console"
@@ -2786,6 +2939,10 @@ msgstr "Zeige die \"%(1)\" Automation auf dieser Spur"
 #: .\musicediting\partautomationdraghandler.cpp
 msgid "[Automation]Show the \"%(1)\" Part Automation"
 msgstr "Zeige die \"%(1)\" Partautomation"
+
+#: .\base\model\trackclassifier.cpp
+msgid "[GlobalTrack]Signature"
+msgstr "Ton-/Taktart"
 
 #: .\application\audioedit\audiobendaddin.cpp
 msgid "[Engine]Slice"
@@ -2960,6 +3117,10 @@ msgstr "Take #%(1:3) (%(2))"
 msgid "[Audio]Tape"
 msgstr "Tonband"
 
+#: .\base\model\trackclassifier.cpp
+msgid "[GlobalTrack]Tempo"
+msgstr "Tempo"
+
 #: .\audioediting\audioedithandler.cpp
 msgid "[AudioEditHandler]Tempo: %(1)  Length: %(2)"
 msgstr "Tempo: %(1)  Länge: %(2)"
@@ -3034,7 +3195,7 @@ msgstr "Bearbeitungssperre umschalten"
 
 #: .\application\audioedit\audioenvelopetasks.cpp
 msgid "[AudioEdit]Toggle Gain Envelope"
-msgstr "Lautstärke-Automationskurve ein-/ausblenden"
+msgstr "Lautstärkekurve ein-/ausblenden"
 
 #: .\application\eventedit\locktask.cpp
 msgid "[Edit]Toggle Lock"
@@ -3059,9 +3220,9 @@ msgstr "Touch"
 #: .\application\audioedit\audiotracktransformtask.cpp
 #: .\application\musicedit\musictracktransformtask.cpp
 #: .\editing\editgroupscomponent.cpp .\editing\foldertrackcomponent.cpp
-#: .\editing\layereditlayer.cpp .\editing\monitorfollower.cpp
-#: .\editing\trackcontroller.cpp .\editing\tracklayercomponent.cpp
-#: .\editing\tracklistcomponent.cpp
+#: .\editing\layereditlayer.cpp .\editing\mediatrackcontroller.cpp
+#: .\editing\monitorfollower.cpp .\editing\trackcontroller.cpp
+#: .\editing\tracklayercomponent.cpp .\editing\tracklistcomponent.cpp
 msgid "[Command]Track"
 msgstr "Spur"
 
@@ -3173,6 +3334,10 @@ msgstr "Alle rückgängig"
 #: .\musicediting\musicrecordcomponent.cpp
 msgid "[Command]Undo Last Loop"
 msgstr "Letzte rückgängig"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Undo Visibility Change"
+msgstr "Sichtbarkeitsänderung rückgängig"
 
 #: .\audioediting\audioretunecomponent.cpp
 msgid "[Tune Mode]Universal"
@@ -3323,6 +3488,9 @@ msgstr "%(1) mal verwendet"
 #: .\pool\mediapoolnodes.cpp
 msgid "[PoolNodes]used %(1) times"
 msgstr "%(1) mal verwendet"
+
+#~ msgid "[Edit]Set Key Signature"
+#~ msgstr "Tonart setzen"
 
 #~ msgid "[Record]Dropouts occured during record. The drive used for recording might not be fast enough."
 #~ msgstr "Während der Aufnahme sind Aussetzer aufgetreten. Die Festplatte ist möglicherweise nicht schnell genug."

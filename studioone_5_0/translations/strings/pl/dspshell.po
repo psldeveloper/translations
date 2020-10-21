@@ -1,6 +1,7 @@
 msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=79; plural=(n == 1) ? 0 : (0 == 0) && (n % 10 >= 2) && (n % 10 <= 4) && (n % 100 >= 12) && (n % 100 <= 14) ? 1 : 2;\n"
 
 #: .\services\devices\dspshell\source\dsppresethandler.cpp
 msgid "[FileType]DSP Preset"

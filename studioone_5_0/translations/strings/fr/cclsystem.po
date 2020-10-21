@@ -14,7 +14,7 @@ msgstr "%(1) a échoué!"
 
 #: .\plugins\plugcollect.cpp
 msgid "[PlugIns]%(1) has been blocked."
-msgstr "%(1) ignoré car blacklisté."
+msgstr "%(1) ignoré car bloqué."
 
 #: .\localization\localeinfo.cpp
 msgid "[Locales]%(1) months ago"

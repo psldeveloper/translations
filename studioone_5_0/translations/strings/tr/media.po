@@ -92,6 +92,10 @@ msgstr "Dorian"
 msgid "[Resolution]Dotted"
 msgstr "Noktalı"
 
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Edit Key Signature"
+msgstr ""
+
 #: .\envelopes\envelopefunctions.cpp
 msgid "[Events]Edit Value"
 msgstr "Değeri Düzenle"
@@ -119,6 +123,10 @@ msgstr "Klip Ekle"
 #: .\events\eventfunctions.cpp
 msgid "[EventFunctions]Insert Events"
 msgstr "Klipler Ekle"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Insert Key Signature"
+msgstr ""
 
 #: .\envelopes\envelopeactions.cpp
 msgid "[EnvelopeActions]Insert Point"
@@ -165,6 +173,10 @@ msgid "[MusicalScale]Major Pentatonic"
 msgstr "Major Pentatonic"
 
 #: .\music\musicalscale.cpp
+msgid "[MusicalScale]Major Triad"
+msgstr ""
+
+#: .\music\musicalscale.cpp
 msgid "[MusicalScale]Melodic Minor"
 msgstr "Melodic Minor"
 
@@ -179,6 +191,10 @@ msgstr "Minör"
 #: .\music\musicalscale.cpp
 msgid "[MusicalScale]Minor Pentatonic"
 msgstr "Minor Pentatonic"
+
+#: .\music\musicalscale.cpp
+msgid "[MusicalScale]Minor Triad"
+msgstr ""
 
 #: .\music\musicalscale.cpp
 msgid "[MusicalScale]Mixolydian"
@@ -323,6 +339,10 @@ msgstr "Quantize"
 #: .\music\beatlistparam.cpp
 msgid "[Resolution]Quintuplet"
 msgstr "Quintuplet"
+
+#: .\time\mediatimeactions.cpp
+msgid "[MediaTimeAction]Remove Key Signature"
+msgstr ""
 
 #: .\music\notecontroller.cpp
 msgid "[NoteController]Remove Note Controller \"%(1)\""

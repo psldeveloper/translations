@@ -85,6 +85,10 @@ msgid "Default"
 msgstr "默认"
 
 #: .\translation.js
+msgid "[TrackEdit]Extend by Grid"
+msgstr "按网格扩展"
+
+#: .\translation.js
 msgid "[TrackEdit]Extract to Chord Track"
 msgstr "提取到和弦轨道"
 
@@ -183,6 +187,10 @@ msgstr "前置"
 #: .\translation.js
 msgid "[TrackEdit]Separate Shared Copies"
 msgstr "分离共享副本"
+
+#: .\translation.js
+msgid "[TrackEdit]Shorten by Grid"
+msgstr "按网格缩短"
 
 #: .\translation.js
 msgid "[TrackEdit]Split at Grid"

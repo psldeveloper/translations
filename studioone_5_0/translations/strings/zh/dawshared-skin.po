@@ -176,6 +176,14 @@ msgstr "从此处拖拽效果链"
 msgid "[PostFaderInserts]Drag FX Chain from here"
 msgstr "从此处拖拽效果链"
 
+#: .\audiochannel.xml
+msgid "[AudioSends]Drag Send Chain from here"
+msgstr "从此处拖动发送链"
+
+#: .\audiochannel.xml
+msgid "[AudioSendsCueMixEmbedded]Drag Send Chain from here"
+msgstr "从此处拖动发送链"
+
 #: .\audiochannel.narrow.xml
 msgid "[AudioChannel.Narrow.Content]Enable Hardware Monitoring"
 msgstr "启用硬件监听"

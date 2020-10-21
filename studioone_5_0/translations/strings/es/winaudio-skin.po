@@ -5,52 +5,52 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: .\skin.xml
-msgid "[VistaAudioWarning]Alternatively, please check if there is a dedicated audio driver available from the device manufacturer."
+msgid "[WindowsAudioWarning]Alternatively, please check if there is a dedicated audio driver available from the device manufacturer."
 msgstr "Opcionalmente, por favor compruebe si hay un controlador de audio dedicado disponible del fabricante del dispositivo."
 
 #: .\skin.xml
-msgid "[VistaAudioControlPanel]Exclusive Mode"
+msgid "[WindowsAudioControlPanel]Exclusive Mode"
 msgstr "Modo exclusivo"
 
 #: .\skin.xml
-msgid "[VistaAudioWarning]For $APPCOMPANY devices, please download and install Universal Control from the $APPCOMPANY website."
+msgid "[WindowsAudioWarning]For $APPCOMPANY devices, please download and install Universal Control from the $APPCOMPANY website."
 msgstr "Para dispositivos $APPCOMPANY, por favor descargue e instale Universal Control desde la página web de $APPCOMPANY."
 
 #: .\skin.xml
-msgid "[VistaAudioControlPanel]Latency [ms]"
+msgid "[WindowsAudioControlPanel]Latency [ms]"
 msgstr "Latencia"
 
 #: .\skin.xml
-msgid "[VistaAudioControlPanel]Manage audio devices"
+msgid "[WindowsAudioControlPanel]Manage audio devices"
 msgstr "Administrar dispositivos de audio"
 
 #: .\skin.xml
-msgid "[VistaAudioWarning]Manage audio devices"
+msgid "[WindowsAudioWarning]Manage audio devices"
 msgstr "Administrar dispositivos de audio"
 
 #: .\skin.xml
-msgid "[VistaAudioControlPanel]Options"
+msgid "[WindowsAudioControlPanel]Options"
 msgstr "Opciones"
 
 #: .\skin.xml
-msgid "[VistaAudioControlPanel]Playback Device"
+msgid "[WindowsAudioControlPanel]Playback Device"
 msgstr "Dispositivo de reproducción"
 
 #: .\skin.xml
-msgid "[VistaAudioControlPanel]Recording Device"
+msgid "[WindowsAudioControlPanel]Recording Device"
 msgstr "Dispositivo de grabación"
 
 #: .\skin.xml
-msgid "[VistaAudioControlPanel]Windows Audio"
+msgid "[WindowsAudioControlPanel]Windows Audio"
 msgstr "Audio de Windows"
 
 #: .\skin.xml
-msgid "[VistaAudioWarning]Windows Audio"
+msgid "[WindowsAudioWarning]Windows Audio"
 msgstr "Audio de Windows"
 
-#~ msgid "[VistaAudioControlPanel]Playback"
+#~ msgid "[WindowsAudioControlPanel]Playback"
 #~ msgstr "Reproducción"
 
-#~ msgid "[VistaAudioControlPanel]Recording"
+#~ msgid "[WindowsAudioControlPanel]Recording"
 #~ msgstr "Grabación"
 

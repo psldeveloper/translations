@@ -176,6 +176,14 @@ msgstr "Trascina Catena FX da qui"
 msgid "[PostFaderInserts]Drag FX Chain from here"
 msgstr "Trascina Catena FX da qui"
 
+#: .\audiochannel.xml
+msgid "[AudioSends]Drag Send Chain from here"
+msgstr "Trascina Canale Mandata da qui"
+
+#: .\audiochannel.xml
+msgid "[AudioSendsCueMixEmbedded]Drag Send Chain from here"
+msgstr "Trascina Canale Mandata da qui"
+
 #: .\audiochannel.narrow.xml
 msgid "[AudioChannel.Narrow.Content]Enable Hardware Monitoring"
 msgstr "Abilita Hardware Monitoring"

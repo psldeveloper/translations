@@ -10,9 +10,9 @@ msgstr "Preset DSP"
 
 #: .\services\devices\dspshell\source\plugversion.h
 msgid "[DSPShell]PreSonus DSP Plug-In Support"
-msgstr "Suporte a Plug-In DSP PreSonus"
+msgstr "Suporte a Plug-Ins DSP PreSonus"
 
 #: .\services\devices\dspshell\source\plugmain.cpp
 msgid "[DSPShell]Support for PreSonus DSP Plug-Ins"
-msgstr "Suporte a Plug-Ins DSP da PreSonus"
+msgstr "Suporte a Plug-Ins DSP PreSonus"
 

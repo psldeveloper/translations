@@ -108,6 +108,10 @@ msgstr "追加轨道"
 msgid "[Command]Apply Patch"
 msgstr " 应用补丁"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Apply Staff Preset"
+msgstr "应用谱行预设"
+
 #: .\project\publish\audiodiscpublisher.cpp
 msgid "[AudioDiscPublisher]Arranger"
 msgstr "编曲器"
@@ -215,6 +219,10 @@ msgstr "内容"
 #: .\show\editing\setlistitemcomponent.cpp
 msgid "[SetListItem]Continue"
 msgstr " 继续"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Continuous"
+msgstr "连续"
 
 #: .\score\scoreeditor.cpp
 msgid "[ScoreEditor]Convert to Grand Staff"
@@ -462,6 +470,10 @@ msgstr "写入视频失败。"
 msgid "[Command]File"
 msgstr "文件"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]First Only"
+msgstr "仅第一"
+
 #: .\project\editing\projecteditcomponent.cpp
 msgid "[Command]First Track"
 msgstr "首音轨"
@@ -489,6 +501,10 @@ msgstr "跳转到上一个标记"
 #: .\song\songvideohandler.cpp
 msgid "[Video]Half Size"
 msgstr "一半大小"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Hide Tempos"
+msgstr "隐藏速度"
 
 #: .\project\publish\audiodiscpublisher.cpp
 msgid "[AudioDiscPublisher]ISRC"
@@ -544,6 +560,10 @@ msgstr "插入已命名项"
 msgid "[SetList]Item"
 msgstr "歌曲"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Large"
+msgstr "大"
+
 #: .\project\editing\projecteditcomponent.cpp
 msgid "[Command]Last Track"
 msgstr "最后一个音轨"
@@ -593,6 +613,10 @@ msgstr "创建映像"
 #: .\show\editing\showeditcomponent.cpp .\song\songmarker.cpp
 msgid "[Command]Marker"
 msgstr "标记"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Medium"
+msgstr "中等"
 
 #: .\show\document\showsetup.cpp
 msgid "[ShowSetup]Meta Information"
@@ -704,9 +728,17 @@ msgstr "不"
 msgid "[BurnerDialog]No Device"
 msgstr "无设备"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]No Titles"
+msgstr "无标题"
+
 #: .\show\model\showplayer.cpp
 msgid "[Player]None"
 msgstr "无"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Normal"
+msgstr "标准"
 
 #: .\project\editing\projectedittasks.cpp
 msgid "[AudioEdit]Normalize Audio"
@@ -747,6 +779,10 @@ msgstr "打开节奏轨道"
 #: .\project\publish\audiodiscpublisher.cpp
 msgid "[AudioDiscPublisher]Opening the CD Burning Engine failed."
 msgstr "打开CD刻录引擎失败"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Pages"
+msgstr "页面"
 
 #: .\score\scoreeditor.cpp
 msgid "[ScoreEditor]Paint Tool"
@@ -828,6 +864,10 @@ msgstr " 前一个曲目项"
 #: .\project\editing\projecteditcomponent.cpp
 msgid "[Command]Previous Track"
 msgstr "上一个轨道"
+
+#: .\score\scoreeditor.cpp
+msgid "[Command]Print"
+msgstr "打印"
 
 #: .\project\document\projectcomponent.cpp
 #: .\project\editing\projecteditcomponent.cpp
@@ -976,6 +1016,10 @@ msgstr " 保存补丁"
 #: .\show\model\showplayer.cpp
 msgid "[Player]Save Patch..."
 msgstr " 保存补丁……"
+
+#: .\score\scoreeditor.cpp
+msgid "[Command]Score"
+msgstr " 总谱"
 
 #: .\score\scoreeditor.cpp
 msgid "[ScoreEditor]Select All"
@@ -1193,6 +1237,10 @@ msgstr " 设置曲目项标题"
 msgid "[Command]Set Start and End to Selection"
 msgstr "根据所选设置开始和结束"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Set Text Font"
+msgstr "设置文本字体"
+
 #: .\project\model\projectfunctions.cpp
 msgid "[ProjectFunctions]Set Track Pause"
 msgstr "设置音轨暂停"
@@ -1200,6 +1248,10 @@ msgstr "设置音轨暂停"
 #: .\song\songvideohandler.cpp
 msgid "[Command]Set Video Offset"
 msgstr "设置视频偏移"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Setup Page"
+msgstr "设置页面"
 
 #: .\show\document\performancecomponent.cpp .\show\document\showcomponent.cpp
 #: .\show\editing\setlistcomponent.cpp .\show\editing\showeditcomponent.cpp
@@ -1216,9 +1268,21 @@ msgstr "显示"
 msgid "[Show]Show Setup"
 msgstr " 显示设置"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Show Tempos"
+msgstr "显示速度"
+
 #: .\song\songcontroller.cpp
 msgid "[Command]Show in Explorer/Finder"
 msgstr "在资源管理器/Finder中显示"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Single Track"
+msgstr "单轨"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Small"
+msgstr "小"
 
 #: .\show\model\showplayer.cpp
 msgid "[Command]Solo"
@@ -1327,6 +1391,10 @@ msgstr "创建映像期间出现错误!"
 #: .\project\publish\projectpublisher.cpp
 msgid "[ProjectPublisher]This project does not contain any enabled tracks."
 msgstr "项目未包含任何已启用的音轨。"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Tiny"
+msgstr "极小"
 
 #: .\project\publish\audiodiscpublisher.cpp
 msgid "[AudioDiscPublisher]Title"
@@ -1460,6 +1528,10 @@ msgstr " 虚拟乐器"
 #: .\song\songvideorenderer.cpp
 msgid "[Video]Writing Video File..."
 msgstr "正在写入视频文件..."
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]X-Large"
+msgstr "巨大"
 
 #: .\song\songmaster.cpp
 msgid "[SongMaster]Yes"

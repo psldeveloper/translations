@@ -230,6 +230,10 @@ msgstr ""
 msgid "[AudioIOType]Analog"
 msgstr ""
 
+#: .\audiomixer\audiosendfolder.cpp
+msgid "[AudioSendSlot]Append Sends"
+msgstr ""
+
 #: .\surfaces\editor\mappinghandler.cpp
 msgid "[MappingHandler]Assign \"%(1)\" to %(2) on %(3)"
 msgstr ""
@@ -480,6 +484,10 @@ msgstr ""
 msgid "[DeviceFolder]Combine %(1)"
 msgstr ""
 
+#: .\audiosynths\audiosynthfolder.cpp
+msgid "[AudioSynth]Compact"
+msgstr ""
+
 #: .\music\setup\musicdevicesetup.cpp
 msgid "[MusicDeviceSetup]Configure..."
 msgstr ""
@@ -546,6 +554,10 @@ msgstr ""
 
 #: .\audioeffects\audiofxgraph.cpp
 msgid "[AudioFXGraph]Copy Effect"
+msgstr ""
+
+#: .\audiomixer\audiosendfolder.cpp
+msgid "[AudioSendSlot]Copy Sends"
 msgstr ""
 
 #: .\audiosynths\audiosynthfolder.cpp
@@ -799,6 +811,10 @@ msgstr ""
 msgid "[DeviceFolder]Expand"
 msgstr ""
 
+#: .\audiosynths\audiosynthfolder.cpp
+msgid "[AudioSynth]Extended"
+msgstr ""
+
 #: .\music\musicdevicemanager.cpp
 msgid "[MusicDevices]External Devices"
 msgstr ""
@@ -833,6 +849,10 @@ msgstr ""
 
 #: .\base\devicefolder.cpp
 msgid "[DeviceFolder]Favorite"
+msgstr ""
+
+#: .\mixerconsole\mixerconsole.cpp
+msgid "[Command]Find Channel"
 msgstr ""
 
 #: .\surfaces\editor\editcomponent.cpp
@@ -901,6 +921,10 @@ msgstr ""
 
 #: .\mixer\editgroupmanager.cpp
 msgid "[Command]Group"
+msgstr ""
+
+#: .\audiomixer\hardwareintegration\hardwarestoragemanager.cpp
+msgid "[Hardware]Hardware Integration"
 msgstr ""
 
 #: .\hardware\hardwaremixermanager.cpp

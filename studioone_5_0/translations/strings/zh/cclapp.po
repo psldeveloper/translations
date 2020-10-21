@@ -288,6 +288,10 @@ msgstr "删除文件..."
 msgid "[FileOperations]Delete Folder..."
 msgstr "删除文件夹..."
 
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Delete Objects"
+msgstr "删除对象"
+
 #: .\browser\pluginnodes.cpp
 msgid "[Browser]Delete Thumbnail"
 msgstr "删除缩略图"
@@ -485,6 +489,10 @@ msgstr "启用"
 msgid "[Command]Enter"
 msgstr "Enter"
 
+#: .\editing\tools\selecttool.cpp
+msgid "[Tools]Eraser Tool"
+msgstr "擦除工具"
+
 #: .\browser\filexportdraghandler.cpp
 msgid "[FileExport]Export"
 msgstr "导出"
@@ -588,6 +596,10 @@ msgstr "快进"
 #: .\options\useroption.cpp
 msgid "[UserOption]General"
 msgstr "常规"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Graphics settings will be applied next time you start $APPNAME."
+msgstr "图形设置将在下次启动$APPNAME时应用"
 
 #: .\application.cpp
 msgid "[Command]Help"
@@ -873,6 +885,10 @@ msgstr "粘贴"
 #: .\documents\documentblocks.cpp
 msgid "[Documents]Pin document to Recent Files list"
 msgstr "将文件固定在最近使用的文件列表中"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Please note that the user interface of $APPNAME will appear blurry on high resolution screens."
+msgstr "请注意，在高分辨率屏幕上，$APPNAME 的用户界面会显得很模糊。"
 
 #: .\options\mainoption.cpp
 msgid "[UserOption]Please note that third-party plug-ins will appear smaller if they do not support scaling."
@@ -1363,6 +1379,10 @@ msgstr "工具栏"
 msgid "[SliderMode]Touch"
 msgstr "触控"
 
+#: .\options\mainoption.cpp
+msgid "[UserOption]Turning off hardware acceleration will slow down the user interface of $APPNAME and is not recommended for regular use."
+msgstr "关闭硬件加速会拖慢 $APPNAME 的用户界面，不建议经常使用。"
+
 #: .\browser\pluginmanagement.cpp
 msgid "[PlugInManagement]Type"
 msgstr "类型"
@@ -1424,6 +1444,10 @@ msgid "[Documents]Use %(1) Format"
 msgstr "使用 %(1) 格式"
 
 #: .\options\mainoption.cpp
+msgid "[UserOption]Use this option only for downwards compatibility with older third-party plug-ins."
+msgstr "此选项仅用于向下兼容旧的第三方插件。"
+
+#: .\options\mainoption.cpp
 msgid "[UserOption]User Data"
 msgstr "用户数据"
 
@@ -1469,6 +1493,10 @@ msgstr "改变将在重新启动$APPNAME后生效。"
 
 #: .\editing\scaleview.cpp
 msgid "[Scale]Zoom"
+msgstr "缩放"
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Zoom"
 msgstr "缩放"
 
 #: .\presets\presetcomponent.cpp

@@ -9,6 +9,8 @@ msgid "[CoreMidi]CoreMIDI Support"
 msgstr "CoreMIDI desteği"
 
 #: .\midiservicemain.cpp
-msgid "[CoreMidi]Support for MIDI gear on OS X"
-msgstr "OS X üzerinde MIDI aygıt desteği"
+msgid "[CoreMidi]Support for MIDI gear on macOS"
+msgstr ""
 
+#~ msgid "[CoreMidi]Support for MIDI gear on OS X"
+#~ msgstr "OS X üzerinde MIDI aygıt desteği"

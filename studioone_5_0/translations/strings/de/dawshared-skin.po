@@ -176,6 +176,14 @@ msgstr "FX Chain von hier ziehen"
 msgid "[PostFaderInserts]Drag FX Chain from here"
 msgstr "FX Chain von hier ziehen"
 
+#: .\audiochannel.xml
+msgid "[AudioSends]Drag Send Chain from here"
+msgstr "Sendkette von hier ziehen"
+
+#: .\audiochannel.xml
+msgid "[AudioSendsCueMixEmbedded]Drag Send Chain from here"
+msgstr "Sendkette von hier ziehen"
+
 #: .\audiochannel.narrow.xml
 msgid "[AudioChannel.Narrow.Content]Enable Hardware Monitoring"
 msgstr "Hardware-Mithören einschalten"

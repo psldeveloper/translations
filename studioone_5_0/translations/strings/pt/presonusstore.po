@@ -26,7 +26,7 @@ msgstr "PreSonus Exchange"
 
 #: .\plugversion.h
 msgid "[Store]PreSonus Services Support"
-msgstr "Suporte à Nuvem PreSonus"
+msgstr "Suporte a Nuvem PreSonus"
 
 #: .\marketplacehandler.cpp
 msgid "[Store]PreSonus Shop"

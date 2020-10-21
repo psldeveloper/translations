@@ -58,7 +58,7 @@ msgstr "Dodaj odtwarzacz"
 
 #: .\menubar.xml
 msgid "[Menu]Add Real Instrument Player"
-msgstr "Dodaj odtwarzacz prawdziwego instrumentu"
+msgstr "Dodaj odtwarzacz rzeczywistego instrumentu"
 
 #: .\menubar.xml
 msgid "[Menu]Add Setlist Item"
@@ -118,7 +118,7 @@ msgstr "Konsoleta"
 
 #: .\menubar.xml
 msgid "[Menu]Controls"
-msgstr "Kontrola"
+msgstr "Kontrolki"
 
 #: .\menubar.xml
 msgid "[Menu]Copy"
@@ -234,11 +234,11 @@ msgstr "Obiekt"
 
 #: .\menubar.xml
 msgid "[Menu]Export Mixdown"
-msgstr "Eksportuj pełny miks"
+msgstr "Eksportuj miks"
 
 #: .\menubar.xml
 msgid "[Menu]Export Stems"
-msgstr "Eksportuj częściowy miks"
+msgstr "Eksportuj do osobnych plików"
 
 #: .\menubar.xml
 msgid "[Menu]Export Video"
@@ -518,7 +518,7 @@ msgstr "Wklej w oryginalnej pozycji"
 
 #: .\menubar.xml
 msgid "[Menu]Perform"
-msgstr "Wykonanie"
+msgstr "Tryb sceny"
 
 #: .\menubar.xml
 msgid "[Menu]Performance Monitor"
@@ -535,6 +535,10 @@ msgstr "Preferencje"
 #: .\menubar.xml
 msgid "[Menu]Previous Parameter"
 msgstr "Poprzedni parametr"
+
+#: .\menubar.xml
+msgid "[Menu]Print Score"
+msgstr "Wydrukuj partyturę"
 
 #: .\menubar.xml
 msgid "[Menu]Project"
@@ -559,6 +563,10 @@ msgstr "Panel nagrywania"
 #: .\menubar.xml
 msgid "[Menu]Redo"
 msgstr "Powtórz"
+
+#: .\menubar.xml
+msgid "[Menu]Redo Visibility Change"
+msgstr "Ponów zmianę widoczności"
 
 #: .\menubar.xml
 msgid "[Menu]Redo Zoom"
@@ -913,6 +921,10 @@ msgid "[Menu]Undo"
 msgstr "Cofnij"
 
 #: .\menubar.xml
+msgid "[Menu]Undo Visibility Change"
+msgstr "Cofnij zmianę widoczności"
+
+#: .\menubar.xml
 msgid "[Menu]Undo Zoom"
 msgstr "Cofnij powiększenie"
 
@@ -939,6 +951,10 @@ msgstr "Widok"
 #: .\menubar.xml
 msgid "[Menu]View Release Notes"
 msgstr "Pokaż informacje o wersji"
+
+#: .\menubar.xml
+msgid "[Menu]Visibility"
+msgstr "Widoczność"
 
 #: .\menubar.xml
 msgid "[Menu]Windows"

@@ -85,6 +85,10 @@ msgid "Default"
 msgstr "デフォルト"
 
 #: .\translation.js
+msgid "[TrackEdit]Extend by Grid"
+msgstr "グリッド単位で延長"
+
+#: .\translation.js
 msgid "[TrackEdit]Extract to Chord Track"
 msgstr "コードトラックに抽出"
 
@@ -183,6 +187,10 @@ msgstr "前面に表示"
 #: .\translation.js
 msgid "[TrackEdit]Separate Shared Copies"
 msgstr "共有コピーを分割"
+
+#: .\translation.js
+msgid "[TrackEdit]Shorten by Grid"
+msgstr "グリッド単位で短縮"
 
 #: .\translation.js
 msgid "[TrackEdit]Split at Grid"

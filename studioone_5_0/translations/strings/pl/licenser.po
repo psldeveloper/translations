@@ -103,7 +103,7 @@ msgstr "Plik licencji"
 
 #: .\application\userlicense.cpp
 msgid "[FileType]License too old. Please activate $APPNAME again."
-msgstr "Licencja jest za stara. Proszę ponownie aktywować $APPNAME."
+msgstr "Proszę ponownie aktywować $APPNAME."
 
 #: .\application\loginhandler.cpp
 msgid "[Command]Login"
@@ -175,7 +175,7 @@ msgstr "Nie udało się aktywować niektórych pozycji."
 
 #: .\application\licensehandler.cpp
 msgid "[Licenser]Thank You! $APPNAME has been activated on this computer."
-msgstr "Dziękujemy! $APPNAME zostało aktywowane na tym komputerze."
+msgstr "$APPNAME zostało aktywowane na tym komputerze."
 
 #: .\application\loginhandler.cpp
 msgid "[Licenser]Thank You! An e-mail has been sent to you with a link to activate your account."
@@ -210,8 +210,8 @@ msgid "[FileType]This product key requires an additional license that could not 
 msgstr "Ten klucz produktu wymaga dodatkowej licencji, której nie znaleziono na tym komputerze."
 
 #: .\web\licenseserver.cpp
-msgid "[WebAPI]Updating subscription"
-msgstr "Aktualizacja subskrypcji"
+msgid "[WebAPI]Updating membership"
+msgstr "Aktualizacja członkostwa"
 
 #: .\application\usercomponent.cpp
 msgid "[Licenser]User License not found! Please select a new License File."
@@ -236,6 +236,9 @@ msgstr "Twoja autoryzacja wygasła. Zaloguj się ponownie."
 #: .\application\purchasehandler.cpp
 msgid "[Licenser]Your purchased items have been activated."
 msgstr "Zakupione pozycje zostały aktywowane."
+
+#~ msgid "[WebAPI]Updating subscription"
+#~ msgstr "Aktualizacja subskrypcji"
 
 #~ msgid "[Licenser]$APPCOMPANY Account"
 #~ msgstr "Konto $APPCOMPANY"

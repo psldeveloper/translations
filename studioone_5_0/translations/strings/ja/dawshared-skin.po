@@ -176,6 +176,14 @@ msgstr "FXチェーンをここからドラッグ"
 msgid "[PostFaderInserts]Drag FX Chain from here"
 msgstr "FXチェーンをここからドラッグ"
 
+#: .\audiochannel.xml
+msgid "[AudioSends]Drag Send Chain from here"
+msgstr "センドチェーンをここからドラッグ"
+
+#: .\audiochannel.xml
+msgid "[AudioSendsCueMixEmbedded]Drag Send Chain from here"
+msgstr "センドチェーンをここからドラッグ"
+
 #: .\audiochannel.narrow.xml
 msgid "[AudioChannel.Narrow.Content]Enable Hardware Monitoring"
 msgstr "ハードウェアモニタリングを有効化"

@@ -236,6 +236,10 @@ msgstr " 出现一个无效信号。"
 msgid "[AudioIOType]Analog"
 msgstr "模拟"
 
+#: .\audiomixer\audiosendfolder.cpp
+msgid "[AudioSendSlot]Append Sends"
+msgstr "添加发送内容"
+
 #: .\surfaces\editor\mappinghandler.cpp
 msgid "[MappingHandler]Assign \"%(1)\" to %(2) on %(3)"
 msgstr "在%(3)上分配\"%(1)\"至%(2)"
@@ -486,6 +490,10 @@ msgstr "配色"
 msgid "[DeviceFolder]Combine %(1)"
 msgstr "组合 %(1)"
 
+#: .\audiosynths\audiosynthfolder.cpp
+msgid "[AudioSynth]Compact"
+msgstr "精简"
+
 #: .\music\setup\musicdevicesetup.cpp
 msgid "[MusicDeviceSetup]Configure..."
 msgstr "配置..."
@@ -551,6 +559,10 @@ msgstr " 复制通道设置"
 #: .\audioeffects\audiofxgraph.cpp
 msgid "[AudioFXGraph]Copy Effect"
 msgstr "复制效果"
+
+#: .\audiomixer\audiosendfolder.cpp
+msgid "[AudioSendSlot]Copy Sends"
+msgstr "拷贝发送内容"
 
 #: .\audiosynths\audiosynthfolder.cpp
 msgid "[AudioSynth]Copy to Clipboard"
@@ -801,6 +813,10 @@ msgstr "事件FX"
 msgid "[DeviceFolder]Expand"
 msgstr "展开"
 
+#: .\audiosynths\audiosynthfolder.cpp
+msgid "[AudioSynth]Extended"
+msgstr "扩展"
+
 #: .\music\musicdevicemanager.cpp
 msgid "[MusicDevices]External Devices"
 msgstr "外部设备"
@@ -836,6 +852,10 @@ msgstr "推子"
 #: .\base\devicefolder.cpp
 msgid "[DeviceFolder]Favorite"
 msgstr "收藏夹"
+
+#: .\mixerconsole\mixerconsole.cpp
+msgid "[Command]Find Channel"
+msgstr "查找通道"
 
 #: .\surfaces\editor\editcomponent.cpp
 msgid "[SurfaceEditor]Focus:"
@@ -904,6 +924,10 @@ msgstr "组"
 #: .\mixer\editgroupmanager.cpp
 msgid "[Command]Group"
 msgstr "编组"
+
+#: .\audiomixer\hardwareintegration\hardwarestoragemanager.cpp
+msgid "[Hardware]Hardware Integration"
+msgstr "硬件集成"
 
 #: .\hardware\hardwaremixermanager.cpp
 msgid "[Hardware]Hardware Monitoring"

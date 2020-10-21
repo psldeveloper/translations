@@ -287,6 +287,10 @@ msgstr ""
 msgid "[FileOperations]Delete Folder..."
 msgstr ""
 
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Delete Objects"
+msgstr ""
+
 #: .\browser\pluginnodes.cpp
 msgid "[Browser]Delete Thumbnail"
 msgstr ""
@@ -487,6 +491,10 @@ msgstr ""
 msgid "[Command]Enter"
 msgstr ""
 
+#: .\editing\tools\selecttool.cpp
+msgid "[Tools]Eraser Tool"
+msgstr ""
+
 #: .\browser\filexportdraghandler.cpp
 msgid "[FileExport]Export"
 msgstr ""
@@ -590,6 +598,10 @@ msgstr ""
 
 #: .\options\useroption.cpp
 msgid "[UserOption]General"
+msgstr ""
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Graphics settings will be applied next time you start $APPNAME."
 msgstr ""
 
 #: .\application.cpp
@@ -880,6 +892,10 @@ msgstr ""
 
 #: .\documents\documentblocks.cpp
 msgid "[Documents]Pin document to Recent Files list"
+msgstr ""
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Please note that the user interface of $APPNAME will appear blurry on high resolution screens."
 msgstr ""
 
 #: .\options\mainoption.cpp
@@ -1376,6 +1392,10 @@ msgstr ""
 msgid "[SliderMode]Touch"
 msgstr ""
 
+#: .\options\mainoption.cpp
+msgid "[UserOption]Turning off hardware acceleration will slow down the user interface of $APPNAME and is not recommended for regular use."
+msgstr ""
+
 #: .\browser\pluginmanagement.cpp
 msgid "[PlugInManagement]Type"
 msgstr ""
@@ -1437,6 +1457,10 @@ msgid "[Documents]Use %(1) Format"
 msgstr ""
 
 #: .\options\mainoption.cpp
+msgid "[UserOption]Use this option only for downwards compatibility with older third-party plug-ins."
+msgstr ""
+
+#: .\options\mainoption.cpp
 msgid "[UserOption]User Data"
 msgstr ""
 
@@ -1482,6 +1506,10 @@ msgstr ""
 
 #: .\editing\scaleview.cpp
 msgid "[Scale]Zoom"
+msgstr ""
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Zoom"
 msgstr ""
 
 #: .\presets\presetcomponent.cpp

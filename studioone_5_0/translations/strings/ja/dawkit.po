@@ -108,6 +108,10 @@ msgstr "トラックを追加"
 msgid "[Command]Apply Patch"
 msgstr "パッチを適用"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Apply Staff Preset"
+msgstr "譜表プリセットを適用"
+
 #: .\project\publish\audiodiscpublisher.cpp
 msgid "[AudioDiscPublisher]Arranger"
 msgstr "編曲者"
@@ -215,6 +219,10 @@ msgstr "コンテンツ"
 #: .\show\editing\setlistitemcomponent.cpp
 msgid "[SetListItem]Continue"
 msgstr "続行"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Continuous"
+msgstr "連続"
 
 #: .\score\scoreeditor.cpp
 msgid "[ScoreEditor]Convert to Grand Staff"
@@ -462,6 +470,10 @@ msgstr "ビデオの書き込みに失敗しました。"
 msgid "[Command]File"
 msgstr "ファイル"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]First Only"
+msgstr "先頭のみ"
+
 #: .\project\editing\projecteditcomponent.cpp
 msgid "[Command]First Track"
 msgstr "最初のトラック"
@@ -489,6 +501,10 @@ msgstr "前のマーカーへ移動"
 #: .\song\songvideohandler.cpp
 msgid "[Video]Half Size"
 msgstr "ハーフサイズ"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Hide Tempos"
+msgstr "テンポを隠す"
 
 #: .\project\publish\audiodiscpublisher.cpp
 msgid "[AudioDiscPublisher]ISRC"
@@ -544,6 +560,10 @@ msgstr "名前の付いたマーカーを挿入"
 msgid "[SetList]Item"
 msgstr "歌"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Large"
+msgstr "大"
+
 #: .\project\editing\projecteditcomponent.cpp
 msgid "[Command]Last Track"
 msgstr "最後のトラック"
@@ -593,6 +613,10 @@ msgstr "イメージを作成"
 #: .\show\editing\showeditcomponent.cpp .\song\songmarker.cpp
 msgid "[Command]Marker"
 msgstr "マーカー"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Medium"
+msgstr "中"
 
 #: .\show\document\showsetup.cpp
 msgid "[ShowSetup]Meta Information"
@@ -704,9 +728,17 @@ msgstr "いいえ"
 msgid "[BurnerDialog]No Device"
 msgstr "デバイスなし"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]No Titles"
+msgstr "タイトルなし"
+
 #: .\show\model\showplayer.cpp
 msgid "[Player]None"
 msgstr "なし"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Normal"
+msgstr "標準"
 
 #: .\project\editing\projectedittasks.cpp
 msgid "[AudioEdit]Normalize Audio"
@@ -747,6 +779,10 @@ msgstr "テンポトラックを開く"
 #: .\project\publish\audiodiscpublisher.cpp
 msgid "[AudioDiscPublisher]Opening the CD Burning Engine failed."
 msgstr "CD書き込みエンジンを開くのに失敗しました。"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Pages"
+msgstr "ページ"
 
 #: .\score\scoreeditor.cpp
 msgid "[ScoreEditor]Paint Tool"
@@ -828,6 +864,10 @@ msgstr "前のセットリスト項目"
 #: .\project\editing\projecteditcomponent.cpp
 msgid "[Command]Previous Track"
 msgstr "前のトラック"
+
+#: .\score\scoreeditor.cpp
+msgid "[Command]Print"
+msgstr "印刷"
 
 #: .\project\document\projectcomponent.cpp
 #: .\project\editing\projecteditcomponent.cpp
@@ -976,6 +1016,10 @@ msgstr "パッチを保存"
 #: .\show\model\showplayer.cpp
 msgid "[Player]Save Patch..."
 msgstr "パッチを保存…"
+
+#: .\score\scoreeditor.cpp
+msgid "[Command]Score"
+msgstr "スコア"
 
 #: .\score\scoreeditor.cpp
 msgid "[ScoreEditor]Select All"
@@ -1193,6 +1237,10 @@ msgstr "セットリスト項目のタイトルを設定"
 msgid "[Command]Set Start and End to Selection"
 msgstr "スタートとエンドを選択に設定"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Set Text Font"
+msgstr "テキストフォントを設定"
+
 #: .\project\model\projectfunctions.cpp
 msgid "[ProjectFunctions]Set Track Pause"
 msgstr "トラックの一時停止を設定"
@@ -1200,6 +1248,10 @@ msgstr "トラックの一時停止を設定"
 #: .\song\songvideohandler.cpp
 msgid "[Command]Set Video Offset"
 msgstr "ビデオオフセットを設定"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Setup Page"
+msgstr "設定ページ"
 
 #: .\show\document\performancecomponent.cpp .\show\document\showcomponent.cpp
 #: .\show\editing\setlistcomponent.cpp .\show\editing\showeditcomponent.cpp
@@ -1216,9 +1268,21 @@ msgstr " ショー"
 msgid "[Show]Show Setup"
 msgstr "ショー設定"
 
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Show Tempos"
+msgstr "テンポを表示"
+
 #: .\song\songcontroller.cpp
 msgid "[Command]Show in Explorer/Finder"
 msgstr "エクスプローラー/Finderに表示"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Single Track"
+msgstr "単一トラック"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Small"
+msgstr "小"
 
 #: .\show\model\showplayer.cpp
 msgid "[Command]Solo"
@@ -1327,6 +1391,10 @@ msgstr "イメージ作成中にエラーが発生しました。"
 #: .\project\publish\projectpublisher.cpp
 msgid "[ProjectPublisher]This project does not contain any enabled tracks."
 msgstr "このプロジェクトには有効なトラックがひとつも含まれていません。"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]Tiny"
+msgstr "極小"
 
 #: .\project\publish\audiodiscpublisher.cpp
 msgid "[AudioDiscPublisher]Title"
@@ -1460,6 +1528,10 @@ msgstr "バーチャルインストゥルメント"
 #: .\song\songvideorenderer.cpp
 msgid "[Video]Writing Video File..."
 msgstr "ビデオファイルを書き込んでいます…"
+
+#: .\score\scoreeditor.cpp
+msgid "[ScoreEditor]X-Large"
+msgstr "特大"
 
 #: .\song\songmaster.cpp
 msgid "[SongMaster]Yes"

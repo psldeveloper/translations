@@ -266,7 +266,7 @@ msgstr "Kes"
 
 #: .\options\mainoption.cpp
 msgid "[UserOption]Dark Mode"
-msgstr ""
+msgstr "Karanlık Mod"
 
 #: .\documents\documentversions.cpp
 msgid "[Documents]Date"
@@ -295,6 +295,10 @@ msgstr "Dosyayı sil"
 #: .\fileinfo\fileoperations.cpp
 msgid "[FileOperations]Delete Folder..."
 msgstr "Klasörü sil"
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Delete Objects"
+msgstr ""
 
 #: .\browser\pluginnodes.cpp
 msgid "[Browser]Delete Thumbnail"
@@ -423,6 +427,8 @@ msgid ""
 "[Presets]Do you want to remove all plug-in settings and perform a full "
 "rescan next time you start $APPNAME?"
 msgstr ""
+"Tüm plug-in ayarlarını kaldırıp $APPNAME'i tekrar çalıştırdığınızta tam bir "
+"yeniden tarama başlatılsınmı ?"
 
 #: .\documents\documentmanager.cpp
 msgid ""
@@ -512,6 +518,10 @@ msgstr "Etkinleştir"
 
 #: .\browser\browser.cpp
 msgid "[Command]Enter"
+msgstr ""
+
+#: .\editing\tools\selecttool.cpp
+msgid "[Tools]Eraser Tool"
 msgstr ""
 
 #: .\browser\filexportdraghandler.cpp
@@ -618,6 +628,11 @@ msgstr "İleri"
 msgid "[UserOption]General"
 msgstr "Genel"
 
+#: .\options\mainoption.cpp
+msgid ""
+"[UserOption]Graphics settings will be applied next time you start $APPNAME."
+msgstr ""
+
 #: .\application.cpp
 msgid "[Command]Help"
 msgstr "Yardım"
@@ -700,7 +715,7 @@ msgstr "$APPNAME i tekrar çalıştırdığınızda dil seçiminiz güncellenece
 
 #: .\options\mainoption.cpp
 msgid "[UserOption]Light Mode"
-msgstr ""
+msgstr "Aydınlık Mod"
 
 #: .\options\mainoption.cpp
 msgid "[KnobMode]Linear"
@@ -905,6 +920,12 @@ msgstr "Belgeyi son kullanılan dosya listesine iğnele"
 
 #: .\options\mainoption.cpp
 msgid ""
+"[UserOption]Please note that the user interface of $APPNAME will appear "
+"blurry on high resolution screens."
+msgstr ""
+
+#: .\options\mainoption.cpp
+msgid ""
 "[UserOption]Please note that third-party plug-ins will appear smaller if "
 "they do not support scaling."
 msgstr "Ölçeklemeyi desteklemeyen plug-in'ler küçük görünecektir."
@@ -1022,7 +1043,7 @@ msgstr "Çıkartılabilir sürücü"
 
 #: .\presets\presetmanager.cpp
 msgid "[Command]Remove Plug-In Settings"
-msgstr ""
+msgstr "Plıg-In ayarlarını kaldır"
 
 #: .\datastore\tagstorecomponent.cpp
 msgid "[TagStore]Remove Tag"
@@ -1439,6 +1460,12 @@ msgstr "Araç çubuğu"
 msgid "[SliderMode]Touch"
 msgstr "Temas"
 
+#: .\options\mainoption.cpp
+msgid ""
+"[UserOption]Turning off hardware acceleration will slow down the user "
+"interface of $APPNAME and is not recommended for regular use."
+msgstr ""
+
 #: .\browser\pluginmanagement.cpp
 msgid "[PlugInManagement]Type"
 msgstr "Tip"
@@ -1500,6 +1527,12 @@ msgid "[Documents]Use %(1) Format"
 msgstr "%(1) Formatını kullan"
 
 #: .\options\mainoption.cpp
+msgid ""
+"[UserOption]Use this option only for downwards compatibility with older "
+"third-party plug-ins."
+msgstr ""
+
+#: .\options\mainoption.cpp
 msgid "[UserOption]User Data"
 msgstr "Kullanıcı verisi"
 
@@ -1546,6 +1579,10 @@ msgstr "Değişikllikler $APPNAME i tekrar başlattığınızda uygulanacaktır.
 #: .\editing\scaleview.cpp
 msgid "[Scale]Zoom"
 msgstr "Zoom"
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Zoom"
+msgstr ""
 
 #: .\presets\presetcomponent.cpp
 msgid "[Presets]default"

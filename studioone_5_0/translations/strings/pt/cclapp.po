@@ -288,6 +288,10 @@ msgstr "Excluir Arquivo..."
 msgid "[FileOperations]Delete Folder..."
 msgstr "Excluir Pasta..."
 
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Delete Objects"
+msgstr "Excluir Objetos"
+
 #: .\browser\pluginnodes.cpp
 msgid "[Browser]Delete Thumbnail"
 msgstr "Excluir Miniatura"
@@ -485,6 +489,10 @@ msgstr "Ativar"
 msgid "[Command]Enter"
 msgstr "Enter"
 
+#: .\editing\tools\selecttool.cpp
+msgid "[Tools]Eraser Tool"
+msgstr "Ferramenta Borracha"
+
 #: .\browser\filexportdraghandler.cpp
 msgid "[FileExport]Export"
 msgstr "Exportar"
@@ -588,6 +596,10 @@ msgstr "Em Frente"
 #: .\options\useroption.cpp
 msgid "[UserOption]General"
 msgstr "Geral"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Graphics settings will be applied next time you start $APPNAME."
+msgstr "As configurações gráficas serão aplicadas da próxima vez que você iniciar o $APPNAME."
 
 #: .\application.cpp
 msgid "[Command]Help"
@@ -873,6 +885,10 @@ msgstr "Colar"
 #: .\documents\documentblocks.cpp
 msgid "[Documents]Pin document to Recent Files list"
 msgstr "Fixar arquivo na lista de Trabalhos Recentes"
+
+#: .\options\mainoption.cpp
+msgid "[UserOption]Please note that the user interface of $APPNAME will appear blurry on high resolution screens."
+msgstr "Observe que a interface de usuário do $APPNAME aparecerá embaçada em telas de alta resolução."
 
 #: .\options\mainoption.cpp
 msgid "[UserOption]Please note that third-party plug-ins will appear smaller if they do not support scaling."
@@ -1363,6 +1379,10 @@ msgstr "Barra de Ferramentas"
 msgid "[SliderMode]Touch"
 msgstr "Toque"
 
+#: .\options\mainoption.cpp
+msgid "[UserOption]Turning off hardware acceleration will slow down the user interface of $APPNAME and is not recommended for regular use."
+msgstr "Desligar a aceleração de hardware tormará a interface do $APPNAME mais lenta, o que não é recomendado para uso regular."
+
 #: .\browser\pluginmanagement.cpp
 msgid "[PlugInManagement]Type"
 msgstr "Tipo"
@@ -1424,6 +1444,10 @@ msgid "[Documents]Use %(1) Format"
 msgstr "Utilizar Formato %(1)"
 
 #: .\options\mainoption.cpp
+msgid "[UserOption]Use this option only for downwards compatibility with older third-party plug-ins."
+msgstr "Utilize esta opção somente para compatibilidade retroativa com plug-ins antigos de terceiros."
+
+#: .\options\mainoption.cpp
 msgid "[UserOption]User Data"
 msgstr "Dados de Usuário"
 
@@ -1469,6 +1493,10 @@ msgstr "As alterações serão aplicadas na próxima inicialização do $APPNAME
 
 #: .\editing\scaleview.cpp
 msgid "[Scale]Zoom"
+msgstr "Zoom"
+
+#: .\editing\tools\selecttool.cpp
+msgid "[ToolHelp]Zoom"
 msgstr "Zoom"
 
 #: .\presets\presetcomponent.cpp

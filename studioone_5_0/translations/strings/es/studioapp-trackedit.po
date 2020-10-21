@@ -85,6 +85,10 @@ msgid "Default"
 msgstr "Por defecto"
 
 #: .\translation.js
+msgid "[TrackEdit]Extend by Grid"
+msgstr "Extender por rejilla"
+
+#: .\translation.js
 msgid "[TrackEdit]Extract to Chord Track"
 msgstr "Extraer a pista de acordes"
 
@@ -183,6 +187,10 @@ msgstr "Traer al frente"
 #: .\translation.js
 msgid "[TrackEdit]Separate Shared Copies"
 msgstr "Separar copias compartidas"
+
+#: .\translation.js
+msgid "[TrackEdit]Shorten by Grid"
+msgstr "Acortar por rejilla"
 
 #: .\translation.js
 msgid "[TrackEdit]Split at Grid"

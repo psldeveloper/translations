@@ -10,11 +10,11 @@ msgstr "Projeto do $APPNAME "
 
 #: .\showdocument.cpp
 msgid "[FileType]$APPNAME Show"
-msgstr "$APPNAME Show"
+msgstr "Show do $APPNAME"
 
 #: .\showdocument.cpp
 msgid "[FileType]$APPNAME Show Template"
-msgstr "$APPNAME Modelo de Show"
+msgstr "Modelo de Show do $APPNAME"
 
 #: .\songdocument.cpp
 msgid "[FileType]$APPNAME Song"
@@ -67,6 +67,10 @@ msgstr "Avançado"
 #: .\studioapp.cpp
 msgid "[SystemInfo]Application"
 msgstr "Aplicação"
+
+#: .\studioapp.cpp
+msgid "[StudioApp]Arrow Tool"
+msgstr "Ferramenta Seta"
 
 #: .\studioapp.cpp
 msgid "[StudioApp]Artist Profile"
@@ -554,11 +558,11 @@ msgstr "ID do Sistema"
 
 #: .\studioapp.cpp
 msgid "[StudioApp]System Information"
-msgstr "Informação do sistema"
+msgstr "Informações do sistema"
 
 #: .\studioapp.cpp
 msgid "[Command]System Information"
-msgstr "Informação do sistema"
+msgstr "Informações do sistema"
 
 #: .\songdataimporter.cpp
 msgid "[SongDataImporter]Tempo & Time Signature"

@@ -38,7 +38,7 @@ msgstr "Bitmap dosyası"
 
 #: .\skin\coreskinmodel.cpp
 msgid "[FileType]Bitmap Font"
-msgstr ""
+msgstr "Bitmap yazı tipi"
 
 #: .\dialogs\alert.cpp
 msgid "[Alert]Cancel"
@@ -361,12 +361,8 @@ msgid "[FileType]JPEG File"
 msgstr "JPEG Dosyası"
 
 #: .\dialogs\commandeditor.cpp
-msgid ""
-"[CommandEditor]Key is already assigned to:\n"
-"%(1)"
-msgstr ""
-"Tuş zaten daha önce şuraya atanmış: \n"
-"%(1)"
+msgid "[CommandEditor]Key is already assigned to:\n%(1)"
+msgstr "Tuş zaten daha önce şuraya atanmış: \n%(1)"
 
 #: .\commands.cpp
 msgid "[FileType]Keyboard Mapping Scheme"
@@ -781,11 +777,9 @@ msgid "[Alert]Yes"
 msgstr "Evet"
 
 #: .\dialogs\useroptionmodel.cpp
-msgid ""
-"[UserOption]You have made changes to the setup. Do you want to apply the "
-"changes?"
-msgstr ""
-"Kurulum da değişiklik yaptınız. Bu değişiklikleri uygulamak istiyormusunuz ?"
+msgid "[UserOption]You have made changes to the setup. Do you want to apply the changes?"
+msgstr "Kurulum da değişiklik yaptınız. Bu değişiklikleri uygulamak istiyormusunuz ?"
 
 #~ msgid "[CommandBar]Do you want to remove %(1)?"
 #~ msgstr "%(1)'i silmek istiyormusunuz ?"
+

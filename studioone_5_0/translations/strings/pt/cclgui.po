@@ -366,7 +366,7 @@ msgstr "Tecla já atribuída para:\n%(1)"
 
 #: .\commands.cpp
 msgid "[FileType]Keyboard Mapping Scheme"
-msgstr "Mapa do Esquema do Teclado"
+msgstr "Esquema do Teclado"
 
 #: .\itemviews\itemview.cpp
 msgid "[Command]Left"

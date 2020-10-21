@@ -236,6 +236,10 @@ msgstr "Um sinal inválido ocorreu."
 msgid "[AudioIOType]Analog"
 msgstr "Análogo"
 
+#: .\audiomixer\audiosendfolder.cpp
+msgid "[AudioSendSlot]Append Sends"
+msgstr "Adicionar Envios"
+
 #: .\surfaces\editor\mappinghandler.cpp
 msgid "[MappingHandler]Assign \"%(1)\" to %(2) on %(3)"
 msgstr "Atribuir \"%(1)\" a %(2) em %(3)"
@@ -486,6 +490,10 @@ msgstr "Cor"
 msgid "[DeviceFolder]Combine %(1)"
 msgstr "Combinar %(1)"
 
+#: .\audiosynths\audiosynthfolder.cpp
+msgid "[AudioSynth]Compact"
+msgstr "Compacto"
+
 #: .\music\setup\musicdevicesetup.cpp
 msgid "[MusicDeviceSetup]Configure..."
 msgstr "Configurar..."
@@ -551,6 +559,10 @@ msgstr "Copiar Configurações do Canal"
 #: .\audioeffects\audiofxgraph.cpp
 msgid "[AudioFXGraph]Copy Effect"
 msgstr "Cópia de Efeito"
+
+#: .\audiomixer\audiosendfolder.cpp
+msgid "[AudioSendSlot]Copy Sends"
+msgstr "Copiar Envios"
 
 #: .\audiosynths\audiosynthfolder.cpp
 msgid "[AudioSynth]Copy to Clipboard"
@@ -801,6 +813,10 @@ msgstr "FX Evento"
 msgid "[DeviceFolder]Expand"
 msgstr "Expandir"
 
+#: .\audiosynths\audiosynthfolder.cpp
+msgid "[AudioSynth]Extended"
+msgstr "Estendido"
+
 #: .\music\musicdevicemanager.cpp
 msgid "[MusicDevices]External Devices"
 msgstr "Dispositivos Externos"
@@ -836,6 +852,10 @@ msgstr "Fader"
 #: .\base\devicefolder.cpp
 msgid "[DeviceFolder]Favorite"
 msgstr "favorito"
+
+#: .\mixerconsole\mixerconsole.cpp
+msgid "[Command]Find Channel"
+msgstr "Localizar Canal"
 
 #: .\surfaces\editor\editcomponent.cpp
 msgid "[SurfaceEditor]Focus:"
@@ -904,6 +924,10 @@ msgstr "Grupo"
 #: .\mixer\editgroupmanager.cpp
 msgid "[Command]Group"
 msgstr "Grupo"
+
+#: .\audiomixer\hardwareintegration\hardwarestoragemanager.cpp
+msgid "[Hardware]Hardware Integration"
+msgstr "Integração com Hardware"
 
 #: .\hardware\hardwaremixermanager.cpp
 msgid "[Hardware]Hardware Monitoring"
@@ -1179,7 +1203,7 @@ msgstr "Mix FX"
 
 #: .\mixer\mixercontrollable.cpp
 msgid "[Channel]Monitor"
-msgstr "Monitor"
+msgstr "Monitoração"
 
 #: .\audio\audiolowlatencygraph.cpp
 msgid "[MonitorProcessing]Monitor FX"
@@ -1272,7 +1296,7 @@ msgstr "Navegação"
 
 #: .\music\setup\musicdeviceadddialog.cpp
 msgid "[MusicDeviceAddDialog]New Control Surface"
-msgstr "Nova Controladora"
+msgstr "Novo Controlador"
 
 #: .\music\setup\musicdeviceadddialog.cpp
 msgid "[MusicDeviceAddDialog]New Instrument"
@@ -1320,7 +1344,7 @@ msgstr "Nada"
 
 #: .\mixer\editgroupmanager.cpp
 msgid "[EditGroups]None"
-msgstr "Nada"
+msgstr "Nenhum"
 
 #: .\studio\portlist.cpp
 msgid "[PortList]None"
@@ -2465,7 +2489,7 @@ msgstr "Atualizar Cena"
 
 #: .\music\setup\musicdeviceadddialog.cpp
 msgid "[MusicDeviceAddDialog]Use to play an external MIDI Instrument and record controller movements. When connecting the receive port, be careful to avoid doubled events if the same port is used by a Keyboard device."
-msgstr "Utilize para tocar um instrumento MIDI externo e gravar movimentos de controlador. Quando conectar a porta de recebimento, tenha cuidado para evitar eventos duplos no caso da mesma porta ser utilizada por um dispositivo do tipo Teclado."
+msgstr "Utilize para tocar um instrumento MIDI externo e gravar movimentos de controlador. Ao conectar a porta de recebimento, evite duplos no caso da mesma porta ser utilizada por um dispositivo do tipo Teclado."
 
 #: .\audiomixer\audioclick.cpp
 msgid "[AudioClick]Used"

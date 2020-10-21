@@ -69,6 +69,10 @@ msgid "[SystemInfo]Application"
 msgstr "Anwendung"
 
 #: .\studioapp.cpp
+msgid "[StudioApp]Arrow Tool"
+msgstr "Bearbeiten-Werkzeug"
+
+#: .\studioapp.cpp
 msgid "[StudioApp]Artist Profile"
 msgstr "Künstlerprofil"
 

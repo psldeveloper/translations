@@ -236,6 +236,10 @@ msgstr "Ein ungültiges Signal ist aufgetreten."
 msgid "[AudioIOType]Analog"
 msgstr "Analog"
 
+#: .\audiomixer\audiosendfolder.cpp
+msgid "[AudioSendSlot]Append Sends"
+msgstr "Sends hinzufügen"
+
 #: .\surfaces\editor\mappinghandler.cpp
 msgid "[MappingHandler]Assign \"%(1)\" to %(2) on %(3)"
 msgstr "\"%(1)\" an %(2) auf %(3) zuweisen"
@@ -486,6 +490,10 @@ msgstr "Farbe"
 msgid "[DeviceFolder]Combine %(1)"
 msgstr "Kombiniere %(1)"
 
+#: .\audiosynths\audiosynthfolder.cpp
+msgid "[AudioSynth]Compact"
+msgstr "Kompaktansicht"
+
 #: .\music\setup\musicdevicesetup.cpp
 msgid "[MusicDeviceSetup]Configure..."
 msgstr "Einstellen..."
@@ -551,6 +559,10 @@ msgstr "Kanaleinstellungen kopieren"
 #: .\audioeffects\audiofxgraph.cpp
 msgid "[AudioFXGraph]Copy Effect"
 msgstr "Effekt kopieren"
+
+#: .\audiomixer\audiosendfolder.cpp
+msgid "[AudioSendSlot]Copy Sends"
+msgstr "Sends kopieren"
 
 #: .\audiosynths\audiosynthfolder.cpp
 msgid "[AudioSynth]Copy to Clipboard"
@@ -801,6 +813,10 @@ msgstr "Event-FX"
 msgid "[DeviceFolder]Expand"
 msgstr "Einblenden"
 
+#: .\audiosynths\audiosynthfolder.cpp
+msgid "[AudioSynth]Extended"
+msgstr "Erweitert"
+
 #: .\music\musicdevicemanager.cpp
 msgid "[MusicDevices]External Devices"
 msgstr "Externe Geräte"
@@ -836,6 +852,10 @@ msgstr "Fader"
 #: .\base\devicefolder.cpp
 msgid "[DeviceFolder]Favorite"
 msgstr "Favorit"
+
+#: .\mixerconsole\mixerconsole.cpp
+msgid "[Command]Find Channel"
+msgstr "Kanal finden"
 
 #: .\surfaces\editor\editcomponent.cpp
 msgid "[SurfaceEditor]Focus:"
@@ -905,6 +925,10 @@ msgstr "Gruppe"
 msgid "[Command]Group"
 msgstr "Gruppe"
 
+#: .\audiomixer\hardwareintegration\hardwarestoragemanager.cpp
+msgid "[Hardware]Hardware Integration"
+msgstr "Hardware-Integration"
+
 #: .\hardware\hardwaremixermanager.cpp
 msgid "[Hardware]Hardware Monitoring"
 msgstr "Hardware-Mithören"
@@ -919,11 +943,11 @@ msgstr "Kanal ausblenden"
 
 #: .\mixerconsole\mixerconsole.cpp
 msgid "[Command]Hide Related Channels"
-msgstr "Zugehörige Kanäle verstecken"
+msgstr "Zugehörige Kanäle ausblenden"
 
 #: .\mixerconsole\mixerconsole.cpp
 msgid "[MixerConsole]Hide Related Channels"
-msgstr "Zugehörige Kanäle verstecken"
+msgstr "Zugehörige Kanäle ausblenden"
 
 #: .\audio\audioengine.cpp
 msgid "[DropoutProtection]High"

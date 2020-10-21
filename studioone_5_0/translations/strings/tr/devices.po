@@ -236,13 +236,17 @@ msgstr ""
 msgid "[AudioIOType]Analog"
 msgstr "Analog"
 
+#: .\audiomixer\audiosendfolder.cpp
+msgid "[AudioSendSlot]Append Sends"
+msgstr ""
+
 #: .\surfaces\editor\mappinghandler.cpp
 msgid "[MappingHandler]Assign \"%(1)\" to %(2) on %(3)"
 msgstr "%(3) ün üzerinde \"%(1)\" i %(2) ye ata"
 
 #: .\surfaces\editor\mappinghandler.cpp
 msgid "[MappingHandler]Assign \"%(1)\" to %(2) on %(3) page %(4)"
-msgstr ""
+msgstr "%(4). sayfadaki  %(3) ün üzerinde \"%(1)\" i %(2) ye ata"
 
 #: .\macrocontrol\macrocontrolsetup.cpp
 msgid "[MacroControlSetup]Assign %(1) to %(2)"
@@ -487,6 +491,10 @@ msgstr "Renk"
 msgid "[DeviceFolder]Combine %(1)"
 msgstr "Kombine edilecek: %(1)"
 
+#: .\audiosynths\audiosynthfolder.cpp
+msgid "[AudioSynth]Compact"
+msgstr ""
+
 #: .\music\setup\musicdevicesetup.cpp
 msgid "[MusicDeviceSetup]Configure..."
 msgstr "Yapılandır..."
@@ -553,6 +561,10 @@ msgstr ""
 msgid "[AudioFXGraph]Copy Effect"
 msgstr "Efekti Kopyala"
 
+#: .\audiomixer\audiosendfolder.cpp
+msgid "[AudioSendSlot]Copy Sends"
+msgstr ""
+
 #: .\audiosynths\audiosynthfolder.cpp
 msgid "[AudioSynth]Copy to Clipboard"
 msgstr ""
@@ -615,7 +627,7 @@ msgstr "Açıklama"
 
 #: .\audiomixer\cuemix\cuemixfolder.cpp
 msgid "[CueMixSlot]Destination"
-msgstr ""
+msgstr "Hedef"
 
 #: .\music\musicdevicemanager.cpp
 msgid "[MusicDevices]Detected Device %(1)"
@@ -804,6 +816,10 @@ msgstr "Klip FX"
 msgid "[DeviceFolder]Expand"
 msgstr "Genişletme"
 
+#: .\audiosynths\audiosynthfolder.cpp
+msgid "[AudioSynth]Extended"
+msgstr ""
+
 #: .\music\musicdevicemanager.cpp
 msgid "[MusicDevices]External Devices"
 msgstr "Harici Aygıtlar"
@@ -839,6 +855,10 @@ msgstr "Fader"
 #: .\base\devicefolder.cpp
 msgid "[DeviceFolder]Favorite"
 msgstr "Favori"
+
+#: .\mixerconsole\mixerconsole.cpp
+msgid "[Command]Find Channel"
+msgstr ""
 
 #: .\surfaces\editor\editcomponent.cpp
 msgid "[SurfaceEditor]Focus:"
@@ -915,6 +935,10 @@ msgstr "Gurup"
 #: .\mixer\editgroupmanager.cpp
 msgid "[Command]Group"
 msgstr "Gurup"
+
+#: .\audiomixer\hardwareintegration\hardwarestoragemanager.cpp
+msgid "[Hardware]Hardware Integration"
+msgstr ""
 
 #: .\hardware\hardwaremixermanager.cpp
 msgid "[Hardware]Hardware Monitoring"

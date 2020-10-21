@@ -1,6 +1,5 @@
 msgid ""
 msgstr ""
-"Last-Translator:  <janusz@grzybek.anet.pl>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,5 +9,9 @@ msgid "[CoreMidi]CoreMIDI Support"
 msgstr "Obsługa CoreMIDI"
 
 #: .\midiservicemain.cpp
-msgid "[CoreMidi]Support for MIDI gear on OS X"
-msgstr "Obsługa sprzętu MIDI na OS X"
+msgid "[CoreMidi]Support for MIDI gear on macOS"
+msgstr "Obsługa sprzętu MIDI na macOS"
+
+#~ msgid "[CoreMidi]Support for MIDI gear on OS X"
+#~ msgstr "Obsługa sprzętu MIDI na OS X"
+

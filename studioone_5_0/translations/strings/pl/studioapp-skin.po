@@ -172,6 +172,10 @@ msgstr "$title"
 msgid "[MutableInspectorProperty]$title"
 msgstr "$title"
 
+#: .\app\shared.xml
+msgid "[HUDPopup]$title"
+msgstr "$title"
+
 #: .\devices\editgroups.xml
 msgid "[EditGroupLinkAspect]$title"
 msgstr "$title"
@@ -224,6 +228,10 @@ msgstr "$tooltip"
 msgid "[MutableInspectorProperty]$tooltip"
 msgstr "$tooltip"
 
+#: .\app\shared.xml
+msgid "[HUDPopup]$tooltip"
+msgstr "$tooltip"
+
 #: .\devices\musicdevices.xml
 msgid "[MutableNoteRepeatSlider]$tooltip"
 msgstr "$tooltip"
@@ -273,7 +281,7 @@ msgid "[AutomationTrackDialog]&lt;&lt; Add"
 msgstr "&lt;&lt; Dodaj"
 
 #: .\ccl\browser.xml
-msgid "[SearchBar](Not searchable)"
+msgid "[SearchResultView](Not searchable)"
 msgstr "(nie można wyszukać)"
 
 #: .\app\multitrack.xml
@@ -326,10 +334,6 @@ msgstr "..."
 
 #: .\engine\audioexport.xml
 msgid "[TrackExport]..."
-msgstr "..."
-
-#: .\engine\editor.xml
-msgid "[ControlLane]..."
 msgstr "..."
 
 #: .\engine\editor.xml
@@ -682,7 +686,7 @@ msgstr "@cmd.title[Edit|Toggle Snap]"
 
 #: .\show\show.xml
 msgid "[ShowToolbar]@cmd.title[Edit|Toggle Snap]"
-msgstr "@cmd.title[Edit|Toggle Snap]"
+msgstr "[ShowToolbar]@cmd.title[Edit|Toggle Snap]"
 
 #: .\engine\audioediting.xml
 msgid "[AudioBendPanel.ActionPart]@cmd.title[Event|Fill Gaps]"
@@ -738,7 +742,11 @@ msgstr "@cmd.title[Record Mode|Record Mode Replace]"
 
 #: .\show\show.xml
 msgid "[ShowToolbar]@cmd.title[Show|Perform]"
-msgstr "@cmd.title[Show|Perform]"
+msgstr "[ShowToolbar]@cmd.title[Show|Perform]"
+
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]@cmd.title[Track|Recall Retrospective Recording]"
+msgstr "@cmd.title[Track|Recall Retrospective Recording]"
 
 #: .\engine\song.xml
 msgid "[SongToolbar]@cmd.title[Transport|Cursor follows Edit Position]"
@@ -786,7 +794,7 @@ msgstr "@cmd.title[View|Console]"
 
 #: .\devices\transport.xml
 msgid "[ShowTransport]@cmd.title[View|Console]"
-msgstr "@cmd.title[View|Console]"
+msgstr "[ShowTransport]@cmd.title[View|Console]"
 
 #: .\show\show.xml
 msgid "[ShowToolbar]@cmd.title[View|Controls]"
@@ -817,7 +825,7 @@ msgid "[InspectorPanel]@cmd.title[View|Inspector]"
 msgstr "@cmd.title[View|Inspector]"
 
 #: .\engine\song.xml
-msgid "[Song]@cmd.title[View|Inspector]"
+msgid "[TrackControlsButtonsHeader]@cmd.title[View|Inspector]"
 msgstr "@cmd.title[View|Inspector]"
 
 #: .\engine\recordpanel.xml
@@ -854,7 +862,7 @@ msgstr "@cmd.title[View|Show Groups (Track List)]"
 
 #: .\devices\audiomixer.xml
 msgid "[MixerManager]@cmd.title[View|Show Scenes (Console)]"
-msgstr "@cmd.title[View|Show Scenes (Console)]"
+msgstr "[MixerManager]@cmd.title[View|Show Scenes (Console)]"
 
 #: .\engine\tracklistinspector.xml
 msgid "[TrackListInspectorPanel]@cmd.title[View|Show Scenes (Track List)]"
@@ -869,7 +877,7 @@ msgid "[InspectorPanel]@cmd.title[View|Track List]"
 msgstr "@cmd.title[View|Track List]"
 
 #: .\engine\song.xml
-msgid "[Song]@cmd.title[View|Track List]"
+msgid "[TrackControlsButtonsHeader]@cmd.title[View|Track List]"
 msgstr "@cmd.title[View|Track List]"
 
 #: .\engine\tracklistinspector.xml
@@ -1040,9 +1048,17 @@ msgstr "@value[]"
 msgid "[QuantizeSetup.PresetPart]A"
 msgstr "A"
 
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]A notated C sounds"
+msgstr "A zapisane jako C brzmi jak"
+
 #: .\devices\synthcombinator.xml
 msgid "[SynthCombinatorRouting]A note event splitter can be inserted for 3 or more instruments"
 msgstr "Rozdzielacz nut może być umieszczony dla 3 lub więcej instrumentów"
+
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]Abbreviation"
+msgstr "Skrót"
 
 #: .\app\homepage.xml
 msgid "[Command]About"
@@ -1105,7 +1121,7 @@ msgid "[MusicFXRackSlotView]Activate"
 msgstr "Aktywuj"
 
 #: .\devices\synthrack.xml
-msgid "[AudioSynthRackSlotView]Activate"
+msgid "[AudioSynthRackSlotViewCompact]Activate"
 msgstr "Aktywuj"
 
 #: .\engine\trackcontrols.xml
@@ -1249,7 +1265,7 @@ msgid "[Command]Add Tracks"
 msgstr "Dodaj ścieżki"
 
 #: .\engine\song.xml
-msgid "[Song]Add Tracks @cmd[]"
+msgid "[TrackControlsButtonsHeader]Add Tracks @cmd[]"
 msgstr "Dodaj ścieżki @cmd[]"
 
 #: .\engine\recordpanel.xml
@@ -1392,6 +1408,10 @@ msgstr "Zastosuj"
 msgid "[RemoteFXEditorHeaderView]Apply DSP to Input Signal"
 msgstr "Zastosuj DSP na wejściu sygnału"
 
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]Apply Staff Preset"
+msgstr "Zastosuj zestaw pięciolinii"
+
 #: .\app\options.xml
 msgid "[EditingOption]Apply folder track color to content"
 msgstr "Zastosuj kolor ścieżki folderu do zawartości"
@@ -1410,6 +1430,10 @@ msgstr "Aranżer"
 
 #: .\engine\songdialogs.xml
 msgid "[SongMetaInfoOption]Arranger"
+msgstr "Aranżer"
+
+#: .\engine\trackcontrols.xml
+msgid "[ArrangerTrackEditorView]Arranger"
 msgstr "Aranżer"
 
 #: .\engine\trackcontrols.xml
@@ -1618,7 +1642,7 @@ msgstr "Auto-kolor"
 
 #: .\app\options.xml
 msgid "[EditingOption]Auto-colorize tracks and layers"
-msgstr "Auto-kolor ścieżek i warstw"
+msgstr "Automatycznie-pokoloruj ścieżki i warstwy"
 
 #: .\app\options.xml
 msgid "[ConsoleOption]Auto-expand selected channel"
@@ -1739,6 +1763,14 @@ msgstr "Ścieżka podkładu"
 #: .\engine\inspector.xml
 msgid "[MusicTrackInspector.ProgramSelector]Bank / Prog."
 msgstr "Bank / Prog."
+
+#: .\show\show.xml
+msgid "[VirtualInstrumentPlayer.ProgramSelector]Bank / Prog."
+msgstr "Bank / Prog."
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Bar Numbers"
+msgstr "Liczba taktów"
 
 #: .\engine\songdialogs.xml
 msgid "[SongSetup]Bar Offset"
@@ -1928,6 +1960,14 @@ msgstr "Zakup Notion"
 msgid "[MutableMicroViewBypass]Bypass"
 msgstr "Pomiń"
 
+#: .\engine\eventinspector.xml
+msgid "[AudioEventPropertiesList]Bypass"
+msgstr "Pomiń"
+
+#: .\engine\eventinspector.xml
+msgid "[AudioEventMiniProperties.Table]Bypass"
+msgstr "Pomiń"
+
 #: .\devices\audiofxeditor.xml
 msgid "[FXEditorHeaderRow1]Bypass (automatable)"
 msgstr "Pomiń (automatyzowalne)"
@@ -1960,6 +2000,10 @@ msgstr "Protokół CD"
 msgid "[CDProtocol]CD Protocol"
 msgstr "Protokół CD"
 
+#: .\devices\synthrack.xml
+msgid "[AudioSynthRackSlotViewCompact]CPU"
+msgstr "CPU"
+
 #: .\devices\transport.xml
 msgid "[PerformanceMonitor.Meters]CPU"
 msgstr "CPU"
@@ -1987,6 +2031,10 @@ msgstr "Anuluj"
 #: .\engine\mediapool.xml
 msgid "[LocateMissingFiles]Cancel Search"
 msgstr "Anuluj wyszukiwanie"
+
+#: .\app\options.xml
+msgid "[MusicOption]Capture note and control data while not recording for later recall"
+msgstr "Przechwytuj nuty i dane MIDI przy wyłączonym nagrywaniu"
 
 #: .\engine\mediapool.xml
 msgid "[PlugInFileInfo]Category:"
@@ -2110,7 +2158,7 @@ msgstr "Wybierz ten typ pliku, aby nagrać, zmiksować i wyprodukować utwór."
 
 #: .\app\homepage.xml
 msgid "[HomePage.HeaderFileTypes]Choose this file type to rehearse and perform a show."
-msgstr "Wybierz ten typ pliku, aby przećwiczyć lub wykonać występ."
+msgstr "Wybierz ten typ pliku, aby przećwiczyć lub zagrać występ."
 
 #: .\show\showdialogs.xml
 msgid "[AddPlayerDialog]Choose this type for backing track playback from audio files."
@@ -2157,6 +2205,10 @@ msgid "[ChordTrackInspector]Chords"
 msgstr "Akordy"
 
 #: .\engine\trackcontrols.xml
+msgid "[ChordTrackEditorView]Chords"
+msgstr "Akordy"
+
+#: .\engine\trackcontrols.xml
 msgid "[ChordTrackControls]Chords"
 msgstr "Akordy"
 
@@ -2164,12 +2216,16 @@ msgstr "Akordy"
 msgid "[PerformanceMonitor.CacheOptions]Cleanup Cache"
 msgstr "Wyczyść pamięć podręczną"
 
-#: .\app\startup.xml
-msgid "[MessageWindow]Clear"
+#: .\app\shared.xml
+msgid "[FilterBar]Clear"
 msgstr "Wyczyść"
 
-#: .\ccl\browser.xml
+#: .\app\shared.xml
 msgid "[SearchBar]Clear"
+msgstr "Wyczyść"
+
+#: .\app\startup.xml
+msgid "[MessageWindow]Clear"
 msgstr "Wyczyść"
 
 #: .\devices\devices.xml
@@ -2350,11 +2406,11 @@ msgstr "Pokoloruj nagłówek wtyczki"
 
 #: .\app\options.xml
 msgid "[EditingOption]Colorize track controls"
-msgstr "Koloruj kontrolki ścieżek"
+msgstr "Pokoloruj kontrolki ścieżek"
 
 #: .\engine\song.xml
 msgid "[InplaceOptions]Colorize track controls"
-msgstr "Koloruj kontrolki ścieżek"
+msgstr "Pokoloruj kontrolki ścieżek"
 
 #: .\engine\songdialogs.xml
 msgid "[SongMetaInfoOption]Comment"
@@ -2363,6 +2419,10 @@ msgstr "Komentarz"
 #: .\project\project.xml
 msgid "[DetailedInfoTable]Comment"
 msgstr "Komentarz"
+
+#: .\devices\synthrack.xml
+msgid "[SynthRack]Compact"
+msgstr "Kompaktowy"
 
 #: .\project\audiofile.xml
 msgid "[CDProtocol]Compact View"
@@ -2408,13 +2468,17 @@ msgstr "Konsoleta"
 msgid "[ImportSongDataOptions]Console Options"
 msgstr "Opcje konsolety"
 
+#: .\engine\editor.xml
+msgid "[ScoreEditorToolBar]Continuous Layout"
+msgstr "Układ ciągły"
+
 #: .\ccl\common.xml
 msgid "[ColorSchemeOption.Levels]Contrast"
 msgstr "Kontrast"
 
 #: .\devices\devices.xml
 msgid "[ParamMapper.MappingPart]Control"
-msgstr "Mackie Control"
+msgstr "Kontrolka"
 
 #: .\show\performance.xml
 msgid "[ControlLinkView]Control Link"
@@ -2438,11 +2502,11 @@ msgstr "Kontrolery"
 
 #: .\app\windowclasses.xml
 msgid "[Command]Controls"
-msgstr "Kontrola"
+msgstr "Kontrolki"
 
 #: .\show\show.xml
 msgid "[ShowToolbar]Controls"
-msgstr "Kontrola"
+msgstr "Kontrolki"
 
 #: .\engine\mediapool.xml
 msgid "[ConvertFilesDialog]Convert Files"
@@ -2602,7 +2666,7 @@ msgstr "Domyślne obwiednie dla nowych ścieżek audio"
 
 #: .\engine\songdialogs.xml
 msgid "[NewSong]Default tempo setting for audio tracks"
-msgstr "Domyślne ustawienie tempa  dla ścieżek audio"
+msgstr "Domyślne ustawienie tempa dla ścieżek audio"
 
 #: .\engine\inspector.xml
 msgid "[AudioTrackInspector]Delay"
@@ -2645,6 +2709,10 @@ msgid "[MarkerTrackControls]Delete Selected Markers @cmd[Edit|Delete]"
 msgstr "Usuń zaznaczone markery @cmd[Edit|Delete]"
 
 #: .\engine\trackcontrols.xml
+msgid "[SignatureTrackControls]Delete Selected Signature @cmd[Edit|Delete]"
+msgstr "Usuń wybrane metrum @cmd[Edit|Delete]"
+
+#: .\engine\trackcontrols.xml
 msgid "[TempoTrackControls]Delete Tempo Change"
 msgstr "Usuń zmiany tempa"
 
@@ -2654,7 +2722,7 @@ msgstr "Usuń wariację"
 
 #: .\app\homepage.xml
 msgid "[HomePage.RSS]Demos and Tutorials"
-msgstr "Przykłady"
+msgstr "Przykłady i przewodniki"
 
 #: .\ccl\common.xml
 msgid "[DocumentTemplateSaveDialog]Description"
@@ -2940,7 +3008,7 @@ msgstr "EBU +18 Metering"
 msgid "[Analyser]EBU R128"
 msgstr "EBU R128"
 
-#: .\app\windowclasses.xml .\engine\inspector.xml
+#: .\app\windowclasses.xml .\engine\inspector.xml .\engine\trackcontrols.xml
 msgid "[Command]Edit"
 msgstr "Edytuj"
 
@@ -3128,6 +3196,10 @@ msgstr "Włącz MPE"
 msgid "[MusicTrackInspector.ProgramSelector]Enable Program"
 msgstr "Włącz program"
 
+#: .\show\show.xml
+msgid "[VirtualInstrumentPlayer.ProgramSelector]Enable Program"
+msgstr "Włącz program"
+
 #: .\engine\editor.xml
 msgid "[MusicPatternToolsHeader]Enable Record / Step Record @cmd[Step Record|Enable]"
 msgstr "Włącz nagrywanie / nagrywanie krokowe @cmd[Step Record|Enable]"
@@ -3135,6 +3207,10 @@ msgstr "Włącz nagrywanie / nagrywanie krokowe @cmd[Step Record|Enable]"
 #: .\project\analyser.xml
 msgid "[SpectrumMeterSettings]Enable Smoothing"
 msgstr "Włącz wygładzanie"
+
+#: .\engine\editor.xml
+msgid "[ScoreSetupContent]Enable Transposition"
+msgstr "Włącz transpozycję"
 
 #: .\app\options.xml
 msgid "[EditingOption]Enable crosshair cursor for tools"
@@ -3144,9 +3220,17 @@ msgstr "Wyświetlaj linie współrzędnych kursora dla narzędzi"
 msgid "[InplaceOptions]Enable crosshair cursor for tools"
 msgstr "Wyświetlaj linie współrzędnych kursora dla narzędzi"
 
+#: .\ccl\common.xml
+msgid "[GraphicsEngineOption]Enable graphics hardware acceleration"
+msgstr "Włącz akcelerację sprzętową grafiki"
+
 #: .\devices\devices.xml
 msgid "[AudioSetup.Engine]Enable low latency monitoring for instruments"
 msgstr "Włącz monitoring o niskiej latencji dla instrumentów"
+
+#: .\app\options.xml
+msgid "[MusicOption]Enable retrospective recording"
+msgstr "Włącz nagrywanie retrospektywne"
 
 #: .\project\analyser.xml
 msgid "[SpectrumMeterSettings]Enable slope compensation (+3dB/oct. for Pink Noise)"
@@ -3201,8 +3285,8 @@ msgid "[NoteRepeatMasterControls]Erase Notes in Record Mix Mode @cmd[Record Mode
 msgstr "Kasuj nuty w trybie nagrywania miksu@cmd[Record Mode|Note Erase]"
 
 #: .\engine\videoplayer.xml
-msgid "[VideoPlayer]Error Loading Movie"
-msgstr "Błąd wczytywania filmu"
+msgid "[VideoPlayer]Error Loading Video"
+msgstr "Wystąpił błąd podczas wczytywania wideo"
 
 #: .\engine\trackcontrols.xml
 msgid "[Command]Event"
@@ -3262,7 +3346,7 @@ msgstr "Istniejący instrument"
 
 #: .\show\performance.xml
 msgid "[ShowPerformanceContent]Exit Performance"
-msgstr "Wyjdź z trybu wykonania"
+msgstr "Wyjdź z trybu sceny"
 
 #: .\engine\trackcontrols.xml
 msgid "[AudioTrackControls]Expand Envelopes"
@@ -3298,7 +3382,7 @@ msgstr "Data wygaśnięcia:"
 
 #: .\engine\audioexport.xml
 msgid "[AudioExport]Export Mixdown"
-msgstr "Eksport pełnego miksu"
+msgstr "Eksport miksu"
 
 #: .\engine\audioexport.xml
 msgid "[AudioExport]Export Range"
@@ -3314,7 +3398,7 @@ msgstr "Zakres eksportu"
 
 #: .\engine\audioexport.xml
 msgid "[TrackExport]Export Stems"
-msgstr "Eksport częściowego miksu"
+msgstr "Eksport do osobnych plików"
 
 #: .\engine\videoplayer.xml
 msgid "[VideoExport]Export Video"
@@ -3323,6 +3407,10 @@ msgstr "Eksportuj wideo"
 #: .\devices\audiomixer.xml
 msgid "[AudioIOSetup]Export..."
 msgstr "Eksportuj..."
+
+#: .\devices\synthrack.xml
+msgid "[SynthRack]Extended"
+msgstr "Rozszerzony"
 
 #: .\devices\audiomixer.xml
 msgid "[MixerManager]External"
@@ -3440,6 +3528,10 @@ msgstr "Pliki"
 msgid "[Command]Fill Lane"
 msgstr "Wypełnij pasek"
 
+#: .\app\shared.xml
+msgid "[FilterBar]Filter"
+msgstr "Filtr"
+
 #: .\ccl\pluginmanager.xml
 msgid "[PlugInManager]Filter"
 msgstr "Filtr"
@@ -3447,6 +3539,10 @@ msgstr "Filtr"
 #: .\devices\musicdevices.xml
 msgid "[MusicDeviceOptions]Filter"
 msgstr "Filtr"
+
+#: .\engine\tracklistinspector.xml
+msgid "[FindTrackPopup]Find Track"
+msgstr "Znajdź ścieżkę"
 
 #: .\engine\audiotransform.xml
 msgid "[AudioTransformDialog]Fixed Tail"
@@ -3492,6 +3588,10 @@ msgstr "Użycie akordów"
 msgid "[MusicTrackInspector]Follow chords"
 msgstr "Użycie akordów"
 
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Font"
+msgstr "Czcionka"
+
 #: .\engine\audioexport.xml
 msgid "[AudioExport]Format"
 msgstr "Format"
@@ -3535,6 +3635,10 @@ msgstr "Zamróź"
 #: .\devices\audiofxeditor.xml
 msgid "[SplitterEditView]Frequency Split"
 msgstr "Częstotliwość podziału"
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorToolBar]Full Score Page Layout"
+msgstr "Układ strony pełnej partytury"
 
 #: .\app\windowclasses.xml
 msgid "[GadgetNavigator]Gadgets"
@@ -3603,6 +3707,18 @@ msgstr "Globalne wyciszenie @cmd[Console|Global Mute]"
 #: .\engine\song.xml
 msgid "[TrackList]Global Solo @cmd[Console|Global Solo]"
 msgstr "Globalne solo @cmd[Console|Global Solo]"
+
+#: .\engine\editor.xml
+msgid "[MusicEditor]Global Track Visibility"
+msgstr "Ogólna widoczność ścieżki"
+
+#: .\engine\editor.xml
+msgid "[AudioEditor]Global Track Visibility"
+msgstr "Ogólna widoczność ścieżki"
+
+#: .\engine\song.xml
+msgid "[TrackControlsButtonsHeader]Global Track Visibility"
+msgstr "Ogólna widoczność ścieżki"
 
 #: .\devices\transport.xml
 msgid "[Command]Goto Loop End"
@@ -3678,7 +3794,7 @@ msgstr "Grupa ścieżek"
 
 #: .\devices\audiomixer.xml
 msgid "[ChannelOrganizerSetup]Group assignment"
-msgstr "Przypisanie grupy"
+msgstr "Przypisanie do grupy"
 
 #: .\devices\audiomixer.xml
 msgid "[ChannelOrganizerSetup]Grouping"
@@ -3915,6 +4031,10 @@ msgstr "Wstaw marker @cmd[]"
 #: .\engine\editor.xml
 msgid "[Command]Insert Rest"
 msgstr "Wstaw pauzę"
+
+#: .\engine\trackcontrols.xml
+msgid "[SignatureTrackControls]Insert Signature @cmd[Edit|Insert Time Signature] @cmd[Edit|Insert Key Signature]"
+msgstr "Wstaw metrum @cmd[Edit|Insert Time Signature] @cmd[Edit|Insert Key Signature]"
 
 #: .\engine\trackcontrols.xml
 msgid "[TempoTrackControls]Insert Tempo Change"
@@ -4288,6 +4408,10 @@ msgstr "Warstwy"
 msgid "[TrackLayerSelector]Layers"
 msgstr "Warstwy"
 
+#: .\engine\trackcontrols.xml
+msgid "[TrackNameAndLayer]Layers"
+msgstr "Warstwy"
+
 #: .\engine\tracklistinspector.xml
 msgid "[TrackListEmbeddedInspector]Layers"
 msgstr "Warstwy"
@@ -4299,6 +4423,14 @@ msgstr "Warstwy podążają za obiektami"
 #: .\engine\inspector.xml
 msgid "[MusicTrackInspector]Layers follow events"
 msgstr "Warstwy podążają za obiektami"
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorLeftPanel]Layout"
+msgstr "Układ"
+
+#: .\engine\editor.xml
+msgid "[ScoreSetupContent]Layout Style"
+msgstr "Styl układu"
 
 #: .\app\homepage.xml
 msgid "[DemosFeedNotInstalled]Learn how to use $APPNAME"
@@ -4604,12 +4736,20 @@ msgstr "Producent"
 msgid "[MusicDeviceEditDialog]Manufacturer"
 msgstr "Producent"
 
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Margins"
+msgstr "Marginesy"
+
 #: .\devices\transport.xml .\engine\trackcontrols.xml
 msgid "[Command]Marker"
 msgstr "Markery"
 
 #: .\engine\inspector.xml
 msgid "[MarkerTrackInspector]Marker"
+msgstr "Marker"
+
+#: .\engine\trackcontrols.xml
+msgid "[MarkerTrackEditorView]Marker"
 msgstr "Markery"
 
 #: .\engine\trackcontrols.xml
@@ -4762,7 +4902,7 @@ msgstr "Mikser"
 
 #: .\engine\videoplayer.xml
 msgid "[VideoExport]Mixdown Options"
-msgstr "Opcje pełnego miksu"
+msgstr "Opcje eksportu miksu"
 
 #: .\ccl\common.xml
 msgid "[ColorSchemeOption.Levels]Mode"
@@ -4840,9 +4980,9 @@ msgstr "Przenieś do tyłu i cofnij"
 msgid "[MusicStepRecordPanel]Move forward"
 msgstr "Przejdź do przodu"
 
-#: .\engine\videoplayer.xml
-msgid "[VideoPlayer]Movie Not Loaded"
-msgstr "Nie wczytano filmu"
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Multi-Measure Rests"
+msgstr "Pauzy wielotaktowe"
 
 #: .\app\multitrack.xml
 msgid "[MultitrackPropertyEditor]Multitrack File Properties"
@@ -4851,10 +4991,6 @@ msgstr "Właściwości pliku wielościeżkowego"
 #: .\engine\eventinspector.xml
 msgid "[MusicPartProperties]Music Part Properties"
 msgstr "Właściwości partii muzycznej"
-
-#: .\engine\editor.xml
-msgid "[ScoreEditorLeftPanel]Musical Symbols"
-msgstr "Symbole muzyczne"
 
 #: .\app\options.xml
 msgid "[AutomationOption]Mute"
@@ -4906,6 +5042,10 @@ msgstr "Nazwa"
 
 #: .\ccl\pluginmanager.xml
 msgid "[PlugInManager]Name"
+msgstr "Nazwa"
+
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]Name"
 msgstr "Nazwa"
 
 #: .\engine\quantize.xml
@@ -4988,7 +5128,7 @@ msgstr "Następny"
 msgid "[NextItemView]Next"
 msgstr "Następny"
 
-#: .\ccl\browser.xml
+#: .\app\shared.xml
 msgid "[SearchBar]Next Page"
 msgstr "Następna strona"
 
@@ -5050,11 +5190,11 @@ msgstr "Nie wybrano obiektu"
 
 #: .\app\options.xml
 msgid "[EditingOption]No overlap when editing events"
-msgstr "Nie nakładaj przy edycji obiektów"
+msgstr "Nie nakładaj obiektów przy edycji"
 
 #: .\engine\song.xml
 msgid "[InplaceOptions]No overlap when editing events"
-msgstr "Nie nakładaj przy edycji obiektów"
+msgstr "Nie nakładaj obiektów przy edycji"
 
 #: .\engine\editor.xml
 msgid "[NoPatternView]No pattern selected"
@@ -5088,9 +5228,13 @@ msgstr "Brak"
 msgid "[SplitterEditView]Normal"
 msgstr "Normalny"
 
+#: .\project\project.xml
+msgid "[Project]Normal"
+msgstr "Normalne"
+
 #: .\show\show.xml
 msgid "[SetList]Normal"
-msgstr "Normalne"
+msgstr "Normalny"
 
 #: .\engine\eventinspector.xml
 msgid "[AudioEventPropertiesList]Normalize"
@@ -5099,6 +5243,10 @@ msgstr "Normalizacja"
 #: .\project\project.xml
 msgid "[ProjectEventMiniProperties.Table]Normalize"
 msgstr "Normalizacja"
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Notation Size"
+msgstr "Rozmiar notacji"
 
 #: .\engine\editor.xml
 msgid "[MusicEditor.ToolGroup2]Note Color"
@@ -5155,6 +5303,10 @@ msgstr "Powtarzanie nut"
 #: .\devices\musicdevices.xml
 msgid "[NoteRepeatMasterControls]Note Repeat Active @cmd[Record Mode|Note Repeat]"
 msgstr "Aktywne powtarzanie nut @cmd[Record Mode|Note Repeat]"
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorToolPaletteNotes]Notehead Symbol"
+msgstr "Symbol główki nuty"
 
 #: .\engine\songdialogs.xml
 msgid "[TitleAlbumNotes]Notes"
@@ -5225,7 +5377,7 @@ msgid "[SoundSetFileSelector]Open"
 msgstr "Otwórz"
 
 #: .\engine\song.xml
-msgid "[Song]Open Arranger Track"
+msgid "[TrackControlsButtonsHeader]Open Arranger Track"
 msgstr "Otwórz ścieżkę aranżera"
 
 #: .\app\windowclasses.xml
@@ -5233,7 +5385,7 @@ msgid "[Command]Open CD Protocol"
 msgstr "Otwórz protokół CD"
 
 #: .\engine\song.xml
-msgid "[Song]Open Chord Track"
+msgid "[TrackControlsButtonsHeader]Open Chord Track"
 msgstr "Otwórz ścieżkę akordów"
 
 #: .\devices\transport.xml
@@ -5245,19 +5397,31 @@ msgid "[Command]Open Marker Track"
 msgstr "Otwórz ścieżkę markerów"
 
 #: .\engine\song.xml
-msgid "[Song]Open Marker Track"
+msgid "[TrackControlsButtonsHeader]Open Marker Track"
 msgstr "Otwórz ścieżkę markerów"
+
+#: .\engine\song.xml
+msgid "[TrackControlsButtonsHeader]Open Secondary Ruler"
+msgstr "Otwórz drugą linijkę"
 
 #: .\app\homepage.xml .\devices\transport.xml
 msgid "[Command]Open Setup"
 msgstr "Otwórz konfigurację"
 
 #: .\app\windowclasses.xml
+msgid "[Command]Open Signature Track"
+msgstr "Otwórz ścieżkę metrum"
+
+#: .\engine\song.xml
+msgid "[TrackControlsButtonsHeader]Open Signature Track"
+msgstr "Otwórz ścieżkę metrum"
+
+#: .\app\windowclasses.xml
 msgid "[Command]Open Tempo Track"
 msgstr "Otwórz ścieżkę tempa"
 
 #: .\engine\song.xml
-msgid "[Song]Open Tempo Track"
+msgid "[TrackControlsButtonsHeader]Open Tempo Track"
 msgstr "Otwórz ścieżkę tempa"
 
 #: .\engine\audioediting.xml
@@ -5297,7 +5461,7 @@ msgid "[TrackExport]Options"
 msgstr "Opcje"
 
 #: .\engine\song.xml
-msgid "[Song]Options"
+msgid "[TrackControlsButtonsHeader]Options"
 msgstr "Opcje"
 
 #: .\project\audiofile.xml
@@ -5311,6 +5475,10 @@ msgstr "Opcje"
 #: .\project\burn.xml
 msgid "[BurnerSelectDialog]Options"
 msgstr "Opcje"
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Orientation"
+msgstr "Orientacja"
 
 #: .\app\licenser.xml
 msgid "[UserLicenseExpired]Otherwise, we look forward to your feedback on how we can make $APPNAME better for you. Please visit our forums with any feature requests."
@@ -5388,6 +5556,14 @@ msgstr "Przegląd"
 msgid "[Command]Packages"
 msgstr "Pakiety"
 
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Page Layout"
+msgstr "Układ strony"
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Page Size"
+msgstr "Rozmiar strony"
+
 #: .\app\options.xml
 msgid "[AutomationOption]Pan"
 msgstr "Panorama"
@@ -5430,7 +5606,7 @@ msgstr "Wklej"
 
 #: .\show\show.xml
 msgid "[IconMuteSoloName]Patch Automation"
-msgstr "Automatyka zestawu"
+msgstr "Automatyka zestawów"
 
 #: .\show\performance.xml
 msgid "[PatchListColumnView]Patches"
@@ -5482,7 +5658,7 @@ msgstr "Peak/RMS"
 
 #: .\show\show.xml
 msgid "[ShowToolbar]Perform"
-msgstr "Wykonanie"
+msgstr "Tryb sceny"
 
 #: .\devices\transport.xml
 msgid "[TransportPanel.PerformancePart]Performance"
@@ -5728,6 +5904,10 @@ msgstr "Zachowaj ścieżki mono"
 msgid "[ChannelOrganizerSetup]Preserve order of channels with folder track"
 msgstr "Zachowaj porządek kanałów ze ścieżkami folderów"
 
+#: .\devices\synthrack.xml
+msgid "[AudioSynthRackSlotViewExtended]Preset"
+msgstr "Zestaw"
+
 #: .\show\showdialogs.xml
 msgid "[AddPlayerDialog.AudioOptions]Preset"
 msgstr "Zestaw"
@@ -5740,7 +5920,7 @@ msgstr "Zestawy"
 msgid "[Command]Previous"
 msgstr "Poprzedni"
 
-#: .\ccl\browser.xml
+#: .\app\shared.xml
 msgid "[SearchBar]Previous Page"
 msgstr "Poprzednia strona"
 
@@ -5759,6 +5939,10 @@ msgstr "Poprzedni Program"
 #: .\engine\automation.xml
 msgid "[AutomationTrackDialog]Previous Track"
 msgstr "Poprzednia ścieżka"
+
+#: .\engine\editor.xml
+msgid "[Command]Print"
+msgstr "Wydruk"
 
 #: .\devices\devices.xml
 msgid "[AudioSetup.Engine]Process Block Size"
@@ -5790,6 +5974,10 @@ msgstr "Klucz produktu:"
 
 #: .\engine\inspector.xml
 msgid "[MusicTrackInspector.ProgramSelector]Program"
+msgstr "Program"
+
+#: .\show\show.xml
+msgid "[VirtualInstrumentPlayer.ProgramSelector]Program"
 msgstr "Program"
 
 #: .\devices\devices.xml
@@ -6106,7 +6294,7 @@ msgstr "Poziom redukcji"
 
 #: .\app\homepage.xml
 msgid "[HomePage.HeaderFileTypes]Rehearse and Perform"
-msgstr "Ćwicz i wykonuj"
+msgstr "Ćwicz i występuj"
 
 #: .\app\multitrack.xml
 msgid "[MultitrackPropertyEditor]Release Year"
@@ -6384,6 +6572,10 @@ msgstr "Pobieranie newsów... czekaj..."
 msgid "[NewsFeed]Retrieving Feed... please wait..."
 msgstr "Pobieranie newsów... czekaj..."
 
+#: .\engine\inspector.xml
+msgid "[MusicTrackInspector]Retrospective Recording"
+msgstr "Nagrywanie retrospektywne"
+
 #: .\devices\transport.xml
 msgid "[TransportPanel]Return to Zero @cmd[Transport|Return to Zero]"
 msgstr "Wróć na początek @cmd[Transport|Return to Zero]"
@@ -6410,7 +6602,7 @@ msgstr "Przewiń do tyłu"
 
 #: .\devices\transport.xml
 msgid "[ShowTransport]Rewind"
-msgstr "Rewind"
+msgstr "Przewiń do tyłu"
 
 #: .\engine\eventinspector.xml
 msgid "[Command]Right"
@@ -6447,6 +6639,10 @@ msgstr "Podstawa"
 #: .\devices\synthcombinator.xml
 msgid "[SynthCombinatorPageSelector]Routing"
 msgstr "Droga sygnału"
+
+#: .\engine\trackcontrols.xml
+msgid "[SecondaryTimerulerTrackControls]Ruler"
+msgstr "Linijka"
 
 #: .\app\licenser.xml
 msgid "[UserLicenseDialog.ActivationOptions]Run $APPNAMEFREE - the feature limited FREE version"
@@ -6565,6 +6761,10 @@ msgid "[ColorSchemeOption.Score]Score"
 msgstr "Partytura"
 
 #: .\engine\editor.xml
+msgid "[Command]Score"
+msgstr "Partytura"
+
+#: .\engine\editor.xml
 msgid "[Command]Score View"
 msgstr "Widok partytury"
 
@@ -6576,17 +6776,17 @@ msgstr "Scratch Pad"
 msgid "[Command]Scratch Pad"
 msgstr "Scratch Pad"
 
-#: .\ccl\browser.xml
-msgid "[BrowserMainTabs]Search @cmd.title[]"
-msgstr "Szukaj @cmd.title[]"
+#: .\app\homepage.xml
+msgid "[DocumentBlocks]Search"
+msgstr "Szukaj"
 
-#: .\ccl\browser.xml
-msgid "[SearchBar]Search for"
+#: .\app\shared.xml
+msgid "[SearchBar]Search"
 msgstr "Szukaj"
 
 #: .\ccl\browser.xml
-msgid "[SearchBar]Search in"
-msgstr "Szukaj w"
+msgid "[BrowserMainTabs]Search @cmd.title[]"
+msgstr "Szukaj @cmd.title[]"
 
 #: .\engine\mediapool.xml
 msgid "[LocateMissingFiles]Search in Folder..."
@@ -6670,7 +6870,7 @@ msgstr "Wybierz kolor parametru"
 
 #: .\engine\editor.xml
 msgid "[MusicEditor.ToolGroup2]Select Part Automation with Notes"
-msgstr "Zaznacz partię automatyki z nutami"
+msgstr "Zaznacz automatykę partii wraz z nutami"
 
 #: .\show\show.xml
 msgid "[PlayerControls]Select Player Color"
@@ -6869,7 +7069,7 @@ msgid "[MidiMonitor]Show All"
 msgstr "Pokaż wszystkie"
 
 #: .\engine\song.xml
-msgid "[Song]Show Automation @cmd[Track|Show Envelopes]"
+msgid "[TrackControlsButtonsHeader]Show Automation @cmd[Track|Show Envelopes]"
 msgstr "Pokaż automatykę @cmd[Track|Show Envelopes]"
 
 #: .\devices\transport.xml
@@ -6932,6 +7132,10 @@ msgstr "Pokaż instrumenty"
 msgid "[BrowserHomeContent]Show Instruments and Note FX"
 msgstr "Pokaż instrumenty i efekty MIDI"
 
+#: .\engine\editor.xml
+msgid "[ScoreEditorLeftPanel]Show Layout Options"
+msgstr "Pokaż opcje układu"
+
 #: .\ccl\browser.xml
 msgid "[BrowserListView]Show List"
 msgstr "Pokaż listę"
@@ -6943,6 +7147,10 @@ msgstr "Pokaż pętle"
 #: .\project\analyser.xml
 msgid "[Analyser]Show Loudness Meter"
 msgstr "Pokaż miernik głośności"
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorLeftPanel]Show Musical Symbols"
+msgstr "Pokaż symbole muzyczne"
 
 #: .\app\windowclasses.xml
 msgid "[Command]Show Outputs"
@@ -7003,6 +7211,10 @@ msgstr "Pokaż miniatury"
 #: .\show\showdialogs.xml
 msgid "[NewShow]Show Title"
 msgstr "Tytuł występu"
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorLeftPanel]Show Track Settings"
+msgstr "Pokaż ustawienia ścieżki"
 
 #: .\app\options.xml
 msgid "[EditingOption]Show channel numbers in tracks"
@@ -7096,9 +7308,25 @@ msgstr "Występy"
 msgid "[FXEditorHeaderRow1]Sidechain"
 msgstr "Kluczowanie"
 
+#: .\app\windowclasses.xml
+msgid "[SignatureEditor]Signature"
+msgstr "Sygnatura"
+
+#: .\engine\trackcontrols.xml
+msgid "[SignatureTrackEditorView]Signature"
+msgstr "Sygnatura"
+
+#: .\engine\trackcontrols.xml
+msgid "[SignatureTrackControls]Signature"
+msgstr "Sygnatura"
+
 #: .\devices\musicdevices.xml
 msgid "[NoteRepeatMasterControls]Single Mode"
 msgstr "Stała nuta"
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorToolBar]Single Track Page Layout"
+msgstr "Układ strony pojedynczej strony"
 
 #: .\app\plugscanner.xml
 msgid "[PlugInScanner]Skip"
@@ -7111,6 +7339,10 @@ msgstr "Pomiń ścieżkę"
 #: .\project\analyser.xml
 msgid "[SpectrumMeterSettings]Slope"
 msgstr "Nachyl"
+
+#: .\project\project.xml
+msgid "[Project]Small"
+msgstr "Mały"
 
 #: .\show\show.xml
 msgid "[SetList]Small"
@@ -7344,6 +7576,14 @@ msgstr "Rozdzielacz"
 msgid "[SynthCombinatorRouting]Splitter"
 msgstr "Rozdzielacz"
 
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Staff Spacing"
+msgstr "Odstępy pięciolinii"
+
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]Staff Type"
+msgstr "Typ pięciolinii"
+
 #: .\devices\devices.xml
 msgid "[AudioSetup.Engine]Standard"
 msgstr "Standard"
@@ -7411,6 +7651,10 @@ msgstr "Strona startowa"
 #: .\app\windowclasses.xml
 msgid "[Start]Start Page"
 msgstr "Strona startowa"
+
+#: .\engine\tracklistinspector.xml
+msgid "[FindTrackPopup]Start typing a track name..."
+msgstr "Zacznij wpisywać nazwę ścieżki..."
 
 #: .\app\windowclasses.xml
 msgid "[StepRecord]Step Record"
@@ -7530,7 +7774,7 @@ msgstr "Usuń ciszę"
 
 #: .\app\notion.xml
 msgid "[SendToNotionNoTargets]Studio One can send instrument tracks and audio files to Notion. In Notion you can create a score and print parts for musicians."
-msgstr "Studio One może wysłać ścieżki instrumentów i pliki audio do Notion. W Notion możesz utworzyć zapis nutowy i wydrukować partie dla muzyków."
+msgstr "Studio One może wysłać ścieżki instrumentów i pliki audio do Notion. W Notion możesz utworzyć partyturę i wydrukować partie dla muzyków."
 
 #: .\engine\songdialogs.xml
 msgid "[NewSong]Styles"
@@ -7588,9 +7832,13 @@ msgstr "Przełącz pomiędzy automatycznym wykrywaniem ogona, a stałym ogonem o
 msgid "[MusicTransformDialog]Switch between automatic tail detection and fixed tail of given length."
 msgstr "Przełącz pomiędzy automatycznym wykrywaniem ogona, a stałym ogonem o określonej długości."
 
+#: .\engine\editor.xml
+msgid "[ScoreEditorLeftPanel]Symbols"
+msgstr "Symbole"
+
 #: .\devices\transport.xml
 msgid "[TransportPanel.Sync]Sync"
-msgstr "Synchronizacja"
+msgstr "Synchr."
 
 #: .\app\options.xml
 msgid "[SyncOption]Sync to External Devices"
@@ -7612,6 +7860,10 @@ msgstr "System Exclusive"
 msgid "[MidiMonitor]System Realtime"
 msgstr "System Realtime"
 
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]System Spacing"
+msgstr "Odstępy systemowe"
+
 #: .\project\analyser.xml
 msgid "[FixedEBUR128Display]TP"
 msgstr "TP"
@@ -7620,16 +7872,28 @@ msgstr "TP"
 msgid "[LoudnessInfoTable]TP"
 msgstr "TP"
 
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]Tab Strings"
+msgstr "Struny tabulatury"
+
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]Tab Type"
+msgstr "Typ tabulatury"
+
 #: .\ccl\browser.xml
 msgid "[TagPalette]Tag Palette"
 msgstr "Paleta tagów"
 
-#: .\app\windowclasses.xml
-msgid "[TagPalette]Tags"
+#: .\ccl\browser.xml
+msgid "[TagListEditBox]Tag Search"
+msgstr "Wyszukiwanie tagów"
+
+#: .\app\shared.xml
+msgid "[SearchBar]Tags"
 msgstr "Tagi"
 
-#: .\ccl\browser.xml
-msgid "[SearchBar]Tags"
+#: .\app\windowclasses.xml
+msgid "[TagPalette]Tags"
 msgstr "Tagi"
 
 #: .\ccl\browser.xml
@@ -7684,9 +7948,21 @@ msgstr "Tempo"
 msgid "[TempoEditor]Tempo Editor"
 msgstr "Edytor tempa"
 
+#: .\engine\editor.xml
+msgid "[ScoreSetupContent]Tempos"
+msgstr "Tempa"
+
 #: .\project\burn.xml
 msgid "[BurnerSelectDialog]Test Write"
 msgstr "Test zapisu"
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Text Font"
+msgstr "Czcionka"
+
+#: .\engine\editor.xml
+msgid "[ScorePageLayout]Text Size"
+msgstr "Rozmiar tekstu"
 
 #: .\app\licenser.xml
 msgid "[AuthorizationHandlerError]Thank you for purchasing $APPNAME from the Mac App Store."
@@ -7882,11 +8158,11 @@ msgstr "Tytuł"
 
 #: .\show\show.xml
 msgid "[ShowPlayerHeader]Title"
-msgstr "Nazwa"
+msgstr "Tytuł"
 
 #: .\show\showdialogs.xml
 msgid "[ShowMetaInfoOption]Title"
-msgstr "Nazwa"
+msgstr "Tytuł"
 
 #: .\app\melodyne.xml
 msgid "[MelodynePlaceholder]To activate this capability please install Melodyne."
@@ -7918,6 +8194,10 @@ msgstr "Łączny rozmiar:"
 
 #: .\engine\audioediting.xml
 msgid "[AudioBendPanel.TrackPart]Track"
+msgstr "Ścieżka"
+
+#: .\engine\editor.xml
+msgid "[ScoreEditorLeftPanel]Track"
 msgstr "Ścieżka"
 
 #: .\engine\song.xml
@@ -7987,6 +8267,10 @@ msgstr "Włączono odtwarzanie ściezki"
 #: .\devices\transport.xml
 msgid "[ProjectTransport]Track Time"
 msgstr "Czas utworu"
+
+#: .\engine\tracklistinspector.xml
+msgid "[TrackListEmbeddedInspector]Track Visibility"
+msgstr "Widoczność ścieżki"
 
 #: .\project\project.xml
 msgid "[ProjectTrackControlsLength]Track is disabled"
@@ -8078,6 +8362,10 @@ msgstr "Transpozycja"
 
 #: .\engine\inspector.xml
 msgid "[MusicTrackInspector]Transpose"
+msgstr "Transpozycja"
+
+#: .\engine\editor.xml
+msgid "[ScorePartSetup]Transposition"
 msgstr "Transpozycja"
 
 #: .\engine\editor.xml
@@ -8381,6 +8669,10 @@ msgid "[VideoExport]Video Format"
 msgstr "Format wideo"
 
 #: .\engine\videoplayer.xml
+msgid "[VideoPlayer]Video Not Loaded"
+msgstr "Nie wczytano wideo"
+
+#: .\engine\videoplayer.xml
 msgid "[VideoPlayer]Video Offset"
 msgstr "Przesunięcie wideo"
 
@@ -8600,6 +8892,60 @@ msgstr "X"
 #: .\show\showdialogs.xml
 msgid "[ShowMetaInfoOption]x"
 msgstr "X"
+
+#~ msgid "[ScoreSetupContent]Tempi"
+#~ msgstr "Tempa"
+
+#~ msgid "[SearchBar](Not searchable)"
+#~ msgstr "(nie można wyszukać)"
+
+#~ msgid "[ControlLane]..."
+#~ msgstr "..."
+
+#~ msgid "[Song]@cmd.title[View|Inspector]"
+#~ msgstr "@cmd.title[View|Inspector]"
+
+#~ msgid "[Song]@cmd.title[View|Track List]"
+#~ msgstr "@cmd.title[View|Track List]"
+
+#~ msgid "[AudioSynthRackSlotView]Activate"
+#~ msgstr "Aktywuj"
+
+#~ msgid "[Song]Add Tracks @cmd[]"
+#~ msgstr "Dodaj ścieżki @cmd[]"
+
+#~ msgid "[VideoPlayer]Error Loading Movie"
+#~ msgstr "Błąd wczytywania filmu"
+
+#~ msgid "[VideoPlayer]Movie Not Loaded"
+#~ msgstr "Nie wczytano filmu"
+
+#~ msgid "[ScoreEditorLeftPanel]Musical Symbols"
+#~ msgstr "Symbole muzyczne"
+
+#~ msgid "[Song]Open Arranger Track"
+#~ msgstr "Otwórz ścieżkę aranżera"
+
+#~ msgid "[Song]Open Chord Track"
+#~ msgstr "Otwórz ścieżkę akordów"
+
+#~ msgid "[Song]Open Marker Track"
+#~ msgstr "Otwórz ścieżkę markerów"
+
+#~ msgid "[Song]Open Tempo Track"
+#~ msgstr "Otwórz ścieżkę tempa"
+
+#~ msgid "[Song]Options"
+#~ msgstr "Opcje"
+
+#~ msgid "[SearchBar]Search for"
+#~ msgstr "Szukaj"
+
+#~ msgid "[SearchBar]Search in"
+#~ msgstr "Szukaj w"
+
+#~ msgid "[Song]Show Automation @cmd[Track|Show Envelopes]"
+#~ msgstr "Pokaż automatykę @cmd[Track|Show Envelopes]"
 
 #~ msgid "[PlugInManager]Blacklist"
 #~ msgstr "Czarna lista"

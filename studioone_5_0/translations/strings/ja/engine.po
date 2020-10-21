@@ -201,6 +201,10 @@ msgstr "このクリップのすべてのアタッチメントを削除します
 msgid "[Command]Arm"
 msgstr "アーム"
 
+#: .\base\model\trackclassifier.cpp
+msgid "[GlobalTrack]Arranger"
+msgstr "アレンジ"
+
 #: .\editing\arrangereditlayer.cpp
 msgid "[Command]Arranger"
 msgstr "アレンジ"
@@ -308,6 +312,14 @@ msgstr "ブラウザー"
 msgid "[Engine]Building Preview..."
 msgstr "プレビューを作成しています..."
 
+#: .\audio\audioenvelopefunctions.cpp
+msgid "[Engine:AudioEnvelopeActions]Bypass %(1) Envelope"
+msgstr " %(1) エンベロープをバイパス"
+
+#: .\application\audioedit\audioenvelopetasks.cpp
+msgid "[AudioEdit]Bypass Gain Envelope"
+msgstr "ゲインエンベロープをバイパス"
+
 #: .\audio\audiobouncer.cpp
 msgid "[AudioBouncer]Cannot bounce protected content."
 msgstr "保護されたコンテンツはバウンスできません。"
@@ -362,6 +374,10 @@ msgstr "コードトラック"
 
 #: .\audioediting\audioedittask.cpp
 msgid "[AudioEdit]Chords"
+msgstr "コード"
+
+#: .\base\model\trackclassifier.cpp
+msgid "[GlobalTrack]Chords"
 msgstr "コード"
 
 #: .\base\model\arrangertrack.cpp
@@ -901,7 +917,8 @@ msgid "[Command]Duplicate Variation"
 msgstr "バリエーションを複製"
 
 #: .\audioediting\audiobendeditlayer.cpp .\editing\chordeditlayer.cpp
-#: .\editing\eventsnapper.cpp .\editing\tracklistcomponent.cpp
+#: .\editing\eventsnapper.cpp .\editing\trackchannelnamefilter.cpp
+#: .\editing\tracklistcomponent.cpp .\editing\trackvisibilityhandler.cpp
 #: .\musicediting\patterneditcomponent.cpp
 msgid "[Command]Edit"
 msgstr "編集"
@@ -954,7 +971,7 @@ msgstr "トラックを編集"
 msgid "[Automation]Edit Value"
 msgstr "値を編集"
 
-#: .\editing\trackeditor.cpp
+#: .\editing\globaltrackscomponent.cpp .\editing\trackeditor.cpp
 msgid "[Command]Editor"
 msgstr "エディター"
 
@@ -1068,6 +1085,10 @@ msgid "[VideoEdit]Extract Audio to %(1):"
 msgstr "オーディオを %(1) に抽出:"
 
 #: .\application\audioedit\audiochordtasks.cpp
+msgid "[AudioEdit]Extract Key Signatures from Event"
+msgstr "調号をイベントから抽出"
+
+#: .\application\audioedit\audiochordtasks.cpp
 msgid "[AudioEdit]Extract to Chord Track"
 msgstr "コードトラックに抽出"
 
@@ -1110,6 +1131,18 @@ msgstr "レーンをフィル"
 #: .\musicediting\patterneditcomponent.cpp
 msgid "[Command]Fill Lane"
 msgstr "レーンをフィル"
+
+#: .\editing\trackchannelnamefilter.cpp
+msgid "[Command]Filter Channels"
+msgstr "チャンネルをフィルター"
+
+#: .\editing\trackchannelnamefilter.cpp
+msgid "[Command]Filter Tracks"
+msgstr "トラックをフィルター"
+
+#: .\editing\tracklistcomponent.cpp
+msgid "[Command]Find Track"
+msgstr "トラックを検索"
 
 #: .\audioediting\audioedithandler.cpp
 msgid "[AudioEditHandler]Fine"
@@ -1219,13 +1252,53 @@ msgstr "隠す"
 msgid "[Automation]Hide \"%(1)\""
 msgstr "\"%(1)\" を隠す"
 
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Audio Tracks"
+msgstr "オーディオトラックを隠す"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Disabled Tracks"
+msgstr "無効なトラックを隠す"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Empty Tracks"
+msgstr "空のトラックを隠す"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Enabled Tracks"
+msgstr "有効なトラックを隠す"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Instrument Tracks"
+msgstr "インストゥルメントトラックを隠す"
+
 #: .\editing\tracklayercomponent.cpp
 msgid "[TrackLayers]Hide Layer"
 msgstr "レイヤーを隠す"
 
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Muted Tracks"
+msgstr "ミュート状態のトラックを隠す"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Selected Tracks"
+msgstr "選択されているトラックを隠す"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Soloed Tracks"
+msgstr "ソロ状態のトラックを隠す"
+
 #: .\editing\trackcontroller.cpp
 msgid "[Track]Hide Track"
 msgstr "トラックを隠す"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Tracks with Events in Loop Range"
+msgstr "ループ範囲にイベントがあるトラックを隠す"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Hide Tracks with Events under Cursor"
+msgstr "カーソルにイベントがあるトラックを隠す"
 
 #: .\musicediting\drumpitchlistmanager.cpp
 msgid "[DrumPitchNameSetup]Hide Unused"
@@ -1552,6 +1625,10 @@ msgstr "マップ"
 
 #: .\base\media\mediamarker.cpp
 msgid "[Engine:MediaMarker]Marker"
+msgstr "マーカー"
+
+#: .\base\model\trackclassifier.cpp
+msgid "[GlobalTrack]Marker"
 msgstr "マーカー"
 
 #: .\editing\markercomponent.cpp
@@ -2176,6 +2253,10 @@ msgstr "マーカー8を呼び出す"
 msgid "[Command]Recall Marker 9"
 msgstr "マーカー9を呼び出す"
 
+#: .\editing\mediatrackcontroller.cpp
+msgid "[Command]Recall Retrospective Recording"
+msgstr "レトロスペクティブレコード機能を呼び出す"
+
 #: .\automation\automationfunctions.cpp
 msgid "[Engine:AutomationFunctions]Reconnect Automation"
 msgstr "オートメーションを再接続"
@@ -2219,6 +2300,10 @@ msgstr "録音テイク"
 #: .\musicediting\musicrecordcomponent.cpp
 msgid "[Command]Record Takes to Layers"
 msgstr "テイクをレイヤーに録音"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Redo Visibility Change"
+msgstr "表示変更をやり直す"
 
 #: .\automationediting\automationtrackcomponent.cpp
 #: .\automationediting\automationtracklistcomponent.cpp
@@ -2517,6 +2602,10 @@ msgstr "イベントFXを復元"
 msgid "[AudioEdit]Restore Timing"
 msgstr "タイミングを復元"
 
+#: .\base\model\actiondescriptions.cpp
+msgid "[ActionDescriptions]Retrospective Record"
+msgstr "レトロスペクティブレコード"
+
 #: .\application\audioedit\audioreversetask.cpp
 msgid "[AudioEdit]Reverse Audio"
 msgstr "オーディオを反転"
@@ -2528,6 +2617,14 @@ msgstr "ルート %(1)"
 #: .\application\musicloop\loopedittasks.cpp
 msgid "[Engine]Root Key"
 msgstr "ルートキー"
+
+#: .\base\model\trackclassifier.cpp
+msgid "[GlobalTrack]Ruler"
+msgstr "ルーラー"
+
+#: .\audioediting\audioretunecomponent.cpp
+msgid "[Tune Mode]Scale"
+msgstr "スケール"
 
 #: .\pool\locatefilescomponent.cpp
 msgid "[LocateFiles]Scanning folder: "
@@ -2657,10 +2754,6 @@ msgstr "4ステップ毎に設定"
 msgid "[Command]Set Every 4th Step"
 msgstr "4ステップ毎に設定"
 
-#: .\base\model\chordfunctions.cpp
-msgid "[Edit]Set Key Signature"
-msgstr "キーを設定"
-
 #: .\base\model\actiondescriptions.cpp
 msgid "[ActionDescriptions]Set Marker Type"
 msgstr "マーカータイプを設定"
@@ -2706,6 +2799,18 @@ msgstr "オートメーションを表示/隠す"
 msgid "[DrumPitchNameSetup]Show All"
 msgstr "すべてを表示"
 
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show All Tracks"
+msgstr "すべてのトラックを表示"
+
+#: .\editing\globaltrackscomponent.cpp
+msgid "[Command]Show Arranger Track in Editor"
+msgstr "アレンジトラックをエディターに表示"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Audio Tracks"
+msgstr "オーディオトラックを表示"
+
 #: .\musicediting\musiccontrollane.cpp
 msgid "[Command]Show Automation Lanes"
 msgstr "オートメーションレーンを表示"
@@ -2717,6 +2822,10 @@ msgstr "ベンドマーカーを表示"
 #: .\editing\tracklistcomponent.cpp
 msgid "[Command]Show Channel Editor"
 msgstr "チャンネルエディターを表示"
+
+#: .\editing\globaltrackscomponent.cpp
+msgid "[Command]Show Chord Track in Editor"
+msgstr "コードトラックをエディターに表示"
 
 #: .\base\model\chordfunctions.cpp
 msgid "[Edit]Show Chords"
@@ -2731,6 +2840,18 @@ msgstr "デフォルトを表示"
 msgid "[Command]Show Device"
 msgstr "デバイスを表示"
 
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Disabled Tracks"
+msgstr "無効なトラックを表示"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Empty Tracks"
+msgstr "空のトラックを表示"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Enabled Tracks"
+msgstr "有効なトラックを表示"
+
 #: .\editing\tracklistcomponent.cpp
 msgid "[Command]Show Envelopes"
 msgstr "エンベロープを表示"
@@ -2742,6 +2863,14 @@ msgstr "フォルダーをエクスプローラー/Finderに表示"
 #: .\editing\tracklistcomponent.cpp
 msgid "[Command]Show Instrument Editor"
 msgstr "インストゥルメントエディターを表示"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Instrument Tracks"
+msgstr "インストゥルメントトラックを表示"
+
+#: .\editing\globaltrackscomponent.cpp
+msgid "[Command]Show Marker Track in Editor"
+msgstr "マーカートラックをエディターに表示"
 
 #: .\pool\mediapoolbrowser.cpp
 msgid "[PoolBrowser]Show Media Folder in Explorer"
@@ -2755,6 +2884,10 @@ msgstr "メディアフォルダーをエクスプローラー/Finderに表示"
 msgid "[PoolBrowser]Show Media Folder in Finder"
 msgstr "メディアフォルダーをFinderに表示"
 
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Muted Tracks"
+msgstr "ミュート状態のトラックを表示"
+
 #: .\editing\tracklistcomponent.cpp
 msgid "[Command]Show Note FX Editor"
 msgstr "Note FXエディターを表示"
@@ -2762,6 +2895,26 @@ msgstr "Note FXエディターを表示"
 #: .\editing\tracklistcomponent.cpp
 msgid "[Command]Show Routing Editor"
 msgstr "ルーティングエディターを表示"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Selected Tracks"
+msgstr "選択されているトラックを表示"
+
+#: .\editing\globaltrackscomponent.cpp
+msgid "[Command]Show Signature Track in Editor"
+msgstr "記号トラックをエディターに表示"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Soloed Tracks"
+msgstr "ソロ状態のトラックを表示"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Tracks with Events in Loop Range"
+msgstr "ループ範囲にイベントがあるトラックを表示"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Show Tracks with Events under Cursor"
+msgstr "カーソルにイベントがあるトラックを表示"
 
 #: .\editing\trackcontroller.cpp
 msgid "[Track]Show in Console"
@@ -2786,6 +2939,10 @@ msgstr "このトラックの \"%(1)\" オートメーションを表示"
 #: .\musicediting\partautomationdraghandler.cpp
 msgid "[Automation]Show the \"%(1)\" Part Automation"
 msgstr "\"%(1)\" パートオートメーションを表示"
+
+#: .\base\model\trackclassifier.cpp
+msgid "[GlobalTrack]Signature"
+msgstr "記号"
 
 #: .\application\audioedit\audiobendaddin.cpp
 msgid "[Engine]Slice"
@@ -2960,6 +3117,10 @@ msgstr "テイク #%(1:3) （%(2)）"
 msgid "[Audio]Tape"
 msgstr "テープ"
 
+#: .\base\model\trackclassifier.cpp
+msgid "[GlobalTrack]Tempo"
+msgstr "テンポ"
+
 #: .\audioediting\audioedithandler.cpp
 msgid "[AudioEditHandler]Tempo: %(1)  Length: %(2)"
 msgstr "テンポ: %(1)  長さ: %(2)"
@@ -3059,9 +3220,9 @@ msgstr "タッチ"
 #: .\application\audioedit\audiotracktransformtask.cpp
 #: .\application\musicedit\musictracktransformtask.cpp
 #: .\editing\editgroupscomponent.cpp .\editing\foldertrackcomponent.cpp
-#: .\editing\layereditlayer.cpp .\editing\monitorfollower.cpp
-#: .\editing\trackcontroller.cpp .\editing\tracklayercomponent.cpp
-#: .\editing\tracklistcomponent.cpp
+#: .\editing\layereditlayer.cpp .\editing\mediatrackcontroller.cpp
+#: .\editing\monitorfollower.cpp .\editing\trackcontroller.cpp
+#: .\editing\tracklayercomponent.cpp .\editing\tracklistcomponent.cpp
 msgid "[Command]Track"
 msgstr "トラック"
 
@@ -3173,6 +3334,10 @@ msgstr "すべてを取り消す"
 #: .\musicediting\musicrecordcomponent.cpp
 msgid "[Command]Undo Last Loop"
 msgstr "最後のループを取り消す"
+
+#: .\editing\trackvisibilityhandler.cpp
+msgid "[Command]Undo Visibility Change"
+msgstr "表示変更を取り消す"
 
 #: .\audioediting\audioretunecomponent.cpp
 msgid "[Tune Mode]Universal"
@@ -3323,6 +3488,9 @@ msgstr "%(1) 回使用"
 #: .\pool\mediapoolnodes.cpp
 msgid "[PoolNodes]used %(1) times"
 msgstr "%(1) 回使用"
+
+#~ msgid "[Edit]Set Key Signature"
+#~ msgstr "キーを設定"
 
 #~ msgid "[Record]Dropouts occured during record. The drive used for recording might not be fast enough."
 #~ msgstr "ドロップアウトが録音中に生じました。ハードディスクの速度が十分でない可能性があります。"

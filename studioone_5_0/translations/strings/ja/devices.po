@@ -236,6 +236,10 @@ msgstr "無効な信号が生じました。"
 msgid "[AudioIOType]Analog"
 msgstr "アナログ"
 
+#: .\audiomixer\audiosendfolder.cpp
+msgid "[AudioSendSlot]Append Sends"
+msgstr "センドを追加"
+
 #: .\surfaces\editor\mappinghandler.cpp
 msgid "[MappingHandler]Assign \"%(1)\" to %(2) on %(3)"
 msgstr "\"%(1)\" を %(3) の %(2) へアサイン"
@@ -486,6 +490,10 @@ msgstr "色"
 msgid "[DeviceFolder]Combine %(1)"
 msgstr "%(1) を結合"
 
+#: .\audiosynths\audiosynthfolder.cpp
+msgid "[AudioSynth]Compact"
+msgstr "コンパクト"
+
 #: .\music\setup\musicdevicesetup.cpp
 msgid "[MusicDeviceSetup]Configure..."
 msgstr "設定..."
@@ -551,6 +559,10 @@ msgstr "チャンネル設定をコピー"
 #: .\audioeffects\audiofxgraph.cpp
 msgid "[AudioFXGraph]Copy Effect"
 msgstr "エフェクトをコピー"
+
+#: .\audiomixer\audiosendfolder.cpp
+msgid "[AudioSendSlot]Copy Sends"
+msgstr "センドをコピー"
 
 #: .\audiosynths\audiosynthfolder.cpp
 msgid "[AudioSynth]Copy to Clipboard"
@@ -801,6 +813,10 @@ msgstr "イベントFX"
 msgid "[DeviceFolder]Expand"
 msgstr "展開"
 
+#: .\audiosynths\audiosynthfolder.cpp
+msgid "[AudioSynth]Extended"
+msgstr "拡張済み"
+
 #: .\music\musicdevicemanager.cpp
 msgid "[MusicDevices]External Devices"
 msgstr "外部デバイス"
@@ -836,6 +852,10 @@ msgstr "フェーダー"
 #: .\base\devicefolder.cpp
 msgid "[DeviceFolder]Favorite"
 msgstr "お気に入り"
+
+#: .\mixerconsole\mixerconsole.cpp
+msgid "[Command]Find Channel"
+msgstr "チャンネルを検索"
 
 #: .\surfaces\editor\editcomponent.cpp
 msgid "[SurfaceEditor]Focus:"
@@ -904,6 +924,10 @@ msgstr "グループ"
 #: .\mixer\editgroupmanager.cpp
 msgid "[Command]Group"
 msgstr "グループ"
+
+#: .\audiomixer\hardwareintegration\hardwarestoragemanager.cpp
+msgid "[Hardware]Hardware Integration"
+msgstr "ハードウェア統合"
 
 #: .\hardware\hardwaremixermanager.cpp
 msgid "[Hardware]Hardware Monitoring"
@@ -2416,7 +2440,7 @@ msgstr "トラック"
 
 #: .\macrocontrol\macrocontrolsetup.cpp
 msgid "[MacroControlSetup]Trans."
-msgstr "推移"
+msgstr "変換"
 
 #: .\mixer\mixereditfunctions.cpp
 msgid "[MixerEditFunctions]Transfer Channel"

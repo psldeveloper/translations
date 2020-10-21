@@ -100,8 +100,8 @@ msgstr "Afastar Dados (Zoom Out)"
 msgid "[Command]Delete"
 msgstr "Excluir"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Denominator"
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Denominator"
 msgstr "Denominador"
 
 #: .\quantize\quantizelength.cpp
@@ -136,14 +136,27 @@ msgstr "Duplicar Compartilhado"
 msgid "[Command]Duplicate and Insert"
 msgstr "Duplicar e Inserir"
 
-#: .\events\eventeditcomponent.cpp .\timeedit\snaptimeprovider.cpp
-#: .\timeedit\timeeditcomponent.cpp .\timeedit\timelinecomponent.cpp
-#: .\timeedit\timeselectioncomponent.cpp .\timeedit\timesnapper.cpp
+#: .\events\eventeditcomponent.cpp .\timeedit\signatureeditlayer.cpp
+#: .\timeedit\snaptimeprovider.cpp .\timeedit\timeeditcomponent.cpp
+#: .\timeedit\timelinecomponent.cpp .\timeedit\timeselectioncomponent.cpp
+#: .\timeedit\timesnapper.cpp
 msgid "[Command]Edit"
 msgstr "Edição"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Edit Time Signature"
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Edit Key Signature"
+msgstr "Editar Armadura de Clave"
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Edit Key Signature"
+msgstr "Editar Armadura de Clave"
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Edit Time Signature"
+msgstr "Editar Fórmula de Compasso"
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Edit Time Signature"
 msgstr "Editar Fórmula de Compasso"
 
 #: .\timeedit\timerulerview.cpp
@@ -198,6 +211,14 @@ msgstr "Groove"
 msgid "[Command]Insert"
 msgstr "Inserir"
 
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Insert Key Signature"
+msgstr "Inserir Armadura de Clave"
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Insert Key Signature"
+msgstr "Inserir Armadura de Clave"
+
 #: .\music\keyswitcheditview.cpp
 msgid "[KeySwitches]Insert Key Switch"
 msgstr "Inserir Mudança de Tom"
@@ -210,8 +231,12 @@ msgstr "Inserir Pontos"
 msgid "[Tempo]Insert Tempo"
 msgstr "Inserir Tempo"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Insert Time Signature"
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Insert Time Signature"
+msgstr "Inserir Fórmula de Compasso"
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Insert Time Signature"
 msgstr "Inserir Fórmula de Compasso"
 
 #: .\music\keyswitcheditview.cpp
@@ -234,8 +259,8 @@ msgstr "Extensão do Último Evento"
 msgid "[EventEditHandler]Length: %(1)"
 msgstr "Duração: %(1)"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Locate"
+#: .\timeedit\timeeditmodel.cpp
+msgid "[TimeEdit]Locate"
 msgstr "Localizar"
 
 #: .\timeedit\timeeditcomponent.cpp
@@ -330,8 +355,8 @@ msgstr "Mover para o Cursor"
 msgid "[Command]Move to Cursor"
 msgstr "Mover para o Cursor"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Move, Zoom"
+#: .\timeedit\timeeditmodel.cpp
+msgid "[TimeEdit]Move, Zoom"
 msgstr "Mover, Zoom"
 
 #: .\music\musicedittasks.cpp
@@ -398,9 +423,17 @@ msgstr "Nudge Acima"
 msgid "[Command]Nudge Up Fine"
 msgstr "Nudge Preciso Acima"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Numerator"
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Numerator"
 msgstr "Numerador"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Edit]Open Secondary Ruler"
+msgstr "Abrir Régua Secundária"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Open Secondary Ruler"
+msgstr "Abrir Régua Secundária"
 
 #: .\music\musicedittasks.cpp
 msgid "[MusicEdit]Operations specific to note events"
@@ -502,12 +535,24 @@ msgstr "Refazer Zoom"
 msgid "[TimeSnapper]Relative Grid"
 msgstr "Grade Relativa"
 
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Remove Key Signature"
+msgstr "Remover Armadura de Clave"
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Remove Key Signature"
+msgstr "Remover Armadura de Clave"
+
 #: .\tempo\tempoeditmodel.cpp
 msgid "[Tempo]Remove Tempo"
 msgstr "Remover Tempo"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Remove Time Signature"
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[SignatureEditLayer]Remove Time Signature"
+msgstr "Remover Fórmula de Compasso"
+
+#: .\timeedit\signatureeditlayer.cpp
+msgid "[Command]Remove Time Signature"
 msgstr "Remover Fórmula de Compasso"
 
 #: .\timeedit\timelinecomponent.cpp
@@ -694,8 +739,8 @@ msgstr "Dividir no Cursor"
 msgid "[Command]Split at Cursor"
 msgstr "Dividir no Cursor"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Start/Stop"
+#: .\timeedit\timeeditmodel.cpp
+msgid "[TimeEdit]Start/Stop"
 msgstr "Iniciar/Parar"
 
 #: .\timeedit\timelinecomponent.cpp
@@ -713,6 +758,10 @@ msgstr "Endireitar Curva"
 #: .\events\eventedithandler.cpp
 msgid "[EventFigures]Stretch"
 msgstr "Stretch"
+
+#: .\timeedit\timeeditcomponent.cpp
+msgid "[Command]Swap Ruler Formats"
+msgstr "Alternar Formatos de Régua"
 
 #: .\tempo\tempoeditcomponent.cpp
 msgid "[Command]Tempo"
@@ -732,7 +781,7 @@ msgstr "Régua de Tempo"
 
 #: .\timeedit\timeeditcomponent.cpp
 msgid "[Edit]Timebase"
-msgstr "Base Tempo"
+msgstr "Base de Tempo"
 
 #: .\music\musicedithandler.cpp
 msgid "[Events]Toggle Chord Mode"
@@ -810,10 +859,6 @@ msgstr "Visualizar"
 msgid "[Command]Zoom"
 msgstr "Zoom"
 
-#: .\timeedit\timerulerview.cpp
-msgid "[TimeRulerView]Zoom"
-msgstr "Zoom"
-
 #: .\timeedit\timelinecomponent.cpp
 msgid "[Command]Zoom Full"
 msgstr "Zoom Total"
@@ -865,6 +910,33 @@ msgstr "Zoom na Seleção"
 #: .\timeedit\timelinecomponent.cpp
 msgid "[Command]Zoom to Selection Horizontally"
 msgstr "Zoom na Seleção Horizontal"
+
+#~ msgid "[TimeRulerView]Denominator"
+#~ msgstr "Denominador"
+
+#~ msgid "[TimeRulerView]Edit Time Signature"
+#~ msgstr "Editar Fórmula de Compasso"
+
+#~ msgid "[TimeRulerView]Insert Time Signature"
+#~ msgstr "Inserir Fórmula de Compasso"
+
+#~ msgid "[TimeRulerView]Locate"
+#~ msgstr "Localizar"
+
+#~ msgid "[TimeRulerView]Move, Zoom"
+#~ msgstr "Mover, Zoom"
+
+#~ msgid "[TimeRulerView]Numerator"
+#~ msgstr "Numerador"
+
+#~ msgid "[TimeRulerView]Remove Time Signature"
+#~ msgstr "Remover Fórmula de Compasso"
+
+#~ msgid "[TimeRulerView]Start/Stop"
+#~ msgstr "Iniciar/Parar"
+
+#~ msgid "[TimeRulerView]Zoom"
+#~ msgstr "Zoom"
 
 #~ msgid "[TimeEditModel]Move to Cursor"
 #~ msgstr "Mover para o Cursor"

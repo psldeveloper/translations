@@ -85,6 +85,10 @@ msgid "Default"
 msgstr "Standard"
 
 #: .\translation.js
+msgid "[TrackEdit]Extend by Grid"
+msgstr "Um Raster erweitern"
+
+#: .\translation.js
 msgid "[TrackEdit]Extract to Chord Track"
 msgstr "Auf Akkordspur extrahieren"
 
@@ -183,6 +187,10 @@ msgstr "In den Vordergrund"
 #: .\translation.js
 msgid "[TrackEdit]Separate Shared Copies"
 msgstr "Gemeinsam verwendete Kopien trennen"
+
+#: .\translation.js
+msgid "[TrackEdit]Shorten by Grid"
+msgstr "Um Raster verkleinern"
 
 #: .\translation.js
 msgid "[TrackEdit]Split at Grid"

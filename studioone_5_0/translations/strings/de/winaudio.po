@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\winaudiodevice.cpp
+msgid "[WindowsAudio]Audio Playback is disabled."
+msgstr "Audiowiedergabe ist deaktiviert."
+
+#: .\winaudiodevice.cpp
+msgid "[WindowsAudio]Audio Recording is disabled."
+msgstr "Audioaufnahme ist deaktiviert."
+
+#: .\winaudiodevice.cpp
+msgid "[WindowsAudio]Failed to open %(1)!"
+msgstr "Öffnen von %(1) fehlgeschlagen!"
+
+#: .\winaudiomanager.cpp
+msgid "[WindowsAudio]Manage audio devices"
+msgstr "Audiogeräte verwalten"
+
+#: .\wasapiclient.cpp
+msgid "[WindowsAudio]None (Recording disabled)"
+msgstr "Keines (Aufnahme inaktiv)"
+
+#: .\winaudiodevice.cpp
+msgid "[WindowsAudio]Please make sure that the sample rates of your recording and playback devices match."
+msgstr "Bitte stellen Sie sicher, dass die Sampleraten von Aufnahme- und Wiedergabegerät übereinstimmen."
+
+#: .\winaudiodevice.cpp
+msgid "[WindowsAudio]Please make sure that the speaker configuration is set to stereo."
+msgstr "Bitte stellen Sie sicher, dass die Lautsprecherkonfiguration auf Stereo gesetzt ist."
+
+#: .\winaudiomain.cpp
+msgid "[WindowsAudio]Support for Consumer Audio Devices on Windows"
+msgstr "Unterstützung von Audiogeräten unter Windows"
+
+#: .\winaudiodevice.cpp
+msgid "[WindowsAudio]The Windows audio service is not running on this system."
+msgstr "Der Windows-Audiodienst läuft nicht auf diesem System."
+
+#: .\winaudiodevice.cpp
+msgid "[WindowsAudio]The requested audio format is not supported by this device."
+msgstr "Das eingestellte Audioformat wird von diesem Geräte nicht unterstützt."
+
+#: .\winaudiodevice.cpp
+msgid "[WindowsAudio]The selected audio device is in use by another application."
+msgstr "Das ausgewählte Audiogerät wird von einer anderen Anwendung verwendet."
+
+#: .\winaudiodevice.cpp
+msgid "[WindowsAudio]The selected audio device is no longer available."
+msgstr "Das ausgewählte Audiogerät ist nicht mehr verfügbar."
+
+#: .\winaudiodevice.cpp
+msgid "[WindowsAudio]Unable to open device %(1) in exclusive mode. Falling back to shared mode."
+msgstr "Das Gerät %(1) konnte nicht im exklusiven Modus geöffnet werden. Es wird der geteilte Modus verwendet."
+
+#: .\plugversion.h
+msgid "[WindowsAudio]Windows Audio Support"
+msgstr "Windows Audio-Unterstützung"
+
